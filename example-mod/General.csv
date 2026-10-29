@@ -1,0 +1,11 @@
+Key,Namespace,Translation
+Action_Description,Actions,Le azioni sono attività che svolgete di persona.
+Action_DisplayName,Actions,Azione
+Action_DisplayName_plural,Actions,Azioni
+ActivateProfession_Description,Actions,Scegliete la vostra {P_ACTPRO_C}professione attiva{##}.
+ActivateProfession_Description_extra1,Actions,Per esercitare altre professioni dovete farvi ammettere nella rispettiva {B_GUILD_C}gilda{##}.
+ActivateProfession_DisplayName,Actions,Scegliere una professione
+Activity_Description,Actions,"I compiti sono mansioni svolte dai {CHAR_CITVSWOR_C}lavoranti{##}. Assegnate i vostri lavoranti secondo le loro {S_C}abilità{##}, per aumentare la {CHAR_PRO_C}produttività{##} e ridurre al minimo il {ACC_C}rischio di incidenti{##}."
+Activity_Description_extra1,Actions,"Anche le vostre abilità influiscono sui vostri lavoranti, perché un {CHAR_PRO_SKIEMP_C}datore di lavoro esperto{##} dà istruzioni migliori."
+Activity_DisplayName,Actions,Compito
+Activity_DisplayName_plural,Actions,Compiti

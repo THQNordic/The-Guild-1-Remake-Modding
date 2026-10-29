@@ -1,0 +1,15 @@
+{
+      "FormatVersion": 1,
+      "Id": "fh.it-demo-localization",
+      "Name": "IT Language Pack - Demonstration",
+      "Author": "THQN-Fabs",
+      "Version": "0.1.0",
+      "LastUpdated": "2026-10-29",
+      "Type": "Localization",
+      "Localization": {
+              "Culture": "it",
+              "DisplayName": "Italiano by Fabiano",
+              "Files": [
+               ]
+      }
+}
