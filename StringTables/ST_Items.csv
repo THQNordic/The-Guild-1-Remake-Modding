@@ -1,416 +1,416 @@
-Key,SourceString,Translation
-BaseCraftingTime_DisplayName,Base crafting time,
-BaseProcessingTime_DisplayName,Base processing time,
-BeeQueen_Description,Bzz. Bzz. A surprisingly effective form of governance.,
-BeeQueen_DisplayName,Queen Bee,
-BeeQueen_Instruction,Open the Construction Menu and use the Queen Bee to build a Beehive.,
-CombatEquipment_Armor_HeavyArmor_Description,Built to endure even the deadliest strikes.,
-CombatEquipment_Armor_HeavyArmor_DisplayName,Full Plate,
-CombatEquipment_Armor_LeatherArmor_Description,"Light, quiet, and built for those who strike first.",
-CombatEquipment_Armor_LeatherArmor_DisplayName,Leather Armor,
-CombatEquipment_Armor_MediumArmor_Description,"Strong enough to take a hit, light enough to strike back.",
-CombatEquipment_Armor_MediumArmor_DisplayName,Mail Armor,
-CombatEquipment_Weapon_Bomb_Description,Looks harmless enough — until it isn't.,
-CombatEquipment_Weapon_Bomb_DisplayName,Bomb,
-CombatEquipment_Weapon_Bow_Description,"Wood, string, and nerve — simple tools demand steady skill.",
-CombatEquipment_Weapon_Bow_DisplayName,Bow,
-CombatEquipment_Weapon_CeramicGrenade_Description,"Shatters like pottery, except everyone dies.",
-CombatEquipment_Weapon_CeramicGrenade_DisplayName,Ceramic Grenade,
-CombatEquipment_Weapon_Crossbow_Description,"Power locked and loaded — takes time to ready, but hits hard with a steady hand.",
-CombatEquipment_Weapon_Crossbow_DisplayName,Crossbow,
-CombatEquipment_Weapon_Dagger_Description,"Small enough to go unnoticed, yet sharp enough to end a fight in an instant.",
-CombatEquipment_Weapon_Dagger_DisplayName,Dagger,
-CombatEquipment_Weapon_Handgun_Description,"A deafening new invention, feared more for its noise than its aim — and unlike bow or sword, it requires no skill.",
-CombatEquipment_Weapon_Handgun_DisplayName,Hand Cannon,
-CombatEquipment_Weapon_LongSword_Description,A knight's classic.,
-CombatEquipment_Weapon_LongSword_DisplayName,Long Sword,
-CombatEquipment_Weapon_PoisonDagger_Description,Lethal beyond the first strike.,
-CombatEquipment_Weapon_PoisonDagger_DisplayName,Poison Dagger,
-CombatEquipment_Weapon_PotGrenade_Description,"A simple vessel, but its contents bring explosive ruin.",
-CombatEquipment_Weapon_PotGrenade_DisplayName,Pot Grenade,
-CombatEquipment_Weapon_ShadowDagger_Description,"A dagger infused with forbidden perfume, leaving enemies to fight shadows. They'll only see you when it's too late.",
-CombatEquipment_Weapon_ShadowDagger_DisplayName,Shadow Dagger,
-CombatEquipment_Weapon_ShortSword_Description,Travel-size stabbing.,
-CombatEquipment_Weapon_ShortSword_DisplayName,Short Sword,
-Durability_CombatEncounters,"{NumCombat} {CO_COMENC_C}{NumCombat}|plural(one=combat encounter,other=combat encounters){##}",
-Durability_CombatEncounters_Remaining,{NumCombat} remaining,
-Durability_Description,"Once activated, some items provide effects that last for a set number of {C_TRN_C}turns{##}, while {I_TYP_COMEQU_C}combat equipment{##} lasts for a set number of {CO_COMENC_C}combat encounters{##}.",
-Durability_DisplayName,Durability,
-Durability_DisplayName_Alt,Item Durability,
-IntermediateProduct_Ectoplasm_Description,"A viscous substance from spirits, feared as much as it is revered.",
-IntermediateProduct_Ectoplasm_DisplayName,Ectoplasm,
-IntermediateProduct_Ethanol_Description,"Pure, potent, and flammable — handle with care.",
-IntermediateProduct_Ethanol_DisplayName,Ethanol,
-IntermediateProduct_Fabric_Description,The difference between a beggar's rag and a duke's robe is just tailoring.,
-IntermediateProduct_Fabric_DisplayName,Fabric,
-IntermediateProduct_Fittings_Description,"Hinges, brackets, and decorative pieces — used to fasten, support, or add a touch of style in your crafting.",
-IntermediateProduct_Fittings_DisplayName,Fittings,
-IntermediateProduct_Handle_Description,The part you only notice when it breaks.,
-IntermediateProduct_Handle_DisplayName,Handle,
-IntermediateProduct_JoiningMaterial_Description,"Nails, rivets, screws — the tiny pieces that hold big things together.",
-IntermediateProduct_JoiningMaterial_DisplayName,Joining Material,
-IntermediateProduct_Leather_Description,"A skin that outlives its owner. Yesterday's beast, tomorrow's fashion statement.",
-IntermediateProduct_Leather_DisplayName,Leather,
-IntermediateProduct_Paint_Description,Color in a jar. What else did you expect?,
-IntermediateProduct_Paint_DisplayName,Paint,
-IntermediateProduct_Paper_Description,Just paper... nothing to write home about.,
-IntermediateProduct_Paper_DisplayName,Paper,
-IntermediateProduct_Polish_Description,A final touch of brilliance for any masterpiece.,
-IntermediateProduct_Polish_DisplayName,Polish,
-IntermediateProduct_PolishedStone_Description,A stone honed to a flawless sheen.,
-IntermediateProduct_PolishedStone_DisplayName,Polished Stone,
-IntermediateProduct_SandingBlock_Description,Turns rough edges into smooth ones.,
-IntermediateProduct_SandingBlock_DisplayName,Sanding Block,
-IntermediateProduct_WoodenSpigots_Description,They are like nails. But wooden.,
-IntermediateProduct_WoodenSpigots_DisplayName,Wooden Nails,
-InventoryItem_BloomOfDiscord_Description,"A subtle pollen that turns acquaintances into enemies. Plant the seed, watch the hatred bloom.",
-InventoryItem_BloomOfDiscord_DisplayName,Bloom of Discord,
-InventoryItem_BoneBracelet_Description,"Carved from the bones of history's most devoted friends, David and Jonathan.",
-InventoryItem_BoneBracelet_DisplayName,Bone Bracelet,
-InventoryItem_CartCover_Description,Time and weather ruin most things — except this.,
-InventoryItem_CartCover_DisplayName,Cart Cover,
-InventoryItem_Comb_Description,A simple comb can shape more than hair — it shapes perception.,
-InventoryItem_Comb_DisplayName,Comb,
-InventoryItem_CrystalBall_Description,"Gaze long enough, and the future will reveal itself — exactly as it was meant to be seen.",
-InventoryItem_CrystalBall_DisplayName,Crystal Ball,
-InventoryItem_DArtagnansScent_Description,"The aroma of a legendary swordsman, distilled. Opponents facing you will find their courage — and their aim — suddenly unsteady.",
-InventoryItem_DArtagnansScent_DisplayName,D'Artagnan's Scent,
-InventoryItem_DecorativeBust_Description,Reminds everyone who they work for.,
-InventoryItem_DecorativeBust_DisplayName,Patron's Bust,
-InventoryItem_Diamond_Description,"In an empire where power bows to wealth, a diamond bends the room around it.",
-InventoryItem_Diamond_DisplayName,Diamond,
-InventoryItem_DrunkardBrewBeer_Description,"You'll reek of booze, mumbling like a drunken wretch. Even vultures will keep their distance.",
-InventoryItem_DrunkardBrewBeer_DisplayName,Drunkard Brew Beer,
-InventoryItem_EnduranceDrink_Description,"A strange, bubbling brew that tingles on the tongue, leaving you feeling strangely alert.",
-InventoryItem_EnduranceDrink_DisplayName,Endurance Drink,
-InventoryItem_FaustsElixir_Description,"What Faust would have killed for: a few precious years beyond his demonic contract. Too late for him, just in time for you.",
-InventoryItem_FaustsElixir_DisplayName,Faust's Elixir,
-InventoryItem_FragrantSalve_Description,People trust what doesn't offend their senses.,
-InventoryItem_FragrantSalve_DisplayName,Fragrant Salve,
-InventoryItem_GoldChain_Description,"Not subtle, not meant to be.",
-InventoryItem_GoldChain_DisplayName,Gold Chain,
-InventoryItem_GreasePot_Description,"A thick, dark grease. Keeps cart wheels moving smoothly while protecting them from wear.",
-InventoryItem_GreasePot_DisplayName,Grease Jar,
-InventoryItem_Grindstone_Description,"Turn dull edges into deadly weapons, keeping your entire arsenal sharp and ready.",
-InventoryItem_Grindstone_DisplayName,Grindstone,
-InventoryItem_HandcraftedBible_Description,"This sacred bible radiates a devotion so pure, even the Pope will be moved by it.",
-InventoryItem_HandcraftedBible_DisplayName,Handcrafted Bible,
-InventoryItem_HandicraftCertificate_Description,"More than paper — this is a key to unlock the loyalty of your workforce, proving you're a true artisan in their eyes.",
-InventoryItem_HandicraftCertificate_DisplayName,Writ of Mastery,
-InventoryItem_HealingBalm_Description,"Ancient wisdom in balm form that heals wounds and restores vigor, turning gray hairs black when no one is watching.",
-InventoryItem_HealingBalm_DisplayName,Healing Balm,
-InventoryItem_HerbalLiqueur_Description,"This potent liquor burns going down, yet it banishes even the deadliest illnesses before the empty glass hits the table.",
-InventoryItem_HerbalLiqueur_DisplayName,Herbal Liqueur,
-InventoryItem_HolyRelic_Description,"A plank from Noah's Ark, a stone from Golgotha, Lazarus' shroud, or a fragment of Moses' tablets.",
-InventoryItem_HolyRelic_DisplayName,Holy Relic,
-InventoryItem_HolyRelic_Instruction,Open the Construction menu and use the Holy Relic to build a Shrine.,
-InventoryItem_JewelryChest_Description,"A sturdy chest that keeps your treasures safe, almost as valuable as the jewels it holds.",
-InventoryItem_JewelryChest_DisplayName,Jewelry Chest,
-InventoryItem_LeatherDoublet_Description,Tailored for those who seek style but are wary of the dangers lurking in the city's streets.,
-InventoryItem_LeatherDoublet_DisplayName,Leather Doublet,
-InventoryItem_LetterFromRome_Description,Authentic-looking seals and damning accusations turn trusted faithful into heretics in the eyes that matter most.,
-InventoryItem_LetterFromRome_DisplayName,Letter from Rome,
-InventoryItem_LuckyStone_Description,Rub it once and suddenly regional officials think you're a lot more charming than you actually are.,
-InventoryItem_LuckyStone_DisplayName,Lucky Stone,
-InventoryItem_LuxuryFood_Description,"Slow-cooked tender cuts of meat, their juices mingling with fragrant herbs and velvety sauces.",
-InventoryItem_LuxuryFood_DisplayName,Heroes' Feast,
-InventoryItem_MagicHat_Description,The oddest things can happen to the wearer of a magic hat...,
-InventoryItem_MagicHat_DisplayName,Magic Hat,
-InventoryItem_MetaphysicalBelt_Description,"A simple belt, yet once worn, it fills your mind with the certainty that no one can challenge you.",
-InventoryItem_MetaphysicalBelt_DisplayName,Metaphysical Belt,
-InventoryItem_MuskScent_Description,One dab behind the ears makes you irresistible. Even the most indifferent admirers fall for your “magnetic personality.”,
-InventoryItem_MuskScent_DisplayName,Musk Scent,
-InventoryItem_NecromancersRobe_Description,"Assault becomes self-defense, theft becomes borrowing, and even if you lose, the executioner will aim for a cleaner cut.",
-InventoryItem_NecromancersRobe_DisplayName,Penitent's Robe,
-InventoryItem_NobilityRights_Description,"A sealed charter issued by the ruling authority, granting its bearer recognition as a member of the noble estate.",
-InventoryItem_NobilityRights_DisplayName,Nobility Rights,
-InventoryItem_NoblemansStaff_Description,"More than mere walking aid, this elegant staff makes those in power see you as their equal.",
-InventoryItem_NoblemansStaff_DisplayName,Nobleman's Staff,
-InventoryItem_PendulumToInduceHypnosis_Description,"When shops are closed, a quick swing of this pendulum convinces a merchant to open their store just for you.",
-InventoryItem_PendulumToInduceHypnosis_DisplayName,Hypnotic Pendulum,
-InventoryItem_PesticideSpray_Description,Invisible barrier against the invisible enemy — disease stands no chance where this formula was sprayed.,
-InventoryItem_PesticideSpray_DisplayName,Plague Repellent,
-InventoryItem_Pipe_Description,Its music grants great power at a cost. The rats were practice. The children of Hamelin were the prize.,
-InventoryItem_Pipe_DisplayName,Pipe,
-InventoryItem_Poem_Description,A delicate poem crafted to speak the words your heart longs to say.,
-InventoryItem_Poem_DisplayName,Poem,
-InventoryItem_PowderOfDarkDecline_Description,"A subtle dust that clouds combat instincts, causing blades to waver and strikes to falter.",
-InventoryItem_PowderOfDarkDecline_DisplayName,Powder of Dark Decline,
-InventoryItem_ProtectiveCross_Description,A divine safeguard against both supernatural threats and mortal gossip.,
-InventoryItem_ProtectiveCross_DisplayName,Protective Cross,
-InventoryItem_RoyalGambeson_Description,"A masterwork of luxury and protection, the Royal Gambeson weaves power into every golden stitch.",
-InventoryItem_RoyalGambeson_DisplayName,Royal Gambeson,
-InventoryItem_SacredScent_Description,The aura of piety in a bottle — one drop transforms any criminal into a saint in the eyes of judges.,
-InventoryItem_SacredScent_DisplayName,Sacred Scent,
-InventoryItem_SashThreadedWithGold_Description,An argument you wear.,
-InventoryItem_SashThreadedWithGold_DisplayName,Gold-Threaded Sash,
-InventoryItem_SilverChain_Description,A striking silver chain that draws admiration — and perhaps a hint of envy — for its unmistakable presence.,
-InventoryItem_SilverChain_DisplayName,Silver Chain,
-InventoryItem_SilverRing_Description,"In city halls, a polished ring says more than a polished speech.",
-InventoryItem_SilverRing_DisplayName,Silver Ring,
-InventoryItem_SkillBookI_Description,Hidden knowledge revealed. One reading and you'll discover talents you never knew were dormant inside you.,
-InventoryItem_SkillBookI_DisplayName,Skill Book I,
-InventoryItem_SkillBookII_Description,The sequel delves into techniques once deemed “too advanced for beginners.” The author hasn't been seen since the manuscript was delivered.,
-InventoryItem_SkillBookII_DisplayName,Skill Book II,
-InventoryItem_SkullCandle_Description,"A candle of eerie flame, burning itself — and half your misdeeds — from official records and witnesses' memory.",
-InventoryItem_SkullCandle_DisplayName,Skull Candle,
-InventoryItem_Skullfire_Description,"Slip a few drops into the drink of someone you hold disdain for, and soon their head will throb with smoldering pain.",
-InventoryItem_Skullfire_DisplayName,Skullfire,
-InventoryItem_SlateBoard_Description,"For when you want your kids to debate with wit, even if it's in chalk.",
-InventoryItem_SlateBoard_DisplayName,Slate Board,
-InventoryItem_SleepingBeautySpindle_Description,"One prick puts a rival to sleep at the worst moment, costing them the election. The snoring is a bonus.",
-InventoryItem_SleepingBeautySpindle_DisplayName,Slumber Spindle,
-InventoryItem_SoapOfDisgust_Description,"A stench so offensive, spies will choose failure over proximity. And so will everyone else.",
-InventoryItem_SoapOfDisgust_DisplayName,Soap of Disgust,
-InventoryItem_SoilSolution_Description,Feed the soil and watch your workers gather more of everything the land provides.,
-InventoryItem_SoilSolution_DisplayName,Soil Solution,
-InventoryItem_SourcerersDocumentI_Description,Your enemy's worst nightmare — evidence. Every spy in the city suddenly remembers seeing your rival at a crime scene they never visited.,
-InventoryItem_SourcerersDocumentI_DisplayName,Sorcerer's Document I,
-InventoryItem_SourcerersDocumentII_Description,"Twice the accusations, twice the headache. Your enemy won't just be defending themselves in one court, but two.",
-InventoryItem_SourcerersDocumentII_DisplayName,Sorcerer's Document II,
-InventoryItem_SpinningTop_Description,"A child's toy, a craftsman's first lesson in precision.",
-InventoryItem_SpinningTop_DisplayName,Spinning Top,
-InventoryItem_StinkBomb_Description,"Unleashes a stench so foul even rats flee, emptying your rival's shop in seconds. Remember to act surprised when it “accidentally” drops.",
-InventoryItem_StinkBomb_DisplayName,Stink Bomb,
-InventoryItem_StoneChest_Description,"Too heavy to steal, but don't forget to lock it.",
-InventoryItem_StoneChest_DisplayName,Stone Chest,
-InventoryItem_StrongBeer_Description,"Offered with a smile to hide its true intent, this potent ale turns a “friend” into a stumbling fool with dulled reflexes.",
-InventoryItem_StrongBeer_DisplayName,Strong Beer,
-InventoryItem_TiradeOfHatred_Description,"Sign this distasteful letter with someone else's name, and watch as it sets the stage for mistrust and betrayal among them.",
-InventoryItem_TiradeOfHatred_DisplayName,Tirade of Hatred,
-InventoryItem_ToadSlime_Description,"Placed on the doorknob, unnoticed at first, but soon its consequences will stick.",
-InventoryItem_ToadSlime_DisplayName,Toad Slime,
-InventoryItem_ToySword_Description,A child's first step toward knighthood.,
-InventoryItem_ToySword_DisplayName,Toy Sword,
-InventoryItem_Tunic_Description,"Worn close to the skin, it absorbs the impact of what's to come.",
-InventoryItem_Tunic_DisplayName,Tunic,
-InventoryItem_VoodooDoll_Description,"Made with care, used with caution — this effigy weaves unseen threads between you and those it represents.",
-InventoryItem_VoodooDoll_DisplayName,Voodoo Doll,
-InventoryItem_WalkingStick_Description,Long stretches of road are easier to traverse with a walking stick in hand.,
-InventoryItem_WalkingStick_DisplayName,Walking Stick,
-InventoryItem_WarmSocks_Description,For those who can't afford cold feet — literally or figuratively — these socks are your first step toward winter labor readiness.,
-InventoryItem_WarmSocks_DisplayName,Warm Socks,
-InventoryItem_WeakBeer_Description,"A brew so mild, you'll hardly notice... until you're ordering a second round.",
-InventoryItem_WeakBeer_DisplayName,Weak Beer,
-InventoryItem_WholegrainMeal_Description,"Not the tastiest meal, but it's not bad when washed down with beer.",
-InventoryItem_WholegrainMeal_DisplayName,Wholegrain Meal,
-InventoryItem_WillowRod_Description,"When your workers drag their feet, a willow rod offers a persuasive push to finish the job.",
-InventoryItem_WillowRod_DisplayName,Willow Rod,
-InventoryItem_WoollenCloak_Description,"Turns out, wool is cheaper than a funeral.",
-InventoryItem_WoollenCloak_DisplayName,Woollen Cloak,
-Potion_Antidote_Description,"Tastes worse than the poison, works better than most prayers.",
-Potion_Antidote_DisplayName,Antidote,
-Potion_DraughtOfThe7thSense_Description,Feels like heaven signed a coupon for your sins.,
-Potion_DraughtOfThe7thSense_DisplayName,Draught of the 7th Sense,
-Potion_DraughtOfZest_Description,"Poured over weary hands, it turns drudgery into drive and toil into triumph.",
-Potion_DraughtOfZest_DisplayName,Draught of Zest,
-Potion_DreamPoison_Description,"The victim sleeps deep, their strength stolen by dreams they cannot escape.",
-Potion_DreamPoison_DisplayName,Dream Poison,
-Potion_FragranceOfBlindJealousy_Description,"A single breath twists admiration into envy, and envy into ruinous spite.",
-Potion_FragranceOfBlindJealousy_DisplayName,Fragrance of Blind Jealousy,
-Potion_FragranceOfComplaisance_Description,"One sniff, and suddenly “yes” feels like the only word in the language.",
-Potion_FragranceOfComplaisance_DisplayName,Fragrance of Complaisance,
-Potion_FragranceOfManipulation_Description,A sly aroma that shields from schemes and even turns plots back on their makers.,
-Potion_FragranceOfManipulation_DisplayName,Fragrance of Manipulation,
-Potion_FumeOfBerserkRage_Description,"Breath it in, and reason flees — leaving only the frenzy of broken bodies.",
-Potion_FumeOfBerserkRage_DisplayName,Fume of Berserk Rage,
-Potion_FumeOfDecay_Description,"A foul vapor that gnaws through storerooms, leaving rot where wealth once stood.",
-Potion_FumeOfDecay_DisplayName,Fume of Decay,
-Potion_FumeOfForgetfulness_Description,"One whiff and skill itself begins to wither, as if the body forgets what it once knew.",
-Potion_FumeOfForgetfulness_DisplayName,Fume of Forgetfulness,
-Potion_MagicalInk_Description,"Write it with this, and even nonsense sounds profound.",
-Potion_MagicalInk_DisplayName,Magical Ink,
-Potion_ParalysingPoison_Description,It creeps through the veins until even lifting a hand feels like moving stone.,
-Potion_ParalysingPoison_DisplayName,Paralysing Poison,
-Potion_PerfumeOfRomance_Description,"Fragrant, intoxicating — hearts warm, reason chills. Few resist, fewer should.",
-Potion_PerfumeOfRomance_DisplayName,Perfume of Romance,
-Potion_PhilosophersStone_Description,"The great transmuter's prize. Its touch wards off sickness, steel, and even time itself.",
-Potion_PhilosophersStone_DisplayName,Philosopher's Stone,
-Potion_PoisonOfAnxiety_Description,"It crawls under the skin, draining vigor and binding the victim tighter than chains.",
-Potion_PoisonOfAnxiety_DisplayName,Poison of Anxiety,
-Potion_SleepingDraught_Description,The fastest way to miss a meeting. Or a year.,
-Potion_SleepingDraught_DisplayName,Sleeping Draught,
-Potion_TinctureOfOblivion_Description,"A sip, and even your worst enemy forgets why they hate you.",
-Potion_TinctureOfOblivion_DisplayName,Tincture of Oblivion,
-Potion_WeaponPoison_Description,Because sometimes stabbing once just isn't enough.,
-Potion_WeaponPoison_DisplayName,Weapon Poison,
-Price_BuyingPrice_DisplayName,Buying Price,
-Price_SellingPrice_DisplayName,Selling Price,
-ProducedBy_DisplayName,Produced by,
-RawMaterial_Barley_Description,A common grain used in both food and brewing.,
-RawMaterial_Barley_DisplayName,Barley,
-RawMaterial_BatsBlood_Description,"A dark fluid, rumored to hold unnatural properties.",
-RawMaterial_BatsBlood_DisplayName,Bat's Blood,
-RawMaterial_BeechwoodBoard_Description,"A craftsman's dream — carves like butter, but don't expect it to outlive you.",
-RawMaterial_BeechwoodBoard_DisplayName,Beechwood Board,
-RawMaterial_Bones_Description,"Silent remnants of the past, used in rituals and crafts.",
-RawMaterial_Bones_DisplayName,Bones,
-RawMaterial_Brick_Description,"Fired clay block, the foundation of almost every city ever built.",
-RawMaterial_Brick_DisplayName,Brick,
-RawMaterial_DeadlyNightshade_Description,"Potent botanical that causes hallucinations in small doses, death in larger ones.",
-RawMaterial_DeadlyNightshade_DisplayName,Deadly Nightshade,
-RawMaterial_Flax_Description,Fibrous plant processed into linen for clothing.,
-RawMaterial_Flax_DisplayName,Flax,
-RawMaterial_Gold_Description,A solid bar of pure gold.,
-RawMaterial_Gold_DisplayName,Gold Ingot,
-RawMaterial_GraniteBlock_Description,Only granite blocks can provide a foundation as strong as stone.,
-RawMaterial_GraniteBlock_DisplayName,Granite Block,
-RawMaterial_Hare_Description,Swift forest creature valued for both meat and fur.,
-RawMaterial_Hare_DisplayName,Hare,
-RawMaterial_Iron_Description,"A solid, standardized chunk of iron. ",
-RawMaterial_Iron_DisplayName,Iron Ingot,
-RawMaterial_Jasmin_Description,Sweet-scented blossoms that release their strongest aroma at night.,
-RawMaterial_Jasmin_DisplayName,Jasmin,
-RawMaterial_Lavender_Description,Purple herb known for its calming properties and clean scent.,
-RawMaterial_Lavender_DisplayName,Lavender,
-RawMaterial_Mandragora_Description,Human-shaped root believed to possess magical properties.,
-RawMaterial_Mandragora_DisplayName,Mandragora,
-RawMaterial_Musk_Description,"A substance with an alluring, earthy fragrance, extracted in ways best left unsaid.",
-RawMaterial_Musk_DisplayName,Musk,
-RawMaterial_OakwoodBoard_Description,Oak doesn't bend — it waits for you to break.,
-RawMaterial_OakwoodBoard_DisplayName,Oakwood Board,
-RawMaterial_PinewoodBoard_Description,"A beginner-friendly wood, easy to shape and tough to ruin.",
-RawMaterial_PinewoodBoard_DisplayName,Pinewood Board,
-RawMaterial_PreciousStone_Description,"A variety of precious stones, but not enough to recreate the Imperial Crown.",
-RawMaterial_PreciousStone_DisplayName,Precious Stone,
-RawMaterial_RowanBerry_Description,Its red berries were said to turn aside will-o'-the-wisps.,
-RawMaterial_RowanBerry_DisplayName,Rowan Berry,
-RawMaterial_Rye_Description,"A sturdy grain, perfect for bread — solid or liquid.",
-RawMaterial_Rye_DisplayName,Rye,
-RawMaterial_Shroud_Description,The last outfit you'll ever need.,
-RawMaterial_Shroud_DisplayName,Shroud,
-RawMaterial_Silver_Description,"Precious metal brick, second only to gold in value.",
-RawMaterial_Silver_DisplayName,Silver Ingot,
-RawMaterial_Skull_Description,The remaining bone structure that once protected a brain.,
-RawMaterial_Skull_DisplayName,Skull,
-RawMaterial_SlateTile_Description,Durable and sturdy tile for roofs and floors.,
-RawMaterial_SlateTile_DisplayName,Slate Tile,
-RawMaterial_SpidersLegs_Description,Eight segmented limbs plucked from the stealthiest of hunters.,
-RawMaterial_SpidersLegs_DisplayName,Spider's Legs,
-RawMaterial_ToadsEyes_Description,Bulging orbs harvested from common amphibians.,
-RawMaterial_ToadsEyes_DisplayName,Toad's Eyes,
-RawMaterial_VegetableDye_Description,Natural coloring extracted from plants and roots.,
-RawMaterial_VegetableDye_DisplayName,Vegetable Dye,
-RawMaterial_WildRose_Description,Legends say that wild roses grow where the blood of saints or holy knights was spilled.,
-RawMaterial_WildRose_DisplayName,Wild Rose,
-RawMaterial_WillowWood_Description,Flexible timber harvested from trees that grow near water.,
-RawMaterial_WillowWood_DisplayName,Willow Wood,
-RawMaterial_Wool_Description,It warms. It itches.,
-RawMaterial_Wool_DisplayName,Wool,
-Resource_Clay_Description,"Malleable earth, typically used for making bricks and pottery.",
-Resource_Clay_DisplayName,Clay,
-Resource_GoldOre_Description,Unprocessed stone with gold waiting to be extracted.,
-Resource_GoldOre_DisplayName,Gold Ore,
-Resource_GraniteUnhewn_Description,"Big, heavy, and stubborn — like your uncle after two ales.",
-Resource_GraniteUnhewn_DisplayName,Granite Unhewn,
-Resource_IronOre_Description,Reddish stone that yields workable iron when properly smelted.,
-Resource_IronOre_DisplayName,Iron Ore,
-Resource_MeterOfBeechwood_Description,"Pale, smooth timber.",
-Resource_MeterOfBeechwood_DisplayName,Meter of Beechwood,
-Resource_MeterOfOakwood_Description,"Dense, dark timber.",
-Resource_MeterOfOakwood_DisplayName,Meter of Oakwood,
-Resource_MeterOfPinewood_Description,"Light, fragrant timber.",
-Resource_MeterOfPinewood_DisplayName,Meter of Pinewood,
-Resource_RoughPreciousStone_Description,"A dull, colorful rock that can be cut and polished to real gems.",
-Resource_RoughPreciousStone_DisplayName,Rough Precious Stone,
-Resource_SilverOre_Description,"Pale-veined stone that catches the light, like a fallen shard of the moon.",
-Resource_SilverOre_DisplayName,Silver Ore,
-Resource_SlateUnhewn_Description,"Unprocessed rock material, waiting to be transformed into roofing or flooring.",
-Resource_SlateUnhewn_DisplayName,Slate Unhewn,
-Type_AllItems_DisplayName,All Items,
-Type_AromasAndHerbs_DisplayName,Aromas & Herbs,
-Type_Books_DisplayName,Books,
-Type_FinishedProduct_CombatEquipment_Armor_DisplayName,Armor,
-Type_FinishedProduct_CombatEquipment_Armor_Description,Armor provides protection during all {CO_PHA_C}combat phases{##}.,
-Type_FinishedProduct_CombatEquipment_Description,"Equippable items used in {CO_COM_C}combat{##}, including weapons and armors.",
-Type_FinishedProduct_CombatEquipment_DisplayName,Combat Equipment,
-Type_FinishedProduct_CombatEquipment_Melee_DisplayName,Melee Weapon,
-Type_FinishedProduct_CombatEquipment_Ranged_DisplayName,Ranged Weapon,
-Type_FinishedProduct_CombatEquipment_Special_DisplayName,Special Weapon,
-Type_FinishedProduct_CombatEquipment_Weapon_DisplayName,Weapon,
-Type_FinishedProduct_DisplayName,Finished product,
-Type_FinishedProduct_DisplayName_plural,Finished Products,
-Type_FinishedProduct_InventoryItem_Description,"Inventory Items are finished products that can be placed in your personal inventory and consumed, providing gameplay effects.",
-Type_FinishedProduct_InventoryItem_DisplayName,Inventory Item,
-Type_FinishedProduct_Potion_Description,A harmless tonic — or a punishable substance? \nConsult the law on {L_POT_C}Use of Potions{##} before drinking.,
-Type_FinishedProduct_Potion_DisplayName,Potion,
-Type_FinishedProduct_Potion_DisplayName_plural,Potions,
-Type_FinishedProduct_Book_Description,Knowledge is rarely dangerous — until it is. \nCheck the law on {L_BOOLAM_C}Books and Lampoons{##} before turning the page.,
-Type_FinishedProduct_Book_DisplayName,Book,
-Type_FinishedProduct_Book_DisplayName_plural,Books,
-Type_FinishedProduct_Perfume_Description,Fragrance travels farther than gossip.\nEnsure the law on {L_PER_C}Use of Perfume{##} permits its use.,
-Type_FinishedProduct_Perfume_DisplayName,Perfume,
-Type_FinishedProduct_Witchcraft_DisplayName,Mystical Object,
-Type_FinishedProduct_Witchcraft_Description,SORCERY!!!\nConsult the {L_WITCRA_C}Witchcraft Law{##} before they bring the torches.,
-Type_FinishedProduct_Witchcraft_DisplayName_plural,Mystical Objects,
-Type_FinishedProduct_Perfume_DisplayName_plural,Perfumes,
-Type_Imports_DisplayName,Imports,
-Type_Ingredient_DisplayName,Ingredient,
-Type_Ingredient_DisplayName_Plural,Ingredients,
-Type_Ingredient_IntermediateProduct_Description,Crafted products used as ingredients for further {A_ACT_CRA_C}crafting{##}. ,
-Type_Ingredient_IntermediateProduct_Description_extra1,Intermediate products don't have any effects and can't be placed in your personal inventory.,
-Type_Ingredient_IntermediateProduct_DisplayName,Intermediate Product,
-Type_Ingredient_IntermediateProduct_DisplayName_plural,Intermediate Products,
-Type_Ingredient_RawMaterial_Description,Raw materials are used in {A_ACT_CRA_C}crafting{##} as ingredients to create {I_TYP_INTPRO_C}intermediate products{##} and {I_TYP_INVITE_C}inventory items{##}. ,
-Type_Ingredient_RawMaterial_Description_extra1,They can be either {A_ACT_GATING_C}found in nature{##} or created from {I_TYP_RES_C}resources{##} at {B_TYP_EXTFAC_C}Resource Sites{##}. ,
-Type_Ingredient_RawMaterial_Description_extra2,"You cannot place them in your personal inventory, but only manage them through carts and building storages.",
-Type_Ingredient_RawMaterial_DisplayName,Raw Material,
-Type_Ingredient_RawMaterial_DisplayName_plural,Raw Materials,
-Type_Ingredient_Resource_Description,Resources are harvested and turned into {I_TYP_RAWMAT_C}raw materials{##} at {B_TYP_EXTFAC_C}Resource Sites{##}. ,
-Type_Ingredient_Resource_Description_extra1,"You cannot place them in your personal inventory, but only manage them through carts and building storages.",
-Type_Ingredient_Resource_DisplayName,Resource,
-Type_Ingredient_Resource_DisplayName_plural,Resources,
-Type_ItemType_DisplayName,Item type,
-Type_Mysticals_DisplayName,Mysticals,
-Type_StoneAndBeer_DisplayName,Stone & Beer,
-Type_WoodAndIron_DisplayName,Wood & Iron,
-CombatEquipment_Armor_Shirt_Description,Provides comfort and modesty. Neither stop weapons.,
-CombatEquipment_Armor_Shirt_DisplayName,Undergarment,
-MoveItem_FromInventory_Warning,"Once placed in your Personal Inventory, an item cannot be returned to the Marketplace, Cart, Business Storage, or Storefront.",
-InventoryItem_BanditContract01_DisplayName,Low-Level Thug Contract,
-InventoryItem_BanditContract02_DisplayName,Trained Thug Contract,
-InventoryItem_BanditContract03_DisplayName,Elite Professional Contract,
-InventoryItem_BanditContract01_Description,"A few of the Baron's roughest blades. Cheap, loud, and dangerous enough for easy prey.",
-InventoryItem_BanditContract02_Description,"A seasoned crew from the Baron's ranks. Steady hands, ready for real work.",
-InventoryItem_BanditContract03_Description,"The Baron's finest. Precise, ruthless, and built for well-guarded targets.",
-Item_DisplayName,Item,
-Item_DisplayName_plural,Items,
-Item_Description,TBD,
-InventoryItem_HealingBadge_DisplayName,Bandages,
-InventoryItem_HealingBadge_Description,"Wounds close. Bones set. The body, reluctant as ever, agrees to continue.",
-ObtainedVia_Label,Obtained via,
-Law_UseItemRegulatedByLaw,"The use of this item is regulated by the law \""{lawname}.\""",
-PickItem,Pick Item,
-PlaceItem,Place Item,
-PickItem_OneByOne,Pick Item One By One,
-AmountSelector,Select Amount,
-OpenItemContextMenu,Open Item Context Menu,
-PickItem_Stack,Pick Stack,
-CanBeCraftedInThisBuilding,Can be crafted here,
-InventoryItem_CannonBall_Description,"A solid iron shot with little regard for walls, windows, or whoever happens to be standing behind them.",
-InventoryItem_CannonBall_DisplayName,Cannonball,
-InventoryItem_CannonBallFire_Description,Packed with enough combustible material to ensure the impact is only the beginning of the problem.,
-InventoryItem_CannonBallFire_DisplayName,Incendiary Cannonball,
-InventoryItem_CannonBallDung_Description,A cannonball packed with dung and other unspeakable refuse. Damage to masonry is merely a pleasant side effect.,
-InventoryItem_CannonBallDung_DisplayName,Foul Cannonball,
-RawMaterial_Honey_DisplayName,Honey,
-RawMaterial_Honey_Descrition,"Sweet, sticky, and worth fighting bees for.",
-RawMaterial_ContaminatedHoney_DisplayName,Tainted Honey,
-RawMaterial_ContaminatedHoney_Descrition,Something has gone terribly wrong with this honey. Probably on purpose.,
-RawMaterial_Beeswax_DisplayName,Beeswax,
-RawMaterial_Beeswax_Descrition,Not the honey. The other reason bees are worth robbing.,
-InventoryItem_ClarifiedHoney_DisplayName,Clarified Honey,
-InventoryItem_ClarifiedHoney_Description,Honey stripped of impurities and dressed for a wealthier table.,
-InventoryItem_RoyalJelly_DisplayName,Royal Jelly,
-InventoryItem_RoyalJelly_Description,Fit for a queen — and excellent for a struggling hive.,
-InventoryItem_LemonGrassOil_DisplayName,Lemongrass Oil,
-InventoryItem_LemonGrassOil_Description,Proof that even bees can be bribed.,
-InventoryItem_BeeHiveFrame_DisplayName,Beehive Frame,
-InventoryItem_BeeHiveFrame_Description,The foundation of a well-organized hive — or at least the human idea of one.,
-InventoryItem_KillerBee_DisplayName,Killer Bee,
-InventoryItem_KillerBee_Description,Trained in the ancient art of the One-Point Stinging Heart Technique.,
-OutOfStockItems_Show_Button,Click to show out-of-stock items.,
-OutOfStockItems_Hide_Button,Click to hide out-of-stock items.,
-ItemName_DisplayName,Name,
-ItemAmount_DisplayName,Amount,
-ItemPrice_DisplayName,Price,
+Key,Namespace,Translation
+BaseCraftingTime_DisplayName,,Base crafting time
+BaseProcessingTime_DisplayName,,Base processing time
+BeeQueen_Description,,Bzz. Bzz. A surprisingly effective form of governance.
+BeeQueen_DisplayName,,Queen Bee
+BeeQueen_Instruction,,Open the Construction Menu and use the Queen Bee to build a Beehive.
+CombatEquipment_Armor_HeavyArmor_Description,,Built to endure even the deadliest strikes.
+CombatEquipment_Armor_HeavyArmor_DisplayName,,Full Plate
+CombatEquipment_Armor_LeatherArmor_Description,,"Light, quiet, and built for those who strike first."
+CombatEquipment_Armor_LeatherArmor_DisplayName,,Leather Armor
+CombatEquipment_Armor_MediumArmor_Description,,"Strong enough to take a hit, light enough to strike back."
+CombatEquipment_Armor_MediumArmor_DisplayName,,Mail Armor
+CombatEquipment_Weapon_Bomb_Description,,Looks harmless enough — until it isn't.
+CombatEquipment_Weapon_Bomb_DisplayName,,Bomb
+CombatEquipment_Weapon_Bow_Description,,"Wood, string, and nerve — simple tools demand steady skill."
+CombatEquipment_Weapon_Bow_DisplayName,,Bow
+CombatEquipment_Weapon_CeramicGrenade_Description,,"Shatters like pottery, except everyone dies."
+CombatEquipment_Weapon_CeramicGrenade_DisplayName,,Ceramic Grenade
+CombatEquipment_Weapon_Crossbow_Description,,"Power locked and loaded — takes time to ready, but hits hard with a steady hand."
+CombatEquipment_Weapon_Crossbow_DisplayName,,Crossbow
+CombatEquipment_Weapon_Dagger_Description,,"Small enough to go unnoticed, yet sharp enough to end a fight in an instant."
+CombatEquipment_Weapon_Dagger_DisplayName,,Dagger
+CombatEquipment_Weapon_Handgun_Description,,"A deafening new invention, feared more for its noise than its aim — and unlike bow or sword, it requires no skill."
+CombatEquipment_Weapon_Handgun_DisplayName,,Hand Cannon
+CombatEquipment_Weapon_LongSword_Description,,A knight's classic.
+CombatEquipment_Weapon_LongSword_DisplayName,,Long Sword
+CombatEquipment_Weapon_PoisonDagger_Description,,Lethal beyond the first strike.
+CombatEquipment_Weapon_PoisonDagger_DisplayName,,Poison Dagger
+CombatEquipment_Weapon_PotGrenade_Description,,"A simple vessel, but its contents bring explosive ruin."
+CombatEquipment_Weapon_PotGrenade_DisplayName,,Pot Grenade
+CombatEquipment_Weapon_ShadowDagger_Description,,"A dagger infused with forbidden perfume, leaving enemies to fight shadows. They'll only see you when it's too late."
+CombatEquipment_Weapon_ShadowDagger_DisplayName,,Shadow Dagger
+CombatEquipment_Weapon_ShortSword_Description,,Travel-size stabbing.
+CombatEquipment_Weapon_ShortSword_DisplayName,,Short Sword
+Durability_CombatEncounters,,"{NumCombat} {CO_COMENC_C}{NumCombat}|plural(one=combat encounter,other=combat encounters){##}"
+Durability_CombatEncounters_Remaining,,{NumCombat} remaining
+Durability_Description,,"Once activated, some items provide effects that last for a set number of {C_TRN_C}turns{##}, while {I_TYP_COMEQU_C}combat equipment{##} lasts for a set number of {CO_COMENC_C}combat encounters{##}."
+Durability_DisplayName,,Durability
+Durability_DisplayName_Alt,,Item Durability
+IntermediateProduct_Ectoplasm_Description,,"A viscous substance from spirits, feared as much as it is revered."
+IntermediateProduct_Ectoplasm_DisplayName,,Ectoplasm
+IntermediateProduct_Ethanol_Description,,"Pure, potent, and flammable — handle with care."
+IntermediateProduct_Ethanol_DisplayName,,Ethanol
+IntermediateProduct_Fabric_Description,,The difference between a beggar's rag and a duke's robe is just tailoring.
+IntermediateProduct_Fabric_DisplayName,,Fabric
+IntermediateProduct_Fittings_Description,,"Hinges, brackets, and decorative pieces — used to fasten, support, or add a touch of style in your crafting."
+IntermediateProduct_Fittings_DisplayName,,Fittings
+IntermediateProduct_Handle_Description,,The part you only notice when it breaks.
+IntermediateProduct_Handle_DisplayName,,Handle
+IntermediateProduct_JoiningMaterial_Description,,"Nails, rivets, screws — the tiny pieces that hold big things together."
+IntermediateProduct_JoiningMaterial_DisplayName,,Joining Material
+IntermediateProduct_Leather_Description,,"A skin that outlives its owner. Yesterday's beast, tomorrow's fashion statement."
+IntermediateProduct_Leather_DisplayName,,Leather
+IntermediateProduct_Paint_Description,,Color in a jar. What else did you expect?
+IntermediateProduct_Paint_DisplayName,,Paint
+IntermediateProduct_Paper_Description,,Just paper... nothing to write home about.
+IntermediateProduct_Paper_DisplayName,,Paper
+IntermediateProduct_Polish_Description,,A final touch of brilliance for any masterpiece.
+IntermediateProduct_Polish_DisplayName,,Polish
+IntermediateProduct_PolishedStone_Description,,A stone honed to a flawless sheen.
+IntermediateProduct_PolishedStone_DisplayName,,Polished Stone
+IntermediateProduct_SandingBlock_Description,,Turns rough edges into smooth ones.
+IntermediateProduct_SandingBlock_DisplayName,,Sanding Block
+IntermediateProduct_WoodenSpigots_Description,,They are like nails. But wooden.
+IntermediateProduct_WoodenSpigots_DisplayName,,Wooden Nails
+InventoryItem_BloomOfDiscord_Description,,"A subtle pollen that turns acquaintances into enemies. Plant the seed, watch the hatred bloom."
+InventoryItem_BloomOfDiscord_DisplayName,,Bloom of Discord
+InventoryItem_BoneBracelet_Description,,"Carved from the bones of history's most devoted friends, David and Jonathan."
+InventoryItem_BoneBracelet_DisplayName,,Bone Bracelet
+InventoryItem_CartCover_Description,,Time and weather ruin most things — except this.
+InventoryItem_CartCover_DisplayName,,Cart Cover
+InventoryItem_Comb_Description,,A simple comb can shape more than hair — it shapes perception.
+InventoryItem_Comb_DisplayName,,Comb
+InventoryItem_CrystalBall_Description,,"Gaze long enough, and the future will reveal itself — exactly as it was meant to be seen."
+InventoryItem_CrystalBall_DisplayName,,Crystal Ball
+InventoryItem_DArtagnansScent_Description,,"The aroma of a legendary swordsman, distilled. Opponents facing you will find their courage — and their aim — suddenly unsteady."
+InventoryItem_DArtagnansScent_DisplayName,,D'Artagnan's Scent
+InventoryItem_DecorativeBust_Description,,Reminds everyone who they work for.
+InventoryItem_DecorativeBust_DisplayName,,Patron's Bust
+InventoryItem_Diamond_Description,,"In an empire where power bows to wealth, a diamond bends the room around it."
+InventoryItem_Diamond_DisplayName,,Diamond
+InventoryItem_DrunkardBrewBeer_Description,,"You'll reek of booze, mumbling like a drunken wretch. Even vultures will keep their distance."
+InventoryItem_DrunkardBrewBeer_DisplayName,,Drunkard Brew Beer
+InventoryItem_EnduranceDrink_Description,,"A strange, bubbling brew that tingles on the tongue, leaving you feeling strangely alert."
+InventoryItem_EnduranceDrink_DisplayName,,Endurance Drink
+InventoryItem_FaustsElixir_Description,,"What Faust would have killed for: a few precious years beyond his demonic contract. Too late for him, just in time for you."
+InventoryItem_FaustsElixir_DisplayName,,Faust's Elixir
+InventoryItem_FragrantSalve_Description,,People trust what doesn't offend their senses.
+InventoryItem_FragrantSalve_DisplayName,,Fragrant Salve
+InventoryItem_GoldChain_Description,,"Not subtle, not meant to be."
+InventoryItem_GoldChain_DisplayName,,Gold Chain
+InventoryItem_GreasePot_Description,,"A thick, dark grease. Keeps cart wheels moving smoothly while protecting them from wear."
+InventoryItem_GreasePot_DisplayName,,Grease Jar
+InventoryItem_Grindstone_Description,,"Turn dull edges into deadly weapons, keeping your entire arsenal sharp and ready."
+InventoryItem_Grindstone_DisplayName,,Grindstone
+InventoryItem_HandcraftedBible_Description,,"This sacred bible radiates a devotion so pure, even the Pope will be moved by it."
+InventoryItem_HandcraftedBible_DisplayName,,Handcrafted Bible
+InventoryItem_HandicraftCertificate_Description,,"More than paper — this is a key to unlock the loyalty of your workforce, proving you're a true artisan in their eyes."
+InventoryItem_HandicraftCertificate_DisplayName,,Writ of Mastery
+InventoryItem_HealingBalm_Description,,"Ancient wisdom in balm form that heals wounds and restores vigor, turning gray hairs black when no one is watching."
+InventoryItem_HealingBalm_DisplayName,,Healing Balm
+InventoryItem_HerbalLiqueur_Description,,"This potent liquor burns going down, yet it banishes even the deadliest illnesses before the empty glass hits the table."
+InventoryItem_HerbalLiqueur_DisplayName,,Herbal Liqueur
+InventoryItem_HolyRelic_Description,,"A plank from Noah's Ark, a stone from Golgotha, Lazarus' shroud, or a fragment of Moses' tablets."
+InventoryItem_HolyRelic_DisplayName,,Holy Relic
+InventoryItem_HolyRelic_Instruction,,Open the Construction menu and use the Holy Relic to build a Shrine.
+InventoryItem_JewelryChest_Description,,"A sturdy chest that keeps your treasures safe, almost as valuable as the jewels it holds."
+InventoryItem_JewelryChest_DisplayName,,Jewelry Chest
+InventoryItem_LeatherDoublet_Description,,Tailored for those who seek style but are wary of the dangers lurking in the city's streets.
+InventoryItem_LeatherDoublet_DisplayName,,Leather Doublet
+InventoryItem_LetterFromRome_Description,,Authentic-looking seals and damning accusations turn trusted faithful into heretics in the eyes that matter most.
+InventoryItem_LetterFromRome_DisplayName,,Letter from Rome
+InventoryItem_LuckyStone_Description,,Rub it once and suddenly regional officials think you're a lot more charming than you actually are.
+InventoryItem_LuckyStone_DisplayName,,Lucky Stone
+InventoryItem_LuxuryFood_Description,,"Slow-cooked tender cuts of meat, their juices mingling with fragrant herbs and velvety sauces."
+InventoryItem_LuxuryFood_DisplayName,,Heroes' Feast
+InventoryItem_MagicHat_Description,,The oddest things can happen to the wearer of a magic hat...
+InventoryItem_MagicHat_DisplayName,,Magic Hat
+InventoryItem_MetaphysicalBelt_Description,,"A simple belt, yet once worn, it fills your mind with the certainty that no one can challenge you."
+InventoryItem_MetaphysicalBelt_DisplayName,,Metaphysical Belt
+InventoryItem_MuskScent_Description,,One dab behind the ears makes you irresistible. Even the most indifferent admirers fall for your “magnetic personality.”
+InventoryItem_MuskScent_DisplayName,,Musk Scent
+InventoryItem_NecromancersRobe_Description,,"Assault becomes self-defense, theft becomes borrowing, and even if you lose, the executioner will aim for a cleaner cut."
+InventoryItem_NecromancersRobe_DisplayName,,Penitent's Robe
+InventoryItem_NobilityRights_Description,,"A sealed charter issued by the ruling authority, granting its bearer recognition as a member of the noble estate."
+InventoryItem_NobilityRights_DisplayName,,Nobility Rights
+InventoryItem_NoblemansStaff_Description,,"More than mere walking aid, this elegant staff makes those in power see you as their equal."
+InventoryItem_NoblemansStaff_DisplayName,,Nobleman's Staff
+InventoryItem_PendulumToInduceHypnosis_Description,,"When shops are closed, a quick swing of this pendulum convinces a merchant to open their store just for you."
+InventoryItem_PendulumToInduceHypnosis_DisplayName,,Hypnotic Pendulum
+InventoryItem_PesticideSpray_Description,,Invisible barrier against the invisible enemy — disease stands no chance where this formula was sprayed.
+InventoryItem_PesticideSpray_DisplayName,,Plague Repellent
+InventoryItem_Pipe_Description,,Its music grants great power at a cost. The rats were practice. The children of Hamelin were the prize.
+InventoryItem_Pipe_DisplayName,,Pipe
+InventoryItem_Poem_Description,,A delicate poem crafted to speak the words your heart longs to say.
+InventoryItem_Poem_DisplayName,,Poem
+InventoryItem_PowderOfDarkDecline_Description,,"A subtle dust that clouds combat instincts, causing blades to waver and strikes to falter."
+InventoryItem_PowderOfDarkDecline_DisplayName,,Powder of Dark Decline
+InventoryItem_ProtectiveCross_Description,,A divine safeguard against both supernatural threats and mortal gossip.
+InventoryItem_ProtectiveCross_DisplayName,,Protective Cross
+InventoryItem_RoyalGambeson_Description,,"A masterwork of luxury and protection, the Royal Gambeson weaves power into every golden stitch."
+InventoryItem_RoyalGambeson_DisplayName,,Royal Gambeson
+InventoryItem_SacredScent_Description,,The aura of piety in a bottle — one drop transforms any criminal into a saint in the eyes of judges.
+InventoryItem_SacredScent_DisplayName,,Sacred Scent
+InventoryItem_SashThreadedWithGold_Description,,An argument you wear.
+InventoryItem_SashThreadedWithGold_DisplayName,,Gold-Threaded Sash
+InventoryItem_SilverChain_Description,,A striking silver chain that draws admiration — and perhaps a hint of envy — for its unmistakable presence.
+InventoryItem_SilverChain_DisplayName,,Silver Chain
+InventoryItem_SilverRing_Description,,"In city halls, a polished ring says more than a polished speech."
+InventoryItem_SilverRing_DisplayName,,Silver Ring
+InventoryItem_SkillBookI_Description,,Hidden knowledge revealed. One reading and you'll discover talents you never knew were dormant inside you.
+InventoryItem_SkillBookI_DisplayName,,Skill Book I
+InventoryItem_SkillBookII_Description,,The sequel delves into techniques once deemed “too advanced for beginners.” The author hasn't been seen since the manuscript was delivered.
+InventoryItem_SkillBookII_DisplayName,,Skill Book II
+InventoryItem_SkullCandle_Description,,"A candle of eerie flame, burning itself — and half your misdeeds — from official records and witnesses' memory."
+InventoryItem_SkullCandle_DisplayName,,Skull Candle
+InventoryItem_Skullfire_Description,,"Slip a few drops into the drink of someone you hold disdain for, and soon their head will throb with smoldering pain."
+InventoryItem_Skullfire_DisplayName,,Skullfire
+InventoryItem_SlateBoard_Description,,"For when you want your kids to debate with wit, even if it's in chalk."
+InventoryItem_SlateBoard_DisplayName,,Slate Board
+InventoryItem_SleepingBeautySpindle_Description,,"One prick puts a rival to sleep at the worst moment, costing them the election. The snoring is a bonus."
+InventoryItem_SleepingBeautySpindle_DisplayName,,Slumber Spindle
+InventoryItem_SoapOfDisgust_Description,,"A stench so offensive, spies will choose failure over proximity. And so will everyone else."
+InventoryItem_SoapOfDisgust_DisplayName,,Soap of Disgust
+InventoryItem_SoilSolution_Description,,Feed the soil and watch your workers gather more of everything the land provides.
+InventoryItem_SoilSolution_DisplayName,,Soil Solution
+InventoryItem_SourcerersDocumentI_Description,,Your enemy's worst nightmare — evidence. Every spy in the city suddenly remembers seeing your rival at a crime scene they never visited.
+InventoryItem_SourcerersDocumentI_DisplayName,,Sorcerer's Document I
+InventoryItem_SourcerersDocumentII_Description,,"Twice the accusations, twice the headache. Your enemy won't just be defending themselves in one court, but two."
+InventoryItem_SourcerersDocumentII_DisplayName,,Sorcerer's Document II
+InventoryItem_SpinningTop_Description,,"A child's toy, a craftsman's first lesson in precision."
+InventoryItem_SpinningTop_DisplayName,,Spinning Top
+InventoryItem_StinkBomb_Description,,"Unleashes a stench so foul even rats flee, emptying your rival's shop in seconds. Remember to act surprised when it “accidentally” drops."
+InventoryItem_StinkBomb_DisplayName,,Stink Bomb
+InventoryItem_StoneChest_Description,,"Too heavy to steal, but don't forget to lock it."
+InventoryItem_StoneChest_DisplayName,,Stone Chest
+InventoryItem_StrongBeer_Description,,"Offered with a smile to hide its true intent, this potent ale turns a “friend” into a stumbling fool with dulled reflexes."
+InventoryItem_StrongBeer_DisplayName,,Strong Beer
+InventoryItem_TiradeOfHatred_Description,,"Sign this distasteful letter with someone else's name, and watch as it sets the stage for mistrust and betrayal among them."
+InventoryItem_TiradeOfHatred_DisplayName,,Tirade of Hatred
+InventoryItem_ToadSlime_Description,,"Placed on the doorknob, unnoticed at first, but soon its consequences will stick."
+InventoryItem_ToadSlime_DisplayName,,Toad Slime
+InventoryItem_ToySword_Description,,A child's first step toward knighthood.
+InventoryItem_ToySword_DisplayName,,Toy Sword
+InventoryItem_Tunic_Description,,"Worn close to the skin, it absorbs the impact of what's to come."
+InventoryItem_Tunic_DisplayName,,Tunic
+InventoryItem_VoodooDoll_Description,,"Made with care, used with caution — this effigy weaves unseen threads between you and those it represents."
+InventoryItem_VoodooDoll_DisplayName,,Voodoo Doll
+InventoryItem_WalkingStick_Description,,Long stretches of road are easier to traverse with a walking stick in hand.
+InventoryItem_WalkingStick_DisplayName,,Walking Stick
+InventoryItem_WarmSocks_Description,,For those who can't afford cold feet — literally or figuratively — these socks are your first step toward winter labor readiness.
+InventoryItem_WarmSocks_DisplayName,,Warm Socks
+InventoryItem_WeakBeer_Description,,"A brew so mild, you'll hardly notice... until you're ordering a second round."
+InventoryItem_WeakBeer_DisplayName,,Weak Beer
+InventoryItem_WholegrainMeal_Description,,"Not the tastiest meal, but it's not bad when washed down with beer."
+InventoryItem_WholegrainMeal_DisplayName,,Wholegrain Meal
+InventoryItem_WillowRod_Description,,"When your workers drag their feet, a willow rod offers a persuasive push to finish the job."
+InventoryItem_WillowRod_DisplayName,,Willow Rod
+InventoryItem_WoollenCloak_Description,,"Turns out, wool is cheaper than a funeral."
+InventoryItem_WoollenCloak_DisplayName,,Woollen Cloak
+Potion_Antidote_Description,,"Tastes worse than the poison, works better than most prayers."
+Potion_Antidote_DisplayName,,Antidote
+Potion_DraughtOfThe7thSense_Description,,Feels like heaven signed a coupon for your sins.
+Potion_DraughtOfThe7thSense_DisplayName,,Draught of the 7th Sense
+Potion_DraughtOfZest_Description,,"Poured over weary hands, it turns drudgery into drive and toil into triumph."
+Potion_DraughtOfZest_DisplayName,,Draught of Zest
+Potion_DreamPoison_Description,,"The victim sleeps deep, their strength stolen by dreams they cannot escape."
+Potion_DreamPoison_DisplayName,,Dream Poison
+Potion_FragranceOfBlindJealousy_Description,,"A single breath twists admiration into envy, and envy into ruinous spite."
+Potion_FragranceOfBlindJealousy_DisplayName,,Fragrance of Blind Jealousy
+Potion_FragranceOfComplaisance_Description,,"One sniff, and suddenly “yes” feels like the only word in the language."
+Potion_FragranceOfComplaisance_DisplayName,,Fragrance of Complaisance
+Potion_FragranceOfManipulation_Description,,A sly aroma that shields from schemes and even turns plots back on their makers.
+Potion_FragranceOfManipulation_DisplayName,,Fragrance of Manipulation
+Potion_FumeOfBerserkRage_Description,,"Breath it in, and reason flees — leaving only the frenzy of broken bodies."
+Potion_FumeOfBerserkRage_DisplayName,,Fume of Berserk Rage
+Potion_FumeOfDecay_Description,,"A foul vapor that gnaws through storerooms, leaving rot where wealth once stood."
+Potion_FumeOfDecay_DisplayName,,Fume of Decay
+Potion_FumeOfForgetfulness_Description,,"One whiff and skill itself begins to wither, as if the body forgets what it once knew."
+Potion_FumeOfForgetfulness_DisplayName,,Fume of Forgetfulness
+Potion_MagicalInk_Description,,"Write it with this, and even nonsense sounds profound."
+Potion_MagicalInk_DisplayName,,Magical Ink
+Potion_ParalysingPoison_Description,,It creeps through the veins until even lifting a hand feels like moving stone.
+Potion_ParalysingPoison_DisplayName,,Paralysing Poison
+Potion_PerfumeOfRomance_Description,,"Fragrant, intoxicating — hearts warm, reason chills. Few resist, fewer should."
+Potion_PerfumeOfRomance_DisplayName,,Perfume of Romance
+Potion_PhilosophersStone_Description,,"The great transmuter's prize. Its touch wards off sickness, steel, and even time itself."
+Potion_PhilosophersStone_DisplayName,,Philosopher's Stone
+Potion_PoisonOfAnxiety_Description,,"It crawls under the skin, draining vigor and binding the victim tighter than chains."
+Potion_PoisonOfAnxiety_DisplayName,,Poison of Anxiety
+Potion_SleepingDraught_Description,,The fastest way to miss a meeting. Or a year.
+Potion_SleepingDraught_DisplayName,,Sleeping Draught
+Potion_TinctureOfOblivion_Description,,"A sip, and even your worst enemy forgets why they hate you."
+Potion_TinctureOfOblivion_DisplayName,,Tincture of Oblivion
+Potion_WeaponPoison_Description,,Because sometimes stabbing once just isn't enough.
+Potion_WeaponPoison_DisplayName,,Weapon Poison
+Price_BuyingPrice_DisplayName,,Buying Price
+Price_SellingPrice_DisplayName,,Selling Price
+ProducedBy_DisplayName,,Produced by
+RawMaterial_Barley_Description,,A common grain used in both food and brewing.
+RawMaterial_Barley_DisplayName,,Barley
+RawMaterial_BatsBlood_Description,,"A dark fluid, rumored to hold unnatural properties."
+RawMaterial_BatsBlood_DisplayName,,Bat's Blood
+RawMaterial_BeechwoodBoard_Description,,"A craftsman's dream — carves like butter, but don't expect it to outlive you."
+RawMaterial_BeechwoodBoard_DisplayName,,Beechwood Board
+RawMaterial_Bones_Description,,"Silent remnants of the past, used in rituals and crafts."
+RawMaterial_Bones_DisplayName,,Bones
+RawMaterial_Brick_Description,,"Fired clay block, the foundation of almost every city ever built."
+RawMaterial_Brick_DisplayName,,Brick
+RawMaterial_DeadlyNightshade_Description,,"Potent botanical that causes hallucinations in small doses, death in larger ones."
+RawMaterial_DeadlyNightshade_DisplayName,,Deadly Nightshade
+RawMaterial_Flax_Description,,Fibrous plant processed into linen for clothing.
+RawMaterial_Flax_DisplayName,,Flax
+RawMaterial_Gold_Description,,A solid bar of pure gold.
+RawMaterial_Gold_DisplayName,,Gold Ingot
+RawMaterial_GraniteBlock_Description,,Only granite blocks can provide a foundation as strong as stone.
+RawMaterial_GraniteBlock_DisplayName,,Granite Block
+RawMaterial_Hare_Description,,Swift forest creature valued for both meat and fur.
+RawMaterial_Hare_DisplayName,,Hare
+RawMaterial_Iron_Description,,"A solid, standardized chunk of iron. "
+RawMaterial_Iron_DisplayName,,Iron Ingot
+RawMaterial_Jasmin_Description,,Sweet-scented blossoms that release their strongest aroma at night.
+RawMaterial_Jasmin_DisplayName,,Jasmin
+RawMaterial_Lavender_Description,,Purple herb known for its calming properties and clean scent.
+RawMaterial_Lavender_DisplayName,,Lavender
+RawMaterial_Mandragora_Description,,Human-shaped root believed to possess magical properties.
+RawMaterial_Mandragora_DisplayName,,Mandragora
+RawMaterial_Musk_Description,,"A substance with an alluring, earthy fragrance, extracted in ways best left unsaid."
+RawMaterial_Musk_DisplayName,,Musk
+RawMaterial_OakwoodBoard_Description,,Oak doesn't bend — it waits for you to break.
+RawMaterial_OakwoodBoard_DisplayName,,Oakwood Board
+RawMaterial_PinewoodBoard_Description,,"A beginner-friendly wood, easy to shape and tough to ruin."
+RawMaterial_PinewoodBoard_DisplayName,,Pinewood Board
+RawMaterial_PreciousStone_Description,,"A variety of precious stones, but not enough to recreate the Imperial Crown."
+RawMaterial_PreciousStone_DisplayName,,Precious Stone
+RawMaterial_RowanBerry_Description,,Its red berries were said to turn aside will-o'-the-wisps.
+RawMaterial_RowanBerry_DisplayName,,Rowan Berry
+RawMaterial_Rye_Description,,"A sturdy grain, perfect for bread — solid or liquid."
+RawMaterial_Rye_DisplayName,,Rye
+RawMaterial_Shroud_Description,,The last outfit you'll ever need.
+RawMaterial_Shroud_DisplayName,,Shroud
+RawMaterial_Silver_Description,,"Precious metal brick, second only to gold in value."
+RawMaterial_Silver_DisplayName,,Silver Ingot
+RawMaterial_Skull_Description,,The remaining bone structure that once protected a brain.
+RawMaterial_Skull_DisplayName,,Skull
+RawMaterial_SlateTile_Description,,Durable and sturdy tile for roofs and floors.
+RawMaterial_SlateTile_DisplayName,,Slate Tile
+RawMaterial_SpidersLegs_Description,,Eight segmented limbs plucked from the stealthiest of hunters.
+RawMaterial_SpidersLegs_DisplayName,,Spider's Legs
+RawMaterial_ToadsEyes_Description,,Bulging orbs harvested from common amphibians.
+RawMaterial_ToadsEyes_DisplayName,,Toad's Eyes
+RawMaterial_VegetableDye_Description,,Natural coloring extracted from plants and roots.
+RawMaterial_VegetableDye_DisplayName,,Vegetable Dye
+RawMaterial_WildRose_Description,,Legends say that wild roses grow where the blood of saints or holy knights was spilled.
+RawMaterial_WildRose_DisplayName,,Wild Rose
+RawMaterial_WillowWood_Description,,Flexible timber harvested from trees that grow near water.
+RawMaterial_WillowWood_DisplayName,,Willow Wood
+RawMaterial_Wool_Description,,It warms. It itches.
+RawMaterial_Wool_DisplayName,,Wool
+Resource_Clay_Description,,"Malleable earth, typically used for making bricks and pottery."
+Resource_Clay_DisplayName,,Clay
+Resource_GoldOre_Description,,Unprocessed stone with gold waiting to be extracted.
+Resource_GoldOre_DisplayName,,Gold Ore
+Resource_GraniteUnhewn_Description,,"Big, heavy, and stubborn — like your uncle after two ales."
+Resource_GraniteUnhewn_DisplayName,,Granite Unhewn
+Resource_IronOre_Description,,Reddish stone that yields workable iron when properly smelted.
+Resource_IronOre_DisplayName,,Iron Ore
+Resource_MeterOfBeechwood_Description,,"Pale, smooth timber."
+Resource_MeterOfBeechwood_DisplayName,,Meter of Beechwood
+Resource_MeterOfOakwood_Description,,"Dense, dark timber."
+Resource_MeterOfOakwood_DisplayName,,Meter of Oakwood
+Resource_MeterOfPinewood_Description,,"Light, fragrant timber."
+Resource_MeterOfPinewood_DisplayName,,Meter of Pinewood
+Resource_RoughPreciousStone_Description,,"A dull, colorful rock that can be cut and polished to real gems."
+Resource_RoughPreciousStone_DisplayName,,Rough Precious Stone
+Resource_SilverOre_Description,,"Pale-veined stone that catches the light, like a fallen shard of the moon."
+Resource_SilverOre_DisplayName,,Silver Ore
+Resource_SlateUnhewn_Description,,"Unprocessed rock material, waiting to be transformed into roofing or flooring."
+Resource_SlateUnhewn_DisplayName,,Slate Unhewn
+Type_AllItems_DisplayName,,All Items
+Type_AromasAndHerbs_DisplayName,,Aromas & Herbs
+Type_Books_DisplayName,,Books
+Type_FinishedProduct_CombatEquipment_Armor_DisplayName,,Armor
+Type_FinishedProduct_CombatEquipment_Armor_Description,,Armor provides protection during all {CO_PHA_C}combat phases{##}.
+Type_FinishedProduct_CombatEquipment_Description,,"Equippable items used in {CO_COM_C}combat{##}, including weapons and armors."
+Type_FinishedProduct_CombatEquipment_DisplayName,,Combat Equipment
+Type_FinishedProduct_CombatEquipment_Melee_DisplayName,,Melee Weapon
+Type_FinishedProduct_CombatEquipment_Ranged_DisplayName,,Ranged Weapon
+Type_FinishedProduct_CombatEquipment_Special_DisplayName,,Special Weapon
+Type_FinishedProduct_CombatEquipment_Weapon_DisplayName,,Weapon
+Type_FinishedProduct_DisplayName,,Finished product
+Type_FinishedProduct_DisplayName_plural,,Finished Products
+Type_FinishedProduct_InventoryItem_Description,,"Inventory Items are finished products that can be placed in your personal inventory and consumed, providing gameplay effects."
+Type_FinishedProduct_InventoryItem_DisplayName,,Inventory Item
+Type_FinishedProduct_Potion_Description,,A harmless tonic — or a punishable substance? \nConsult the law on {L_POT_C}Use of Potions{##} before drinking.
+Type_FinishedProduct_Potion_DisplayName,,Potion
+Type_FinishedProduct_Potion_DisplayName_plural,,Potions
+Type_FinishedProduct_Book_Description,,Knowledge is rarely dangerous — until it is. \nCheck the law on {L_BOOLAM_C}Books and Lampoons{##} before turning the page.
+Type_FinishedProduct_Book_DisplayName,,Book
+Type_FinishedProduct_Book_DisplayName_plural,,Books
+Type_FinishedProduct_Perfume_Description,,Fragrance travels farther than gossip.\nEnsure the law on {L_PER_C}Use of Perfume{##} permits its use.
+Type_FinishedProduct_Perfume_DisplayName,,Perfume
+Type_FinishedProduct_Witchcraft_DisplayName,,Mystical Object
+Type_FinishedProduct_Witchcraft_Description,,SORCERY!!!\nConsult the {L_WITCRA_C}Witchcraft Law{##} before they bring the torches.
+Type_FinishedProduct_Witchcraft_DisplayName_plural,,Mystical Objects
+Type_FinishedProduct_Perfume_DisplayName_plural,,Perfumes
+Type_Imports_DisplayName,,Imports
+Type_Ingredient_DisplayName,,Ingredient
+Type_Ingredient_DisplayName_Plural,,Ingredients
+Type_Ingredient_IntermediateProduct_Description,,Crafted products used as ingredients for further {A_ACT_CRA_C}crafting{##}. 
+Type_Ingredient_IntermediateProduct_Description_extra1,,Intermediate products don't have any effects and can't be placed in your personal inventory.
+Type_Ingredient_IntermediateProduct_DisplayName,,Intermediate Product
+Type_Ingredient_IntermediateProduct_DisplayName_plural,,Intermediate Products
+Type_Ingredient_RawMaterial_Description,,Raw materials are used in {A_ACT_CRA_C}crafting{##} as ingredients to create {I_TYP_INTPRO_C}intermediate products{##} and {I_TYP_INVITE_C}inventory items{##}. 
+Type_Ingredient_RawMaterial_Description_extra1,,They can be either {A_ACT_GATING_C}found in nature{##} or created from {I_TYP_RES_C}resources{##} at {B_TYP_EXTFAC_C}Resource Sites{##}. 
+Type_Ingredient_RawMaterial_Description_extra2,,"You cannot place them in your personal inventory, but only manage them through carts and building storages."
+Type_Ingredient_RawMaterial_DisplayName,,Raw Material
+Type_Ingredient_RawMaterial_DisplayName_plural,,Raw Materials
+Type_Ingredient_Resource_Description,,Resources are harvested and turned into {I_TYP_RAWMAT_C}raw materials{##} at {B_TYP_EXTFAC_C}Resource Sites{##}. 
+Type_Ingredient_Resource_Description_extra1,,"You cannot place them in your personal inventory, but only manage them through carts and building storages."
+Type_Ingredient_Resource_DisplayName,,Resource
+Type_Ingredient_Resource_DisplayName_plural,,Resources
+Type_ItemType_DisplayName,,Item type
+Type_Mysticals_DisplayName,,Mysticals
+Type_StoneAndBeer_DisplayName,,Stone & Beer
+Type_WoodAndIron_DisplayName,,Wood & Iron
+CombatEquipment_Armor_Shirt_Description,,Provides comfort and modesty. Neither stop weapons.
+CombatEquipment_Armor_Shirt_DisplayName,,Undergarment
+MoveItem_FromInventory_Warning,,"Once placed in your Personal Inventory, an item cannot be returned to the Marketplace, Cart, Business Storage, or Storefront."
+InventoryItem_BanditContract01_DisplayName,,Low-Level Thug Contract
+InventoryItem_BanditContract02_DisplayName,,Trained Thug Contract
+InventoryItem_BanditContract03_DisplayName,,Elite Professional Contract
+InventoryItem_BanditContract01_Description,,"A few of the Baron's roughest blades. Cheap, loud, and dangerous enough for easy prey."
+InventoryItem_BanditContract02_Description,,"A seasoned crew from the Baron's ranks. Steady hands, ready for real work."
+InventoryItem_BanditContract03_Description,,"The Baron's finest. Precise, ruthless, and built for well-guarded targets."
+Item_DisplayName,,Item
+Item_DisplayName_plural,,Items
+Item_Description,,TBD
+InventoryItem_HealingBadge_DisplayName,,Bandages
+InventoryItem_HealingBadge_Description,,"Wounds close. Bones set. The body, reluctant as ever, agrees to continue."
+ObtainedVia_Label,,Obtained via
+Law_UseItemRegulatedByLaw,,"The use of this item is regulated by the law \""{lawname}.\"""
+PickItem,,Pick Item
+PlaceItem,,Place Item
+PickItem_OneByOne,,Pick Item One By One
+AmountSelector,,Select Amount
+OpenItemContextMenu,,Open Item Context Menu
+PickItem_Stack,,Pick Stack
+CanBeCraftedInThisBuilding,,Can be crafted here
+InventoryItem_CannonBall_Description,,"A solid iron shot with little regard for walls, windows, or whoever happens to be standing behind them."
+InventoryItem_CannonBall_DisplayName,,Cannonball
+InventoryItem_CannonBallFire_Description,,Packed with enough combustible material to ensure the impact is only the beginning of the problem.
+InventoryItem_CannonBallFire_DisplayName,,Incendiary Cannonball
+InventoryItem_CannonBallDung_Description,,A cannonball packed with dung and other unspeakable refuse. Damage to masonry is merely a pleasant side effect.
+InventoryItem_CannonBallDung_DisplayName,,Foul Cannonball
+RawMaterial_Honey_DisplayName,,Honey
+RawMaterial_Honey_Descrition,,"Sweet, sticky, and worth fighting bees for."
+RawMaterial_ContaminatedHoney_DisplayName,,Tainted Honey
+RawMaterial_ContaminatedHoney_Descrition,,Something has gone terribly wrong with this honey. Probably on purpose.
+RawMaterial_Beeswax_DisplayName,,Beeswax
+RawMaterial_Beeswax_Descrition,,Not the honey. The other reason bees are worth robbing.
+InventoryItem_ClarifiedHoney_DisplayName,,Clarified Honey
+InventoryItem_ClarifiedHoney_Description,,Honey stripped of impurities and dressed for a wealthier table.
+InventoryItem_RoyalJelly_DisplayName,,Royal Jelly
+InventoryItem_RoyalJelly_Description,,Fit for a queen — and excellent for a struggling hive.
+InventoryItem_LemonGrassOil_DisplayName,,Lemongrass Oil
+InventoryItem_LemonGrassOil_Description,,Proof that even bees can be bribed.
+InventoryItem_BeeHiveFrame_DisplayName,,Beehive Frame
+InventoryItem_BeeHiveFrame_Description,,The foundation of a well-organized hive — or at least the human idea of one.
+InventoryItem_KillerBee_DisplayName,,Killer Bee
+InventoryItem_KillerBee_Description,,Trained in the ancient art of the One-Point Stinging Heart Technique.
+OutOfStockItems_Show_Button,,Click to show out-of-stock items.
+OutOfStockItems_Hide_Button,,Click to hide out-of-stock items.
+ItemName_DisplayName,,Name
+ItemAmount_DisplayName,,Amount
+ItemPrice_DisplayName,,Price

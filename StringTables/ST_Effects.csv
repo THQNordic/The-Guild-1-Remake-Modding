@@ -1,162 +1,162 @@
-Key,SourceString,Translation
-Action_CannotPerform,Can't perform {action},
-Action_Immunity,Imunnity to {action},
-AP_Instant,{value} AP received instantly,
-AP_PerTurn,{CHAR_AP} at the start of the turn,
-Attractiveness_perProductivity,{B_PARAM_ATT_C}Customer Appeal{##} per {CHAR_PRO_C}Productivity{##},
-BanditContract_AttackCart,Unlocks {A_ATKCAR_C}Attack Cart{##},
-CanConstructBeeHives,Needed to construct {B_PER_BEEHIV_C}Bee Hives{##},
-CanConstructExtraRoom_Count,"Can construct {NumRoom} {NumRoom}|plural(one=extra room,other=extra rooms)",
-CanConstructShrine,Needed to construct a {B_PER_SHR_C}Shrine{##},
-Cart_Breakdown_Chance_High,High risk of Cart breakdown,
-Courting_Success_Increased,Increased success in courting advances,
-Crime_Erased,"Erases {NumCrime} {CO_COM_C}{NumCrime}|plural(one=crime,other=crimes){##} from record",
-Duration_DisplayName,Duration,
-Effect_DisplayName,Effect,
-Effects_Applied,Status Effect applied,
-Effects_DisplayName_plural,Effects,
-Effects_Mysterious,Mysterious effects,
-Effects_Removed,Status Effect removed,
-Effects_Unknown,Unknown effects,
-Energy_AtStartOfTurn,{CHAR_ENE_C}Energy{##} at the start of the {C_TRN_C}turn{##},
-Energy_FullyRestored,{CHAR_ENE_C}Energy{##} fully restored instantly,
-Energy_Reduction_Halved,{CHAR_ENE_C}Energy{##}reduction halved,
-Energy_Regen_Doubled,Doubles {CHAR_ENEREG_C}energy regeneration{##},
-Energy_Regen_Halved,{CHAR_ENEREG_C}Energy regeneration{##} cut in half,
-Evidence_ChanceToLetOut,chance to let out {CR_EVI_C}evidence{##},
-Evidence_Fabricated_One,Fabricates {CR_EVI_C}evidence{##} of a random crime,
-Evidence_Fabricated_Two,Fabricates {CR_EVI_C}evidence{##} of two random crimes,
-Evidence_LettingOut_Chance,{value} chance of letting out {CR_EVI_C}evidence{##} ,
-General_RandomCitizens_v0,with onlooking citizens,
-General_RandomCitizens_v1,with high-class citizens,
-Harvesting_Increase_Moderate,Moderate increase in harvesting,
-Health_Decrease_Considerable,Severely reduces {CHAR_HP_C}Health{##},
-Health_Decrease_Moderate,Moderately worsens {CHAR_HP_C}Health{##},
-Health_Decrease_Slight,Slightly worsens {CHAR_HP_C}Health{##},
-Health_Increase_Chance_High,High chance to improve {CHAR_HP_C}Health{##},
-Health_Increase_Chance_Low,Small chance to improve {CHAR_HP_C}Health{##},
-Health_Increase_Chance_Medium,Moderate chance to improve {CHAR_HP_C}Health{##},
-Health_Increase_Considerable,Greatly improves {CHAR_HP_C}Health{##},
-Health_Increase_Moderate,Moderately improves {CHAR_HP_C}Health{##},
-Health_Increase_Slight,Slightly improves {CHAR_HP_C}Health{##},
-Health_Loss_Halved,Halves {CHAR_HP_C}health{##} loss,
-Illness_Target_Chance_High,High chance of contracting an {ST_CHR_SIC_C}illness{##},
-Illness_Target_Cures,Cures {ST_CHR_SIC_C}illnesses{##},
-IntegrityLoss_Stopped,Stops {B_HP_DEC_C}Integrity Decay{##},
-MoneyFromCityTreasury,{CHAR_MON} from the {O_CITTRE_C}city treasury{##},
-MoneyFromStorefrontSales_Effect,{CHAR_MON} from {B_STOFRO_C}Storefront{##} Sales,
-MoneyRange,{CV_({min})} to {CV_({max})}{CHAR_MON},
-Range,{min} to {max},
-NewBaby,A bundle of joy,
-NobilityRights,Grants the right to claim a {T_NOB_C}noble{##} title,
-PactWithDead_InstantRevival,Instant revival after death,
-Parameter_Generic,{value} {parameter},
-QuarterCrimeRate_perTurn,{QUA_CRI_C}Crime Rate{##} every {C_TRN_C}turn{##},
-QuarterDevastation_perTurn,{QUA_DEV_C}Ruin & Filth{##} every {C_TRN_C}turn{##},
-QuarterHygiene_perTurn,{QUA_HYG_C}Sanitation{##} every {C_TRN_C}turn{##},
-QuarterReputation_perTurn,{QUA_REP_C}Reputation{##} every {C_TRN_C}turn{##},
-QuarterUnrest_perTurn,{QUA_UNR_C}Unrest{##} every {C_TRN_C}turn{##},
-QuarterZeal_perTurn,{QUA_ZEA_C}Zeal{##} every {C_TRN_C}turn{##},
-Random_PositiveEffects,Random positive effects,
-Renown_perTurn,{CHAR_REN_C}Renown{##} every {C_TRN_C}turn{##},
-Schedule_Event,Schedule for later: ,
-SkillPoints_All,{CV_({Value})} points in all {S_C}skills{##},
-SkillPoints_All_Halved,All {S_C}skills{##} halved,
-SkillPoints_Child,{value} points in the selected child's {skill} skill,
-SkillPoints_Generic,{value} points in {skill} skill ,
-SkillPoints_Random,"{CV_({NumSkills})} {NumSkills}|plural(one=random {S_C}skill{##},other=random {S_C}skills{##})",
-Standing_AllCharacters,{CV_({Value})} {CHAR_STA_C}opinion{##} with every character,
-Standing_AllCitizens,{value} {CHAR_STA_C}opinion{##} with all citizens,
-Standing_AllOfficeHolders,{value} {CHAR_STA_C}opinion{##} with all office holders,
-Standing_AllOfficeHoldersInYourChamber,with all office holders in your {O_CHA_C}chamber{##},
-Standing_AllWorkers,{value} {CHAR_STA_C}opinion{##} with all workers,
-Standing_BetweenTwo,{value} {CHAR_STA_C}opinion{##} between the two selected citizens,
-Standing_BlackenName,Selected character {ARROW} Victim: {DEC} {CHAR_STA},
-Standing_BuildingWorkers,{value} {CHAR_STA_C}opinion{##} with the selected building's workers,
-Standing_LoseElectionAppointers,The selected character loses {value} {CHAR_STA_C}opinion{##} with appointers during an election,
-Standing_LoseFaithOfficials,The selected character loses {value} {CHAR_STA_C}opinion{##} with three random officials of the same faith,
-Standing_NeighboringOwners,{value} {CHAR_STA_C}opinion{##} with owners of neighboring buildings,
-Standing_OneCharacter,{value} {CHAR_STA_C}opinion{##} of {character1},
-Standing_OneCharacter_You,{value} {CHAR_STA_C}opinion{##} of you,
-Standing_PerTurn,{CHAR_STA_C}opinion{##} per {C_TRN_C}turn{##},
-Standing_RandomCitizens,"{CV_({Value})} {CHAR_STA_C}opinion{##} with {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##})",
-Standing_SelectedCharacter,{value} {CHAR_STA_C}opinion{##} with a selected character,
-Standing_Socialize,"Up to {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##}) {ARROW} {YOU}: {VALUE}{CHAR_STA}",
-Target_UpToRandomCitizen,"Up to {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##})",
-Target_UpToCitizen,"Up to {NumCitizens} {NumCitizens}|plural(one= {CHAR_CITVSWOR_C}citizen{##},other={CHAR_CITVSWOR_C}citizens{##})",
-Standing_ThreeCharacters,"{value} {CHAR_STA_C}opinion{##} with {character1}, {character2}, and {character3}",
-Standing_ThreeRandomOfficialsOppositeGender,{value} {CHAR_STA_C}opinion{##} with three random officials of the opposite gender,
-Standing_TwoCharacters,{value} {CHAR_STA_C}opinion{##} with {character1} and {character2},
-Surrender_Goods,goods lost,
-Target_AllCitizens,All citizens,
-Target_AllCitizensAndWorkers_01,All townspeople,
-Target_AllCitizensAndWorkers_02,Everyone,
-Target_AllWorkers,All workers,
-Target_AllYourWeapons,Weapons,
-Target_AllYourWorkers,All your workers,
-Taget_AllOfficeHolders,All office holders,
-Taget_AllMembersOfYourChamber,All members of your chamber,
-Target_BetweenTargets,Inter-target,
-Target_BuildingsWorkers,Target building's workers,
-Target_CharacterOfSameProfession,All citizens of the same {P_C}profession{##},
-Target_Child,Child,
-Target_OppositeGender,Citizen of the opposite gender,
-Target_QuarterInhabitants,Quarter inhabitants,
-Target_Quarters,{C_QUA_C}Quarters{##},
-Target_RandomOfficials,"{NumRandomOfficials} {NumRandomOfficials}|plural(one=random official,other=random officials)",
-Target_RandomOfficialsOfOppositeSex,"{NumRandomOfficials} {NumRandomOfficials}|plural(one=random opposite-gender official,other=random opposite-gender officials)",
-Target_ResidenceInhabitants,Residence inhabitants,
-Target_SameDynasty,Family members,
-Target_SameGender,Citizen of the same gender,
-Target_Self_01,Self,
-Target_Self_02,You,
-Target_Self_03,Target (self),
-Target_Spouse,Spouse,
-Target_Target,Target,
-Target_ThievesAndRobbers,{P_THI_C}Thieves{##} and {P_ROB_C}Robbers{##},
-Target_Workers,with workers,
-Trait_ExceptionalBlood,Children are born with significantly more {S_C}skill{##} points,
-Trait_StrongBlood,Children are born with additional {S_C}skill{##} points,
-VigilantDriver_ImmuneToCartAttack,Immune to {A_ATKCAR_C}cart attacks{##},
-Worker_Quit_Chance_High,High chance of a worker from the selected building quitting,
-Target_AllDynastyMembers,All members of the dynasty,
-Target_AllDynastyBuildings,All buildings of the dynasty,
-DynastyExclusiveActions,Exclusive Actions,
-XPperturn,{CHAR_XP} per turn,
-NoEffects,No effects,
-GuaranteedEffects_Header,Guaranteed Effects,
-OneOfTheseEffects_Header,One of the Following Effects,
-V2_CartWithTag,Cart With Tag,
-V2_EspionageSlot,Espionage,
-V2_EvidenceDynamic,"Receives Evidence, if available",
-V2_EvidenceInstances,Evidence Instances,
-V2_Manager,Manager,
-V2_ManagerWithParticipant,Assigns New Master,
-V2_MoneyInterval,Money,
-V2_OfficeWithTag,Office Position,
-V2_ProfessionActive,Sets Active Profession,
-V2_ProfessionRanks,Sets Profession Rank,
-V2_ProfessionXPList,Profession XP List,
-V2_ProfessionXP,Profession XP,
-V2_StatusEffects,Status Effects,
-V2_Storage,Storage,
-AndOthers,and others…,
-TrainingFatigue_Effect,Cannot be trained,
-TrainingFatigue_Cure,Cures {ST_CHR_TRAFAT_C}Training Fatigue{##},
-CanTrainKillerBee,Required to {A_TRAKILBEE_C}Train a Killer Bee{##},
-NextSeasonHoney_Full,Next season's harvest will be {I_HON_C}plentiful{##}.,
-NextSeasonHoney_Contaminated,Next season's harvest will be {I_CONHON_C}tainted{##}.,
-NextSeasonHoney_Half,Next season's harvest will be {I_HON_C}modest{##}.,
-NextSeasonHoney_Empty,Next season's harvest will yield no {I_HON_C}honey{##}.,
-ThisSeasonHoney_Full,This season's harvest is {I_HON_C}plentiful{##}.,
-ThisSeasonHoney_Contaminated,This season's harvest is {I_CONHON_C}tainted{##}.,
-ThisSeasonHoney_Half,This season's harvest is {I_HON_C}modest{##}.,
-ThisSeasonHoney_Empty,This season's harvest yielded no {I_HON_C}honey{##}.,
-BuyBuilding_Outcome_TransferToBuyer,Ownership of the building transfers to you.,
-SellBuilding_Outcome_TransferToCity,Ownership of the building transfers to the city.,
-MysteriousDisappearance,Mysteriously Disappears,
-VowsExchanged,The vows were exchanged.,
-RevokeOfficeApplication,"Withdraw any existing application for office, if any.",
-ApplyForOffice_Office,Apply for the office of {office},
-RemoveFromOffice_Office,Leave the office of {office},
-RevokeOfficeApplication_Office,Withdraw candidacy for {office},
+Key,Namespace,Translation
+Action_CannotPerform,,Can't perform {action}
+Action_Immunity,,Imunnity to {action}
+AP_Instant,,{value} AP received instantly
+AP_PerTurn,,{CHAR_AP} at the start of the turn
+Attractiveness_perProductivity,,{B_PARAM_ATT_C}Customer Appeal{##} per {CHAR_PRO_C}Productivity{##}
+BanditContract_AttackCart,,Unlocks {A_ATKCAR_C}Attack Cart{##}
+CanConstructBeeHives,,Needed to construct {B_PER_BEEHIV_C}Bee Hives{##}
+CanConstructExtraRoom_Count,,"Can construct {NumRoom} {NumRoom}|plural(one=extra room,other=extra rooms)"
+CanConstructShrine,,Needed to construct a {B_PER_SHR_C}Shrine{##}
+Cart_Breakdown_Chance_High,,High risk of Cart breakdown
+Courting_Success_Increased,,Increased success in courting advances
+Crime_Erased,,"Erases {NumCrime} {CO_COM_C}{NumCrime}|plural(one=crime,other=crimes){##} from record"
+Duration_DisplayName,,Duration
+Effect_DisplayName,,Effect
+Effects_Applied,,Status Effect applied
+Effects_DisplayName_plural,,Effects
+Effects_Mysterious,,Mysterious effects
+Effects_Removed,,Status Effect removed
+Effects_Unknown,,Unknown effects
+Energy_AtStartOfTurn,,{CHAR_ENE_C}Energy{##} at the start of the {C_TRN_C}turn{##}
+Energy_FullyRestored,,{CHAR_ENE_C}Energy{##} fully restored instantly
+Energy_Reduction_Halved,,{CHAR_ENE_C}Energy{##}reduction halved
+Energy_Regen_Doubled,,Doubles {CHAR_ENEREG_C}energy regeneration{##}
+Energy_Regen_Halved,,{CHAR_ENEREG_C}Energy regeneration{##} cut in half
+Evidence_ChanceToLetOut,,chance to let out {CR_EVI_C}evidence{##}
+Evidence_Fabricated_One,,Fabricates {CR_EVI_C}evidence{##} of a random crime
+Evidence_Fabricated_Two,,Fabricates {CR_EVI_C}evidence{##} of two random crimes
+Evidence_LettingOut_Chance,,{value} chance of letting out {CR_EVI_C}evidence{##} 
+General_RandomCitizens_v0,,with onlooking citizens
+General_RandomCitizens_v1,,with high-class citizens
+Harvesting_Increase_Moderate,,Moderate increase in harvesting
+Health_Decrease_Considerable,,Severely reduces {CHAR_HP_C}Health{##}
+Health_Decrease_Moderate,,Moderately worsens {CHAR_HP_C}Health{##}
+Health_Decrease_Slight,,Slightly worsens {CHAR_HP_C}Health{##}
+Health_Increase_Chance_High,,High chance to improve {CHAR_HP_C}Health{##}
+Health_Increase_Chance_Low,,Small chance to improve {CHAR_HP_C}Health{##}
+Health_Increase_Chance_Medium,,Moderate chance to improve {CHAR_HP_C}Health{##}
+Health_Increase_Considerable,,Greatly improves {CHAR_HP_C}Health{##}
+Health_Increase_Moderate,,Moderately improves {CHAR_HP_C}Health{##}
+Health_Increase_Slight,,Slightly improves {CHAR_HP_C}Health{##}
+Health_Loss_Halved,,Halves {CHAR_HP_C}health{##} loss
+Illness_Target_Chance_High,,High chance of contracting an {ST_CHR_SIC_C}illness{##}
+Illness_Target_Cures,,Cures {ST_CHR_SIC_C}illnesses{##}
+IntegrityLoss_Stopped,,Stops {B_HP_DEC_C}Integrity Decay{##}
+MoneyFromCityTreasury,,{CHAR_MON} from the {O_CITTRE_C}city treasury{##}
+MoneyFromStorefrontSales_Effect,,{CHAR_MON} from {B_STOFRO_C}Storefront{##} Sales
+MoneyRange,,{CV_({min})} to {CV_({max})}{CHAR_MON}
+Range,,{min} to {max}
+NewBaby,,A bundle of joy
+NobilityRights,,Grants the right to claim a {T_NOB_C}noble{##} title
+PactWithDead_InstantRevival,,Instant revival after death
+Parameter_Generic,,{value} {parameter}
+QuarterCrimeRate_perTurn,,{QUA_CRI_C}Crime Rate{##} every {C_TRN_C}turn{##}
+QuarterDevastation_perTurn,,{QUA_DEV_C}Ruin & Filth{##} every {C_TRN_C}turn{##}
+QuarterHygiene_perTurn,,{QUA_HYG_C}Sanitation{##} every {C_TRN_C}turn{##}
+QuarterReputation_perTurn,,{QUA_REP_C}Reputation{##} every {C_TRN_C}turn{##}
+QuarterUnrest_perTurn,,{QUA_UNR_C}Unrest{##} every {C_TRN_C}turn{##}
+QuarterZeal_perTurn,,{QUA_ZEA_C}Zeal{##} every {C_TRN_C}turn{##}
+Random_PositiveEffects,,Random positive effects
+Renown_perTurn,,{CHAR_REN_C}Renown{##} every {C_TRN_C}turn{##}
+Schedule_Event,,Schedule for later: 
+SkillPoints_All,,{CV_({Value})} points in all {S_C}skills{##}
+SkillPoints_All_Halved,,All {S_C}skills{##} halved
+SkillPoints_Child,,{value} points in the selected child's {skill} skill
+SkillPoints_Generic,,{value} points in {skill} skill 
+SkillPoints_Random,,"{CV_({NumSkills})} {NumSkills}|plural(one=random {S_C}skill{##},other=random {S_C}skills{##})"
+Standing_AllCharacters,,{CV_({Value})} {CHAR_STA_C}opinion{##} with every character
+Standing_AllCitizens,,{value} {CHAR_STA_C}opinion{##} with all citizens
+Standing_AllOfficeHolders,,{value} {CHAR_STA_C}opinion{##} with all office holders
+Standing_AllOfficeHoldersInYourChamber,,with all office holders in your {O_CHA_C}chamber{##}
+Standing_AllWorkers,,{value} {CHAR_STA_C}opinion{##} with all workers
+Standing_BetweenTwo,,{value} {CHAR_STA_C}opinion{##} between the two selected citizens
+Standing_BlackenName,,Selected character {ARROW} Victim: {DEC} {CHAR_STA}
+Standing_BuildingWorkers,,{value} {CHAR_STA_C}opinion{##} with the selected building's workers
+Standing_LoseElectionAppointers,,The selected character loses {value} {CHAR_STA_C}opinion{##} with appointers during an election
+Standing_LoseFaithOfficials,,The selected character loses {value} {CHAR_STA_C}opinion{##} with three random officials of the same faith
+Standing_NeighboringOwners,,{value} {CHAR_STA_C}opinion{##} with owners of neighboring buildings
+Standing_OneCharacter,,{value} {CHAR_STA_C}opinion{##} of {character1}
+Standing_OneCharacter_You,,{value} {CHAR_STA_C}opinion{##} of you
+Standing_PerTurn,,{CHAR_STA_C}opinion{##} per {C_TRN_C}turn{##}
+Standing_RandomCitizens,,"{CV_({Value})} {CHAR_STA_C}opinion{##} with {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##})"
+Standing_SelectedCharacter,,{value} {CHAR_STA_C}opinion{##} with a selected character
+Standing_Socialize,,"Up to {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##}) {ARROW} {YOU}: {VALUE}{CHAR_STA}"
+Target_UpToRandomCitizen,,"Up to {NumCitizens} {NumCitizens}|plural(one= random {CHAR_CITVSWOR_C}citizen{##},other=random {CHAR_CITVSWOR_C}citizens{##})"
+Target_UpToCitizen,,"Up to {NumCitizens} {NumCitizens}|plural(one= {CHAR_CITVSWOR_C}citizen{##},other={CHAR_CITVSWOR_C}citizens{##})"
+Standing_ThreeCharacters,,"{value} {CHAR_STA_C}opinion{##} with {character1}, {character2}, and {character3}"
+Standing_ThreeRandomOfficialsOppositeGender,,{value} {CHAR_STA_C}opinion{##} with three random officials of the opposite gender
+Standing_TwoCharacters,,{value} {CHAR_STA_C}opinion{##} with {character1} and {character2}
+Surrender_Goods,,goods lost
+Target_AllCitizens,,All citizens
+Target_AllCitizensAndWorkers_01,,All townspeople
+Target_AllCitizensAndWorkers_02,,Everyone
+Target_AllWorkers,,All workers
+Target_AllYourWeapons,,Weapons
+Target_AllYourWorkers,,All your workers
+Taget_AllOfficeHolders,,All office holders
+Taget_AllMembersOfYourChamber,,All members of your chamber
+Target_BetweenTargets,,Inter-target
+Target_BuildingsWorkers,,Target building's workers
+Target_CharacterOfSameProfession,,All citizens of the same {P_C}profession{##}
+Target_Child,,Child
+Target_OppositeGender,,Citizen of the opposite gender
+Target_QuarterInhabitants,,Quarter inhabitants
+Target_Quarters,,{C_QUA_C}Quarters{##}
+Target_RandomOfficials,,"{NumRandomOfficials} {NumRandomOfficials}|plural(one=random official,other=random officials)"
+Target_RandomOfficialsOfOppositeSex,,"{NumRandomOfficials} {NumRandomOfficials}|plural(one=random opposite-gender official,other=random opposite-gender officials)"
+Target_ResidenceInhabitants,,Residence inhabitants
+Target_SameDynasty,,Family members
+Target_SameGender,,Citizen of the same gender
+Target_Self_01,,Self
+Target_Self_02,,You
+Target_Self_03,,Target (self)
+Target_Spouse,,Spouse
+Target_Target,,Target
+Target_ThievesAndRobbers,,{P_THI_C}Thieves{##} and {P_ROB_C}Robbers{##}
+Target_Workers,,with workers
+Trait_ExceptionalBlood,,Children are born with significantly more {S_C}skill{##} points
+Trait_StrongBlood,,Children are born with additional {S_C}skill{##} points
+VigilantDriver_ImmuneToCartAttack,,Immune to {A_ATKCAR_C}cart attacks{##}
+Worker_Quit_Chance_High,,High chance of a worker from the selected building quitting
+Target_AllDynastyMembers,,All members of the dynasty
+Target_AllDynastyBuildings,,All buildings of the dynasty
+DynastyExclusiveActions,,Exclusive Actions
+XPperturn,,{CHAR_XP} per turn
+NoEffects,,No effects
+GuaranteedEffects_Header,,Guaranteed Effects
+OneOfTheseEffects_Header,,One of the Following Effects
+V2_CartWithTag,,Cart With Tag
+V2_EspionageSlot,,Espionage
+V2_EvidenceDynamic,,"Receives Evidence, if available"
+V2_EvidenceInstances,,Evidence Instances
+V2_Manager,,Manager
+V2_ManagerWithParticipant,,Assigns New Master
+V2_MoneyInterval,,Money
+V2_OfficeWithTag,,Office Position
+V2_ProfessionActive,,Sets Active Profession
+V2_ProfessionRanks,,Sets Profession Rank
+V2_ProfessionXPList,,Profession XP List
+V2_ProfessionXP,,Profession XP
+V2_StatusEffects,,Status Effects
+V2_Storage,,Storage
+AndOthers,,and others…
+TrainingFatigue_Effect,,Cannot be trained
+TrainingFatigue_Cure,,Cures {ST_CHR_TRAFAT_C}Training Fatigue{##}
+CanTrainKillerBee,,Required to {A_TRAKILBEE_C}Train a Killer Bee{##}
+NextSeasonHoney_Full,,Next season's harvest will be {I_HON_C}plentiful{##}.
+NextSeasonHoney_Contaminated,,Next season's harvest will be {I_CONHON_C}tainted{##}.
+NextSeasonHoney_Half,,Next season's harvest will be {I_HON_C}modest{##}.
+NextSeasonHoney_Empty,,Next season's harvest will yield no {I_HON_C}honey{##}.
+ThisSeasonHoney_Full,,This season's harvest is {I_HON_C}plentiful{##}.
+ThisSeasonHoney_Contaminated,,This season's harvest is {I_CONHON_C}tainted{##}.
+ThisSeasonHoney_Half,,This season's harvest is {I_HON_C}modest{##}.
+ThisSeasonHoney_Empty,,This season's harvest yielded no {I_HON_C}honey{##}.
+BuyBuilding_Outcome_TransferToBuyer,,Ownership of the building transfers to you.
+SellBuilding_Outcome_TransferToCity,,Ownership of the building transfers to the city.
+MysteriousDisappearance,,Mysteriously Disappears
+VowsExchanged,,The vows were exchanged.
+RevokeOfficeApplication,,"Withdraw any existing application for office, if any."
+ApplyForOffice_Office,,Apply for the office of {office}
+RemoveFromOffice_Office,,Leave the office of {office}
+RevokeOfficeApplication_Office,,Withdraw candidacy for {office}

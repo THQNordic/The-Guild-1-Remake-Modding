@@ -1,379 +1,379 @@
-Key,SourceString,Translation
-CivicOffice_ChurchAuthority_Bishop_Description,TBD,
-CivicOffice_ChurchAuthority_Bishop_DisplayName,Bishop,
-CivicOffice_ChurchAuthority_Deacon_Description,TBD,
-CivicOffice_ChurchAuthority_Deacon_DisplayName,Deacon,
-CivicOffice_ChurchAuthority_Description,"Where faith meets power. Church officials shape morality, oversee tithes, and make sure laws keep one eye on heaven.",
-CivicOffice_ChurchAuthority_DisplayName,Church Authority,
-CivicOffice_ChurchAuthority_DungeonMaster_Description,TBD,
-CivicOffice_ChurchAuthority_DungeonMaster_DisplayName,Dungeon Master,
-CivicOffice_ChurchAuthority_Inquisitor_Description,TBD,
-CivicOffice_ChurchAuthority_Inquisitor_DisplayName,Inquisitor,
-CivicOffice_ChurchAuthority_Prefect_Description,TBD,
-CivicOffice_ChurchAuthority_Prefect_DisplayName,Prefect,
-CivicOffice_ChurchAuthority_TaxCollector_Description,TBD,
-CivicOffice_ChurchAuthority_TaxCollector_DisplayName,Tax Collector,
-CivicOffice_Description,"Political positions within the town's civic structure, open to any {CHAR_CITVSWOR_C}citizen{##} who meet the requirements and secure a fair victory in an {O_ELE_C}election{##}.",
-CivicOffice_DisplayName,Civic Office,
-CivicOffice_DisplayName_alt,Office,
-CivicOffice_HighRankingOfficials_Description,"Consist of the {O_CHA_STAAUT_C}State Authority{##}, occupying ranks {icon_07} to {icon_09}.\nThey stand at the highest level of the town's political structure.",
-CivicOffice_HighRankingOfficials_DisplayName,High-Ranking Officials,
-CivicOffice_Informants_CouncilInformer_Description,TBD,
-CivicOffice_Informants_CouncilInformer_DisplayName,Council Informer,
-CivicOffice_Informants_Description,"The city's whisper network. They gather secrets, expose rivals, and twist evidence into whatever story the council needs to hear. If something shady happens, they're the first to know.",
-CivicOffice_Informants_DisplayName,Informants,
-CivicOffice_Informants_Informer_Description,TBD,
-CivicOffice_Informants_Informer_DisplayName,Informer,
-CivicOffice_Informants_Spy_Description,TBD,
-CivicOffice_Informants_Spy_DisplayName,Spy,
-CivicOffice_LowRankingOfficials_Description,"Handle the lowest tiers of political authority, occupying ranks {icon_01} to {icon_03}.\nThey are {O_CHA_TOWSER_C}Town Servants{##}, {O_CHA_TOWBAI_C}Town Bailiffs{##}, and {O_CHA_INF_C}Informants{##}.",
-CivicOffice_LowRankingOfficials_DisplayName,Low-Ranking Officials,
-CivicOffice_MiddleRankingOfficials_Description,"Operate within the central layers of political authority, occupying ranks {icon_04} to {icon_06}.\nThey are the {O_CHA_TOWCOU_C}Town Council{##} and {O_CHA_CHUAUT_C}Church Authority{##}.",
-CivicOffice_MiddleRankingOfficials_DisplayName,Middle-Ranking Officials,
-CivicOffice_OfficesWithinChamber,The offices within this chamber are:,
-CivicOffice_StateAuthority_Archbishop_Description,TBD,
-CivicOffice_StateAuthority_Archbishop_DisplayName,Archbishop,
-CivicOffice_StateAuthority_Colonel_Description,TBD,
-CivicOffice_StateAuthority_Colonel_DisplayName,Colonel,
-CivicOffice_StateAuthority_CourtCouncilor_Description,TBD,
-CivicOffice_StateAuthority_CourtCouncilor_DisplayName,Court Councilor,
-CivicOffice_StateAuthority_Description,"The bridge between city and realm. Senior councilors, commanders, and high clergy settle matters that stretch beyond town walls — levies, duties, and the wider balance of power.",
-CivicOffice_StateAuthority_DisplayName,State Authority,
-CivicOffice_StateAuthority_GrandInquisitor_Description,TBD,
-CivicOffice_StateAuthority_GrandInquisitor_DisplayName,Grand Inquisitor,
-CivicOffice_StateAuthority_PrivyCouncilor_Description,TBD,
-CivicOffice_StateAuthority_PrivyCouncilor_DisplayName,Privy Councilor,
-CivicOffice_StateAuthority_Sovereign_Description,TBD,
-CivicOffice_StateAuthority_Sovereign_DisplayName,Sovereign,
-CivicOffice_StateAuthority_Steward_Description,TBD,
-CivicOffice_StateAuthority_Steward_DisplayName,Steward,
-CivicOffice_TownBailiffs_Description,"The town's arm of law enforcement. Stationed at gates and walls, they enforce dues, guard against threats, and turn districts into safer ground under their watch.",
-CivicOffice_TownBailiffs_DisplayName,Town Bailiffs,
-CivicOffice_TownBailiffs_FencingMaster_Description,TBD,
-CivicOffice_TownBailiffs_FencingMaster_DisplayName,Fencing Master,
-CivicOffice_TownBailiffs_Guardsman_Description,TBD,
-CivicOffice_TownBailiffs_Guardsman_DisplayName,Guardsman,
-CivicOffice_TownBailiffs_NightWatchman_Description,TBD,
-CivicOffice_TownBailiffs_NightWatchman_DisplayName,Night Watchman,
-CivicOffice_TownCouncil_BuildingMaster_Description,TBD,
-CivicOffice_TownCouncil_BuildingMaster_DisplayName,Building Master,
-CivicOffice_TownCouncil_CustomsMaster_Description,TBD,
-CivicOffice_TownCouncil_CustomsMaster_DisplayName,Customs Master,
-CivicOffice_TownCouncil_Description,"The beating heart of town governance. Members debate laws, argue over money, and decide which improvements get built — or don't.",
-CivicOffice_TownCouncil_DisplayName,Town Council,
-CivicOffice_TownCouncil_Judge_Description,TBD,
-CivicOffice_TownCouncil_Judge_DisplayName,Judge,
-CivicOffice_TownCouncil_LeaseMaster_Description,TBD,
-CivicOffice_TownCouncil_LeaseMaster_DisplayName,Lease Master,
-CivicOffice_TownCouncil_Mayor_Description,TBD,
-CivicOffice_TownCouncil_Mayor_DisplayName,Mayor,
-CivicOffice_TownCouncil_Treasurer_Description,TBD,
-CivicOffice_TownCouncil_Treasurer_DisplayName,Treasurer,
-CivicOffice_TownServants_CouncilAssistant_Description,TBD,
-CivicOffice_TownServants_CouncilAssistant_DisplayName,Council Assistant,
-CivicOffice_TownServants_Description,"The first rung of city politics. Servants push papers, carry messages, and learn the ropes of administration. Everyone starts here — nobody stays here.",
-CivicOffice_TownServants_DisplayName,Town Servants,
-CivicOffice_TownServants_TownClerk_Description,TBD,
-CivicOffice_TownServants_TownClerk_DisplayName,Town Clerk,
-CivicOffice_TownServants_TownServant_Description,TBD,
-CivicOffice_TownServants_TownServant_DisplayName,Town Servant,
-Crime_Description,{L_LAW_C}Unlawful{##} acts that can leave {CR_EVI_C}evidence{##}. Crimes differ in how easily they're {CR_NOI_C}concealed{##} and how {CR_SEV_C}severe{##} they are.,
-Crime_DisplayName,Crime,
-Crime_Evidence_Description,"Every {CR_CRI_C}crime{##} leaves a trace. Whether you witnessed it, suffered from it, {A_SPY_C}spied{##} on it, bought the information, or merely heard a whisper — evidence finds its way through the town.",
-Crime_Evidence_DisplayName,Evidence,
-Crime_Evidence_NoEvidenceAvailable,No Evidence Available,
-Crime_Evidence_Tip_DeletingEvidence,"Someone might be holding {CR_EVI_C}evidence{##} of your crimes. Confess at the Church or Buy an Indulgence to clear your name. Once you've faced Trial, regardless of the verdict, that {CR_EVI_C}evidence{##} can no longer be used against you. And {CR_STALIM_C}time{##}, as always, erases all sins.",
-Crime_Evidence_Tip_GatheringEvidence,"You can place a {B_IMP_SPY_C}spyglass{##} in your home to {A_SPYPER_C}spy{##} on others. If you believe such work is better left to professionals, visit the {B_OCC_THI_C}Hideout{##} and hire one.",
-Crime_Evidence_Tip_GatheringEvidence_short,"Use a {B_IMP_SPY_C}spyglass{##} in your home to {A_SPYPER_C}spy{##} on others, or hire a professional at the {B_OCC_THI_C}Hideout{##}.",
-Crime_Evidence_Tip_PressingCharges,"When you hold {CR_EVI_C}evidence{##} of a crime, a righteous citizen would take it to the {B_PUB_TOWHAL_E}Town Hall{##} and {A_PRECHA_C}press charges{##}. Others may find more interesting uses for it.",
-Crime_Evidence_Tip_PressingCharges_short,"With {CR_EVI_C}evidence{##} of a crime, you can {A_PRECHA_C}press charges{##} at the {B_PUB_TOWHAL_E}Town Hall{##}.",
-Crime_Noisiness_Description,"The harder a crime is to hide, the more {CR_EVI_C}evidence{##} it leaves — and the sooner trouble follows.",
-Crime_Noisiness_Description_extra,From highest to lowest exposure:,
-Crime_Noisiness_DisplayName,Crime Exposure,
-Crime_Noisiness_Loud_DisplayName,Conspicuous,
-Crime_Noisiness_Neutral_DisplayName,Noticeable,
-Crime_Noisiness_Secret_DisplayName,Secret,
-Crime_Noisiness_Subtle_DisplayName,Subtle,
-Crime_Noisiness_Violent_DisplayName,Overt,
-Crime_Severity_Description,"Reflects the gravity of each offense, classifying {CR_CRI_C}crimes{##} into five distinct levels. The higher the level, the harsher the {CR_TRIPUN_C}punishment{##}.",
-Crime_Severity_Description_extra,From most severe to least severe:,
-Crime_Severity_DisplayName,Crime Severity,
-Crime_Severity_Extreme_Description,"If caught, extreme crimes receive a {CR_TRIPUN_EXT_C}capital sentence{##}.",
-Crime_Severity_Extreme_DisplayName,Extreme,
-Crime_Severity_Major_Description,"If caught, severe crimes receive a {CR_TRIPUN_MAJ_C}severe sentence{##}.",
-Crime_Severity_Major_DisplayName,Severe,
-Crime_Severity_Minor_Description,"If caught, minor crimes receive a {CR_TRIPUN_MIN_C}minor sentence{##}.",
-Crime_Severity_Minor_DisplayName,Minor,
-Crime_Severity_Severe_Description,"If caught, major crimes receive a {CR_TRIPUN_SEV_C}major sentence{##}.",
-Crime_Severity_Severe_DisplayName,Major,
-Crime_Severity_Trivial_Description,"If caught, trivial crimes receive a {CR_TRIPUN_TRI_C}trivial sentence{##}.",
-Crime_Severity_Trivial_DisplayName,Trivial,
-Crime_StatuteOfLimitations_Description,"Justice has an expiration date. Once a {CR_CRI_C}crime{##} is committed, a countdown begins. When the statute of limitations expires, any related {CR_EVI_C}evidence{##} is lost and can no longer be used.",
-Crime_StatuteOfLimitations_DisplayName,Statute of Limitations,
-Crime_Warning_Label,This action is a crime of {crimeseverity} severity.,
-Crime_Warning_Label_Extreme,This action is an {CR_SEV_EXT_C}extreme{##} crime.,
-Crime_Warning_Label_Major,This action is a {CR_SEV_MAJ_C}severe{##} crime.,
-Crime_Warning_Label_Minor,This action is a {CR_SEV_MIN_C}minor{##} crime.,
-Crime_Warning_Label_Noisiness_Loud,It is {CR_NOI_C}conspicuous{##} and likely to draw attention.,
-Crime_Warning_Label_Noisiness_Neutral,It will be {CR_NOI_C}noticeable{##}.,
-Crime_Warning_Label_Noisiness_Secret,It is carried out in {CR_NOI_C}secret{##}.,
-Crime_Warning_Label_Noisiness_Subtle,It is {CR_NOI_C}subtle{##} and not easily detected.,
-Crime_Warning_Label_Noisiness_Violent,It is {CR_NOI_C}overt{##} and almost impossible to conceal.,
-Crime_Warning_Label_Severe,This action is a {CR_SEV_SEV_C}major{##} crime.,
-Crime_Warning_Label_Trivial,This action is a {CR_SEV_TRI_C}trivial{##} crime.,
-Election_Rules_NoAppointer_Description,"When all appointing positions are vacant, the candidate is chosen by random draw.",
-Election_Rules_WhenItStarts_Description,Voting begins next turn at {hour}. Results will follow immediately after.,
-Election_SeeCandidates_Prompt,See candidates and apply,
-EmpireAuthority_ChancellorOfTheEmpire_Description,TBD,
-EmpireAuthority_ChancellorOfTheEmpire_DisplayName,Chancellor of the Empire,
-EmpireAuthority_Description,"The Empire's distant but heavy hand. Imperial law and privileges trickle down from here, and when the seal arrives, the town listens.\n\nIt consists of:\n\n{O_GREEMI}\n{O_MAREMP}\n{O_CHAEMP}\n{O_POP}\n{O_EMP}",
-EmpireAuthority_DisplayName,Empire Authority,
-EmpireAuthority_Emperor_Description,TBD,
-EmpireAuthority_Emperor_DisplayName,Emperor,
-EmpireAuthority_GreyEminence_Description,TBD,
-EmpireAuthority_GreyEminence_DisplayName,Grey Eminence,
-EmpireAuthority_MarshalOfTheEmpire_Description,TBD,
-EmpireAuthority_MarshalOfTheEmpire_DisplayName,Marshal of the Empire,
-EmpireAuthority_Pope_Description,TBD,
-EmpireAuthority_Pope_DisplayName,Pope,
-Evidence_SelectEvidence,Select evidence,
-Evidence_Strength_Description,"{CR_EVI_C}Evidence{##} has five degrees of strength.\n\nThe higher the degree, the stronger the proof — and the greater the chance of conviction. \n\nGathering multiple pieces of evidence for the same crime increases the overall strength: two pieces of degree 1 combine into degree 2, and so on, up to a maximum of degree 5.",
-Evidence_Strength_DisplayName,Evidence Strength,
-EvidenceBook_ActiveSpying,Active Spying,
-EvidenceBook_CrimesYouCommited,Your Criminal Acts,
-EvidenceBook_CrimesYouCommited_NoCrime,No crimes on record.,
-EvidenceBook_CrimesYouCommited_alt,Your Criminal Record,
-EvidenceBook_GatheredEvidence,Collected Evidence,
-EvidenceBook_Header,Evidence Book,
-EvidenceBook_SpyingAndEvidence_Subheader,Spying & Evidence,
-EvidenceBook_YourCrimes_Subheader,Your Crimes,
-HonoraryOffice_ChiefRobber_Description,TBD,
-HonoraryOffice_ChiefRobber_DisplayName,Chief Robber,
-HonoraryOffice_Description,"Always awarded to the most successful member of a guild or community. Unlike Civic Offices, these seats come from nomination rather than votes, and carry prestige without hierarchy.",
-HonoraryOffice_DisplayName,Honorary Offices,
-HonoraryOffice_MasterOfTheAlchemistsGuild_Description,TBD,
-HonoraryOffice_MasterOfTheAlchemistsGuild_DisplayName,Master of the Alchemists' Guild,
-HonoraryOffice_MasterOfTheJoinersGuild_Description,TBD,
-HonoraryOffice_MasterOfTheJoinersGuild_DisplayName,Master of the Joiners' Guild,
-HonoraryOffice_MasterOfTheMerchantsGuild_Description,TBD,
-HonoraryOffice_MasterOfTheMerchantsGuild_DisplayName,Master of the Merchants' Guild,
-HonoraryOffice_MasterOfThePerfumersGuild_Description,TBD,
-HonoraryOffice_MasterOfThePerfumersGuild_DisplayName,Master of the Perfumers' Guild,
-HonoraryOffice_MasterOfTheSmithsGuild_Description,TBD,
-HonoraryOffice_MasterOfTheSmithsGuild_DisplayName,Master of the Smiths' Guild,
-HonoraryOffice_MasterOfTheStoneMasonsGuild_Description,TBD,
-HonoraryOffice_MasterOfTheStoneMasonsGuild_DisplayName,Master of the Stone Masons' Guild,
-HonoraryOffice_MasterOfTheTailorsGuild_Description,TBD,
-HonoraryOffice_MasterOfTheTailorsGuild_DisplayName,Master of the Tailors' Guild,
-HonoraryOffice_PrinceOfThieves_Description,TBD,
-HonoraryOffice_PrinceOfThieves_DisplayName,Prince of Thieves,
-HonoraryOffice_TownPreacher_Description,TBD,
-HonoraryOffice_TownPreacher_DisplayName,Town Preacher,
-Law_Beggary_Description,"Public displays of poverty are considered distasteful. This law regulates begging, determining whether it's permitted or should remain out of sight.",
-Law_Beggary_DisplayName,Beggary,
-Law_Blackmail_Description,Determines whether blackmail is a convenient diplomatic tool or just another crime to be punished.,
-Law_Blackmail_DisplayName,Blackmail,
-Law_BooksAndLampoons_Description,"Books and lampoons can propagate radical ideas (such as fair governance), giving the authorities the right to forbid their use.",
-Law_BooksAndLampoons_DisplayName,Books and Lampoons,
-Law_Bribery_Description,"A common method for securing the favor of those who could send you to prison, or smooth your way to the highest offices.",
-Law_Bribery_DisplayName,Bribery,
-Law_BuildingPriceLevel_Description,"Regulates the construction fees in the city, impacting building costs.",
-Law_BuildingPriceLevel_DisplayName,Building Price Level,
-Law_ChurchTithe_Description,Determines what percentage every believer must pay the Church as a tithe.,
-Law_ChurchTithe_DisplayName,Church Tithe,
-Law_ConstitutionalLaws_DisplayName,Constitutional Laws,
-Law_CriminalLaws_DisplayName,Criminal Laws,
-Law_CriminalLaws_DisplayName_alt,Criminal,
-Law_CurrentState_DisplayName,Currently,
-Law_Description,"The rules that keep order in the city. Laws are set and shaped by those holding {O_TYP_CIVOFF_C}Civic Offices{##}, defining what is permitted — and what is not.",
-Law_DisplayName,Law,
-Law_DisplayName_plural,Laws,
-Law_Duel_Description,"Decides whether duellists will be punished for their deed, provided that is still necessary…",
-Law_Duel_DisplayName,Duel,
-Law_FinancialLaws_DisplayName,Financial Laws,
-Law_FinancialLaws_DisplayName_alt,Financial,
-Law_GuildTax_Description,"Imposes a tax on guilds, contributing to the town's revenue.",
-Law_GuildTax_DisplayName,Guild Tax,
-Law_ImportDuty_Description,"The import duty protects the local commerce from outside competition, with revenue going to the town treasury.",
-Law_ImportDuty_DisplayName,Import Duty,
-Law_IncomeLevel_Description,Sets the salaries of all public officials. A convenient combination of civic duty and personal interest.,
-Law_IncomeLevel_DisplayName,Income Level,
-Law_InheritanceTax_Description,"Oh, double misfortune! First, a loss in the family, then a fortune in taxes — at least the town treasury is richer.",
-Law_InheritanceTax_DisplayName,Inheritance Tax,
-Law_Insult_Description,"\""If intelligence were an art, you'd be an empty canvas\"". Whether such speech should be punishable is ruled by this law.",
-Law_Insult_DisplayName,Insult,
-Law_Kidnapping_Description,This law regulates whether it should be customary and permitted to demand a bit of ransom now and then when one happens to be “short of funds”… A curious law.,
-Law_Kidnapping_DisplayName,Kidnapping,
-Law_LawEffects,In Practice,
-Law_LeasePriceLevel_Description,Sets the starting bid for securing leases on Resource Sites.,
-Law_LeasePriceLevel_DisplayName,Lease Price Level,
-Law_Legislator_Label,Legislator,
-Law_MandatoryGuildMembership_Description,Determines whether practicing certain professions requires compulsory guild membership.,
-Law_MandatoryGuildMembership_DisplayName,Mandatory Guild Membership,
-Law_Necromancy_Description,"Regulates the practice of necromancy, including the raising of the dead or communicating with spirits.",
-Law_Necromancy_DisplayName,Necromancy,
-Law_Option_Allowed,Legal,
-Law_Option_Forbidden,Illegal,
-Law_Option_High,High,
-Law_Option_Lousy,Lousy,
-Law_Option_Low,Low,
-Law_Option_Medium,Medium,
-Law_Option_NoOfficialReligion,Whatever,
-Law_Option_VeryHigh,Very High,
-Law_Pickpocketing_Description,Determines if helping yourself to someone else's coin purse deserves punishment.,
-Law_Pickpocketing_DisplayName,Pickpocketing,
-Law_PossibleValues,Can be,
-Law_Punishment_Severity_Extreme,Breaking this law may result in a {CR_TRIPUN_EXT_C}capital sentence{##}.,
-Law_Punishment_Severity_Major,Breaking this law may result in a {CR_TRIPUN_MAJ_C}severe sentence{##}.,
-Law_Punishment_Severity_Minor,Breaking this law may result in a {CR_TRIPUN_MIN_C}minor sentence{##}.,
-Law_Punishment_Severity_Severe,Breaking this law may result in a {CR_TRIPUN_SEV_C}major sentence{##}.,
-Law_Punishment_Severity_Trivial,Breaking this law may result in a {CR_TRIPUN_TRI_C}trivial sentence{##}.,
-Law_RentPriceLevel_Description,"Sets rent prices for workers in town, potentially influencing homelessness.",
-Law_RentPriceLevel_DisplayName,Rent Price Level,
-Law_Sabotage_Description,Regulates whether it's acceptable to secretly destroy property.,
-Law_Sabotage_DisplayName,Sabotage,
-Law_SalesTax_Description,Every merchant must contribute to the greater good by handing over a portion of their sales earnings to those who contribute nothing at all.,
-Law_SalesTax_DisplayName,Sales Tax,
-Law_SeverityOfTheLaw_Description,"Some rulers believe in second chances, others in iron-fisted justice. \nThe higher this law is, the harsher the {CR_TRIPUN_C}sentences{##}.",
-Law_SeverityOfTheLaw_DisplayName,Harshness of Punishments,
-Law_Theft_Description,Defines whether breaking into properties and stealing from them is punishable by law.,
-Law_Theft_DisplayName,Theft,
-Law_Threatening_Description,This law traces the fine line between persuasion and harassment.,
-Law_Threatening_DisplayName,Threatening,
-Law_Torture_Description,Pain can be an excellent teacher. This law determines whether Torture may be used as a means of interrogation and punishment.,
-Law_Torture_DisplayName,Torture,
-Law_TownFaith_Description,"Faith is a virtue, provided it is the correct one. Those found deviating from the accepted doctrine may find their faith tested under less-than-ideal conditions.",
-Law_TownFaith_DisplayName,Town Faith,
-Law_Trashing_Description,Determines whether hiring thugs in secrecy to beat someone up is legal.,
-Law_Trashing_DisplayName,Beat Up,
-Law_Triggers,Applies to,
-Law_UseOfCannonTower_Description,This law determines whether or not people may fire off their cannon over the town with impunity.,
-Law_UseOfCannonTower_DisplayName,Use of Cannon Towers,
-Law_UseOfPerfume_Description,"Perfumes, often associated with vanity and moral decay, may be banned for personal use.",
-Law_UseOfPerfume_DisplayName,Use of Perfumes,
-Law_UseOfPotion_Description,Is it science or sorcery? This law decides which one.,
-Law_UseOfPotion_DisplayName,Use of Potions,
-Law_UsuriousInterest_Description,"This law sets reasonable limits on loan rates, ensuring that lenders still make a fortune — just a slightly more respectable one.",
-Law_UsuriousInterest_DisplayName,Usurious Interest,
-Law_WaylayingOfTransports_Description,Decides if it's perfectly fine to ambush a cart and make a quick profit.,
-Law_WaylayingOfTransports_DisplayName,Waylaying of Transports,
-Law_Witchcraft_Description,"Regulates the practice of witchcraft, including curses and the use of mystical objects.",
-Law_Witchcraft_DisplayName,Witchcraft,
-Lawbook_Screen_Description,Here you'll find the {L_LAW_C}laws{##} that hold the city together — and the {O_TYP_CIVOFF_C}offices{##} that enforce them. ,
-Lawbook_Screen_Description_extra1,"Win an {O_ELE_C}election{##} to one of these roles, and you'll earn the power to shape those laws yourself.",
-Lawbook_Screen_DisplayName,Lawbook,
-ManagedBy_Label,Managed By,
-Office_Appointers_Label,Appointers,
-Office_Appointers_List01,{officeposition1},
-Office_Appointers_List02,"{officeposition1}, and {officeposition2}",
-Office_Appointers_List03,"{officeposition1}, {officeposition2}, and {officeposition3}",
-Office_Appointers_List04,"{officeposition1}, {officeposition2}, {officeposition3}, and {officeposition4}",
-Office_Appointers_List05,"{officeposition1}, {officeposition2}, {officeposition3}, {officeposition4}, and {officeposition5}",
-Office_Benefit_Action,{Action} action,
-Office_Benefit_CheapMalice,Cheap Malice,
-Office_Benefit_FeignTorture,Feign Torture,
-Office_Benefit_Income,{income} income,
-Office_Benefit_Juror,{CR_TRI_JUR_C}Juror{##} {icon_01},
-Office_Benefit_JurorSubstitute_01,Substitute {CR_TRI_JUR_C}Juror{##} {icon_01},
-Office_Benefit_JurorSubstitute_02,Substitute {CR_TRI_JUR_C}Juror{##} {icon_01} and {icon_02},
-Office_Benefit_LegalImmunity,Legal Immunity,
-Office_Benefit_Legislator,Legislates on,
-Office_Benefit_LowCostTraining,Low Cost Training in {skill},
-Office_Benefit_ReducedBuildingCosts,Reduced Building Costs,
-Office_Benefit_ShareOfRents,Share of Rents,
-Office_Benefit_Spymaster,Spy Master,
-Office_Benefit_TemporaryOwnership,In charge of,
-Office_Candidates_Label,Candidates,
-Office_Chamber_Description,"{O_TYP_CIVOFF_C}Political authority{##} is divided among six chambers, each hierarchically organized with its own powers and duties.",
-Office_Chamber_Description_extra1,They are:,
-Office_Chamber_DisplayName,Chamber,
-Office_Chamber_DisplayName_alt,Office Chamber,
-Office_Chamber_DisplayName_plural,Chambers,
-Office_Chamber_DisplayName_plural_alt,Office Chambers,
-Office_CurrentHolder_DisplayName,Current holder,
-Office_Election_Description,{CHAR_CITVSWOR_C}Citizens{##} who meet the requirements may apply for {O_TYP_CIVOFF_C}office{##} in elections held the following {C_TRN_C}turn{##}. The appointers' good {CHAR_STA_C}opinion{##} of you — as well as strong {S_RHE_C}rhetoric{##} — can make all the difference.,
-Office_Election_ApplicationsOpen_hour,Applications open: {start}this turn–{end} next turn,
-Office_Election_DisplayName,Election,
-Office_Election_CollectingApplications,Collecting applications…,
-Office_Election_CollectingApplications_Requirement,Accepting office applications,
-Office_Election_VotingInProgress,The appointers are voting…,
-Office_Election_UnmetRequirement_General_Message,Requirements not met.,
-Office_Election_UnmetRequirement_MaxApplicantsReached_Message,Maximum number of candidates reached.,
-Office_Election_UnmetRequirement_OfficeRank_Message,Requires: Previous office rank {iconnumber}.,
-Office_Election_UnmetRequirement_OpenAt_Message,Applications open at {hour}.,
-Office_Election_UnmetRequirement_Title_Message,Requires: {title}.,
-Office_Elections_Label,Elections,
-Office_Elections_Vote_Prompt,Cast your vote,
-Office_ElectionFor_Label,Election for {officename},
-Office_EligibilityCivicOffice,Can apply for the Civic Office of,
-Office_EligibilityEmpireAuthority,Can be appointed to the Empire Authority office of,
-Office_EligibilityHonoraryOffice,Can be nominated for the Honorary Office of,
-Office_EligibilityOfCharacter_DisplayName,Eligibility of {Title} {FirstName} {LastName},
-Office_NoOffice_Label,No office,
-Office_Position_Label,Position,
-Office_Position_Label_alt,Office Position,
-Office_PreviousPositionRequirement,Have held a rank {icon_n} office position,
-Office_PreviousPositionRequirement_alt,Previously held an office one rank below this one,
-Office_Removal_Description,"When all {A_REMOFF_C}dismissals{##} are formally enacted, stripping them of office and the authority once held.",
-Office_Removal_DisplayName,Office Dismissal,
-Office_Removal_DisplayName_plural,Office Dismissals,
-Office_TermsInOffice_DisplayName,Terms in office,
-Office_Vacant_Label,vacant,
-OfficePosition_ApplyForPosition_Prompt,Apply for position,
-OfficePosition_RetractApplication_Prompt,Retract aplication,
-OfficeTiers_Description,"Office progression is organized into ranks from {icon_01} to {icon_09}. \n\nIf you wish to take part in the political life of the town, you must first become a citizen. \n\nFrom there, you begin at rank {icon_01} and work your way upward, step by step.",
-OfficeTiers_DisplayName,Office Tiers,
-OfficeTree_Screen_DisplayName,Office Chambers,
-Politics_Concept_DisplayName,Politics,
-Trial_Accused_Prompt,Answer charges,
-Trial_Accuser_Prompt,Present case,
-Trial_Description,"When you hold {CR_EVI_C}evidence{##} of a {CR_CRI_C}crime{##}, you may legally {A_PRECHA_C}press charges{##}. The {CR_TRI_JUR_C}Jury{##} decides whether the accused is guilty and should be {CR_TRIPUN_C}punished{##}, or absolved. If they are absolved, you must cover the costs of the proceedings, so try to be {S_RHE_C}convincing{##}.",
-Trial_Description_extra1,"However, if you are the one accused of a crime, do not rely on {S_RHE_C}rhetoric{##} alone. Try to {CHAR_STA_C}win over{##} the jury before the trial even begins. Perhaps {A_BRI_C}greasing their palms{##} would help — if that is not illegal, of course.",
-Trial_DisplayName,Trial,
-Trial_Jury_Prompt,Submit verdict,
-Trial_Participant_Accused_DisplayName,Accused,
-Trial_Participant_Accuser_DisplayName,Accuser,
-Trial_Participant_Jury_DisplayName,Jury,
-Trial_Punishment_Description,"After being found guilty in a {CR_TRI_C}trial{##}, the accused is punished accordingly. The penalty depends on the {CR_SEV_C}severity of the crime{##} and how {L_LAWSEV_C}harsh{##} the current law is.",
-Trial_Punishment_Description_extra1,It can be:,
-Trial_Punishment_Description_extra2,"If the accused is absolved, the crime is erased from their record, and the accuser must pay for the trial proceedings.",
-Trial_Punishment_DisplayName,Sentence,
-Trial_Punishment_Execution,Sentenced to {ST_CHR_DEAMAR_C}death{##},
-Trial_Punishment_Extreme_Description,Capital Sentence,
-Trial_Punishment_Extreme_DisplayName,Capital Sentence,
-Trial_Punishment_Fine_Wealth,Fined {value}% of {CHAR_WEA_C}wealth{##},
-Trial_Punishment_Imprisonment,{ST_CHR_IMP_C}Imprisoned{##},
-Trial_Punishment_Major_Description,Severe Sentence,
-Trial_Punishment_Major_DisplayName,Severe Sentence,
-Trial_Punishment_Minor_Description,Minor Sentence,
-Trial_Punishment_Minor_DisplayName,Minor Sentence,
-Trial_Punishment_PropertyConfiscation,One {B_TYP_OCCBUI_C}professional building{##} confiscated,
-Trial_Punishment_RemovalFromOffice,Removed from {O_TYP_CIVOFF_C}office{##},
-Trial_Punishment_Severe_Description,Major Sentence,
-Trial_Punishment_Severe_DisplayName,Major Sentence,
-Trial_Punishment_StandingWithEveryCharacter,{value} everyone's {CHAR_STA_C}opinion{##} of you,
-Trial_Punishment_StandingWithAccused,tbd,
-Trial_Punishment_Torture,Subjected to torture,
-Trial_Punishment_Trivial_Description,Trivial Sentence,
-Trial_Punishment_Trivial_DisplayName,Trivial Sentence,
-Trial_Result_Guilty_DisplayName,Guilty,
-Trial_Result_NotGuilty_DisplayName,Not Guilty,
-Trial_Rules_Description,"To deliver a fair verdict in a {CR_TRI_C}trial{##}, the jury evaluates the {CR_EVI_C}evidence{##} and {S_RHE_C}arguments{##} from both sides.\nStill, partiality and {CHAR_STA_C}opinion{##} may sway their judgment.",
-Trial_Rules_Description_extra1,"In case of a tie, position {icon_01} has the deciding vote. If vacant, position {icon_02} decides. If all members are absent, the accused is {CR_TRIPUN_C}absolved{##}.",
-Trial_Rules_Description_extra2,The jury consists of:,
-Trial_Rules_Description_extra3,"If any of these positions are vacant, a substitute juror will be assigned.",
-Trial_Rules_DisplayName,Trial Outcome Rules,
-Trial_Spectator_Prompt,Watch proceedings,
-Trial_WaitingForJury_Message,The jury is deciding…,
-Vote_Abstain_Prompt,Abstain,
-Vote_SubmitVote_Prompt,Submit your vote,
-Vote_SubmitedVote_Label,Vote Submitted,
-Vote_Abstained_Label,Abstained,
-Evidence_OnCharacter,You have evidence against them.,
-Evidence_OnCharacter_LookingFor,You are spying on them.,
-Trial_Result_Guilty,"By decision of the jury, {gender}|gender({charactername} is guilty, {charactername} is guilty).",
-Trial_Result_NotGuilty,"By decision of the jury, {gender}|gender({charactername} is absolved, {charactername} is absolved).",
-Office_Election_AppointerCandidate_CannotVote_BeforeApplying_Warning,"By applying for this position, you give up your right to vote in this election.",
-Office_Election_AppointerCandidate_CannotVote_DuringElection_Warning,You cannot be both an appointer and a candidate in the same election. You can no longer vote.,
-Office_Election_AppointerCandidate_AutomaticVote_Warning,"As both an appointer and a candidate, your vote is automatically cast for yourself.",
-Trial_AccusedAndCrime,"Trial: {name}, {crime}",
+Key,Namespace,Translation
+CivicOffice_ChurchAuthority_Bishop_Description,,TBD
+CivicOffice_ChurchAuthority_Bishop_DisplayName,,Bishop
+CivicOffice_ChurchAuthority_Deacon_Description,,TBD
+CivicOffice_ChurchAuthority_Deacon_DisplayName,,Deacon
+CivicOffice_ChurchAuthority_Description,,"Where faith meets power. Church officials shape morality, oversee tithes, and make sure laws keep one eye on heaven."
+CivicOffice_ChurchAuthority_DisplayName,,Church Authority
+CivicOffice_ChurchAuthority_DungeonMaster_Description,,TBD
+CivicOffice_ChurchAuthority_DungeonMaster_DisplayName,,Dungeon Master
+CivicOffice_ChurchAuthority_Inquisitor_Description,,TBD
+CivicOffice_ChurchAuthority_Inquisitor_DisplayName,,Inquisitor
+CivicOffice_ChurchAuthority_Prefect_Description,,TBD
+CivicOffice_ChurchAuthority_Prefect_DisplayName,,Prefect
+CivicOffice_ChurchAuthority_TaxCollector_Description,,TBD
+CivicOffice_ChurchAuthority_TaxCollector_DisplayName,,Tax Collector
+CivicOffice_Description,,"Political positions within the town's civic structure, open to any {CHAR_CITVSWOR_C}citizen{##} who meet the requirements and secure a fair victory in an {O_ELE_C}election{##}."
+CivicOffice_DisplayName,,Civic Office
+CivicOffice_DisplayName_alt,,Office
+CivicOffice_HighRankingOfficials_Description,,"Consist of the {O_CHA_STAAUT_C}State Authority{##}, occupying ranks {icon_07} to {icon_09}.\nThey stand at the highest level of the town's political structure."
+CivicOffice_HighRankingOfficials_DisplayName,,High-Ranking Officials
+CivicOffice_Informants_CouncilInformer_Description,,TBD
+CivicOffice_Informants_CouncilInformer_DisplayName,,Council Informer
+CivicOffice_Informants_Description,,"The city's whisper network. They gather secrets, expose rivals, and twist evidence into whatever story the council needs to hear. If something shady happens, they're the first to know."
+CivicOffice_Informants_DisplayName,,Informants
+CivicOffice_Informants_Informer_Description,,TBD
+CivicOffice_Informants_Informer_DisplayName,,Informer
+CivicOffice_Informants_Spy_Description,,TBD
+CivicOffice_Informants_Spy_DisplayName,,Spy
+CivicOffice_LowRankingOfficials_Description,,"Handle the lowest tiers of political authority, occupying ranks {icon_01} to {icon_03}.\nThey are {O_CHA_TOWSER_C}Town Servants{##}, {O_CHA_TOWBAI_C}Town Bailiffs{##}, and {O_CHA_INF_C}Informants{##}."
+CivicOffice_LowRankingOfficials_DisplayName,,Low-Ranking Officials
+CivicOffice_MiddleRankingOfficials_Description,,"Operate within the central layers of political authority, occupying ranks {icon_04} to {icon_06}.\nThey are the {O_CHA_TOWCOU_C}Town Council{##} and {O_CHA_CHUAUT_C}Church Authority{##}."
+CivicOffice_MiddleRankingOfficials_DisplayName,,Middle-Ranking Officials
+CivicOffice_OfficesWithinChamber,,The offices within this chamber are:
+CivicOffice_StateAuthority_Archbishop_Description,,TBD
+CivicOffice_StateAuthority_Archbishop_DisplayName,,Archbishop
+CivicOffice_StateAuthority_Colonel_Description,,TBD
+CivicOffice_StateAuthority_Colonel_DisplayName,,Colonel
+CivicOffice_StateAuthority_CourtCouncilor_Description,,TBD
+CivicOffice_StateAuthority_CourtCouncilor_DisplayName,,Court Councilor
+CivicOffice_StateAuthority_Description,,"The bridge between city and realm. Senior councilors, commanders, and high clergy settle matters that stretch beyond town walls — levies, duties, and the wider balance of power."
+CivicOffice_StateAuthority_DisplayName,,State Authority
+CivicOffice_StateAuthority_GrandInquisitor_Description,,TBD
+CivicOffice_StateAuthority_GrandInquisitor_DisplayName,,Grand Inquisitor
+CivicOffice_StateAuthority_PrivyCouncilor_Description,,TBD
+CivicOffice_StateAuthority_PrivyCouncilor_DisplayName,,Privy Councilor
+CivicOffice_StateAuthority_Sovereign_Description,,TBD
+CivicOffice_StateAuthority_Sovereign_DisplayName,,Sovereign
+CivicOffice_StateAuthority_Steward_Description,,TBD
+CivicOffice_StateAuthority_Steward_DisplayName,,Steward
+CivicOffice_TownBailiffs_Description,,"The town's arm of law enforcement. Stationed at gates and walls, they enforce dues, guard against threats, and turn districts into safer ground under their watch."
+CivicOffice_TownBailiffs_DisplayName,,Town Bailiffs
+CivicOffice_TownBailiffs_FencingMaster_Description,,TBD
+CivicOffice_TownBailiffs_FencingMaster_DisplayName,,Fencing Master
+CivicOffice_TownBailiffs_Guardsman_Description,,TBD
+CivicOffice_TownBailiffs_Guardsman_DisplayName,,Guardsman
+CivicOffice_TownBailiffs_NightWatchman_Description,,TBD
+CivicOffice_TownBailiffs_NightWatchman_DisplayName,,Night Watchman
+CivicOffice_TownCouncil_BuildingMaster_Description,,TBD
+CivicOffice_TownCouncil_BuildingMaster_DisplayName,,Building Master
+CivicOffice_TownCouncil_CustomsMaster_Description,,TBD
+CivicOffice_TownCouncil_CustomsMaster_DisplayName,,Customs Master
+CivicOffice_TownCouncil_Description,,"The beating heart of town governance. Members debate laws, argue over money, and decide which improvements get built — or don't."
+CivicOffice_TownCouncil_DisplayName,,Town Council
+CivicOffice_TownCouncil_Judge_Description,,TBD
+CivicOffice_TownCouncil_Judge_DisplayName,,Judge
+CivicOffice_TownCouncil_LeaseMaster_Description,,TBD
+CivicOffice_TownCouncil_LeaseMaster_DisplayName,,Lease Master
+CivicOffice_TownCouncil_Mayor_Description,,TBD
+CivicOffice_TownCouncil_Mayor_DisplayName,,Mayor
+CivicOffice_TownCouncil_Treasurer_Description,,TBD
+CivicOffice_TownCouncil_Treasurer_DisplayName,,Treasurer
+CivicOffice_TownServants_CouncilAssistant_Description,,TBD
+CivicOffice_TownServants_CouncilAssistant_DisplayName,,Council Assistant
+CivicOffice_TownServants_Description,,"The first rung of city politics. Servants push papers, carry messages, and learn the ropes of administration. Everyone starts here — nobody stays here."
+CivicOffice_TownServants_DisplayName,,Town Servants
+CivicOffice_TownServants_TownClerk_Description,,TBD
+CivicOffice_TownServants_TownClerk_DisplayName,,Town Clerk
+CivicOffice_TownServants_TownServant_Description,,TBD
+CivicOffice_TownServants_TownServant_DisplayName,,Town Servant
+Crime_Description,,{L_LAW_C}Unlawful{##} acts that can leave {CR_EVI_C}evidence{##}. Crimes differ in how easily they're {CR_NOI_C}concealed{##} and how {CR_SEV_C}severe{##} they are.
+Crime_DisplayName,,Crime
+Crime_Evidence_Description,,"Every {CR_CRI_C}crime{##} leaves a trace. Whether you witnessed it, suffered from it, {A_SPY_C}spied{##} on it, bought the information, or merely heard a whisper — evidence finds its way through the town."
+Crime_Evidence_DisplayName,,Evidence
+Crime_Evidence_NoEvidenceAvailable,,No Evidence Available
+Crime_Evidence_Tip_DeletingEvidence,,"Someone might be holding {CR_EVI_C}evidence{##} of your crimes. Confess at the Church or Buy an Indulgence to clear your name. Once you've faced Trial, regardless of the verdict, that {CR_EVI_C}evidence{##} can no longer be used against you. And {CR_STALIM_C}time{##}, as always, erases all sins."
+Crime_Evidence_Tip_GatheringEvidence,,"You can place a {B_IMP_SPY_C}spyglass{##} in your home to {A_SPYPER_C}spy{##} on others. If you believe such work is better left to professionals, visit the {B_OCC_THI_C}Hideout{##} and hire one."
+Crime_Evidence_Tip_GatheringEvidence_short,,"Use a {B_IMP_SPY_C}spyglass{##} in your home to {A_SPYPER_C}spy{##} on others, or hire a professional at the {B_OCC_THI_C}Hideout{##}."
+Crime_Evidence_Tip_PressingCharges,,"When you hold {CR_EVI_C}evidence{##} of a crime, a righteous citizen would take it to the {B_PUB_TOWHAL_E}Town Hall{##} and {A_PRECHA_C}press charges{##}. Others may find more interesting uses for it."
+Crime_Evidence_Tip_PressingCharges_short,,"With {CR_EVI_C}evidence{##} of a crime, you can {A_PRECHA_C}press charges{##} at the {B_PUB_TOWHAL_E}Town Hall{##}."
+Crime_Noisiness_Description,,"The harder a crime is to hide, the more {CR_EVI_C}evidence{##} it leaves — and the sooner trouble follows."
+Crime_Noisiness_Description_extra,,From highest to lowest exposure:
+Crime_Noisiness_DisplayName,,Crime Exposure
+Crime_Noisiness_Loud_DisplayName,,Conspicuous
+Crime_Noisiness_Neutral_DisplayName,,Noticeable
+Crime_Noisiness_Secret_DisplayName,,Secret
+Crime_Noisiness_Subtle_DisplayName,,Subtle
+Crime_Noisiness_Violent_DisplayName,,Overt
+Crime_Severity_Description,,"Reflects the gravity of each offense, classifying {CR_CRI_C}crimes{##} into five distinct levels. The higher the level, the harsher the {CR_TRIPUN_C}punishment{##}."
+Crime_Severity_Description_extra,,From most severe to least severe:
+Crime_Severity_DisplayName,,Crime Severity
+Crime_Severity_Extreme_Description,,"If caught, extreme crimes receive a {CR_TRIPUN_EXT_C}capital sentence{##}."
+Crime_Severity_Extreme_DisplayName,,Extreme
+Crime_Severity_Major_Description,,"If caught, severe crimes receive a {CR_TRIPUN_MAJ_C}severe sentence{##}."
+Crime_Severity_Major_DisplayName,,Severe
+Crime_Severity_Minor_Description,,"If caught, minor crimes receive a {CR_TRIPUN_MIN_C}minor sentence{##}."
+Crime_Severity_Minor_DisplayName,,Minor
+Crime_Severity_Severe_Description,,"If caught, major crimes receive a {CR_TRIPUN_SEV_C}major sentence{##}."
+Crime_Severity_Severe_DisplayName,,Major
+Crime_Severity_Trivial_Description,,"If caught, trivial crimes receive a {CR_TRIPUN_TRI_C}trivial sentence{##}."
+Crime_Severity_Trivial_DisplayName,,Trivial
+Crime_StatuteOfLimitations_Description,,"Justice has an expiration date. Once a {CR_CRI_C}crime{##} is committed, a countdown begins. When the statute of limitations expires, any related {CR_EVI_C}evidence{##} is lost and can no longer be used."
+Crime_StatuteOfLimitations_DisplayName,,Statute of Limitations
+Crime_Warning_Label,,This action is a crime of {crimeseverity} severity.
+Crime_Warning_Label_Extreme,,This action is an {CR_SEV_EXT_C}extreme{##} crime.
+Crime_Warning_Label_Major,,This action is a {CR_SEV_MAJ_C}severe{##} crime.
+Crime_Warning_Label_Minor,,This action is a {CR_SEV_MIN_C}minor{##} crime.
+Crime_Warning_Label_Noisiness_Loud,,It is {CR_NOI_C}conspicuous{##} and likely to draw attention.
+Crime_Warning_Label_Noisiness_Neutral,,It will be {CR_NOI_C}noticeable{##}.
+Crime_Warning_Label_Noisiness_Secret,,It is carried out in {CR_NOI_C}secret{##}.
+Crime_Warning_Label_Noisiness_Subtle,,It is {CR_NOI_C}subtle{##} and not easily detected.
+Crime_Warning_Label_Noisiness_Violent,,It is {CR_NOI_C}overt{##} and almost impossible to conceal.
+Crime_Warning_Label_Severe,,This action is a {CR_SEV_SEV_C}major{##} crime.
+Crime_Warning_Label_Trivial,,This action is a {CR_SEV_TRI_C}trivial{##} crime.
+Election_Rules_NoAppointer_Description,,"When all appointing positions are vacant, the candidate is chosen by random draw."
+Election_Rules_WhenItStarts_Description,,Voting begins next turn at {hour}. Results will follow immediately after.
+Election_SeeCandidates_Prompt,,See candidates and apply
+EmpireAuthority_ChancellorOfTheEmpire_Description,,TBD
+EmpireAuthority_ChancellorOfTheEmpire_DisplayName,,Chancellor of the Empire
+EmpireAuthority_Description,,"The Empire's distant but heavy hand. Imperial law and privileges trickle down from here, and when the seal arrives, the town listens.\n\nIt consists of:\n\n{O_GREEMI}\n{O_MAREMP}\n{O_CHAEMP}\n{O_POP}\n{O_EMP}"
+EmpireAuthority_DisplayName,,Empire Authority
+EmpireAuthority_Emperor_Description,,TBD
+EmpireAuthority_Emperor_DisplayName,,Emperor
+EmpireAuthority_GreyEminence_Description,,TBD
+EmpireAuthority_GreyEminence_DisplayName,,Grey Eminence
+EmpireAuthority_MarshalOfTheEmpire_Description,,TBD
+EmpireAuthority_MarshalOfTheEmpire_DisplayName,,Marshal of the Empire
+EmpireAuthority_Pope_Description,,TBD
+EmpireAuthority_Pope_DisplayName,,Pope
+Evidence_SelectEvidence,,Select evidence
+Evidence_Strength_Description,,"{CR_EVI_C}Evidence{##} has five degrees of strength.\n\nThe higher the degree, the stronger the proof — and the greater the chance of conviction. \n\nGathering multiple pieces of evidence for the same crime increases the overall strength: two pieces of degree 1 combine into degree 2, and so on, up to a maximum of degree 5."
+Evidence_Strength_DisplayName,,Evidence Strength
+EvidenceBook_ActiveSpying,,Active Spying
+EvidenceBook_CrimesYouCommited,,Your Criminal Acts
+EvidenceBook_CrimesYouCommited_NoCrime,,No crimes on record.
+EvidenceBook_CrimesYouCommited_alt,,Your Criminal Record
+EvidenceBook_GatheredEvidence,,Collected Evidence
+EvidenceBook_Header,,Evidence Book
+EvidenceBook_SpyingAndEvidence_Subheader,,Spying & Evidence
+EvidenceBook_YourCrimes_Subheader,,Your Crimes
+HonoraryOffice_ChiefRobber_Description,,TBD
+HonoraryOffice_ChiefRobber_DisplayName,,Chief Robber
+HonoraryOffice_Description,,"Always awarded to the most successful member of a guild or community. Unlike Civic Offices, these seats come from nomination rather than votes, and carry prestige without hierarchy."
+HonoraryOffice_DisplayName,,Honorary Offices
+HonoraryOffice_MasterOfTheAlchemistsGuild_Description,,TBD
+HonoraryOffice_MasterOfTheAlchemistsGuild_DisplayName,,Master of the Alchemists' Guild
+HonoraryOffice_MasterOfTheJoinersGuild_Description,,TBD
+HonoraryOffice_MasterOfTheJoinersGuild_DisplayName,,Master of the Joiners' Guild
+HonoraryOffice_MasterOfTheMerchantsGuild_Description,,TBD
+HonoraryOffice_MasterOfTheMerchantsGuild_DisplayName,,Master of the Merchants' Guild
+HonoraryOffice_MasterOfThePerfumersGuild_Description,,TBD
+HonoraryOffice_MasterOfThePerfumersGuild_DisplayName,,Master of the Perfumers' Guild
+HonoraryOffice_MasterOfTheSmithsGuild_Description,,TBD
+HonoraryOffice_MasterOfTheSmithsGuild_DisplayName,,Master of the Smiths' Guild
+HonoraryOffice_MasterOfTheStoneMasonsGuild_Description,,TBD
+HonoraryOffice_MasterOfTheStoneMasonsGuild_DisplayName,,Master of the Stone Masons' Guild
+HonoraryOffice_MasterOfTheTailorsGuild_Description,,TBD
+HonoraryOffice_MasterOfTheTailorsGuild_DisplayName,,Master of the Tailors' Guild
+HonoraryOffice_PrinceOfThieves_Description,,TBD
+HonoraryOffice_PrinceOfThieves_DisplayName,,Prince of Thieves
+HonoraryOffice_TownPreacher_Description,,TBD
+HonoraryOffice_TownPreacher_DisplayName,,Town Preacher
+Law_Beggary_Description,,"Public displays of poverty are considered distasteful. This law regulates begging, determining whether it's permitted or should remain out of sight."
+Law_Beggary_DisplayName,,Beggary
+Law_Blackmail_Description,,Determines whether blackmail is a convenient diplomatic tool or just another crime to be punished.
+Law_Blackmail_DisplayName,,Blackmail
+Law_BooksAndLampoons_Description,,"Books and lampoons can propagate radical ideas (such as fair governance), giving the authorities the right to forbid their use."
+Law_BooksAndLampoons_DisplayName,,Books and Lampoons
+Law_Bribery_Description,,"A common method for securing the favor of those who could send you to prison, or smooth your way to the highest offices."
+Law_Bribery_DisplayName,,Bribery
+Law_BuildingPriceLevel_Description,,"Regulates the construction fees in the city, impacting building costs."
+Law_BuildingPriceLevel_DisplayName,,Building Price Level
+Law_ChurchTithe_Description,,Determines what percentage every believer must pay the Church as a tithe.
+Law_ChurchTithe_DisplayName,,Church Tithe
+Law_ConstitutionalLaws_DisplayName,,Constitutional Laws
+Law_CriminalLaws_DisplayName,,Criminal Laws
+Law_CriminalLaws_DisplayName_alt,,Criminal
+Law_CurrentState_DisplayName,,Currently
+Law_Description,,"The rules that keep order in the city. Laws are set and shaped by those holding {O_TYP_CIVOFF_C}Civic Offices{##}, defining what is permitted — and what is not."
+Law_DisplayName,,Law
+Law_DisplayName_plural,,Laws
+Law_Duel_Description,,"Decides whether duellists will be punished for their deed, provided that is still necessary…"
+Law_Duel_DisplayName,,Duel
+Law_FinancialLaws_DisplayName,,Financial Laws
+Law_FinancialLaws_DisplayName_alt,,Financial
+Law_GuildTax_Description,,"Imposes a tax on guilds, contributing to the town's revenue."
+Law_GuildTax_DisplayName,,Guild Tax
+Law_ImportDuty_Description,,"The import duty protects the local commerce from outside competition, with revenue going to the town treasury."
+Law_ImportDuty_DisplayName,,Import Duty
+Law_IncomeLevel_Description,,Sets the salaries of all public officials. A convenient combination of civic duty and personal interest.
+Law_IncomeLevel_DisplayName,,Income Level
+Law_InheritanceTax_Description,,"Oh, double misfortune! First, a loss in the family, then a fortune in taxes — at least the town treasury is richer."
+Law_InheritanceTax_DisplayName,,Inheritance Tax
+Law_Insult_Description,,"\""If intelligence were an art, you'd be an empty canvas\"". Whether such speech should be punishable is ruled by this law."
+Law_Insult_DisplayName,,Insult
+Law_Kidnapping_Description,,This law regulates whether it should be customary and permitted to demand a bit of ransom now and then when one happens to be “short of funds”… A curious law.
+Law_Kidnapping_DisplayName,,Kidnapping
+Law_LawEffects,,In Practice
+Law_LeasePriceLevel_Description,,Sets the starting bid for securing leases on Resource Sites.
+Law_LeasePriceLevel_DisplayName,,Lease Price Level
+Law_Legislator_Label,,Legislator
+Law_MandatoryGuildMembership_Description,,Determines whether practicing certain professions requires compulsory guild membership.
+Law_MandatoryGuildMembership_DisplayName,,Mandatory Guild Membership
+Law_Necromancy_Description,,"Regulates the practice of necromancy, including the raising of the dead or communicating with spirits."
+Law_Necromancy_DisplayName,,Necromancy
+Law_Option_Allowed,,Legal
+Law_Option_Forbidden,,Illegal
+Law_Option_High,,High
+Law_Option_Lousy,,Lousy
+Law_Option_Low,,Low
+Law_Option_Medium,,Medium
+Law_Option_NoOfficialReligion,,Whatever
+Law_Option_VeryHigh,,Very High
+Law_Pickpocketing_Description,,Determines if helping yourself to someone else's coin purse deserves punishment.
+Law_Pickpocketing_DisplayName,,Pickpocketing
+Law_PossibleValues,,Can be
+Law_Punishment_Severity_Extreme,,Breaking this law may result in a {CR_TRIPUN_EXT_C}capital sentence{##}.
+Law_Punishment_Severity_Major,,Breaking this law may result in a {CR_TRIPUN_MAJ_C}severe sentence{##}.
+Law_Punishment_Severity_Minor,,Breaking this law may result in a {CR_TRIPUN_MIN_C}minor sentence{##}.
+Law_Punishment_Severity_Severe,,Breaking this law may result in a {CR_TRIPUN_SEV_C}major sentence{##}.
+Law_Punishment_Severity_Trivial,,Breaking this law may result in a {CR_TRIPUN_TRI_C}trivial sentence{##}.
+Law_RentPriceLevel_Description,,"Sets rent prices for workers in town, potentially influencing homelessness."
+Law_RentPriceLevel_DisplayName,,Rent Price Level
+Law_Sabotage_Description,,Regulates whether it's acceptable to secretly destroy property.
+Law_Sabotage_DisplayName,,Sabotage
+Law_SalesTax_Description,,Every merchant must contribute to the greater good by handing over a portion of their sales earnings to those who contribute nothing at all.
+Law_SalesTax_DisplayName,,Sales Tax
+Law_SeverityOfTheLaw_Description,,"Some rulers believe in second chances, others in iron-fisted justice. \nThe higher this law is, the harsher the {CR_TRIPUN_C}sentences{##}."
+Law_SeverityOfTheLaw_DisplayName,,Harshness of Punishments
+Law_Theft_Description,,Defines whether breaking into properties and stealing from them is punishable by law.
+Law_Theft_DisplayName,,Theft
+Law_Threatening_Description,,This law traces the fine line between persuasion and harassment.
+Law_Threatening_DisplayName,,Threatening
+Law_Torture_Description,,Pain can be an excellent teacher. This law determines whether Torture may be used as a means of interrogation and punishment.
+Law_Torture_DisplayName,,Torture
+Law_TownFaith_Description,,"Faith is a virtue, provided it is the correct one. Those found deviating from the accepted doctrine may find their faith tested under less-than-ideal conditions."
+Law_TownFaith_DisplayName,,Town Faith
+Law_Trashing_Description,,Determines whether hiring thugs in secrecy to beat someone up is legal.
+Law_Trashing_DisplayName,,Beat Up
+Law_Triggers,,Applies to
+Law_UseOfCannonTower_Description,,This law determines whether or not people may fire off their cannon over the town with impunity.
+Law_UseOfCannonTower_DisplayName,,Use of Cannon Towers
+Law_UseOfPerfume_Description,,"Perfumes, often associated with vanity and moral decay, may be banned for personal use."
+Law_UseOfPerfume_DisplayName,,Use of Perfumes
+Law_UseOfPotion_Description,,Is it science or sorcery? This law decides which one.
+Law_UseOfPotion_DisplayName,,Use of Potions
+Law_UsuriousInterest_Description,,"This law sets reasonable limits on loan rates, ensuring that lenders still make a fortune — just a slightly more respectable one."
+Law_UsuriousInterest_DisplayName,,Usurious Interest
+Law_WaylayingOfTransports_Description,,Decides if it's perfectly fine to ambush a cart and make a quick profit.
+Law_WaylayingOfTransports_DisplayName,,Waylaying of Transports
+Law_Witchcraft_Description,,"Regulates the practice of witchcraft, including curses and the use of mystical objects."
+Law_Witchcraft_DisplayName,,Witchcraft
+Lawbook_Screen_Description,,Here you'll find the {L_LAW_C}laws{##} that hold the city together — and the {O_TYP_CIVOFF_C}offices{##} that enforce them. 
+Lawbook_Screen_Description_extra1,,"Win an {O_ELE_C}election{##} to one of these roles, and you'll earn the power to shape those laws yourself."
+Lawbook_Screen_DisplayName,,Lawbook
+ManagedBy_Label,,Managed By
+Office_Appointers_Label,,Appointers
+Office_Appointers_List01,,{officeposition1}
+Office_Appointers_List02,,"{officeposition1}, and {officeposition2}"
+Office_Appointers_List03,,"{officeposition1}, {officeposition2}, and {officeposition3}"
+Office_Appointers_List04,,"{officeposition1}, {officeposition2}, {officeposition3}, and {officeposition4}"
+Office_Appointers_List05,,"{officeposition1}, {officeposition2}, {officeposition3}, {officeposition4}, and {officeposition5}"
+Office_Benefit_Action,,{Action} action
+Office_Benefit_CheapMalice,,Cheap Malice
+Office_Benefit_FeignTorture,,Feign Torture
+Office_Benefit_Income,,{income} income
+Office_Benefit_Juror,,{CR_TRI_JUR_C}Juror{##} {icon_01}
+Office_Benefit_JurorSubstitute_01,,Substitute {CR_TRI_JUR_C}Juror{##} {icon_01}
+Office_Benefit_JurorSubstitute_02,,Substitute {CR_TRI_JUR_C}Juror{##} {icon_01} and {icon_02}
+Office_Benefit_LegalImmunity,,Legal Immunity
+Office_Benefit_Legislator,,Legislates on
+Office_Benefit_LowCostTraining,,Low Cost Training in {skill}
+Office_Benefit_ReducedBuildingCosts,,Reduced Building Costs
+Office_Benefit_ShareOfRents,,Share of Rents
+Office_Benefit_Spymaster,,Spy Master
+Office_Benefit_TemporaryOwnership,,In charge of
+Office_Candidates_Label,,Candidates
+Office_Chamber_Description,,"{O_TYP_CIVOFF_C}Political authority{##} is divided among six chambers, each hierarchically organized with its own powers and duties."
+Office_Chamber_Description_extra1,,They are:
+Office_Chamber_DisplayName,,Chamber
+Office_Chamber_DisplayName_alt,,Office Chamber
+Office_Chamber_DisplayName_plural,,Chambers
+Office_Chamber_DisplayName_plural_alt,,Office Chambers
+Office_CurrentHolder_DisplayName,,Current holder
+Office_Election_Description,,{CHAR_CITVSWOR_C}Citizens{##} who meet the requirements may apply for {O_TYP_CIVOFF_C}office{##} in elections held the following {C_TRN_C}turn{##}. The appointers' good {CHAR_STA_C}opinion{##} of you — as well as strong {S_RHE_C}rhetoric{##} — can make all the difference.
+Office_Election_ApplicationsOpen_hour,,Applications open: {start}this turn–{end} next turn
+Office_Election_DisplayName,,Election
+Office_Election_CollectingApplications,,Collecting applications…
+Office_Election_CollectingApplications_Requirement,,Accepting office applications
+Office_Election_VotingInProgress,,The appointers are voting…
+Office_Election_UnmetRequirement_General_Message,,Requirements not met.
+Office_Election_UnmetRequirement_MaxApplicantsReached_Message,,Maximum number of candidates reached.
+Office_Election_UnmetRequirement_OfficeRank_Message,,Requires: Previous office rank {iconnumber}.
+Office_Election_UnmetRequirement_OpenAt_Message,,Applications open at {hour}.
+Office_Election_UnmetRequirement_Title_Message,,Requires: {title}.
+Office_Elections_Label,,Elections
+Office_Elections_Vote_Prompt,,Cast your vote
+Office_ElectionFor_Label,,Election for {officename}
+Office_EligibilityCivicOffice,,Can apply for the Civic Office of
+Office_EligibilityEmpireAuthority,,Can be appointed to the Empire Authority office of
+Office_EligibilityHonoraryOffice,,Can be nominated for the Honorary Office of
+Office_EligibilityOfCharacter_DisplayName,,Eligibility of {Title} {FirstName} {LastName}
+Office_NoOffice_Label,,No office
+Office_Position_Label,,Position
+Office_Position_Label_alt,,Office Position
+Office_PreviousPositionRequirement,,Have held a rank {icon_n} office position
+Office_PreviousPositionRequirement_alt,,Previously held an office one rank below this one
+Office_Removal_Description,,"When all {A_REMOFF_C}dismissals{##} are formally enacted, stripping them of office and the authority once held."
+Office_Removal_DisplayName,,Office Dismissal
+Office_Removal_DisplayName_plural,,Office Dismissals
+Office_TermsInOffice_DisplayName,,Terms in office
+Office_Vacant_Label,,vacant
+OfficePosition_ApplyForPosition_Prompt,,Apply for position
+OfficePosition_RetractApplication_Prompt,,Retract aplication
+OfficeTiers_Description,,"Office progression is organized into ranks from {icon_01} to {icon_09}. \n\nIf you wish to take part in the political life of the town, you must first become a citizen. \n\nFrom there, you begin at rank {icon_01} and work your way upward, step by step."
+OfficeTiers_DisplayName,,Office Tiers
+OfficeTree_Screen_DisplayName,,Office Chambers
+Politics_Concept_DisplayName,,Politics
+Trial_Accused_Prompt,,Answer charges
+Trial_Accuser_Prompt,,Present case
+Trial_Description,,"When you hold {CR_EVI_C}evidence{##} of a {CR_CRI_C}crime{##}, you may legally {A_PRECHA_C}press charges{##}. The {CR_TRI_JUR_C}Jury{##} decides whether the accused is guilty and should be {CR_TRIPUN_C}punished{##}, or absolved. If they are absolved, you must cover the costs of the proceedings, so try to be {S_RHE_C}convincing{##}."
+Trial_Description_extra1,,"However, if you are the one accused of a crime, do not rely on {S_RHE_C}rhetoric{##} alone. Try to {CHAR_STA_C}win over{##} the jury before the trial even begins. Perhaps {A_BRI_C}greasing their palms{##} would help — if that is not illegal, of course."
+Trial_DisplayName,,Trial
+Trial_Jury_Prompt,,Submit verdict
+Trial_Participant_Accused_DisplayName,,Accused
+Trial_Participant_Accuser_DisplayName,,Accuser
+Trial_Participant_Jury_DisplayName,,Jury
+Trial_Punishment_Description,,"After being found guilty in a {CR_TRI_C}trial{##}, the accused is punished accordingly. The penalty depends on the {CR_SEV_C}severity of the crime{##} and how {L_LAWSEV_C}harsh{##} the current law is."
+Trial_Punishment_Description_extra1,,It can be:
+Trial_Punishment_Description_extra2,,"If the accused is absolved, the crime is erased from their record, and the accuser must pay for the trial proceedings."
+Trial_Punishment_DisplayName,,Sentence
+Trial_Punishment_Execution,,Sentenced to {ST_CHR_DEAMAR_C}death{##}
+Trial_Punishment_Extreme_Description,,Capital Sentence
+Trial_Punishment_Extreme_DisplayName,,Capital Sentence
+Trial_Punishment_Fine_Wealth,,Fined {value}% of {CHAR_WEA_C}wealth{##}
+Trial_Punishment_Imprisonment,,{ST_CHR_IMP_C}Imprisoned{##}
+Trial_Punishment_Major_Description,,Severe Sentence
+Trial_Punishment_Major_DisplayName,,Severe Sentence
+Trial_Punishment_Minor_Description,,Minor Sentence
+Trial_Punishment_Minor_DisplayName,,Minor Sentence
+Trial_Punishment_PropertyConfiscation,,One {B_TYP_OCCBUI_C}professional building{##} confiscated
+Trial_Punishment_RemovalFromOffice,,Removed from {O_TYP_CIVOFF_C}office{##}
+Trial_Punishment_Severe_Description,,Major Sentence
+Trial_Punishment_Severe_DisplayName,,Major Sentence
+Trial_Punishment_StandingWithEveryCharacter,,{value} everyone's {CHAR_STA_C}opinion{##} of you
+Trial_Punishment_StandingWithAccused,,tbd
+Trial_Punishment_Torture,,Subjected to torture
+Trial_Punishment_Trivial_Description,,Trivial Sentence
+Trial_Punishment_Trivial_DisplayName,,Trivial Sentence
+Trial_Result_Guilty_DisplayName,,Guilty
+Trial_Result_NotGuilty_DisplayName,,Not Guilty
+Trial_Rules_Description,,"To deliver a fair verdict in a {CR_TRI_C}trial{##}, the jury evaluates the {CR_EVI_C}evidence{##} and {S_RHE_C}arguments{##} from both sides.\nStill, partiality and {CHAR_STA_C}opinion{##} may sway their judgment."
+Trial_Rules_Description_extra1,,"In case of a tie, position {icon_01} has the deciding vote. If vacant, position {icon_02} decides. If all members are absent, the accused is {CR_TRIPUN_C}absolved{##}."
+Trial_Rules_Description_extra2,,The jury consists of:
+Trial_Rules_Description_extra3,,"If any of these positions are vacant, a substitute juror will be assigned."
+Trial_Rules_DisplayName,,Trial Outcome Rules
+Trial_Spectator_Prompt,,Watch proceedings
+Trial_WaitingForJury_Message,,The jury is deciding…
+Vote_Abstain_Prompt,,Abstain
+Vote_SubmitVote_Prompt,,Submit your vote
+Vote_SubmitedVote_Label,,Vote Submitted
+Vote_Abstained_Label,,Abstained
+Evidence_OnCharacter,,You have evidence against them.
+Evidence_OnCharacter_LookingFor,,You are spying on them.
+Trial_Result_Guilty,,"By decision of the jury, {gender}|gender({charactername} is guilty, {charactername} is guilty)."
+Trial_Result_NotGuilty,,"By decision of the jury, {gender}|gender({charactername} is absolved, {charactername} is absolved)."
+Office_Election_AppointerCandidate_CannotVote_BeforeApplying_Warning,,"By applying for this position, you give up your right to vote in this election."
+Office_Election_AppointerCandidate_CannotVote_DuringElection_Warning,,You cannot be both an appointer and a candidate in the same election. You can no longer vote.
+Office_Election_AppointerCandidate_AutomaticVote_Warning,,"As both an appointer and a candidate, your vote is automatically cast for yourself."
+Trial_AccusedAndCrime,,"Trial: {name}, {crime}"

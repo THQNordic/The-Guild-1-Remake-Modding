@@ -1,149 +1,149 @@
-Key,SourceString,Translation
-Accident_Description,"Accidents happen — just less often with better {B_PARAM_ACCPRO_C}prevention{##}. You can also {A_TRAWORSKI_C}train your workers' skills{##}, which not only improves {CHAR_PRO_C}productivity{##} but also reduces the {ACC_CHAACC_C}chance of accidents{##}.",
-Accident_DisplayName,Accident,
-AccidentChance_DisplayName,Accident Chance,
-AccidentChance_Value,"{value} per {duration}|plural(one={duration} minute, other={duration} minutes)",
-AccidentChance_Description,"Accidents happen — just less often with better {B_PARAM_ACCPRO_C}prevention{##}. You can also {A_TRAWORSKI_C}train your workers' skills{##}, which not only improves {CHAR_PRO_C}productivity{##} but also reduces the {ACC_CHAACC_C}chance of accidents{##}.",
-AccidentChance_Effect_Base_DisplayName,Inherent Risk,
-AccidentChance_Effect_Base_Description,"Every task comes with its own risks. Some are safer, while others are more prone to {ACC_C}accidents{##} — especially in unskilled hands.",
-AccidentChance_Effect_WorkLocation_DisplayName,Task Location,
-AccidentChance_Effect_WorkLocation_Description,"Within your walls, {B_IMP_OCCBUI_ACCPRO_C}safety measures{##} protect your workers. ",
-AccidentChance_Effect_WorkLocation_Description_extra1,"Outside, the world is less forgiving. When assigning {A_ACT_OUT_C}outdoor tasks{##}, watch the {QUA_CRI_C}crime rate{##} — where crime runs high, accidents tend to follow.",
-AccidentChance_Effect_QuarterAccidentChance_DisplayName,Quarter Accident Risk,
-AccidentChance_Effect_QuarterAccidentChance_Description,"A loose cobble, a crowded alley, and the occasional knife in the dark — accidents take many forms. In {C_QUA_C}quarters{##} with higher risk, such misfortunes are more likely to find your workers during {A_ACT_OUT_C}outdoor tasks{##}.",
-Activity_OnTheWayTo,On the way…,
-Activity_OutsideWorkingHours,Awaiting next shift.,
-Activity_Returning,Returning…,
-Activity_SendWorker_Prompt,Send,
-Activity_WorkingOnSite,Working on site.,
-AssignWorkers_Prompt,"Assign workers to tasks. If a task requires materials, ensure they are available in the {B_STOROO_C}storeroom{##}.",
-CharacterType_Worker_AllWorkers_DisplayName,All Workers,
-CharacterType_Worker_DisplayName,Worker,
-CharacterType_Worker_DisplayName_plural,Workers,
-Employee_DisplayName,Employee,
-Employee_DisplayName_plural,Employees,
-EmployeeManagement_Header_DisplayName,Manage your workers,
-EmployeeManagement_HireEmployee_Prompt,Hire a new worker.,
-EmployeeManagement_HireMaster_Prompt,Hire a master to take care of your business,
-Employment_DisplayName,Employment,
-Employment_Message_CurrentlyUnemployed,Currently unemployed,
-Energy_Regeneration_Tip,Unassigned workers recover {CHAR_ENE_C}energy{##} faster. Sometimes it's best to let them rest so they return more {CHAR_PRO_C}productive{##}.,
-Expenses_DisplayName,Annual expenses,
-FireEmployee_Confirmation_Prompt,"Fire {WorkerName}?\n\nExcept for crafting, any worker fired while performing a task will complete it before leaving their post permanently.",
-FireEmployee_DisplayName,Fire Worker,
-FireEmployee_Prompt,Fire,
-Hiring_DontHireAnyWorker_Prompt,No one,
-Hiring_HireSelectedWorker_Prompt,Hire,
-Hiring_HireWorkerAction_DisplayName,Hire Worker,
-Hiring_HiringFee_DisplayName,Hiring fee,
-Hiring_SelectWorkerToHire_Prompt,Select an apprentice to hire.,
-Manager_Budget_DisplayName,Budget,
-Manager_Competency_DisplayName_plural,Competencies,
-Parameter_Productivity_Description,"Reflects how quickly and effectively a worker completes their {A_ACT_C}tasks{##}. \nWorkers are more productive when assigned to tasks that match their {S_C}skills{##}. And the higher the {CHAR_ENE_C}energy{##}, the more productive they become.",
-Parameter_Productivity_DisplayName,Productivity,
-Productivity_Effect_Base_Description,Every worker can manage some honest work.,
-Productivity_Effect_Base_DisplayName,Innate Productivity,
-Productivity_Effect_Building_Description,"With {B_IMP_OCCBUI_PROD_C}proper tools{##}, your workers become more {CHAR_PRO_C}productive{##}.",
-Productivity_Effect_Building_DisplayName,Workplace,
-Productivity_Effect_Employer_Description,"When running a business, the better the {B_OCC_MGR_C}master{##} is at the {S_C}skills{##} a task requires, the better they can direct the workers, making them more {CHAR_PRO_C}productive{##}.",
-Productivity_Effect_Employer_DisplayName,Skilled Master,
-Productivity_Effect_Energy_Description,A worker's {CHAR_PRO_C}productivity{##} depends heavily on {CHAR_ENE_C}energy{##}.,
-Productivity_Effect_Energy_DisplayName,Energy,
-Productivity_Effect_Fallback_Description,"What a mystery, huh?",
-Productivity_Effect_Fallback_DisplayName,Unknown Source,
-Rank_Apprentice_DisplayName,Apprentice,
-Rank_Description,"Every worker starts as an Apprentice and can be {A_PROWOR_C}promoted{##} to Journeyman as they gain {CHAR_XP_C}experience{##}. \nJourneymen are more {CHAR_PRO_C}efficient{##}, less prone to {B_PARAM_ACCPRO_ACC}accidents{##}, but expect higher salaries.",
-Rank_DisplayName,Expertise,
-Rank_Expert_DisplayName,Expert,
-Rank_Journeyman_DisplayName,Journeyman,
-Rank_Master_DisplayName,Master,
-Salary_Description,High pay costs more but buys loyalty — enough to make rough treatment bearable.,
-Salary_DisplayName,Salary,
-Salary_DisplayName_plural,Salaries,
-Salary_OneTimeBonusAction_Description,Give the workers a little extra. Let them think they've found something worth staying for.,
-Salary_OneTimeBonusAction_Prompt,Pay One Time Bonus,
-Salary_Total_Tooltip,Total salaries paid within this building.,
-SendToRest_Description,Send a worker home to recover {CHAR_ENE_C}energy{##} and reduce the risk of spreading disease.,
-SendToRest_DisplayName,Send To Rest,
-Skill_Productivity_Tip,"A worker with the right {S_C}skills{##} knows what they're doing. Assign the right worker to the right {A_ACT_C}task{##}, and they'll be more {CHAR_PRO_C}productive{##} and less prone to {ACC_C}accidents{##}.",
-StandingTowardsEmployer_Description,Reflects the workers' loyalty and satisfaction with their working conditions. A low opinion suggests they are likely to seek service elsewhere soon.,
-StandingTowardsEmployer_DisplayName,Opinion towards employer,
-Treatment_Benevolence_DisplayName,Benevolence,
-Treatment_Description,Harsher treatment boosts {CHAR_PRO_C}productivity{##} but steadily lowers {CHAR_STA_WOR_C}opinion{##}; push too far and workers quit.,
-Treatment_DisplayName,Treatment,
-Treatment_Exploitation_DisplayName,Exploitation,
-Treatment_Oppression_DisplayName,Oppression,
-Treatment_Patronage_DisplayName,Patronage,
-Treatment_Standard_DisplayName,Standard,
-WorkingHours_Description,Determines when workers begin and end their shifts. Working hours vary by profession and season to make use of available daylight.,
-WorkingHours_DisplayName,Working Hours,
-YouWorkers_Label,Your workers,
-Employment_Smith_Apprentice_DisplayName,Smith Apprentice,
-Employment_Joiner_Apprentice_DisplayName,Joiner Apprentice,
-Employment_Preacher_Apprentice_DisplayName,Preacher Apprentice,
-Employment_GraveyardWarden_Apprentice_DisplayName,Graveyard Warden Apprentice,
-Employment_Alchemist_Apprentice_DisplayName,Alchemist Apprentice,
-Employment_Perfumer_Apprentice_DisplayName,Perfumer Apprentice,
-Employment_Innkeeper_Apprentice_DisplayName,Innkeeper Apprentice,
-Employment_StoneMason_Apprentice_DisplayName,Stone Mason Apprentice,
-Employment_MoneyLender_Apprentice_DisplayName,Moneylender Apprentice,
-Employment_Thief_Apprentice_DisplayName,Thief Apprentice,
-Employment_Robber_Apprentice_DisplayName,Robber Apprentice,
-Employment_Guard_Apprentice_DisplayName,Guard Apprentice,
-Employment_Tailor_Apprentice_DisplayName,Tailor Apprentice,
-Employment_Trader_Apprentice_DisplayName,Trader Apprentice,
-Employment_TravellingEntertainer_Apprentice_DisplayName,Circus Artist Apprentice,
-Employment_Smith_Journeyman_DisplayName,Smith Journeyman,
-Employment_Joiner_Journeyman_DisplayName,Joiner Journeyman,
-Employment_Preacher_Journeyman_DisplayName,Preacher Journeyman,
-Employment_GraveyardWarden_Journeyman_DisplayName,Graveyard Warden Journeyman,
-Employment_Alchemist_Journeyman_DisplayName,Alchemist Journeyman,
-Employment_Perfumer_Journeyman_DisplayName,Perfumer Journeyman,
-Employment_Innkeeper_Journeyman_DisplayName,Innkeeper Journeyman,
-Employment_StoneMason_Journeyman_DisplayName,Stone Mason Journeyman,
-Employment_MoneyLender_Journeyman_DisplayName,Moneylender Journeyman,
-Employment_Thief_Journeyman_DisplayName,Thief Journeyman,
-Employment_Robber_Journeyman_DisplayName,Robber Journeyman,
-Employment_Guard_Journeyman_DisplayName,Guard Journeyman,
-Employment_Tailor_Journeyman_DisplayName,Tailor Journeyman,
-Employment_Trader_Journeyman_DisplayName,Trader Journeyman,
-Employment_TravellingEntertainer_Journeyman_DisplayName,Circus Artist Journeyman,
-Employment_Smith_Description,Shapes metal goods and weapons at a {B_OCC_SMI_C}Smithy{##}.,
-Employment_Joiner_Description,"Crafts wooden items, and rebuilds carts in a {B_OCC_JOI_C}Joiner's Workshop{##}.",
-Employment_Preacher_Description,Serves the faithful in a {B_OCC_PRE_C}Church{##}.,
-Employment_GraveyardWarden_Description,Tends graves and maintains the {B_OCC_GRA_C}Graveyard{##}.,
-Employment_Alchemist_Description,Brews mixtures and conducts experiments in an {B_OCC_ALC_C}Alchemist's Lab{##}.,
-Employment_Perfumer_Description,"Creates fragrances, oils, and scented goods in a {B_OCC_PER_C}Perfumery{##}.",
-Employment_Innkeeper_Description,Serves guests and tends duties within an {B_OCC_INN_C}Inn{##}.,
-Employment_StoneMason_Description,"Cuts and tames stubborn stone for roadwork, foundations, and more at the {B_OCC_MAS_C}Masonry{##}.",
-Employment_MoneyLender_Description,Handles accounts and financial dealings in a {B_OCC_MONLEN_C}Counting House{##}.,
-Employment_Thief_Description,Steals valuables and operates discreetly from a hidden {B_OCC_THI_C}Hideout{##}.,
-Employment_Robber_Description,Conducts robberies and waylays carts from a {B_OCC_ROB_C}Robber Baron's Fortress{##}.,
-Employment_Guard_Description,Patrols streets and trains within the {B_OCC_GUA_C}Barracks{##}.,
-Employment_Tailor_Description,Sews garments and fine clothing in a {B_OCC_TAI_C}Tailor's Workshop{##}.,
-Employment_Trader_Description,"Buys, sells, and handles goods in a {B_OCC_TRA_C}Storehouse{##}.",
-Employment_TravellingEntertainer_Description,Performs tricks and entertains audiences from a {B_OCC_ENT_C}Travelling Circus Camp{##}.,
-PickWorker,Select Worker,
-AssignWorkerToTask,Assign Worker,
-OpenWorkerContextMenu,Open Worker Context Menu,
-MyWorker_DisplayName_plural,My Workers,
-TaskContextMenu_AssignAllFreeWorkers_prompt,Assign Idle Workers ({NumWorkers}),
-TaskContextMenu_UnassignAllWorkers_prompt,Unassign All Workers ({NumWorkers}),
-TaskContextMenu_UnassignAllWorkers_prompt_alt,Dismiss All Workers ({NumWorkers}),
-TaskContextMenu_DisplayName,Task Menu,
-TaskContextMenu_DisableRepeating_prompt,Disable Auto-Repeat,
-TaskContextMenu_EnableRepeating_prompt,Enable Auto-Repeat,
-TaskContextMenu_DisableRepeating_Description,"After the assigned workers complete this task once, they will be idle and await new orders.",
-TaskContextMenu_EnableRepeating_Description,The workers assigned to this task will repeat it automatically until you unassign them.,
-TaskContextMenu_EnableRepeating_NotPossible,This task cannot be repeated automatically. Assign workers manually to do it again.,
-TaskContextMenu_Storage_Destination_Header,Where should your newly crafted items go?,
-TaskContextMenu_Storage_Destination_Hybrid_DisplayName,Hybrid,
-TaskContextMenu_Storage_Destination_Hybrid_Description,Keep a set amount in the storeroom. Anything above that goes to the storefront.,
-TaskContextMenu_Storage_Destination_Hybrid_Limit,Stock up to,
-TaskContextMenu_Storage_Destination_Hybrid_TooltipWithNumber,"Up to {NumItems}|plural(one={NumItems} item stays, other={NumItems} items stay) in the storeroom. Any surplus goes to the storefront.",
-TaskContextMenu_Storage_Destination_Storefront_Tooltip,All crafted items go to the storefront.,
-TaskContextMenu_Storage_Destination_Storeroom_Tooltip,All crafted items go to the storeroom.,
-TaskContextMenu_Storage_Tooltip_OpenContextMenu,Right-click to configure,
-WorkersAtYourBusiness,At your business,
-Employer_DisplayName,Employer,
-Employer_DisplayName_plural,Employers,
+Key,Namespace,Translation
+Accident_Description,,"Accidents happen — just less often with better {B_PARAM_ACCPRO_C}prevention{##}. You can also {A_TRAWORSKI_C}train your workers' skills{##}, which not only improves {CHAR_PRO_C}productivity{##} but also reduces the {ACC_CHAACC_C}chance of accidents{##}."
+Accident_DisplayName,,Accident
+AccidentChance_DisplayName,,Accident Chance
+AccidentChance_Value,,"{value} per {duration}|plural(one={duration} minute, other={duration} minutes)"
+AccidentChance_Description,,"Accidents happen — just less often with better {B_PARAM_ACCPRO_C}prevention{##}. You can also {A_TRAWORSKI_C}train your workers' skills{##}, which not only improves {CHAR_PRO_C}productivity{##} but also reduces the {ACC_CHAACC_C}chance of accidents{##}."
+AccidentChance_Effect_Base_DisplayName,,Inherent Risk
+AccidentChance_Effect_Base_Description,,"Every task comes with its own risks. Some are safer, while others are more prone to {ACC_C}accidents{##} — especially in unskilled hands."
+AccidentChance_Effect_WorkLocation_DisplayName,,Task Location
+AccidentChance_Effect_WorkLocation_Description,,"Within your walls, {B_IMP_OCCBUI_ACCPRO_C}safety measures{##} protect your workers. "
+AccidentChance_Effect_WorkLocation_Description_extra1,,"Outside, the world is less forgiving. When assigning {A_ACT_OUT_C}outdoor tasks{##}, watch the {QUA_CRI_C}crime rate{##} — where crime runs high, accidents tend to follow."
+AccidentChance_Effect_QuarterAccidentChance_DisplayName,,Quarter Accident Risk
+AccidentChance_Effect_QuarterAccidentChance_Description,,"A loose cobble, a crowded alley, and the occasional knife in the dark — accidents take many forms. In {C_QUA_C}quarters{##} with higher risk, such misfortunes are more likely to find your workers during {A_ACT_OUT_C}outdoor tasks{##}."
+Activity_OnTheWayTo,,On the way…
+Activity_OutsideWorkingHours,,Awaiting next shift.
+Activity_Returning,,Returning…
+Activity_SendWorker_Prompt,,Send
+Activity_WorkingOnSite,,Working on site.
+AssignWorkers_Prompt,,"Assign workers to tasks. If a task requires materials, ensure they are available in the {B_STOROO_C}storeroom{##}."
+CharacterType_Worker_AllWorkers_DisplayName,,All Workers
+CharacterType_Worker_DisplayName,,Worker
+CharacterType_Worker_DisplayName_plural,,Workers
+Employee_DisplayName,,Employee
+Employee_DisplayName_plural,,Employees
+EmployeeManagement_Header_DisplayName,,Manage your workers
+EmployeeManagement_HireEmployee_Prompt,,Hire a new worker.
+EmployeeManagement_HireMaster_Prompt,,Hire a master to take care of your business
+Employment_DisplayName,,Employment
+Employment_Message_CurrentlyUnemployed,,Currently unemployed
+Energy_Regeneration_Tip,,Unassigned workers recover {CHAR_ENE_C}energy{##} faster. Sometimes it's best to let them rest so they return more {CHAR_PRO_C}productive{##}.
+Expenses_DisplayName,,Annual expenses
+FireEmployee_Confirmation_Prompt,,"Fire {WorkerName}?\n\nExcept for crafting, any worker fired while performing a task will complete it before leaving their post permanently."
+FireEmployee_DisplayName,,Fire Worker
+FireEmployee_Prompt,,Fire
+Hiring_DontHireAnyWorker_Prompt,,No one
+Hiring_HireSelectedWorker_Prompt,,Hire
+Hiring_HireWorkerAction_DisplayName,,Hire Worker
+Hiring_HiringFee_DisplayName,,Hiring fee
+Hiring_SelectWorkerToHire_Prompt,,Select an apprentice to hire.
+Manager_Budget_DisplayName,,Budget
+Manager_Competency_DisplayName_plural,,Competencies
+Parameter_Productivity_Description,,"Reflects how quickly and effectively a worker completes their {A_ACT_C}tasks{##}. \nWorkers are more productive when assigned to tasks that match their {S_C}skills{##}. And the higher the {CHAR_ENE_C}energy{##}, the more productive they become."
+Parameter_Productivity_DisplayName,,Productivity
+Productivity_Effect_Base_Description,,Every worker can manage some honest work.
+Productivity_Effect_Base_DisplayName,,Innate Productivity
+Productivity_Effect_Building_Description,,"With {B_IMP_OCCBUI_PROD_C}proper tools{##}, your workers become more {CHAR_PRO_C}productive{##}."
+Productivity_Effect_Building_DisplayName,,Workplace
+Productivity_Effect_Employer_Description,,"When running a business, the better the {B_OCC_MGR_C}master{##} is at the {S_C}skills{##} a task requires, the better they can direct the workers, making them more {CHAR_PRO_C}productive{##}."
+Productivity_Effect_Employer_DisplayName,,Skilled Master
+Productivity_Effect_Energy_Description,,A worker's {CHAR_PRO_C}productivity{##} depends heavily on {CHAR_ENE_C}energy{##}.
+Productivity_Effect_Energy_DisplayName,,Energy
+Productivity_Effect_Fallback_Description,,"What a mystery, huh?"
+Productivity_Effect_Fallback_DisplayName,,Unknown Source
+Rank_Apprentice_DisplayName,,Apprentice
+Rank_Description,,"Every worker starts as an Apprentice and can be {A_PROWOR_C}promoted{##} to Journeyman as they gain {CHAR_XP_C}experience{##}. \nJourneymen are more {CHAR_PRO_C}efficient{##}, less prone to {B_PARAM_ACCPRO_ACC}accidents{##}, but expect higher salaries."
+Rank_DisplayName,,Expertise
+Rank_Expert_DisplayName,,Expert
+Rank_Journeyman_DisplayName,,Journeyman
+Rank_Master_DisplayName,,Master
+Salary_Description,,High pay costs more but buys loyalty — enough to make rough treatment bearable.
+Salary_DisplayName,,Salary
+Salary_DisplayName_plural,,Salaries
+Salary_OneTimeBonusAction_Description,,Give the workers a little extra. Let them think they've found something worth staying for.
+Salary_OneTimeBonusAction_Prompt,,Pay One Time Bonus
+Salary_Total_Tooltip,,Total salaries paid within this building.
+SendToRest_Description,,Send a worker home to recover {CHAR_ENE_C}energy{##} and reduce the risk of spreading disease.
+SendToRest_DisplayName,,Send To Rest
+Skill_Productivity_Tip,,"A worker with the right {S_C}skills{##} knows what they're doing. Assign the right worker to the right {A_ACT_C}task{##}, and they'll be more {CHAR_PRO_C}productive{##} and less prone to {ACC_C}accidents{##}."
+StandingTowardsEmployer_Description,,Reflects the workers' loyalty and satisfaction with their working conditions. A low opinion suggests they are likely to seek service elsewhere soon.
+StandingTowardsEmployer_DisplayName,,Opinion towards employer
+Treatment_Benevolence_DisplayName,,Benevolence
+Treatment_Description,,Harsher treatment boosts {CHAR_PRO_C}productivity{##} but steadily lowers {CHAR_STA_WOR_C}opinion{##}; push too far and workers quit.
+Treatment_DisplayName,,Treatment
+Treatment_Exploitation_DisplayName,,Exploitation
+Treatment_Oppression_DisplayName,,Oppression
+Treatment_Patronage_DisplayName,,Patronage
+Treatment_Standard_DisplayName,,Standard
+WorkingHours_Description,,Determines when workers begin and end their shifts. Working hours vary by profession and season to make use of available daylight.
+WorkingHours_DisplayName,,Working Hours
+YouWorkers_Label,,Your workers
+Employment_Smith_Apprentice_DisplayName,,Smith Apprentice
+Employment_Joiner_Apprentice_DisplayName,,Joiner Apprentice
+Employment_Preacher_Apprentice_DisplayName,,Preacher Apprentice
+Employment_GraveyardWarden_Apprentice_DisplayName,,Graveyard Warden Apprentice
+Employment_Alchemist_Apprentice_DisplayName,,Alchemist Apprentice
+Employment_Perfumer_Apprentice_DisplayName,,Perfumer Apprentice
+Employment_Innkeeper_Apprentice_DisplayName,,Innkeeper Apprentice
+Employment_StoneMason_Apprentice_DisplayName,,Stone Mason Apprentice
+Employment_MoneyLender_Apprentice_DisplayName,,Moneylender Apprentice
+Employment_Thief_Apprentice_DisplayName,,Thief Apprentice
+Employment_Robber_Apprentice_DisplayName,,Robber Apprentice
+Employment_Guard_Apprentice_DisplayName,,Guard Apprentice
+Employment_Tailor_Apprentice_DisplayName,,Tailor Apprentice
+Employment_Trader_Apprentice_DisplayName,,Trader Apprentice
+Employment_TravellingEntertainer_Apprentice_DisplayName,,Circus Artist Apprentice
+Employment_Smith_Journeyman_DisplayName,,Smith Journeyman
+Employment_Joiner_Journeyman_DisplayName,,Joiner Journeyman
+Employment_Preacher_Journeyman_DisplayName,,Preacher Journeyman
+Employment_GraveyardWarden_Journeyman_DisplayName,,Graveyard Warden Journeyman
+Employment_Alchemist_Journeyman_DisplayName,,Alchemist Journeyman
+Employment_Perfumer_Journeyman_DisplayName,,Perfumer Journeyman
+Employment_Innkeeper_Journeyman_DisplayName,,Innkeeper Journeyman
+Employment_StoneMason_Journeyman_DisplayName,,Stone Mason Journeyman
+Employment_MoneyLender_Journeyman_DisplayName,,Moneylender Journeyman
+Employment_Thief_Journeyman_DisplayName,,Thief Journeyman
+Employment_Robber_Journeyman_DisplayName,,Robber Journeyman
+Employment_Guard_Journeyman_DisplayName,,Guard Journeyman
+Employment_Tailor_Journeyman_DisplayName,,Tailor Journeyman
+Employment_Trader_Journeyman_DisplayName,,Trader Journeyman
+Employment_TravellingEntertainer_Journeyman_DisplayName,,Circus Artist Journeyman
+Employment_Smith_Description,,Shapes metal goods and weapons at a {B_OCC_SMI_C}Smithy{##}.
+Employment_Joiner_Description,,"Crafts wooden items, and rebuilds carts in a {B_OCC_JOI_C}Joiner's Workshop{##}."
+Employment_Preacher_Description,,Serves the faithful in a {B_OCC_PRE_C}Church{##}.
+Employment_GraveyardWarden_Description,,Tends graves and maintains the {B_OCC_GRA_C}Graveyard{##}.
+Employment_Alchemist_Description,,Brews mixtures and conducts experiments in an {B_OCC_ALC_C}Alchemist's Lab{##}.
+Employment_Perfumer_Description,,"Creates fragrances, oils, and scented goods in a {B_OCC_PER_C}Perfumery{##}."
+Employment_Innkeeper_Description,,Serves guests and tends duties within an {B_OCC_INN_C}Inn{##}.
+Employment_StoneMason_Description,,"Cuts and tames stubborn stone for roadwork, foundations, and more at the {B_OCC_MAS_C}Masonry{##}."
+Employment_MoneyLender_Description,,Handles accounts and financial dealings in a {B_OCC_MONLEN_C}Counting House{##}.
+Employment_Thief_Description,,Steals valuables and operates discreetly from a hidden {B_OCC_THI_C}Hideout{##}.
+Employment_Robber_Description,,Conducts robberies and waylays carts from a {B_OCC_ROB_C}Robber Baron's Fortress{##}.
+Employment_Guard_Description,,Patrols streets and trains within the {B_OCC_GUA_C}Barracks{##}.
+Employment_Tailor_Description,,Sews garments and fine clothing in a {B_OCC_TAI_C}Tailor's Workshop{##}.
+Employment_Trader_Description,,"Buys, sells, and handles goods in a {B_OCC_TRA_C}Storehouse{##}."
+Employment_TravellingEntertainer_Description,,Performs tricks and entertains audiences from a {B_OCC_ENT_C}Travelling Circus Camp{##}.
+PickWorker,,Select Worker
+AssignWorkerToTask,,Assign Worker
+OpenWorkerContextMenu,,Open Worker Context Menu
+MyWorker_DisplayName_plural,,My Workers
+TaskContextMenu_AssignAllFreeWorkers_prompt,,Assign Idle Workers ({NumWorkers})
+TaskContextMenu_UnassignAllWorkers_prompt,,Unassign All Workers ({NumWorkers})
+TaskContextMenu_UnassignAllWorkers_prompt_alt,,Dismiss All Workers ({NumWorkers})
+TaskContextMenu_DisplayName,,Task Menu
+TaskContextMenu_DisableRepeating_prompt,,Disable Auto-Repeat
+TaskContextMenu_EnableRepeating_prompt,,Enable Auto-Repeat
+TaskContextMenu_DisableRepeating_Description,,"After the assigned workers complete this task once, they will be idle and await new orders."
+TaskContextMenu_EnableRepeating_Description,,The workers assigned to this task will repeat it automatically until you unassign them.
+TaskContextMenu_EnableRepeating_NotPossible,,This task cannot be repeated automatically. Assign workers manually to do it again.
+TaskContextMenu_Storage_Destination_Header,,Where should your newly crafted items go?
+TaskContextMenu_Storage_Destination_Hybrid_DisplayName,,Hybrid
+TaskContextMenu_Storage_Destination_Hybrid_Description,,Keep a set amount in the storeroom. Anything above that goes to the storefront.
+TaskContextMenu_Storage_Destination_Hybrid_Limit,,Stock up to
+TaskContextMenu_Storage_Destination_Hybrid_TooltipWithNumber,,"Up to {NumItems}|plural(one={NumItems} item stays, other={NumItems} items stay) in the storeroom. Any surplus goes to the storefront."
+TaskContextMenu_Storage_Destination_Storefront_Tooltip,,All crafted items go to the storefront.
+TaskContextMenu_Storage_Destination_Storeroom_Tooltip,,All crafted items go to the storeroom.
+TaskContextMenu_Storage_Tooltip_OpenContextMenu,,Right-click to configure
+WorkersAtYourBusiness,,At your business
+Employer_DisplayName,,Employer
+Employer_DisplayName_plural,,Employers

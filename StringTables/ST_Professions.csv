@@ -1,72 +1,72 @@
-Key,SourceString,Translation
-ActiveProfession_Description,"Your {P_C}profession{##} defines the actions you can take, others' {CHAR_STA_C}opinion{##} of you, and how you progress through {P_MASGRA_C}Mastery Grades{##}.",
-ActiveProfession_Description_extra1,"You may unlock and specialize in multiple {P_C}professions{##} without losing progress or benefits, but only one can be {A_ACTPRO_C}set as your line of work{##} at a time.",
-ActiveProfession_Description_extra2,{CHAR_XP_C}Experience{##} is earned exclusively in your Active Profession and used to advance its {P_MASGRA_C}Mastery Grades{##}.,
-ActiveProfession_DisplayName,Active Profession,
-ActiveProfession_Innactive_DisplayName,Other professions,
-CanRunBuilding_Header,Can operate,
-Profession_Alchemist_Description,"Operates an {B_OCC_ALC_C}Alchemist's Lab{##}, researching mixtures, remedies, and {A_ACT_PESCON_C}pest-control{##} concoctions.",
-Profession_Alchemist_DisplayName,Alchemist,
-Profession_Alchemist_DisplayName_plural,Alchemists,
-Profession_Description,A profession defines your trade and determines which {B_TYP_OCCBUI_C}business building{##} you can operate.,
-Profession_Description_extra1,"Over time, you gain {CHAR_XP_C}experience{##} in your {P_ACTPRO_C}active profession{##}, advancing through six {A_MASGRA_C}Mastery Grades{##} within its {B_GUILD_C}guild{##}.",
-Profession_Description_extra2,"Higher grades unlock building upgrades, new actions, and passive benefits.",
-Profession_DisplayName,Profession,
-Profession_DisplayName_plural,Professions,
-Profession_GraveyardWarden_Description,Manages burial grounds and oversees operations at the {B_OCC_GRA_C}Graveyard{##}.,
-Profession_GraveyardWarden_DisplayName,Graveyard Warden,
-Profession_GraveyardWarden_DisplayName_plural,Graveyard Wardens,
-Profession_Guard_Description,"Oversees security operations and commands the {B_OCC_GUA_C}Barracks{##}, organizing {A_ACT_GUAPAT_C}patrols{##} and maintaining order.",
-Profession_Guard_DisplayName,Guard,
-Profession_Guard_DisplayName_plural,Guards,
-Profession_Innkeeper_Description,"Owns and manages an {B_OCC_INN_C}Inn{##}, hosting travelers while {A_ACT_FINEVIFROWOR_C}gathering rumors{##} and arranging {A_ACT_LIVPER_C}entertainment{##}.",
-Profession_Innkeeper_DisplayName,Innkeeper,
-Profession_Innkeeper_DisplayName_plural,Innkeepers,
-Profession_Joiner_Description,"Oversees a {B_OCC_JOI_C}Joiner's Workshop{##}, supplying wooden tools, and {A_ACT_IMPCAR_C}sturdier carts{##}.",
-Profession_Joiner_DisplayName,Joiner,
-Profession_Joiner_DisplayName_plural,Joiners,
-Profession_MoneyLender_Description,"Controls loans, debts, and financial dealings from a {B_OCC_MONLEN_C}Counting House{##}.",
-Profession_MoneyLender_DisplayName,Moneylender,
-Profession_MoneyLender_DisplayName_plural,Moneylenders,
-Profession_Perfumer_Description,"Runs a {B_OCC_PER_C}Perfumery{##}, producing fragrances and scented goods that {A_ACT_SCEENH_C}attract customers{##}.",
-Profession_Perfumer_DisplayName,Perfumer,
-Profession_Perfumer_DisplayName_plural,Perfumers,
-Profession_Preacher_Description,"Leads worship and oversees affairs within a {B_OCC_PRE_C}Church{##}, delivering {A_ACT_HOLSTRSER_C}sermons{##}, {A_ACT_PASVIS_C}absolving sins{##}, and {A_PRAOTH_C}praying{##} for the faithful.",
-Profession_Preacher_DisplayName,Preacher,
-Profession_Preacher_DisplayName_plural,Preachers,
-Profession_Robber_Description,"Commands raids and controls a {B_OCC_ROB_C}Robber Baron's Fortress{##}, organizing {A_ACT_ROB_C}break-ins{##} and {A_ACT_WAYTRA_C}cart ambushes{##}.",
-Profession_Robber_DisplayName,Robber,
-Profession_Robber_DisplayName_plural,Robbers,
-Profession_Smith_Description,"Owns and operates a {B_OCC_SMI_C}Smithy{##}, producing metal goods, tools, and weapons. They install iron bars on windows to {A_ACT_STRBAR_C}reinforce security{##}, giving would-be robbers serious second thoughts.",
-Profession_Smith_DisplayName,Smith,
-Profession_Smith_DisplayName_plural,Smiths,
-Profession_StoneMason_Description,"Directs stoneworking projects and operates a {B_OCC_MAS_C}Masonry{##}, {A_ACT_IMPQUA_C}improving roads{##} and {A_ACT_IMPSTR_C}building foundations{##}.",
-Profession_StoneMason_DisplayName,Stone Mason,
-Profession_StoneMason_DisplayName_plural,Stone Masons,
-Profession_Tailor_Description,"Operates a {B_OCC_TAI_C}Tailor's Workshop{##}, producing garments and {A_ACT_SEWCLO_C}refining attire{##} for paying clients.",
-Profession_Tailor_DisplayName,Tailor,
-Profession_Tailor_DisplayName_plural,Tailors,
-Profession_Thief_Description,"Leads covert operations from a hidden {B_OCC_THI_C}Hideout{##}, orchestrating {A_ACT_PICPOCCIT_C}scams{##}, {A_ACT_PICPOC_C}thefts{##}, and {A_ACT_FRAFORCRI_C}planted evidence{##}.",
-Profession_Thief_DisplayName,Thief,
-Profession_Thief_DisplayName_plural,Thieves,
-Profession_Trader_Description,Manages trade operations and oversees goods stored in a {B_OCC_TRA_C}Storehouse{##}.,
-Profession_Trader_DisplayName,Trader,
-Profession_Trader_DisplayName_plural,Traders,
-Profession_TravellingEntertainer_Description,"Leads performances and manages a {B_OCC_ENT_C}Travelling Circus Camp{##}, drawing crowds with spectacles and amusement.",
-Profession_TravellingEntertainer_DisplayName,Circus Artist,
-Profession_TravellingEntertainer_DisplayName_plural,Circus Artists,
-ProfessionRequired_Header,Profession,
-ProfessionRequired_level_Header,Profession,
-SelectProfession_Prompt,Select a profession,
-StartingProfession_Description,What calling shall you first embrace?  You may learn more professions later.,
-StartingProfession_DisplayName,Starting Profession,
-StartingProfession_Warning,Here are the professions available for your chosen backstory.,
-XP_Description,You steadily gain experience in your {P_ACTPRO_C}active profession{##} as time passes.,
-XP_Description_extra1,"If you want to accelerate that growth, consider enrolling in {A_TRAPRO_C}specialized training{##} at the {B_GUILD_C}Guild{##} to earn a {A_MASGRA_C}Mastery Grade{##} more quickly.",
-XP_Description_extra2,"Your {CHAR_CITVSWOR_C}workers{##} also accumulate experience over time, but they'll be ready for a {A_PROWOR_C}promotion{##} much sooner if you {A_TRAWOREXP_C}mentor{##} them.",
-XP_DisplayName,XP,
-XP_DisplayName_alt,Profession Experience,
-XP_ProgressBar_Description,"Once the progress bar is full, go to the {B_GUILD_C}Guild{##} and advance to the next {P_MASGRA_C}Mastery Grade{##} in your profession.",
-XP_ProgressBar_Description_extra1,"Once the progress bar is full, the character can advance to a higher {P_MASGRA_C}Mastery Grade{##} in their field of work.",
-NoProfession,No Profession,
-NoProfession_alt_02,Yet to find a calling…,
+Key,Namespace,Translation
+ActiveProfession_Description,,"Your {P_C}profession{##} defines the actions you can take, others' {CHAR_STA_C}opinion{##} of you, and how you progress through {P_MASGRA_C}Mastery Grades{##}."
+ActiveProfession_Description_extra1,,"You may unlock and specialize in multiple {P_C}professions{##} without losing progress or benefits, but only one can be {A_ACTPRO_C}set as your line of work{##} at a time."
+ActiveProfession_Description_extra2,,{CHAR_XP_C}Experience{##} is earned exclusively in your Active Profession and used to advance its {P_MASGRA_C}Mastery Grades{##}.
+ActiveProfession_DisplayName,,Active Profession
+ActiveProfession_Innactive_DisplayName,,Other professions
+CanRunBuilding_Header,,Can operate
+Profession_Alchemist_Description,,"Operates an {B_OCC_ALC_C}Alchemist's Lab{##}, researching mixtures, remedies, and {A_ACT_PESCON_C}pest-control{##} concoctions."
+Profession_Alchemist_DisplayName,,Alchemist
+Profession_Alchemist_DisplayName_plural,,Alchemists
+Profession_Description,,A profession defines your trade and determines which {B_TYP_OCCBUI_C}business building{##} you can operate.
+Profession_Description_extra1,,"Over time, you gain {CHAR_XP_C}experience{##} in your {P_ACTPRO_C}active profession{##}, advancing through six {A_MASGRA_C}Mastery Grades{##} within its {B_GUILD_C}guild{##}."
+Profession_Description_extra2,,"Higher grades unlock building upgrades, new actions, and passive benefits."
+Profession_DisplayName,,Profession
+Profession_DisplayName_plural,,Professions
+Profession_GraveyardWarden_Description,,Manages burial grounds and oversees operations at the {B_OCC_GRA_C}Graveyard{##}.
+Profession_GraveyardWarden_DisplayName,,Graveyard Warden
+Profession_GraveyardWarden_DisplayName_plural,,Graveyard Wardens
+Profession_Guard_Description,,"Oversees security operations and commands the {B_OCC_GUA_C}Barracks{##}, organizing {A_ACT_GUAPAT_C}patrols{##} and maintaining order."
+Profession_Guard_DisplayName,,Guard
+Profession_Guard_DisplayName_plural,,Guards
+Profession_Innkeeper_Description,,"Owns and manages an {B_OCC_INN_C}Inn{##}, hosting travelers while {A_ACT_FINEVIFROWOR_C}gathering rumors{##} and arranging {A_ACT_LIVPER_C}entertainment{##}."
+Profession_Innkeeper_DisplayName,,Innkeeper
+Profession_Innkeeper_DisplayName_plural,,Innkeepers
+Profession_Joiner_Description,,"Oversees a {B_OCC_JOI_C}Joiner's Workshop{##}, supplying wooden tools, and {A_ACT_IMPCAR_C}sturdier carts{##}."
+Profession_Joiner_DisplayName,,Joiner
+Profession_Joiner_DisplayName_plural,,Joiners
+Profession_MoneyLender_Description,,"Controls loans, debts, and financial dealings from a {B_OCC_MONLEN_C}Counting House{##}."
+Profession_MoneyLender_DisplayName,,Moneylender
+Profession_MoneyLender_DisplayName_plural,,Moneylenders
+Profession_Perfumer_Description,,"Runs a {B_OCC_PER_C}Perfumery{##}, producing fragrances and scented goods that {A_ACT_SCEENH_C}attract customers{##}."
+Profession_Perfumer_DisplayName,,Perfumer
+Profession_Perfumer_DisplayName_plural,,Perfumers
+Profession_Preacher_Description,,"Leads worship and oversees affairs within a {B_OCC_PRE_C}Church{##}, delivering {A_ACT_HOLSTRSER_C}sermons{##}, {A_ACT_PASVIS_C}absolving sins{##}, and {A_PRAOTH_C}praying{##} for the faithful."
+Profession_Preacher_DisplayName,,Preacher
+Profession_Preacher_DisplayName_plural,,Preachers
+Profession_Robber_Description,,"Commands raids and controls a {B_OCC_ROB_C}Robber Baron's Fortress{##}, organizing {A_ACT_ROB_C}break-ins{##} and {A_ACT_WAYTRA_C}cart ambushes{##}."
+Profession_Robber_DisplayName,,Robber
+Profession_Robber_DisplayName_plural,,Robbers
+Profession_Smith_Description,,"Owns and operates a {B_OCC_SMI_C}Smithy{##}, producing metal goods, tools, and weapons. They install iron bars on windows to {A_ACT_STRBAR_C}reinforce security{##}, giving would-be robbers serious second thoughts."
+Profession_Smith_DisplayName,,Smith
+Profession_Smith_DisplayName_plural,,Smiths
+Profession_StoneMason_Description,,"Directs stoneworking projects and operates a {B_OCC_MAS_C}Masonry{##}, {A_ACT_IMPQUA_C}improving roads{##} and {A_ACT_IMPSTR_C}building foundations{##}."
+Profession_StoneMason_DisplayName,,Stone Mason
+Profession_StoneMason_DisplayName_plural,,Stone Masons
+Profession_Tailor_Description,,"Operates a {B_OCC_TAI_C}Tailor's Workshop{##}, producing garments and {A_ACT_SEWCLO_C}refining attire{##} for paying clients."
+Profession_Tailor_DisplayName,,Tailor
+Profession_Tailor_DisplayName_plural,,Tailors
+Profession_Thief_Description,,"Leads covert operations from a hidden {B_OCC_THI_C}Hideout{##}, orchestrating {A_ACT_PICPOCCIT_C}scams{##}, {A_ACT_PICPOC_C}thefts{##}, and {A_ACT_FRAFORCRI_C}planted evidence{##}."
+Profession_Thief_DisplayName,,Thief
+Profession_Thief_DisplayName_plural,,Thieves
+Profession_Trader_Description,,Manages trade operations and oversees goods stored in a {B_OCC_TRA_C}Storehouse{##}.
+Profession_Trader_DisplayName,,Trader
+Profession_Trader_DisplayName_plural,,Traders
+Profession_TravellingEntertainer_Description,,"Leads performances and manages a {B_OCC_ENT_C}Travelling Circus Camp{##}, drawing crowds with spectacles and amusement."
+Profession_TravellingEntertainer_DisplayName,,Circus Artist
+Profession_TravellingEntertainer_DisplayName_plural,,Circus Artists
+ProfessionRequired_Header,,Profession
+ProfessionRequired_level_Header,,Profession
+SelectProfession_Prompt,,Select a profession
+StartingProfession_Description,,What calling shall you first embrace?  You may learn more professions later.
+StartingProfession_DisplayName,,Starting Profession
+StartingProfession_Warning,,Here are the professions available for your chosen backstory.
+XP_Description,,You steadily gain experience in your {P_ACTPRO_C}active profession{##} as time passes.
+XP_Description_extra1,,"If you want to accelerate that growth, consider enrolling in {A_TRAPRO_C}specialized training{##} at the {B_GUILD_C}Guild{##} to earn a {A_MASGRA_C}Mastery Grade{##} more quickly."
+XP_Description_extra2,,"Your {CHAR_CITVSWOR_C}workers{##} also accumulate experience over time, but they'll be ready for a {A_PROWOR_C}promotion{##} much sooner if you {A_TRAWOREXP_C}mentor{##} them."
+XP_DisplayName,,XP
+XP_DisplayName_alt,,Profession Experience
+XP_ProgressBar_Description,,"Once the progress bar is full, go to the {B_GUILD_C}Guild{##} and advance to the next {P_MASGRA_C}Mastery Grade{##} in your profession."
+XP_ProgressBar_Description_extra1,,"Once the progress bar is full, the character can advance to a higher {P_MASGRA_C}Mastery Grade{##} in their field of work."
+NoProfession,,No Profession
+NoProfession_alt_02,,Yet to find a calling…

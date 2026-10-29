@@ -1,464 +1,464 @@
-Key,SourceString,Translation
-AllSaves_MultiplayerSingleplayer,All,
-Benefits_DisplayName,Benefits,
-Benefits_DisplayName_My,My Benefits,
-Benefits_Office,Office Benefits ({office}),
-Benefits_Office_NoField,Office Benefits,
-Benefits_Office_None,You currently hold no office position.,
-Benefits_Profession,Profession Benefits ({profession_lvl}),
-Benefits_Profession_NoField,Profession Benefits,
-Benefits_Title,Title Benefits ({title}),
-Benefits_Title_NoField,Title Benefits,
-Camera_Reset_DisplayName,Reset camera position,
-Camera_Reset_Shortcut,tbd,
-Camera_Rotate_DisplayName,Rotate camera,
-Camera_RotateLeft_DisplayName,Rotate left,
-Camera_RotateLeft_Shortcut,Right-hold or [Q],
-Camera_RotateRight_DisplayName,Rotate right,
-Camera_RotateRight_Shortcut,Right-hold or [E],
-Camera_ZoomIn_DisplayName,Zoom in,
-Camera_ZoomIn_Shortcut,Scroll up,
-Camera_ZoomOut_DisplayName,Zoom out,
-Camera_ZoomOut_Shortcut,Scroll down,
-CanConstruct_Header,Can construct,
-CanCraft_Header,Can craft,
-CanUpgrade_Header,Can upgrade,
-ChanceOfSuccess,{SUCCHA}{ChanceOfSuccess}%,
-ChanceOfSuccess_Description,"Represents how likely an outcome is to occur, taking into account skills, circumstances, and random factors.",
-ChanceOfSuccess_DisplayName,Outcome Chance,
-CharacterName_Format,{FirstName} {LastName},
-Chronicle_DisplayName,Chronicle,
-Chronicle_DisplayName_WithNumber,Chronicle (NumChronicle),
-Chronicle_SharedHistory_Header,Your shared history:,
-ComingSoon_Label,Coming soon…,
-ComingSoon_Warning_Description,"Patience, burgher! \nThe guild craftsmen are still hammering this feature into shape. It may not work as intended. It may not work at all.",
-ComingSoon_Warning_Description_Action,Some actions may not yet produce all of the effects we have planned for them. We are continuing to expand these systems and improve how their effects are communicated throughout the game.,
-ComingSoon_Warning_Description_Activity,Some activities may not yet produce all of the effects we have planned for them. We're developing additional features and clearer information as these systems continue to grow.,
-ComingSoon_Warning_Description_Improvement,"Some improvements do not currently provide gameplay effects. They will, however, add furniture or visual upgrades to your business or home while we continue working on their intended functionality.",
-ComingSoon_Warning_Description_Item,"All items can be traded, but some cannot be used yet. In some cases, their effects may represent only a small part of what we ultimately have planned for them.",
-ComingSoon_Warning_Description_Law,"All laws can be changed once you obtain the office position that grants the necessary authority. Some laws, however, are still awaiting the supporting systems that bring them to life, while others may not yet influence the world to their full intended extent.",
-ComingSoon_Warning_Description_StatusEffects,Some Status Effects and Traits may not yet produce all of the effects we have planned for them. We are continuing to expand these systems and improve how their effects are communicated throughout the game.,
-ComingSoon_Warning_DisplayName,Early Access,
-ContextMenu_DisplayName,Context Menu,
-ContextMenu_Open,Open Context Menu,
-Cost_Label,Cost,
-Costs_Label,Costs,
-CostsAndRequirements_Label,Costs and Requirements,
-Demo_DisplayName,Demo Edition,
-Demo_FullGameRequirement_Description,"Oh, you want that too? Yeah… not in the demo, sadly. You'll find it in the full game.",
-Demo_FullGameRequirement_DisplayName,Full Game,
-Demo_FullGameRequirement_Warning,Not available in the demo,
-Demo_GameLobby_Message,"Hey, thanks for jumping in!\nWe genuinely appreciate you trying out our game.\n\nThis is a demo version, offering a glimpse of what The Guild 1 Remake: Europa 1410 has to offer. We hope you enjoy building your business and shaping your story.\n\nDon't forget to wishlist the game on Steam so you don't miss the full release.",
-Demo_GameLobby_Message_alt,This demo offers a glimpse of what The Guild 1 Remake: Europa 1410 has to offer. We hope you enjoy building your business and shaping your story.,
-Demo_MaxTurns_Header,Well played! You've reached the end of the demo.,
-Demo_MaxTurns_Message,Thank you for playing Europa 1410. We hope you enjoyed your playthrough.\nWishlist the game on Steam so you don't miss the full release and any news from us!,
-Demo_Multiplayer_Description,"In multiplayer, you'll be able to scheme and cooperate with other players.",
-Demo_Multiplayer_DisplayName,Coming soon!,
-Demo_TurnsRemaining_Description,"Sadly, the accountants refuse to simulate history past {NumYear} without additional funding. Thank you for playing our Demo!",
-Demo_TurnsRemaining_DisplayName,"{NumTurns} {NumTurns}|plural(one=turn,other=turns) remaining",
-Demo_Victory_Description,"Thrive for {NumYears} {NumYears}|plural(one=year,other=years)",
-Demo_Victory_DisplayName,Grow your business,
-Diorama_Enter,Visit: {place},
-Diorama_Interaction_Instruction,Click a character to learn more about them and see the actions available.,
-Diorama_Leave,Return to the City,
-EarlyAccess_GameLobby_Message,"This game is still being developed by a small, dedicated team, and you will most certainly encounter unfinished features and bugs. Your feedback is extremely valuable for the future development of the game. Please join our Discord to share your thoughts, report issues, or just chat with us about The Guild!",
-EarlyAccess_GameLobby_Title,Early Access,
-EarlyAccess_Steam_Prompt,Get Early Access,
-EveryTurn_Label,Every turn,
-EveryTurn_Label_alt,Annually,
-Filter_SortBy,Filter by: ,
-GameLobby_Message,"Hey, thanks for jumping in!\nWe genuinely appreciate you giving our game a try.\n\nThis is an <text fontface=\""bold\"">early build</>, so some things may be missing or break. We're eager to hear your thoughts — so don't forget to fill out the <text fontface=\""bold\"">feedback survey</>. It helps us build a better version!\n \nIf anything feels confusing, check the guide for a smoother experience.\nJoin our <text fontface=\""bold\"">private Discord</> server to discuss with other playtesters and us devs!",
-GameModeMultiplayer_GameName,Game Name,
-GameModeMultiplayer_HotJoin,Allow Hot Join,
-GameModeMultiplayer_Label,Multiplayer,
-GameModeMultiplayer_NumberOfPlayers,{server} ({city}) {CurPlayers}/{MaxPlayers} players,
-GameModeMultiplayer_Password,Password,
-GameModeMultiplayer_Password_Invalid,Invalid Password,
-GameModeMultiplayer_PrivateGame,Private Game,
-GameModeMultiplayer_PrivateGame_alt,Private,
-GameModeMultiplayer_Prompt,Open to Multiplayer,
-GameModeMultiplayer_PublicGame,Public Game,
-GameModeMultiplayer_PublicGame_alt,Public,
-GameModeMultiplayer_WaitingForOtherPlayers,Waiting for other players…,
-GameModeSingleplayer_Label,Singleplayer,
-GameModeSingleplayer_Prompt,Play in Singleplayer,
-GameOver_DisplayName,Game Over,
-GameOver_NoHeir_Description,"With no heir to bear it, your name is buried with you. Time remembers what it chooses. Will it remember you?",
-General_Amount_CurrentMax,{Current}/{Maximum},
-General_BulletPointListItem, • {ListItem},
-General_Button_Accept,Accept,
-General_Button_Apply,Apply,
-General_Button_Back,Back,
-General_Button_Cancel,Cancel,
-General_Button_CancelChanges,Cancel Changes,
-General_Button_CancelSelection,Cancel Selection,
-General_Button_Cheat,Cheat,
-General_Button_Close,Close,
-General_Button_Confirm,Confirm,
-General_Button_Continue,Continue,
-General_Button_ContinuePlaying,Continue Playing,
-General_Button_DoNothing,Do nothing,
-General_Button_Delete,Delete,
-General_Button_Edit,Edit,
-General_Button_Exit,Exit,
-General_Button_HostGame,Host Game,
-General_Button_Manage,Manage,
-General_Button_Next,Next,
-General_Button_No,No,
-General_Button_OK,OK,
-General_Button_Previous,Previous,
-General_Button_Quit,Quit,
-General_Button_Quit_Confirmation,Are you sure you want to quit?,
-General_Button_QuitToDesktop,Quit to Desktop,
-General_Button_QuitToMainMenu,Quit to Main Menu,
-General_Button_Refuse,Refuse,
-General_Button_Resume,Resume,
-General_Button_Select,Select,
-General_Button_Start,Start,
-General_Button_StartGame,Start Game,
-General_Button_Yes,Yes,
-General_ColonSeparatedTerms,{term1}: {term2},
-General_Connector_Or, or ,
-General_MainMenu_Credits,Credits,
-General_MainMenu_JoinGame,Join Game,
-General_MainMenu_JoinServer,Join Server,
-General_MainMenu_LoadGame,Load Game,
-General_MainMenu_NewGame,New Game,
-General_MainMenu_Settings,Settings,
-General_SaveGame,Save Game,
-General_TermsSeparatedByGenericSymbol,{term1} · {term2},
-General_ValueAfterTerm,{term} ({value}),
-General_ValuePerYear,{value}/yr,
-Guildopedia_AllPages,All pages,
-Guildopedia_Buildings_Description,"Buildings each serve a role in the city. Some support {P_C}professions{##}, others serve the public. Most can be upgraded and fitted with improvements.",
-Guildopedia_Business_DisplayName,Business,
-Guildopedia_CrimeAndEvidence_DisplayName,Crime & Evidence,
-Guildopedia_Description,"A comprehensive record of laws, professions, buildings, and mechanics within the city.",
-Guildopedia_DisplayName,City Archives ,
-Guildopedia_General_Description,TBD,
-Guildopedia_General_DisplayName,General,
-Guildopedia_StatusEffectsAndTraits_DisplayName,Status Effects & Traits,
-HighlightInteractiveObjects_Instruction,Hold Alt to temporarily highlight all interactive objects.,
-HighlightOptions_DisplayName,Highlight Options,
-HighlightOptions_DisplayName_alt,Filters,
-HostGame_Start_Instruction,Select a city and a victory condition to proceed.,
-HUD_Timeline_Description,"Watch the flow of time, track business hours, and prepare for what's to come this turn.",
-HUD_Timeline_DisplayName,Timeline,
-InProgress,In progress…,
-JoinDiscord_Prompt,Join us on Discord,
-LedgerScreen_DisplayName,Ledger,
-Level_LevelUp_Prompt,Level up,
-Level_Number_Label,Level {number},
-LocalizationIncomplete_Warning_Message,Some parts of the game are not yet translated and will appear in English.,
-LocalizationIncomplete_Warning_Title,Localization in Progress,
-MaintenancePhase_AP_Description,The total amount of {CHAR_AP} for the next turn.,
-MaintenancePhase_AP_DisplayName,Action Points Balance,
-MaintenancePhase_BalanceCity_Description,The city's total funds after revenue and expenses.,
-MaintenancePhase_BalanceCity_DisplayName,Treasury Balance,
-MaintenancePhase_BalancePersonal_Description,The final sum of your coin purse after all income and expenses.,
-MaintenancePhase_BalancePersonal_Description_extra1,A negative balance for too long will result in being {ST_CHR_IMP_C}imprisoned{##}.,
-MaintenancePhase_BalancePersonal_DisplayName,Balance,
-MaintenancePhase_BusinessesRevenue_BuyBuilding_DisplayName,Acquisitions,
-MaintenancePhase_BusinessesRevenue_BuyGoods_DisplayName,Supplies (Marketplace),
-MaintenancePhase_BusinessesRevenue_BuyGoodsStorefront_DisplayName,Supplies (Storefront),
-MaintenancePhase_BusinessesRevenue_ConstructBuilding_DisplayName,Constructions,
-MaintenancePhase_BusinessesRevenue_ConstructRoom_DisplayName,Rooms,
-MaintenancePhase_BusinessesRevenue_Description,"Earnings from selling goods and services, reduced by the cost of materials, improvements, upgrades and repairs.",
-MaintenancePhase_BusinessesRevenue_DisplayName,Trade & Craft,
-MaintenancePhase_BusinessesRevenue_Improvement_DisplayName,Improvements,
-MaintenancePhase_BusinessesRevenue_Repair_DisplayName,Repairs,
-MaintenancePhase_BusinessesRevenue_SellBuilding_DisplayName,Buildings Sold,
-MaintenancePhase_BusinessesRevenue_SellGoods_DisplayName,Marketplace Sales,
-MaintenancePhase_BusinessesRevenue_SellGoodsStorefront_DisplayName,Storefront Sales,
-MaintenancePhase_BusinessesRevenue_UpgradeBuilding_DisplayName,Upgrades,
-MaintenancePhase_Cart_BuyCart_DisplayName,Cart Purchase,
-MaintenancePhase_Cart_RepairCart_DisplayName,Cart Repairs,
-MaintenancePhase_Cart_SellCart_DisplayName,Cart Sale,
-MaintenancePhase_CityQuarterReputationEndOfTurn_Description,"Money granted by the Crown. The higher the city's reputation, the more funding it receives.",
-MaintenancePhase_CityQuarterReputationEndOfTurn_DisplayName,Crown Funding,
-MaintenancePhase_CityTreasury_Description,"The city's common fund, managed by officials.",
-MaintenancePhase_CityTreasury_DisplayName,City Treasury,
-MaintenancePhase_DeathRemoveMoney_Description,Inheritance before the inheritance tax.,
-MaintenancePhase_DeathRemoveMoney_DisplayName,Estate,
-MaintenancePhase_Energy_Degeneration_DisplayName,Energy Decay,
-MaintenancePhase_EspionageCosts_DisplayName,Espionage Costs,
-MaintenancePhase_HouseExpenses_Construction_DisplayName,Constructions,
-MaintenancePhase_HouseExpenses_Description,The cost of keeping the house standing — from fixes to improvements and upgrades.,
-MaintenancePhase_HouseExpenses_DisplayName,Residences,
-MaintenancePhase_HouseExpenses_Improvements_DisplayName,Improvements,
-MaintenancePhase_HouseExpenses_Purchase_DisplayName,Acquisitions,
-MaintenancePhase_HouseExpenses_Repairs_DisplayName,Repairs,
-MaintenancePhase_HouseExpenses_Rooms_DisplayName,Rooms,
-MaintenancePhase_HouseExpenses_SellBuilding_DisplayName,Buildings Sold,
-MaintenancePhase_HouseExpenses_Upgrades_DisplayName,Upgrades,
-MaintenancePhase_Income_DisplayName,Income,
-MaintenancePhase_Inheritance_DisplayName,Inheritance,
-MaintenancePhase_Interactions_Description,Resources spent and received through actions.,
-MaintenancePhase_Interactions_DisplayName,Interactions,
-MaintenancePhase_OfficeIncome_Description,Coin earned by holding an office position.,
-MaintenancePhase_OfficeIncome_DisplayName,Office Income,
-MaintenancePhase_Payment_DisplayName,Expenses,
-MaintenancePhase_Personal_BuyFinishedProducts_DisplayName,{I_TYP_INVITE_C}Inventory Items{##} (Marketplace),
-MaintenancePhase_Personal_BuyFinishedProductsStorefront_DisplayName,{I_TYP_INVITE_C}Inventory Items{##} (Storefront),
-MaintenancePhase_Personal_Description,Personal expenses and gains.,
-MaintenancePhase_Personal_DisplayName,Personal,
-MaintenancePhase_Personal_PersonalCost_Description,tbd,
-MaintenancePhase_Personal_PersonalCost_DisplayName,Personal Spending,
-MaintenancePhase_PersonnelCosts_Bonuses_DisplayName,Bonuses,
-MaintenancePhase_PersonnelCosts_Description,"Salaries, hiring fees, and bonuses paid to workers.",
-MaintenancePhase_PersonnelCosts_DisplayName,Workforce,
-MaintenancePhase_PersonnelCosts_HiringCosts_DisplayName,Hiring Costs,
-MaintenancePhase_PersonnelCosts_Salaries_DisplayName,Salaries,
-MaintenancePhase_Taxes_Description,The sum of all levies and dues decreed in the lawbook.,
-MaintenancePhase_Taxes_DisplayName,Taxes,
-MaintenancePhase_Transaction_Fallback_Description,"What a mystery, huh?",
-MaintenancePhase_Transaction_Fallback_DisplayName,Unknown,
-MoneyPerHour,{CV_({Value})} {icon}/h,
-MoneyPerMinute,{CV_({Value})} {icon}/min,
-MoneyPerTurn,{CV_({Value})} {icon} every {C_TRN_C}turn{##},
-MoneyPerTurn_alt,{CV_({Value})} {icon}/{C_TRN_C}turn{##},
-MoneyPerYear,{CV_({Value})} {icon}/yr,
-MoveCameraTo_Button,Go to Location,
-OutcomePresentation_Header,The following changes occurred:,
-Parameter_Integrity_Description,"Buildings and carts wear down over time. Lost integrity means lost {B_PARAM_VAL_C}value{##}. Since your {CHAR_WEA_C}wealth{##} is measured by what you own, every crack and splinter lowers it.",
-Parameter_Integrity_DisplayName,Integrity,
-Parameter_IntegrityDecay_Description,Time is a patient vandal. Buildings slowly lose {B_HP_C}integrity{##} as the years pass.,
-Parameter_IntegrityDecay_Description_extra1,"Carts, however, suffer from use. The more often they travel, the more they wear down.",
-Parameter_IntegrityDecay_Description_extra2,"Some effects can make your buildings and carts more durable — or more fragile. Still, the safest choice is to buy {B_HP_MAX_C}sturdy{##} things to begin with.",
-Parameter_IntegrityDecay_DisplayName,Integrity Decay,
-Parameter_IntegrityMax_Description,Not all things are built alike. Maximum Integrity determines how much {B_HP_DEC_C}damage{##} a building or cart can endure before it fully deteriorates.,
-Parameter_IntegrityMax_Description_extra1,"The higher the Maximum Integrity, the longer it takes to wear down completely, provided it is kept in good condition.",
-Parameter_IntegrityMax_Description_extra2,Higher-level buildings usually have higher Maximum Integrity.,
-Parameter_IntegrityMax_DisplayName,Maximum Integrity,
-PauseMenuScreen_DisplayName,Pause Menu,
-PauseMenuScreen_Shortcut,[Esc],
-Player_DisplayName,Player,
-Player_DisplayName_plural,Players,
-Price_AllTimeHighCity,All-time high in city,
-Price_AllTimeLowCity,All-time low in city,
-Price_BasePrice_Name,Base Price,
-Price_Breakdown_Description,"Supply, demand and your {S_NEG_C}negotiation skill{##} push an item's price above or below its base value. Sales from your {B_STOFRO_C}storefront{##} benefit from the building's {B_HP_C}condition{##} and {B_PARAM_ATT_C}customer appeal{##}. Seasons and events can also affect prices.",
-Price_Breakdown_Name,Price Breakdown,
-Price_Buying_Label,Buying price,
-Price_Buying_Unavailable,Cannot be purchased here,
-Price_BuyingCurrent_Title,Current Prices to Buy,
-Price_BuyingInBuilding,Buying price in this building,
-Price_ForLocals_Description,Local business owners know the trade and won't overpay,
-Price_ForLocals_Name,Price for locals,
-Price_ForVisitors_Description,Traveling merchants and wanderers pay more when the place looks the part,
-Price_ForVisitors_Name,Price for visitors,
-Price_HighestCity,Highest in city,
-Price_InBuilding,Price in this building,
-Price_InBuilding_DisclaimerNoPrice,Not bought by this building,
-Price_LowestCity,Lowest in city,
-Price_Selling_Label,Selling price,
-Price_Selling_Unavailable,Cannot be sold here,
-Price_SellingCurrent_Title,Current Prices to Sell,
-Price_SellingInBuilding,Selling price in this building,
-Price_SellingInBuilding_Disclaimer,The final value shown here is an estimate. The actual value for any purchase made from your building will take into account the specifics of the buyer in addition to all other factors influencing the sell price.,
-PriceModifier_Attractiveness_Description,"Higher {B_PARAM_ATT_C}customer appeal{##} draws more buyers, making items more expensive.",
-PriceModifier_Attractiveness_DisplayName,Demand,
-PriceModifier_Buyer_Description,"Every buyer brings something to the bargaining table: skill, reputation, a charming smile, or a face the seller simply does not trust. It can all affect the price.",
-PriceModifier_Buyer_DisplayName,Buyer Influence,
-PriceModifier_Buyer_DisplayName_v2,Buyer,
-PriceModifier_Buying_Description,"When buying, prices are slightly higher than the market would pay.",
-PriceModifier_Buying_DisplayName,Market Spread,
-PriceModifier_BuyingBusiness_Description,"The business doing the buying brings its own advantages and disadvantages to the deal. Its reputation, improvements, working conditions, or whatever is currently going wrong behind the counter can affect the price.",
-PriceModifier_BuyingBusiness_DisplayName,Buying Business Influence,
-PriceModifier_Header,The displayed price already includes:,
-PriceModifier_Marketplace_Description,TBD,
-PriceModifier_Marketplace_DisplayName,Market price,
-PriceModifier_MarketplaceFee_Description,The city levies a modest fee off of each transaction for your privilege of doing business at the marketplace. Some refer to it as a protection fee and claim the Robber Baron offers better service.,
-PriceModifier_MarketplaceFee_DisplayName,Marketplace Fee,
-PriceModifier_PeriodYear_Description,"A lot can change in a year. A good harvest may fill the granaries, a growing city may empty them again, and yesterday's rarity may become tomorrow's common good. Prices change with the times.",
-PriceModifier_PeriodYear_DisplayName,Year,
-PriceModifier_PerItemAmountInBuilding_Description,"The amount of an item sitting in this building affects its price too. A full stock means lower prices, while running low makes every remaining piece more valuable.",
-PriceModifier_PerItemAmountInBuilding_DisplayName,Stock in This Building,
-PriceModifier_PerItemAmountInCity_Description,"The more of an item there is around the city, the less people are willing to pay for it. Scarce goods, on the other hand, can fetch a much better price.",
-PriceModifier_PerItemAmountInCity_DisplayName,Stock in City,
-PriceModifier_Season_Description,"Some goods fill every market stall in one season and are nowhere to be found in the next. People's needs change with the seasons too, and merchants know well enough to adjust their prices.",
-PriceModifier_Season_DisplayName,Seasonal Demand,
-PriceModifier_Seller_Description,"Every seller has their own way of doing business. Skill and reputation help, but so can a charming smile, a foul mood, or an inexplicable grudge against your hat. It can all affect the price.",
-PriceModifier_Seller_DisplayName,Seller Influence,
-PriceModifier_Seller_DisplayName_v2,Seller,
-PriceModifier_Selling_Description,"When selling, prices are slightly lower than the market would ask.",
-PriceModifier_Selling_DisplayName,Market Spread,
-PriceModifier_SellingBusiness_Description,"The business doing the selling matters too. Its reputation, improvements, working conditions, and the occasional bit of chaos on the premises can all find their way into the price.",
-PriceModifier_SellingBusiness_DisplayName,Selling Business Influence,
-PriceModifier_Skill_Negotiation_Description,{S_NEG_C}Negotiation{##} can shift prices in your favor — securing discounts when buying or better offers when selling.,
-PriceModifier_Skill_Negotiation_DisplayName,Salesmanship,
-PriceModifier_SrorefrontRevenue_DisplayName,Coin of Appreciation,
-PriceModifier_Storefront_Description,Prices at the {B_STOFRO_C}storefront{##} are often lower than those at the {B_PUB_MKT_C}marketplace{##}.,
-PriceModifier_Storefront_DisplayName,At the Source,
-PriceModifier_StorefrontRevenue_Description,The service is so good that customers willingly pay a little extra when buying directly from you. This bonus is calculated as a percentage of the {B_PARAM_STOREV_C}selling price{##}.,
-PriceModifier_TimeOfDay_Description,"Fresh bread is in high demand in the morning, while ale becomes more popular after a long day's work. Near the end of the day, even a stubborn merchant might lower the price rather than haul their wares back home. Prices can change quite a bit from dawn to dusk.",
-PriceModifier_TimeOfDay_DisplayName,Time of Day,
-PriceModifier_TouristTax_Description,"The accent gives them away every time. Visitors may not know the streets, the customs or the right price for an onion, but they will quickly learn about the city's hospitality fee.",
-PriceModifier_TouristTax_DisplayName,Hospitality Fee,
-Randomize_Button,Randomize,
-OpenSelectionDropdown_Button,Select from the list,
-ReportBug_Prompt,Report a bug,
-Requirements_Label,Requirements,
-RoadMap_Button,Check our Roadmap!,
-RoadMap_Button_alt,Roadmap,
-RomanNumeral_01,I,
-RomanNumeral_02,II,
-RomanNumeral_03,III,
-RomanNumeral_04,IV,
-RomanNumeral_05,V,
-RomanNumeral_06,VI,
-RomanNumeral_07,VII,
-RomanNumeral_08,VIII,
-RomanNumeral_09,IX,
-RomanNumeral_10,X,
-ScreenPan_Instruction,Left-click and drag to pan,
-ScreenRepositioning_Instruction,Grab the top of the window to reposition it.,
-ScreenZoom_Instruction,Scroll to zoom in and out,
-SearchBar_PlaceholderText,Type here…,
-SearchBar_Search,Search,
-Select_NoEligibleTarget,No suitable target can be found.,
-SelectACitizen_Prompt,Select a citizen,
-SelectACitizenOrWorker_Prompt,Select a target,
-SelectALocation_Prompt,Select a location,
-SelectAVictim_Prompt,Select a victim,
-SelectAWorker_Prompt,Select a worker,
-SelectChild_Prompt,Select a child,
-SelectCitizen_Prompt,"Select {NumCitizens} {NumCitizens}|plural(one=citizen,other=citizens)",
-SelectEvidence_Prompt,Select evidence,
-SelectTarget_Prompt,Select a target,
-SelectTarget_Prompt_alt,Select Target,
-SelectTargetFromScene_Prompt,Select target from scene.,
-SelectTargetFromScreen_Prompt,Select target from screen.,
-SelectToContinue,Select to continue:,
-SelectUpToCitizens_Prompt,"Select up to {NumCitizens} {NumCitizens}|plural(one=citizen,other=citizens)",
-SelectUpToWorkers_Prompt,"Select up to {NumWorkers} {NumWorkers}|plural(one=worker,other=workers)",
-SelectWhoWillReceiveInformation_Prompt,Select who will receive the information,
-SortBy_Ascending,Sort in Ascending Order,
-SortBy_Descending,Sort in Descending Order,
-SpeedControl_Faster_DisplayName,Faster speed,
-SpeedControl_Faster_Shortcut,[3],
-SpeedControl_Fastest_DisplayName,Fastest speed,
-SpeedControl_Fastest_Shortcut,[4],
-SpeedControl_Normal_DisplayName,Normal speed,
-SpeedControl_Normal_Shortcut,[2],
-SpeedControl_Pause_DisplayName,Pause,
-SpeedControl_Pause_Shortcut,[Space],
-SpeedControl_Slower_DisplayName,Slower speed,
-SpeedControl_Slower_Shortcut,[1],
-SpyingScreen_DisplayName,Crime & Evidence,
-TimeFormat_Duration_InHours,"{hour} {hourAbbreviation}|plural(one=hr, other=hrs)",
-TimeFormat_Duration_InMinutes,"{Minutes}|plural(one=1 minute, other={Minutes} minutes)",
-TimeLeft,{time} left,
-TimeRemaining,"Time remaining: {Minutes}|plural(one=1 minute, other={Minutes} minutes)",
-ToggleOverlay_Buildings_Prompt,Toggle Building Overlay,
-ToggleOverlay_District_Prompt,Toggle District Overlay,
-Tooltip_DisplayName,Tooltip,
-Tooltip_DisplayName_plural,Tooltips,
-TooltipClose_All,Dismiss All Locked Tooltips,
-TooltipClose_Instruction,Left-click to dismiss,
-TooltipLock,Lock Tooltip,
-TooltipLock_Instruction,Middle-click to lock,
-TributeToFirstGuild_GameLobby_Message,"The Guild 1 Remake: Europa 1410 is a deliberate return to the origins of the series and an homage to its first game, Europa 1400: The Guild.\n\nTrue to the original concept, you manage your business and guide your dynasty from a strategist's perspective rather than controlling characters directly. Set your plans and schemes in motion and watch how they unfold!",
-TributeToFirstGuild_GameLobby_Title,A Tribute to the First Guild,
-Turn_Description,"Time advances in turns.\nEach turn represents a full cycle of daily activity, from morning to night.\nWith every turn, the season and year progress.",
-Turn_DisplayName,Turn,
-Turn_DurationByTurn,tbd,
-Turn_DurationFromActivation,"The effect lasts for the stated number of turns, counted from the moment it begins.",
-Turn_NumberOfTurns,"{NumTurns} {C_TRN_C}{NumTurns}|plural(one=turn,other=turns){##}",
-Turn_NumberOfTurnsRemaining,{NumTurns} remaining,
-Unlocks_Label,Unlocks,
-UpcomingEventsScreen_Description,Shows list of upcoming events,
-UpcomingEventsScreen_DisplayName,Upcoming Events,
-UpcomingEventsScreen_Duel,{charactername1} against {charactername2},
-UpcomingEventsScreen_Duel_alt,{charactername1} vs. {charactername2},
-UpcomingEventsScreen_Elections_Appointer,{officeposition} (Appointing Official),
-UpcomingEventsScreen_Elections_Candiate,{officeposition} (Candidate),
-UpcomingEventsScreen_NextTurn,Next turn,
-UpcomingEventsScreen_OnTheNextNumberTurns,"On the next {NumTurns} {NumTurns}|plural(one=turn,other=turns)",
-UpcomingEventsScreen_ThisTurn,This turn,
-UpcomingEventsScreen_Trial,Accused: {1}\nAccuser: {2}\nCrime: {3}\nJury: {4},
-UpcomingEventsScreen_Wedding,{bride} and {groom},
-UpcomingEventsScreen_Wedding_alt,Bride and Groom:,
-VictoryCondition_Challenge_General_CongratulationText,Well done! You've completed a challenge.,
-VictoryCondition_Challenge_Office_CongratulationText,A foothold in the halls of power. The real game is just beginning.,
-VictoryCondition_Challenge_Title_CongratulationText,"You've risen above where you started. This is your first title, but there are greater ones still to claim.",
-VictoryCondition_Description,"Victory Conditions are the ultimate objectives of a match. Each match has a single Victory Condition shared by every dynasty head. Be the first to achieve it to win. If another dynasty reaches it first, you lose.",
-VictoryCondition_Description_extra1,You may continue playing after victory or defeat if you wish.,
-VictoryCondition_DisplayName,Victory Condition,
-VictoryCondition_General_CongratulationText,Success means something different to everyone. You found yours. What will you conquer next?,
-VictoryCondition_General_DefeatText,{player} is the first to fulfill a victory condition: {victorycondition}.,
-VictoryCondition_None_Description,No victory conditions. Follow your own ambitions.,
-VictoryCondition_None_DisplayName,Free Mode,
-VictoryCondition_Office_CongratulationText,"Congratulations! You earned influence and wielded it. Whether for the greater good or your own ambitions, you played the game and won it.",
-VictoryCondition_Office_Description,Be elected to a rank {icon_n} {O_TYP_CIVOFF_C}office position{##},
-VictoryCondition_Renown_CongratulationText,"Well done! Your dynasty will outlast you. Honor, reputation, the respect of the public... these are harder to build than any fortune, and you built them.",
-VictoryCondition_Renown_Description,Earn {value} {CHAR_REN_C}renown{##},
-VictoryCondition_Title_CongratulationText,"Congratulations! You proved that hard work and determination can rise above the station you were born into. The title is yours, and you earned every bit of it.",
-VictoryCondition_Title_Description,Attain the {T_C}title{##} of {title},
-VictoryCondition_Wealth_CongratulationText,"Impressive! You knew what others pretend not to — that money moves the world. While they chased prestige, you took the prize that matters.",
-VictoryCondition_Wealth_Description,Amass {value} {CHAR_WEA_C}wealth{##},
-Warning_SaveLimit_Header,Caution!,
-Warning_SaveLimit_Message,"You can keep up to {NumManual} {NumManual}|plural(one=manual save,other=manual saves) and {NumAuto} {NumAuto}|plural(one=autosave,other=autosaves) — tracked separately for singleplayer and multiplayer. Once you hit the limit, saving again will overwrite the oldest slot.",
-Wishlist_Steam_Prompt,Wishlist the game on Steam,
-Wishlist_Steam_Prompt_alt,Wishlist on Steam,
-NetworkFailure_ErrorMessage,Network connection lost. Please check your connection and try again.,
-BaseValue_DisplayName,Base Value,
-Selected_Generic,Selected:,
-LeftClickToPick_Instruction,Left-click to pick,
-LeftClickToDrop_Instruction,Left-click to drop,
-DeleteSave_DisplayName,Delete Save,
-DeleteSave_Confirmation,Are you sure you want to delete this save?,
-V2_UI_All_DisplayName,All of the following,
-V2_UI_Any_DisplayName,TBD,
-V2_UI_NotAny_DisplayName,TBD,
-V2_UI_NotAll_DisplayName,TBD,
-V2_UI_HasOne_DisplayName,TBD,
-V2_UI_NotOne_DisplayName,TBD,
-V2_UI_All_Description,All of the following must be true.,
-V2_UI_Any_Description,At least one of the following must be true.,
-V2_UI_NotAny_Description,All of the following must be false.,
-V2_UI_NotAll_Description,At least one of the following must be false.,
-V2_UI_HasOne_Description,Exactly one of the following must be true.,
-V2_UI_NotOne_Description,Anything exactly one of the following must be true.,
-Transaction_Income_Actions_CityReceivesActionCostMoney_DisplayName,Civic Service Fees,
-Transaction_Income_Actions_CityReceivesActionCostMoney_Description,"Requests, permits, titles, and other official services that keep city officials busy often come with a fee. Whether handled at the town hall or elsewhere, the money is meant to find its way into the city treasury — assuming, of course, the good principles of everyone involved.",
-Transaction_Income_CityStockReplenishment_SellToForeignRegions_DisplayName,Surplus Exports,
-Transaction_Income_CityStockReplenishment_SellToForeignRegions_Description,"When the city has more goods than it needs, the excess can be sold beyond its borders instead of left gathering dust. The proceeds are added to the city treasury.",
-Transaction_Payment_Actions_CitySpendsActionCostMoney_DisplayName,Public Works Expenses,
-Transaction_Payment_Actions_CitySpendsActionCostMoney_Description,"City officials use funds from the treasury to build, repair, and improve the city. At least, that is what the money is supposed to be for.",
-Transaction_Payment_Actions_CitySpendsActionOutcomeMoney_DisplayName,Civic Payouts,
-Transaction_Payment_Actions_CitySpendsActionOutcomeMoney_Description,"This is money the city pays because of the result of an official action, not the cost of carrying it out. Once the matter is resolved, rewards, compensation, reimbursements, and similar payouts may be taken from the city treasury.",
-Transaction_Payment_CityStockReplenishment_BuyFromForeignRegions_DisplayName,Stock Imports,
-Transaction_Payment_CityStockReplenishment_BuyFromForeignRegions_Description,"When the city runs short of goods needed by its markets and storehouses, more are purchased from beyond the region to replenish local stocks. The cost is paid from the city treasury.",
-RequirementSimple_AdultAge_DisplayName,"At least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old",
-RequirementSimple_ChildAge_DisplayName,"Under {heir_min_age} {heir_min_age}|plural(one=year,other=years) old",
-RequirementSimple_DoesNotOwnContextEntity_DisplayName,Does not own this building,
-RequirementSimple_DynastyHeir_DisplayName,Dynasty heir,
-RequirementSimple_HasAnyEvidence_DisplayName,Has evidence,
-RequirementSimple_HasChildren_DisplayName,Has children,
-RequirementSimple_HasCourtedCandidate_DisplayName,Is courting someone,
-RequirementSimple_HasEvidenceAgainstContextEntity_DisplayName,Has evidence against the target,
-RequirementSimple_HasEvidenceNotAgainstContextEntity_DisplayName,Has evidence against someone else,
-RequirementSimple_HasHeir_DisplayName,Has an heir,
-RequirementSimple_HasNoChildren_DisplayName,No children,
-RequirementSimple_HasNoCourtedCandidate_DisplayName,Is not courting anyone,
-RequirementSimple_HasNoEvidence_DisplayName,No evidence,
-RequirementSimple_HasNoHeir_DisplayName,No heir,
-RequirementSimple_HasNoOffice_DisplayName,Holds no office position,
-RequirementSimple_HasNoSpouse_DisplayName,Unmarried,
-RequirementSimple_HasOffice_DisplayName,Holds an office position,
-RequirementSimple_HasSpouse_DisplayName,Married,
-RequirementSimple_IsNotFullCitizen_DisplayName,Not a burgher,
-RequirementSimple_IsNotImprisoned_DisplayName,Not imprisoned,
-RequirementSimple_IsNotNoble_DisplayName,Not a noble,
-RequirementSimple_NotDynastyHead_DisplayName,Not the dynasty head,
-RequirementSimple_NotDynastyHeir_DisplayName,Not the dynasty heir,
-RequirementSimple_OwnsContextEntity_DisplayName,Owns this building,
-Transaction_Income_CashStash_OwnerTransferredFromOwnedStash_DisplayName,Withdrawal from Business Fund,
-Transaction_Income_CashStash_OwnerTransferredToOwnedStash_DisplayName,Deposit from Purse,
-Transaction_Payment_CashStash_OwnerTransferredFromOwnedStash_DisplayName,Withdrawal to Purse,
-Transaction_Payment_CashStash_OwnerTransferredToOwnedStash_DisplayName,Deposit to Business Fund,
-Transaction_Income_CashStash_OwnerTransferredFromOwnedStash_Description,Money withdrawn from a business's fund and added to your purse.,
-Transaction_Income_CashStash_OwnerTransferredToOwnedStash_Description,Money transferred from your purse into the business's fund.,
-Transaction_Payment_CashStash_OwnerTransferredFromOwnedStash_Description,Money withdrawn from a business's fund and added to your purse.,
-Transaction_Payment_CashStash_OwnerTransferredToOwnedStash_Description,Money transferred from your purse into the business's fund.,
+Key,Namespace,Translation
+AllSaves_MultiplayerSingleplayer,,All
+Benefits_DisplayName,,Benefits
+Benefits_DisplayName_My,,My Benefits
+Benefits_Office,,Office Benefits ({office})
+Benefits_Office_NoField,,Office Benefits
+Benefits_Office_None,,You currently hold no office position.
+Benefits_Profession,,Profession Benefits ({profession_lvl})
+Benefits_Profession_NoField,,Profession Benefits
+Benefits_Title,,Title Benefits ({title})
+Benefits_Title_NoField,,Title Benefits
+Camera_Reset_DisplayName,,Reset camera position
+Camera_Reset_Shortcut,,tbd
+Camera_Rotate_DisplayName,,Rotate camera
+Camera_RotateLeft_DisplayName,,Rotate left
+Camera_RotateLeft_Shortcut,,Right-hold or [Q]
+Camera_RotateRight_DisplayName,,Rotate right
+Camera_RotateRight_Shortcut,,Right-hold or [E]
+Camera_ZoomIn_DisplayName,,Zoom in
+Camera_ZoomIn_Shortcut,,Scroll up
+Camera_ZoomOut_DisplayName,,Zoom out
+Camera_ZoomOut_Shortcut,,Scroll down
+CanConstruct_Header,,Can construct
+CanCraft_Header,,Can craft
+CanUpgrade_Header,,Can upgrade
+ChanceOfSuccess,,{SUCCHA}{ChanceOfSuccess}%
+ChanceOfSuccess_Description,,"Represents how likely an outcome is to occur, taking into account skills, circumstances, and random factors."
+ChanceOfSuccess_DisplayName,,Outcome Chance
+CharacterName_Format,,{FirstName} {LastName}
+Chronicle_DisplayName,,Chronicle
+Chronicle_DisplayName_WithNumber,,Chronicle (NumChronicle)
+Chronicle_SharedHistory_Header,,Your shared history:
+ComingSoon_Label,,Coming soon…
+ComingSoon_Warning_Description,,"Patience, burgher! \nThe guild craftsmen are still hammering this feature into shape. It may not work as intended. It may not work at all."
+ComingSoon_Warning_Description_Action,,Some actions may not yet produce all of the effects we have planned for them. We are continuing to expand these systems and improve how their effects are communicated throughout the game.
+ComingSoon_Warning_Description_Activity,,Some activities may not yet produce all of the effects we have planned for them. We're developing additional features and clearer information as these systems continue to grow.
+ComingSoon_Warning_Description_Improvement,,"Some improvements do not currently provide gameplay effects. They will, however, add furniture or visual upgrades to your business or home while we continue working on their intended functionality."
+ComingSoon_Warning_Description_Item,,"All items can be traded, but some cannot be used yet. In some cases, their effects may represent only a small part of what we ultimately have planned for them."
+ComingSoon_Warning_Description_Law,,"All laws can be changed once you obtain the office position that grants the necessary authority. Some laws, however, are still awaiting the supporting systems that bring them to life, while others may not yet influence the world to their full intended extent."
+ComingSoon_Warning_Description_StatusEffects,,Some Status Effects and Traits may not yet produce all of the effects we have planned for them. We are continuing to expand these systems and improve how their effects are communicated throughout the game.
+ComingSoon_Warning_DisplayName,,Early Access
+ContextMenu_DisplayName,,Context Menu
+ContextMenu_Open,,Open Context Menu
+Cost_Label,,Cost
+Costs_Label,,Costs
+CostsAndRequirements_Label,,Costs and Requirements
+Demo_DisplayName,,Demo Edition
+Demo_FullGameRequirement_Description,,"Oh, you want that too? Yeah… not in the demo, sadly. You'll find it in the full game."
+Demo_FullGameRequirement_DisplayName,,Full Game
+Demo_FullGameRequirement_Warning,,Not available in the demo
+Demo_GameLobby_Message,,"Hey, thanks for jumping in!\nWe genuinely appreciate you trying out our game.\n\nThis is a demo version, offering a glimpse of what The Guild 1 Remake: Europa 1410 has to offer. We hope you enjoy building your business and shaping your story.\n\nDon't forget to wishlist the game on Steam so you don't miss the full release."
+Demo_GameLobby_Message_alt,,This demo offers a glimpse of what The Guild 1 Remake: Europa 1410 has to offer. We hope you enjoy building your business and shaping your story.
+Demo_MaxTurns_Header,,Well played! You've reached the end of the demo.
+Demo_MaxTurns_Message,,Thank you for playing Europa 1410. We hope you enjoyed your playthrough.\nWishlist the game on Steam so you don't miss the full release and any news from us!
+Demo_Multiplayer_Description,,"In multiplayer, you'll be able to scheme and cooperate with other players."
+Demo_Multiplayer_DisplayName,,Coming soon!
+Demo_TurnsRemaining_Description,,"Sadly, the accountants refuse to simulate history past {NumYear} without additional funding. Thank you for playing our Demo!"
+Demo_TurnsRemaining_DisplayName,,"{NumTurns} {NumTurns}|plural(one=turn,other=turns) remaining"
+Demo_Victory_Description,,"Thrive for {NumYears} {NumYears}|plural(one=year,other=years)"
+Demo_Victory_DisplayName,,Grow your business
+Diorama_Enter,,Visit: {place}
+Diorama_Interaction_Instruction,,Click a character to learn more about them and see the actions available.
+Diorama_Leave,,Return to the City
+EarlyAccess_GameLobby_Message,,"This game is still being developed by a small, dedicated team, and you will most certainly encounter unfinished features and bugs. Your feedback is extremely valuable for the future development of the game. Please join our Discord to share your thoughts, report issues, or just chat with us about The Guild!"
+EarlyAccess_GameLobby_Title,,Early Access
+EarlyAccess_Steam_Prompt,,Get Early Access
+EveryTurn_Label,,Every turn
+EveryTurn_Label_alt,,Annually
+Filter_SortBy,,Filter by: 
+GameLobby_Message,,"Hey, thanks for jumping in!\nWe genuinely appreciate you giving our game a try.\n\nThis is an <text fontface=\""bold\"">early build</>, so some things may be missing or break. We're eager to hear your thoughts — so don't forget to fill out the <text fontface=\""bold\"">feedback survey</>. It helps us build a better version!\n \nIf anything feels confusing, check the guide for a smoother experience.\nJoin our <text fontface=\""bold\"">private Discord</> server to discuss with other playtesters and us devs!"
+GameModeMultiplayer_GameName,,Game Name
+GameModeMultiplayer_HotJoin,,Allow Hot Join
+GameModeMultiplayer_Label,,Multiplayer
+GameModeMultiplayer_NumberOfPlayers,,{server} ({city}) {CurPlayers}/{MaxPlayers} players
+GameModeMultiplayer_Password,,Password
+GameModeMultiplayer_Password_Invalid,,Invalid Password
+GameModeMultiplayer_PrivateGame,,Private Game
+GameModeMultiplayer_PrivateGame_alt,,Private
+GameModeMultiplayer_Prompt,,Open to Multiplayer
+GameModeMultiplayer_PublicGame,,Public Game
+GameModeMultiplayer_PublicGame_alt,,Public
+GameModeMultiplayer_WaitingForOtherPlayers,,Waiting for other players…
+GameModeSingleplayer_Label,,Singleplayer
+GameModeSingleplayer_Prompt,,Play in Singleplayer
+GameOver_DisplayName,,Game Over
+GameOver_NoHeir_Description,,"With no heir to bear it, your name is buried with you. Time remembers what it chooses. Will it remember you?"
+General_Amount_CurrentMax,,{Current}/{Maximum}
+General_BulletPointListItem,, • {ListItem}
+General_Button_Accept,,Accept
+General_Button_Apply,,Apply
+General_Button_Back,,Back
+General_Button_Cancel,,Cancel
+General_Button_CancelChanges,,Cancel Changes
+General_Button_CancelSelection,,Cancel Selection
+General_Button_Cheat,,Cheat
+General_Button_Close,,Close
+General_Button_Confirm,,Confirm
+General_Button_Continue,,Continue
+General_Button_ContinuePlaying,,Continue Playing
+General_Button_DoNothing,,Do nothing
+General_Button_Delete,,Delete
+General_Button_Edit,,Edit
+General_Button_Exit,,Exit
+General_Button_HostGame,,Host Game
+General_Button_Manage,,Manage
+General_Button_Next,,Next
+General_Button_No,,No
+General_Button_OK,,OK
+General_Button_Previous,,Previous
+General_Button_Quit,,Quit
+General_Button_Quit_Confirmation,,Are you sure you want to quit?
+General_Button_QuitToDesktop,,Quit to Desktop
+General_Button_QuitToMainMenu,,Quit to Main Menu
+General_Button_Refuse,,Refuse
+General_Button_Resume,,Resume
+General_Button_Select,,Select
+General_Button_Start,,Start
+General_Button_StartGame,,Start Game
+General_Button_Yes,,Yes
+General_ColonSeparatedTerms,,{term1}: {term2}
+General_Connector_Or,, or 
+General_MainMenu_Credits,,Credits
+General_MainMenu_JoinGame,,Join Game
+General_MainMenu_JoinServer,,Join Server
+General_MainMenu_LoadGame,,Load Game
+General_MainMenu_NewGame,,New Game
+General_MainMenu_Settings,,Settings
+General_SaveGame,,Save Game
+General_TermsSeparatedByGenericSymbol,,{term1} · {term2}
+General_ValueAfterTerm,,{term} ({value})
+General_ValuePerYear,,{value}/yr
+Guildopedia_AllPages,,All pages
+Guildopedia_Buildings_Description,,"Buildings each serve a role in the city. Some support {P_C}professions{##}, others serve the public. Most can be upgraded and fitted with improvements."
+Guildopedia_Business_DisplayName,,Business
+Guildopedia_CrimeAndEvidence_DisplayName,,Crime & Evidence
+Guildopedia_Description,,"A comprehensive record of laws, professions, buildings, and mechanics within the city."
+Guildopedia_DisplayName,,City Archives 
+Guildopedia_General_Description,,TBD
+Guildopedia_General_DisplayName,,General
+Guildopedia_StatusEffectsAndTraits_DisplayName,,Status Effects & Traits
+HighlightInteractiveObjects_Instruction,,Hold Alt to temporarily highlight all interactive objects.
+HighlightOptions_DisplayName,,Highlight Options
+HighlightOptions_DisplayName_alt,,Filters
+HostGame_Start_Instruction,,Select a city and a victory condition to proceed.
+HUD_Timeline_Description,,"Watch the flow of time, track business hours, and prepare for what's to come this turn."
+HUD_Timeline_DisplayName,,Timeline
+InProgress,,In progress…
+JoinDiscord_Prompt,,Join us on Discord
+LedgerScreen_DisplayName,,Ledger
+Level_LevelUp_Prompt,,Level up
+Level_Number_Label,,Level {number}
+LocalizationIncomplete_Warning_Message,,Some parts of the game are not yet translated and will appear in English.
+LocalizationIncomplete_Warning_Title,,Localization in Progress
+MaintenancePhase_AP_Description,,The total amount of {CHAR_AP} for the next turn.
+MaintenancePhase_AP_DisplayName,,Action Points Balance
+MaintenancePhase_BalanceCity_Description,,The city's total funds after revenue and expenses.
+MaintenancePhase_BalanceCity_DisplayName,,Treasury Balance
+MaintenancePhase_BalancePersonal_Description,,The final sum of your coin purse after all income and expenses.
+MaintenancePhase_BalancePersonal_Description_extra1,,A negative balance for too long will result in being {ST_CHR_IMP_C}imprisoned{##}.
+MaintenancePhase_BalancePersonal_DisplayName,,Balance
+MaintenancePhase_BusinessesRevenue_BuyBuilding_DisplayName,,Acquisitions
+MaintenancePhase_BusinessesRevenue_BuyGoods_DisplayName,,Supplies (Marketplace)
+MaintenancePhase_BusinessesRevenue_BuyGoodsStorefront_DisplayName,,Supplies (Storefront)
+MaintenancePhase_BusinessesRevenue_ConstructBuilding_DisplayName,,Constructions
+MaintenancePhase_BusinessesRevenue_ConstructRoom_DisplayName,,Rooms
+MaintenancePhase_BusinessesRevenue_Description,,"Earnings from selling goods and services, reduced by the cost of materials, improvements, upgrades and repairs."
+MaintenancePhase_BusinessesRevenue_DisplayName,,Trade & Craft
+MaintenancePhase_BusinessesRevenue_Improvement_DisplayName,,Improvements
+MaintenancePhase_BusinessesRevenue_Repair_DisplayName,,Repairs
+MaintenancePhase_BusinessesRevenue_SellBuilding_DisplayName,,Buildings Sold
+MaintenancePhase_BusinessesRevenue_SellGoods_DisplayName,,Marketplace Sales
+MaintenancePhase_BusinessesRevenue_SellGoodsStorefront_DisplayName,,Storefront Sales
+MaintenancePhase_BusinessesRevenue_UpgradeBuilding_DisplayName,,Upgrades
+MaintenancePhase_Cart_BuyCart_DisplayName,,Cart Purchase
+MaintenancePhase_Cart_RepairCart_DisplayName,,Cart Repairs
+MaintenancePhase_Cart_SellCart_DisplayName,,Cart Sale
+MaintenancePhase_CityQuarterReputationEndOfTurn_Description,,"Money granted by the Crown. The higher the city's reputation, the more funding it receives."
+MaintenancePhase_CityQuarterReputationEndOfTurn_DisplayName,,Crown Funding
+MaintenancePhase_CityTreasury_Description,,"The city's common fund, managed by officials."
+MaintenancePhase_CityTreasury_DisplayName,,City Treasury
+MaintenancePhase_DeathRemoveMoney_Description,,Inheritance before the inheritance tax.
+MaintenancePhase_DeathRemoveMoney_DisplayName,,Estate
+MaintenancePhase_Energy_Degeneration_DisplayName,,Energy Decay
+MaintenancePhase_EspionageCosts_DisplayName,,Espionage Costs
+MaintenancePhase_HouseExpenses_Construction_DisplayName,,Constructions
+MaintenancePhase_HouseExpenses_Description,,The cost of keeping the house standing — from fixes to improvements and upgrades.
+MaintenancePhase_HouseExpenses_DisplayName,,Residences
+MaintenancePhase_HouseExpenses_Improvements_DisplayName,,Improvements
+MaintenancePhase_HouseExpenses_Purchase_DisplayName,,Acquisitions
+MaintenancePhase_HouseExpenses_Repairs_DisplayName,,Repairs
+MaintenancePhase_HouseExpenses_Rooms_DisplayName,,Rooms
+MaintenancePhase_HouseExpenses_SellBuilding_DisplayName,,Buildings Sold
+MaintenancePhase_HouseExpenses_Upgrades_DisplayName,,Upgrades
+MaintenancePhase_Income_DisplayName,,Income
+MaintenancePhase_Inheritance_DisplayName,,Inheritance
+MaintenancePhase_Interactions_Description,,Resources spent and received through actions.
+MaintenancePhase_Interactions_DisplayName,,Interactions
+MaintenancePhase_OfficeIncome_Description,,Coin earned by holding an office position.
+MaintenancePhase_OfficeIncome_DisplayName,,Office Income
+MaintenancePhase_Payment_DisplayName,,Expenses
+MaintenancePhase_Personal_BuyFinishedProducts_DisplayName,,{I_TYP_INVITE_C}Inventory Items{##} (Marketplace)
+MaintenancePhase_Personal_BuyFinishedProductsStorefront_DisplayName,,{I_TYP_INVITE_C}Inventory Items{##} (Storefront)
+MaintenancePhase_Personal_Description,,Personal expenses and gains.
+MaintenancePhase_Personal_DisplayName,,Personal
+MaintenancePhase_Personal_PersonalCost_Description,,tbd
+MaintenancePhase_Personal_PersonalCost_DisplayName,,Personal Spending
+MaintenancePhase_PersonnelCosts_Bonuses_DisplayName,,Bonuses
+MaintenancePhase_PersonnelCosts_Description,,"Salaries, hiring fees, and bonuses paid to workers."
+MaintenancePhase_PersonnelCosts_DisplayName,,Workforce
+MaintenancePhase_PersonnelCosts_HiringCosts_DisplayName,,Hiring Costs
+MaintenancePhase_PersonnelCosts_Salaries_DisplayName,,Salaries
+MaintenancePhase_Taxes_Description,,The sum of all levies and dues decreed in the lawbook.
+MaintenancePhase_Taxes_DisplayName,,Taxes
+MaintenancePhase_Transaction_Fallback_Description,,"What a mystery, huh?"
+MaintenancePhase_Transaction_Fallback_DisplayName,,Unknown
+MoneyPerHour,,{CV_({Value})} {icon}/h
+MoneyPerMinute,,{CV_({Value})} {icon}/min
+MoneyPerTurn,,{CV_({Value})} {icon} every {C_TRN_C}turn{##}
+MoneyPerTurn_alt,,{CV_({Value})} {icon}/{C_TRN_C}turn{##}
+MoneyPerYear,,{CV_({Value})} {icon}/yr
+MoveCameraTo_Button,,Go to Location
+OutcomePresentation_Header,,The following changes occurred:
+Parameter_Integrity_Description,,"Buildings and carts wear down over time. Lost integrity means lost {B_PARAM_VAL_C}value{##}. Since your {CHAR_WEA_C}wealth{##} is measured by what you own, every crack and splinter lowers it."
+Parameter_Integrity_DisplayName,,Integrity
+Parameter_IntegrityDecay_Description,,Time is a patient vandal. Buildings slowly lose {B_HP_C}integrity{##} as the years pass.
+Parameter_IntegrityDecay_Description_extra1,,"Carts, however, suffer from use. The more often they travel, the more they wear down."
+Parameter_IntegrityDecay_Description_extra2,,"Some effects can make your buildings and carts more durable — or more fragile. Still, the safest choice is to buy {B_HP_MAX_C}sturdy{##} things to begin with."
+Parameter_IntegrityDecay_DisplayName,,Integrity Decay
+Parameter_IntegrityMax_Description,,Not all things are built alike. Maximum Integrity determines how much {B_HP_DEC_C}damage{##} a building or cart can endure before it fully deteriorates.
+Parameter_IntegrityMax_Description_extra1,,"The higher the Maximum Integrity, the longer it takes to wear down completely, provided it is kept in good condition."
+Parameter_IntegrityMax_Description_extra2,,Higher-level buildings usually have higher Maximum Integrity.
+Parameter_IntegrityMax_DisplayName,,Maximum Integrity
+PauseMenuScreen_DisplayName,,Pause Menu
+PauseMenuScreen_Shortcut,,[Esc]
+Player_DisplayName,,Player
+Player_DisplayName_plural,,Players
+Price_AllTimeHighCity,,All-time high in city
+Price_AllTimeLowCity,,All-time low in city
+Price_BasePrice_Name,,Base Price
+Price_Breakdown_Description,,"Supply, demand and your {S_NEG_C}negotiation skill{##} push an item's price above or below its base value. Sales from your {B_STOFRO_C}storefront{##} benefit from the building's {B_HP_C}condition{##} and {B_PARAM_ATT_C}customer appeal{##}. Seasons and events can also affect prices."
+Price_Breakdown_Name,,Price Breakdown
+Price_Buying_Label,,Buying price
+Price_Buying_Unavailable,,Cannot be purchased here
+Price_BuyingCurrent_Title,,Current Prices to Buy
+Price_BuyingInBuilding,,Buying price in this building
+Price_ForLocals_Description,,Local business owners know the trade and won't overpay
+Price_ForLocals_Name,,Price for locals
+Price_ForVisitors_Description,,Traveling merchants and wanderers pay more when the place looks the part
+Price_ForVisitors_Name,,Price for visitors
+Price_HighestCity,,Highest in city
+Price_InBuilding,,Price in this building
+Price_InBuilding_DisclaimerNoPrice,,Not bought by this building
+Price_LowestCity,,Lowest in city
+Price_Selling_Label,,Selling price
+Price_Selling_Unavailable,,Cannot be sold here
+Price_SellingCurrent_Title,,Current Prices to Sell
+Price_SellingInBuilding,,Selling price in this building
+Price_SellingInBuilding_Disclaimer,,The final value shown here is an estimate. The actual value for any purchase made from your building will take into account the specifics of the buyer in addition to all other factors influencing the sell price.
+PriceModifier_Attractiveness_Description,,"Higher {B_PARAM_ATT_C}customer appeal{##} draws more buyers, making items more expensive."
+PriceModifier_Attractiveness_DisplayName,,Demand
+PriceModifier_Buyer_Description,,"Every buyer brings something to the bargaining table: skill, reputation, a charming smile, or a face the seller simply does not trust. It can all affect the price."
+PriceModifier_Buyer_DisplayName,,Buyer Influence
+PriceModifier_Buyer_DisplayName_v2,,Buyer
+PriceModifier_Buying_Description,,"When buying, prices are slightly higher than the market would pay."
+PriceModifier_Buying_DisplayName,,Market Spread
+PriceModifier_BuyingBusiness_Description,,"The business doing the buying brings its own advantages and disadvantages to the deal. Its reputation, improvements, working conditions, or whatever is currently going wrong behind the counter can affect the price."
+PriceModifier_BuyingBusiness_DisplayName,,Buying Business Influence
+PriceModifier_Header,,The displayed price already includes:
+PriceModifier_Marketplace_Description,,TBD
+PriceModifier_Marketplace_DisplayName,,Market price
+PriceModifier_MarketplaceFee_Description,,The city levies a modest fee off of each transaction for your privilege of doing business at the marketplace. Some refer to it as a protection fee and claim the Robber Baron offers better service.
+PriceModifier_MarketplaceFee_DisplayName,,Marketplace Fee
+PriceModifier_PeriodYear_Description,,"A lot can change in a year. A good harvest may fill the granaries, a growing city may empty them again, and yesterday's rarity may become tomorrow's common good. Prices change with the times."
+PriceModifier_PeriodYear_DisplayName,,Year
+PriceModifier_PerItemAmountInBuilding_Description,,"The amount of an item sitting in this building affects its price too. A full stock means lower prices, while running low makes every remaining piece more valuable."
+PriceModifier_PerItemAmountInBuilding_DisplayName,,Stock in This Building
+PriceModifier_PerItemAmountInCity_Description,,"The more of an item there is around the city, the less people are willing to pay for it. Scarce goods, on the other hand, can fetch a much better price."
+PriceModifier_PerItemAmountInCity_DisplayName,,Stock in City
+PriceModifier_Season_Description,,"Some goods fill every market stall in one season and are nowhere to be found in the next. People's needs change with the seasons too, and merchants know well enough to adjust their prices."
+PriceModifier_Season_DisplayName,,Seasonal Demand
+PriceModifier_Seller_Description,,"Every seller has their own way of doing business. Skill and reputation help, but so can a charming smile, a foul mood, or an inexplicable grudge against your hat. It can all affect the price."
+PriceModifier_Seller_DisplayName,,Seller Influence
+PriceModifier_Seller_DisplayName_v2,,Seller
+PriceModifier_Selling_Description,,"When selling, prices are slightly lower than the market would ask."
+PriceModifier_Selling_DisplayName,,Market Spread
+PriceModifier_SellingBusiness_Description,,"The business doing the selling matters too. Its reputation, improvements, working conditions, and the occasional bit of chaos on the premises can all find their way into the price."
+PriceModifier_SellingBusiness_DisplayName,,Selling Business Influence
+PriceModifier_Skill_Negotiation_Description,,{S_NEG_C}Negotiation{##} can shift prices in your favor — securing discounts when buying or better offers when selling.
+PriceModifier_Skill_Negotiation_DisplayName,,Salesmanship
+PriceModifier_SrorefrontRevenue_DisplayName,,Coin of Appreciation
+PriceModifier_Storefront_Description,,Prices at the {B_STOFRO_C}storefront{##} are often lower than those at the {B_PUB_MKT_C}marketplace{##}.
+PriceModifier_Storefront_DisplayName,,At the Source
+PriceModifier_StorefrontRevenue_Description,,The service is so good that customers willingly pay a little extra when buying directly from you. This bonus is calculated as a percentage of the {B_PARAM_STOREV_C}selling price{##}.
+PriceModifier_TimeOfDay_Description,,"Fresh bread is in high demand in the morning, while ale becomes more popular after a long day's work. Near the end of the day, even a stubborn merchant might lower the price rather than haul their wares back home. Prices can change quite a bit from dawn to dusk."
+PriceModifier_TimeOfDay_DisplayName,,Time of Day
+PriceModifier_TouristTax_Description,,"The accent gives them away every time. Visitors may not know the streets, the customs or the right price for an onion, but they will quickly learn about the city's hospitality fee."
+PriceModifier_TouristTax_DisplayName,,Hospitality Fee
+Randomize_Button,,Randomize
+OpenSelectionDropdown_Button,,Select from the list
+ReportBug_Prompt,,Report a bug
+Requirements_Label,,Requirements
+RoadMap_Button,,Check our Roadmap!
+RoadMap_Button_alt,,Roadmap
+RomanNumeral_01,,I
+RomanNumeral_02,,II
+RomanNumeral_03,,III
+RomanNumeral_04,,IV
+RomanNumeral_05,,V
+RomanNumeral_06,,VI
+RomanNumeral_07,,VII
+RomanNumeral_08,,VIII
+RomanNumeral_09,,IX
+RomanNumeral_10,,X
+ScreenPan_Instruction,,Left-click and drag to pan
+ScreenRepositioning_Instruction,,Grab the top of the window to reposition it.
+ScreenZoom_Instruction,,Scroll to zoom in and out
+SearchBar_PlaceholderText,,Type here…
+SearchBar_Search,,Search
+Select_NoEligibleTarget,,No suitable target can be found.
+SelectACitizen_Prompt,,Select a citizen
+SelectACitizenOrWorker_Prompt,,Select a target
+SelectALocation_Prompt,,Select a location
+SelectAVictim_Prompt,,Select a victim
+SelectAWorker_Prompt,,Select a worker
+SelectChild_Prompt,,Select a child
+SelectCitizen_Prompt,,"Select {NumCitizens} {NumCitizens}|plural(one=citizen,other=citizens)"
+SelectEvidence_Prompt,,Select evidence
+SelectTarget_Prompt,,Select a target
+SelectTarget_Prompt_alt,,Select Target
+SelectTargetFromScene_Prompt,,Select target from scene.
+SelectTargetFromScreen_Prompt,,Select target from screen.
+SelectToContinue,,Select to continue:
+SelectUpToCitizens_Prompt,,"Select up to {NumCitizens} {NumCitizens}|plural(one=citizen,other=citizens)"
+SelectUpToWorkers_Prompt,,"Select up to {NumWorkers} {NumWorkers}|plural(one=worker,other=workers)"
+SelectWhoWillReceiveInformation_Prompt,,Select who will receive the information
+SortBy_Ascending,,Sort in Ascending Order
+SortBy_Descending,,Sort in Descending Order
+SpeedControl_Faster_DisplayName,,Faster speed
+SpeedControl_Faster_Shortcut,,[3]
+SpeedControl_Fastest_DisplayName,,Fastest speed
+SpeedControl_Fastest_Shortcut,,[4]
+SpeedControl_Normal_DisplayName,,Normal speed
+SpeedControl_Normal_Shortcut,,[2]
+SpeedControl_Pause_DisplayName,,Pause
+SpeedControl_Pause_Shortcut,,[Space]
+SpeedControl_Slower_DisplayName,,Slower speed
+SpeedControl_Slower_Shortcut,,[1]
+SpyingScreen_DisplayName,,Crime & Evidence
+TimeFormat_Duration_InHours,,"{hour} {hourAbbreviation}|plural(one=hr, other=hrs)"
+TimeFormat_Duration_InMinutes,,"{Minutes}|plural(one=1 minute, other={Minutes} minutes)"
+TimeLeft,,{time} left
+TimeRemaining,,"Time remaining: {Minutes}|plural(one=1 minute, other={Minutes} minutes)"
+ToggleOverlay_Buildings_Prompt,,Toggle Building Overlay
+ToggleOverlay_District_Prompt,,Toggle District Overlay
+Tooltip_DisplayName,,Tooltip
+Tooltip_DisplayName_plural,,Tooltips
+TooltipClose_All,,Dismiss All Locked Tooltips
+TooltipClose_Instruction,,Left-click to dismiss
+TooltipLock,,Lock Tooltip
+TooltipLock_Instruction,,Middle-click to lock
+TributeToFirstGuild_GameLobby_Message,,"The Guild 1 Remake: Europa 1410 is a deliberate return to the origins of the series and an homage to its first game, Europa 1400: The Guild.\n\nTrue to the original concept, you manage your business and guide your dynasty from a strategist's perspective rather than controlling characters directly. Set your plans and schemes in motion and watch how they unfold!"
+TributeToFirstGuild_GameLobby_Title,,A Tribute to the First Guild
+Turn_Description,,"Time advances in turns.\nEach turn represents a full cycle of daily activity, from morning to night.\nWith every turn, the season and year progress."
+Turn_DisplayName,,Turn
+Turn_DurationByTurn,,tbd
+Turn_DurationFromActivation,,"The effect lasts for the stated number of turns, counted from the moment it begins."
+Turn_NumberOfTurns,,"{NumTurns} {C_TRN_C}{NumTurns}|plural(one=turn,other=turns){##}"
+Turn_NumberOfTurnsRemaining,,{NumTurns} remaining
+Unlocks_Label,,Unlocks
+UpcomingEventsScreen_Description,,Shows list of upcoming events
+UpcomingEventsScreen_DisplayName,,Upcoming Events
+UpcomingEventsScreen_Duel,,{charactername1} against {charactername2}
+UpcomingEventsScreen_Duel_alt,,{charactername1} vs. {charactername2}
+UpcomingEventsScreen_Elections_Appointer,,{officeposition} (Appointing Official)
+UpcomingEventsScreen_Elections_Candiate,,{officeposition} (Candidate)
+UpcomingEventsScreen_NextTurn,,Next turn
+UpcomingEventsScreen_OnTheNextNumberTurns,,"On the next {NumTurns} {NumTurns}|plural(one=turn,other=turns)"
+UpcomingEventsScreen_ThisTurn,,This turn
+UpcomingEventsScreen_Trial,,Accused: {1}\nAccuser: {2}\nCrime: {3}\nJury: {4}
+UpcomingEventsScreen_Wedding,,{bride} and {groom}
+UpcomingEventsScreen_Wedding_alt,,Bride and Groom:
+VictoryCondition_Challenge_General_CongratulationText,,Well done! You've completed a challenge.
+VictoryCondition_Challenge_Office_CongratulationText,,A foothold in the halls of power. The real game is just beginning.
+VictoryCondition_Challenge_Title_CongratulationText,,"You've risen above where you started. This is your first title, but there are greater ones still to claim."
+VictoryCondition_Description,,"Victory Conditions are the ultimate objectives of a match. Each match has a single Victory Condition shared by every dynasty head. Be the first to achieve it to win. If another dynasty reaches it first, you lose."
+VictoryCondition_Description_extra1,,You may continue playing after victory or defeat if you wish.
+VictoryCondition_DisplayName,,Victory Condition
+VictoryCondition_General_CongratulationText,,Success means something different to everyone. You found yours. What will you conquer next?
+VictoryCondition_General_DefeatText,,{player} is the first to fulfill a victory condition: {victorycondition}.
+VictoryCondition_None_Description,,No victory conditions. Follow your own ambitions.
+VictoryCondition_None_DisplayName,,Free Mode
+VictoryCondition_Office_CongratulationText,,"Congratulations! You earned influence and wielded it. Whether for the greater good or your own ambitions, you played the game and won it."
+VictoryCondition_Office_Description,,Be elected to a rank {icon_n} {O_TYP_CIVOFF_C}office position{##}
+VictoryCondition_Renown_CongratulationText,,"Well done! Your dynasty will outlast you. Honor, reputation, the respect of the public... these are harder to build than any fortune, and you built them."
+VictoryCondition_Renown_Description,,Earn {value} {CHAR_REN_C}renown{##}
+VictoryCondition_Title_CongratulationText,,"Congratulations! You proved that hard work and determination can rise above the station you were born into. The title is yours, and you earned every bit of it."
+VictoryCondition_Title_Description,,Attain the {T_C}title{##} of {title}
+VictoryCondition_Wealth_CongratulationText,,"Impressive! You knew what others pretend not to — that money moves the world. While they chased prestige, you took the prize that matters."
+VictoryCondition_Wealth_Description,,Amass {value} {CHAR_WEA_C}wealth{##}
+Warning_SaveLimit_Header,,Caution!
+Warning_SaveLimit_Message,,"You can keep up to {NumManual} {NumManual}|plural(one=manual save,other=manual saves) and {NumAuto} {NumAuto}|plural(one=autosave,other=autosaves) — tracked separately for singleplayer and multiplayer. Once you hit the limit, saving again will overwrite the oldest slot."
+Wishlist_Steam_Prompt,,Wishlist the game on Steam
+Wishlist_Steam_Prompt_alt,,Wishlist on Steam
+NetworkFailure_ErrorMessage,,Network connection lost. Please check your connection and try again.
+BaseValue_DisplayName,,Base Value
+Selected_Generic,,Selected:
+LeftClickToPick_Instruction,,Left-click to pick
+LeftClickToDrop_Instruction,,Left-click to drop
+DeleteSave_DisplayName,,Delete Save
+DeleteSave_Confirmation,,Are you sure you want to delete this save?
+V2_UI_All_DisplayName,,All of the following
+V2_UI_Any_DisplayName,,TBD
+V2_UI_NotAny_DisplayName,,TBD
+V2_UI_NotAll_DisplayName,,TBD
+V2_UI_HasOne_DisplayName,,TBD
+V2_UI_NotOne_DisplayName,,TBD
+V2_UI_All_Description,,All of the following must be true.
+V2_UI_Any_Description,,At least one of the following must be true.
+V2_UI_NotAny_Description,,All of the following must be false.
+V2_UI_NotAll_Description,,At least one of the following must be false.
+V2_UI_HasOne_Description,,Exactly one of the following must be true.
+V2_UI_NotOne_Description,,Anything exactly one of the following must be true.
+Transaction_Income_Actions_CityReceivesActionCostMoney_DisplayName,,Civic Service Fees
+Transaction_Income_Actions_CityReceivesActionCostMoney_Description,,"Requests, permits, titles, and other official services that keep city officials busy often come with a fee. Whether handled at the town hall or elsewhere, the money is meant to find its way into the city treasury — assuming, of course, the good principles of everyone involved."
+Transaction_Income_CityStockReplenishment_SellToForeignRegions_DisplayName,,Surplus Exports
+Transaction_Income_CityStockReplenishment_SellToForeignRegions_Description,,"When the city has more goods than it needs, the excess can be sold beyond its borders instead of left gathering dust. The proceeds are added to the city treasury."
+Transaction_Payment_Actions_CitySpendsActionCostMoney_DisplayName,,Public Works Expenses
+Transaction_Payment_Actions_CitySpendsActionCostMoney_Description,,"City officials use funds from the treasury to build, repair, and improve the city. At least, that is what the money is supposed to be for."
+Transaction_Payment_Actions_CitySpendsActionOutcomeMoney_DisplayName,,Civic Payouts
+Transaction_Payment_Actions_CitySpendsActionOutcomeMoney_Description,,"This is money the city pays because of the result of an official action, not the cost of carrying it out. Once the matter is resolved, rewards, compensation, reimbursements, and similar payouts may be taken from the city treasury."
+Transaction_Payment_CityStockReplenishment_BuyFromForeignRegions_DisplayName,,Stock Imports
+Transaction_Payment_CityStockReplenishment_BuyFromForeignRegions_Description,,"When the city runs short of goods needed by its markets and storehouses, more are purchased from beyond the region to replenish local stocks. The cost is paid from the city treasury."
+RequirementSimple_AdultAge_DisplayName,,"At least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old"
+RequirementSimple_ChildAge_DisplayName,,"Under {heir_min_age} {heir_min_age}|plural(one=year,other=years) old"
+RequirementSimple_DoesNotOwnContextEntity_DisplayName,,Does not own this building
+RequirementSimple_DynastyHeir_DisplayName,,Dynasty heir
+RequirementSimple_HasAnyEvidence_DisplayName,,Has evidence
+RequirementSimple_HasChildren_DisplayName,,Has children
+RequirementSimple_HasCourtedCandidate_DisplayName,,Is courting someone
+RequirementSimple_HasEvidenceAgainstContextEntity_DisplayName,,Has evidence against the target
+RequirementSimple_HasEvidenceNotAgainstContextEntity_DisplayName,,Has evidence against someone else
+RequirementSimple_HasHeir_DisplayName,,Has an heir
+RequirementSimple_HasNoChildren_DisplayName,,No children
+RequirementSimple_HasNoCourtedCandidate_DisplayName,,Is not courting anyone
+RequirementSimple_HasNoEvidence_DisplayName,,No evidence
+RequirementSimple_HasNoHeir_DisplayName,,No heir
+RequirementSimple_HasNoOffice_DisplayName,,Holds no office position
+RequirementSimple_HasNoSpouse_DisplayName,,Unmarried
+RequirementSimple_HasOffice_DisplayName,,Holds an office position
+RequirementSimple_HasSpouse_DisplayName,,Married
+RequirementSimple_IsNotFullCitizen_DisplayName,,Not a burgher
+RequirementSimple_IsNotImprisoned_DisplayName,,Not imprisoned
+RequirementSimple_IsNotNoble_DisplayName,,Not a noble
+RequirementSimple_NotDynastyHead_DisplayName,,Not the dynasty head
+RequirementSimple_NotDynastyHeir_DisplayName,,Not the dynasty heir
+RequirementSimple_OwnsContextEntity_DisplayName,,Owns this building
+Transaction_Income_CashStash_OwnerTransferredFromOwnedStash_DisplayName,,Withdrawal from Business Fund
+Transaction_Income_CashStash_OwnerTransferredToOwnedStash_DisplayName,,Deposit from Purse
+Transaction_Payment_CashStash_OwnerTransferredFromOwnedStash_DisplayName,,Withdrawal to Purse
+Transaction_Payment_CashStash_OwnerTransferredToOwnedStash_DisplayName,,Deposit to Business Fund
+Transaction_Income_CashStash_OwnerTransferredFromOwnedStash_Description,,Money withdrawn from a business's fund and added to your purse.
+Transaction_Income_CashStash_OwnerTransferredToOwnedStash_Description,,Money transferred from your purse into the business's fund.
+Transaction_Payment_CashStash_OwnerTransferredFromOwnedStash_Description,,Money withdrawn from a business's fund and added to your purse.
+Transaction_Payment_CashStash_OwnerTransferredToOwnedStash_Description,,Money transferred from your purse into the business's fund.

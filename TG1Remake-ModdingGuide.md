@@ -21,7 +21,7 @@ This guide is for translators with no modding experience. You need a text editor
 
 You need three things: the text template, a language code, and a place to test.
 
-**The text template.** All translatable texts live in the game's string tables, one CSV per topic (Actions, Buildings, Items, Politics, Notifications and so on, 31 tables with about 7,600 texts). Download the CSV templates from the StringTables folder of this repository. Each file has a `Key` column, the English `SourceString`, and an empty `Translation` column that you fill in.
+**The text template.** All translatable texts live in the game's string tables, one CSV per topic (Actions, Buildings, Items, Politics, Notifications and so on, 31 tables with about 7,600 texts). Download the CSV templates from the StringTables folder of this repository. Each file has a `Key` column, an optional `Namespace` column and a `Translation` column that you can override. If you want to keep a reference, copy the `Translation` column into a 4th column for SourceString.
 
 **A language code.** The manifest names the language with a standard culture code, for example `it` for Italian, `nl` for Dutch, `pt-BR` for Brazilian Portuguese or `zh-Hant` for Traditional Chinese. Any code the game can resolve works. The code `ash` is reserved for internal use and is rejected. If the game already ships that language, your mod overrides it text by text.
 
@@ -87,17 +87,17 @@ The game reads plain CSV files: comma separated, UTF-8, first row is the header.
 | Column | Required | Meaning |
 | --- | --- | --- |
 | Key | yes | The text's key, exactly as in the template. |
-| Translation | yes | Your text. An empty cell keeps the official text. |
+| Translation | no | Your text. An empty cell keeps the official text. |
 | Namespace | no | Name of one string table, for example `Actions`. Only needed when the same key exists in several tables and you want different translations per table. Without it the row applies to every table that holds the key. |
-| SourceString | no | The English original from the template. Ignored by the game, keep it for reference. |
+| SourceString | no | (Optional, created by you) The English original from the template. Ignored by the game, keep it for reference. |
 
 A minimal file:
 
 ```csv
-Key,SourceString,Translation
-Action_DisplayName,Action,Azione
-Action_DisplayName_plural,Actions,Azioni
-Benefits_Office,Benefits of {office},Benefici di {office}
+Key,Namespace,Translation
+Action_DisplayName,,Azione
+Action_DisplayName_plural,,Azioni
+Benefits_Office,,Benefici di {office}
 ```
 
 Rules that matter:

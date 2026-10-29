@@ -1,60 +1,60 @@
-Key,SourceString,Translation
-Title_Gentleman_DisplayName,Commoner,
-Title_Gentleman_DisplayName_Alt_01,"{Gender}|gender(Gentleman,Lady)",
-Title_Gentleman_DisplayName_Alt_02,"{Gender}|gender(Freeman,Freewoman)",
-Title_FullCitizen_DisplayName,Burgher,
-Title_FullCitizen_DisplayName_Alt_01,Full Citizen,
-Title_Patrician_DisplayName,Patrician,
-Title_Nobleman_DisplayName,"{Gender}|gender(Nobleman,Noblewoman)",
-Title_Baron_DisplayName,"{Gender}|gender(Baron,Baroness)",
-Title_Count_DisplayName,"{Gender}|gender(Count,Countess)",
-Title_Duke_DisplayName,"{Gender}|gender(Duke,Duchess)",
-Title_Prince_DisplayName,"{Gender}|gender(Prince,Princess)",
-Title_PrinceOfTheEmpire_DisplayName,"{Gender}|gender(Prince of the Empire,Princess of the Empire)",
-Title_DisplayName,Title,
-Title_DisplayName_plural,Titles,
-Title_Gentleman_DisplayName_plural,Commoners,
-Title_Gentleman_DisplayName_plural_Alt_01,Ladies and Gentlemen,
-Title_Gentleman_DisplayName_plural_Alt_02,Freefolk,
-Title_FullCitizen_DisplayName_plural,Burghers,
-Title_FullCitizen_DisplayName_plural_Alt_01,Full Citizens,
-Title_Patrician_DisplayName_plural,Patricians,
-Title_Nobleman_DisplayName_plural,Nobles,
-Title_Baron_DisplayName_plural,Barons,
-Title_Count_DisplayName_plural,Counts,
-Title_Duke_DisplayName_plural,Dukes,
-Title_Prince_DisplayName_plural,Princes,
-Title_PrinceOfTheEmpire_DisplayName_plural,Princes of the Empire,
-PreviousTitle,Previous Title,
-SubsequentTitle,Subsequent Title,
-Rights_Nobility_DisplayName,Nobility Charter,
-Rights_HighNobility_DisplayName,High Nobility Charter,
-Rights_Nobility_Description,"By committing to serve a noble for a time, you can earn a Nobility Charter.",
-Rights_HighNobility_Description,"Once you've met the necessary requirements and established an exceptional relationship with the Emperor, he himself will grant you the High Nobility Charter.",
-Rights_Nobility_AlternativeAction_Description,"Alternatively, the Nobility Charter may be granted by the Sovereign or any official of the Empire Authority.",
-Rights_Description,"This official document attests that once you've acquired the necessary wealth, you'll be eligible to ascend to the title of {title}.",
-Rights_SquireService_DisplayName,Squire Service,
-Rights_CupbearerService_DisplayName,Cupbearer Service,
-Rights_DiplomaticService_DisplayName,Diplomatic Service,
-Rights_SquireService_Description,"Fast, but dangerous. Tests Martial and Roguery.",
-Rights_CupbearerService_Description,Balanced risk and time. Tests Handicraft.,
-Rights_DiplomaticService_Description,"Safe, but slow. Tests Negotiation and Rhetoric.",
-Benefit_PermittedResidence,Permitted Residence,
-Title_Description,"Titles are hereditary ranks in the social hierarchy. They come with privileges and requirements, and are set by your {CHAR_WEA_C}wealth{##} and the {I_NOBRIG_C}rights{##} you've earned.",
-Title_Description_extra1,"From lowest to highest, the titles are:",
-Title_Description_extra2,Your next title awaits at the {B_PUB_TOWHAL_E}Town Hall{##}.,
-Benefit_CanApplyToOffices,Eligible for {O_TYP_CIVOFF_C}Office Positions{##},
-Benefit_CanApplyToHigherOffices,Eligible for {O_CHA_STAAUT_C}State Authority{##} Offices,
-Title_Gentleman_Description,"Barely noticed, easily ignored.",
-Title_FullCitizen_Description,"Known by name, not by power.",
-Title_Patrician_Description,"Listened to, occasionally obeyed.",
-Title_Nobleman_Description,Respected in the right rooms.,
-Title_Baron_Description,"Influential, if approached carefully.",
-Title_Count_Description,A voice that carries weight.,
-Title_Duke_Description,Decisions echo beyond the title.,
-Title_Prince_Description,Power recognized before words are spoken.,
-Title_PrinceOfTheEmpire_Description,Authority few dare to challenge.,
-Benefit_EligibleForChambers,Eligible for {O_TYP_CIVOFF_C}Office Chambers{##},
-Benefit_IneligibleForOffice,Ineligible for {O_TYP_CIVOFF_C}Office{##},
-Requirement_MinTitle,{title} or higher,
-Requirement_MaxTitle,{title} or lower,
+Key,Namespace,Translation
+Title_Gentleman_DisplayName,,Commoner
+Title_Gentleman_DisplayName_Alt_01,,"{Gender}|gender(Gentleman,Lady)"
+Title_Gentleman_DisplayName_Alt_02,,"{Gender}|gender(Freeman,Freewoman)"
+Title_FullCitizen_DisplayName,,Burgher
+Title_FullCitizen_DisplayName_Alt_01,,Full Citizen
+Title_Patrician_DisplayName,,Patrician
+Title_Nobleman_DisplayName,,"{Gender}|gender(Nobleman,Noblewoman)"
+Title_Baron_DisplayName,,"{Gender}|gender(Baron,Baroness)"
+Title_Count_DisplayName,,"{Gender}|gender(Count,Countess)"
+Title_Duke_DisplayName,,"{Gender}|gender(Duke,Duchess)"
+Title_Prince_DisplayName,,"{Gender}|gender(Prince,Princess)"
+Title_PrinceOfTheEmpire_DisplayName,,"{Gender}|gender(Prince of the Empire,Princess of the Empire)"
+Title_DisplayName,,Title
+Title_DisplayName_plural,,Titles
+Title_Gentleman_DisplayName_plural,,Commoners
+Title_Gentleman_DisplayName_plural_Alt_01,,Ladies and Gentlemen
+Title_Gentleman_DisplayName_plural_Alt_02,,Freefolk
+Title_FullCitizen_DisplayName_plural,,Burghers
+Title_FullCitizen_DisplayName_plural_Alt_01,,Full Citizens
+Title_Patrician_DisplayName_plural,,Patricians
+Title_Nobleman_DisplayName_plural,,Nobles
+Title_Baron_DisplayName_plural,,Barons
+Title_Count_DisplayName_plural,,Counts
+Title_Duke_DisplayName_plural,,Dukes
+Title_Prince_DisplayName_plural,,Princes
+Title_PrinceOfTheEmpire_DisplayName_plural,,Princes of the Empire
+PreviousTitle,,Previous Title
+SubsequentTitle,,Subsequent Title
+Rights_Nobility_DisplayName,,Nobility Charter
+Rights_HighNobility_DisplayName,,High Nobility Charter
+Rights_Nobility_Description,,"By committing to serve a noble for a time, you can earn a Nobility Charter."
+Rights_HighNobility_Description,,"Once you've met the necessary requirements and established an exceptional relationship with the Emperor, he himself will grant you the High Nobility Charter."
+Rights_Nobility_AlternativeAction_Description,,"Alternatively, the Nobility Charter may be granted by the Sovereign or any official of the Empire Authority."
+Rights_Description,,"This official document attests that once you've acquired the necessary wealth, you'll be eligible to ascend to the title of {title}."
+Rights_SquireService_DisplayName,,Squire Service
+Rights_CupbearerService_DisplayName,,Cupbearer Service
+Rights_DiplomaticService_DisplayName,,Diplomatic Service
+Rights_SquireService_Description,,"Fast, but dangerous. Tests Martial and Roguery."
+Rights_CupbearerService_Description,,Balanced risk and time. Tests Handicraft.
+Rights_DiplomaticService_Description,,"Safe, but slow. Tests Negotiation and Rhetoric."
+Benefit_PermittedResidence,,Permitted Residence
+Title_Description,,"Titles are hereditary ranks in the social hierarchy. They come with privileges and requirements, and are set by your {CHAR_WEA_C}wealth{##} and the {I_NOBRIG_C}rights{##} you've earned."
+Title_Description_extra1,,"From lowest to highest, the titles are:"
+Title_Description_extra2,,Your next title awaits at the {B_PUB_TOWHAL_E}Town Hall{##}.
+Benefit_CanApplyToOffices,,Eligible for {O_TYP_CIVOFF_C}Office Positions{##}
+Benefit_CanApplyToHigherOffices,,Eligible for {O_CHA_STAAUT_C}State Authority{##} Offices
+Title_Gentleman_Description,,"Barely noticed, easily ignored."
+Title_FullCitizen_Description,,"Known by name, not by power."
+Title_Patrician_Description,,"Listened to, occasionally obeyed."
+Title_Nobleman_Description,,Respected in the right rooms.
+Title_Baron_Description,,"Influential, if approached carefully."
+Title_Count_Description,,A voice that carries weight.
+Title_Duke_Description,,Decisions echo beyond the title.
+Title_Prince_Description,,Power recognized before words are spoken.
+Title_PrinceOfTheEmpire_Description,,Authority few dare to challenge.
+Benefit_EligibleForChambers,,Eligible for {O_TYP_CIVOFF_C}Office Chambers{##}
+Benefit_IneligibleForOffice,,Ineligible for {O_TYP_CIVOFF_C}Office{##}
+Requirement_MinTitle,,{title} or higher
+Requirement_MaxTitle,,{title} or lower

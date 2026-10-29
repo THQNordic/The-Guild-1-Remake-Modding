@@ -1,53 +1,53 @@
-Key,SourceString,Translation
-Business_001,A worker's Energy affects their Productivity. Tired workers get less done.,
-Business_002,Oversee Work to boost your workers' Productivity.,
-Business_003,Workers with low Opinion of you may decide to leave.,
-Business_004,Workers are better at different things. Match their Skills to the task to get the most out of them.,
-Business_005,Visit a Guild House to train in your profession or unlock a new one.,
-Business_006,Keep your buildings in good repair. Low Integrity can affect several aspects of your business.,
-Business_007,"Upgrades transform the building itself, changing its appearance and unlocking major new features. Improvements are smaller additions that provide extra benefits.",
-Business_008,"Sell goods from your Storefront, or take them to the Marketplace by cart.",
-Business_009,"Better Carts can carry more goods, travel faster, and withstand more damage.",
-Business_010,Escort valuable carts if you would rather your profits reach their destination.,
-Business_011,"The Marketplace offers variety, but other businesses and Resource Sites may offer better deals.",
-Business_012,Raw materials are often cheapest when bought directly from Resource Sites.,
-Business_013,"Your Personal Inventory holds items you can use or equip, but those items cannot be traded normally.",
-Business_014,"Prices change with supply, demand, seasons, laws, and events in the wider world.",
-Business_015,Taxes are collected at the end of the year. Prosperity has its traditions.,
-Business_016,Check your end-of-year balance before taxes turn success into imprisonment.,
-City_001,Explore the city and see what its buildings have to offer. Useful actions and opportunities may be hiding in plain sight.,
-Controls_001,Hover over highlighted terms and icons to learn more about them.,
-Controls_002,Press the middle mouse button to lock a tooltip in place.,
-Controls_003,Locked tooltips are interactive; hover over their highlighted terms to dig deeper.,
-Controls_004,Spammed your screen with tooltips? Left-click to dismiss them all.,
-Controls_005,"Left-click an item or worker to pick them up, then left-click again to place them.",
-Controls_006,"Click to pick up, click to drop — it works for both items and workers.",
-Controls_007,Right-click while moving an item or worker to return them to where they started.,
-Controls_008,Double-click an item stack to pick up the whole stack. Or click and drag to choose an exact amount.,
-Controls_009,"To pick items from a stack one by one, click at intervals. Double-click to pick up the entire stack.",
-Controls_010,"Press Esc to close the most recently opened window. If no windows are open, Esc opens the pause menu.",
-Controls_011,Building and Marketplace screens can be moved by dragging them from the top.,
-Controls_012,Right-click a character or item to open a menu of things you can do with them.,
-Controls_013,Click a character to view their details.,
-Controls_014,Right-click inside a window to close the topmost window.,
-Controls_015,The shortcuts for closing all windows and opening the Pause Menu can be changed in Settings.,
-Controls_016,You can enter a building just by double-clicking it.,
-Controls_017,Right-click to exit a building.,
-Controls_018,Hold Alt to highlight all buildings and interactive objects.,
-Dynasty_001,A lasting Dynasty needs someone to inherit what you have built.,
-Dynasty_002,"Age, Health, Wealth, Traits and Skills can all matter when choosing a spouse.",
-Dynasty_003,Gifts and sweet-talking can speed up a courtship before another suitor gets there first.,
-Dynasty_004,A successful courtship is followed by a wedding on the next turn.,
-Dynasty_005,Name an eligible heir if you do not trust the default line of succession.,
-Dynasty_006,Train your future heir early. Death rarely waits for convenient succession planning.,
-Dynasty_007,"Introduce family members to your Guild to prepare them for the profession, then put them in charge of your businesses as Masters.",
-Dynasty_008,Click a dynasty crest to open its Family screen and view the full family tree.,
-LawAndCrime_001,Check the Lawbook before getting creative. Laws determine which actions are crimes.,
-LawAndCrime_002,Evidence can be used to press charges or as leverage against other citizens.,
-LawAndCrime_003,A jury that likes you is generally preferable to one that does not.,
-LawAndCrime_004,The severity of a crime determines how unpleasant the punishment may become.,
-Politics_001,Political offices offer both influence over the city and a respectable salary.,
-Politics_002,Wealth and Title open the way to higher political positions.,
-Politics_003,Good Rhetoric and the appointers' Opinion can help win an election.,
-Politics_004,"While in office, you can use the city treasury to improve Districts and Quarters.",
-Politics_005,Some offices let you change which actions are crimes and how severely they are punished.,
+Key,Namespace,Translation
+Business_001,,A worker's Energy affects their Productivity. Tired workers get less done.
+Business_002,,Oversee Work to boost your workers' Productivity.
+Business_003,,Workers with low Opinion of you may decide to leave.
+Business_004,,Workers are better at different things. Match their Skills to the task to get the most out of them.
+Business_005,,Visit a Guild House to train in your profession or unlock a new one.
+Business_006,,Keep your buildings in good repair. Low Integrity can affect several aspects of your business.
+Business_007,,"Upgrades transform the building itself, changing its appearance and unlocking major new features. Improvements are smaller additions that provide extra benefits."
+Business_008,,"Sell goods from your Storefront, or take them to the Marketplace by cart."
+Business_009,,"Better Carts can carry more goods, travel faster, and withstand more damage."
+Business_010,,Escort valuable carts if you would rather your profits reach their destination.
+Business_011,,"The Marketplace offers variety, but other businesses and Resource Sites may offer better deals."
+Business_012,,Raw materials are often cheapest when bought directly from Resource Sites.
+Business_013,,"Your Personal Inventory holds items you can use or equip, but those items cannot be traded normally."
+Business_014,,"Prices change with supply, demand, seasons, laws, and events in the wider world."
+Business_015,,Taxes are collected at the end of the year. Prosperity has its traditions.
+Business_016,,Check your end-of-year balance before taxes turn success into imprisonment.
+City_001,,Explore the city and see what its buildings have to offer. Useful actions and opportunities may be hiding in plain sight.
+Controls_001,,Hover over highlighted terms and icons to learn more about them.
+Controls_002,,Press the middle mouse button to lock a tooltip in place.
+Controls_003,,Locked tooltips are interactive; hover over their highlighted terms to dig deeper.
+Controls_004,,Spammed your screen with tooltips? Left-click to dismiss them all.
+Controls_005,,"Left-click an item or worker to pick them up, then left-click again to place them."
+Controls_006,,"Click to pick up, click to drop — it works for both items and workers."
+Controls_007,,Right-click while moving an item or worker to return them to where they started.
+Controls_008,,Double-click an item stack to pick up the whole stack. Or click and drag to choose an exact amount.
+Controls_009,,"To pick items from a stack one by one, click at intervals. Double-click to pick up the entire stack."
+Controls_010,,"Press Esc to close the most recently opened window. If no windows are open, Esc opens the pause menu."
+Controls_011,,Building and Marketplace screens can be moved by dragging them from the top.
+Controls_012,,Right-click a character or item to open a menu of things you can do with them.
+Controls_013,,Click a character to view their details.
+Controls_014,,Right-click inside a window to close the topmost window.
+Controls_015,,The shortcuts for closing all windows and opening the Pause Menu can be changed in Settings.
+Controls_016,,You can enter a building just by double-clicking it.
+Controls_017,,Right-click to exit a building.
+Controls_018,,Hold Alt to highlight all buildings and interactive objects.
+Dynasty_001,,A lasting Dynasty needs someone to inherit what you have built.
+Dynasty_002,,"Age, Health, Wealth, Traits and Skills can all matter when choosing a spouse."
+Dynasty_003,,Gifts and sweet-talking can speed up a courtship before another suitor gets there first.
+Dynasty_004,,A successful courtship is followed by a wedding on the next turn.
+Dynasty_005,,Name an eligible heir if you do not trust the default line of succession.
+Dynasty_006,,Train your future heir early. Death rarely waits for convenient succession planning.
+Dynasty_007,,"Introduce family members to your Guild to prepare them for the profession, then put them in charge of your businesses as Masters."
+Dynasty_008,,Click a dynasty crest to open its Family screen and view the full family tree.
+LawAndCrime_001,,Check the Lawbook before getting creative. Laws determine which actions are crimes.
+LawAndCrime_002,,Evidence can be used to press charges or as leverage against other citizens.
+LawAndCrime_003,,A jury that likes you is generally preferable to one that does not.
+LawAndCrime_004,,The severity of a crime determines how unpleasant the punishment may become.
+Politics_001,,Political offices offer both influence over the city and a respectable salary.
+Politics_002,,Wealth and Title open the way to higher political positions.
+Politics_003,,Good Rhetoric and the appointers' Opinion can help win an election.
+Politics_004,,"While in office, you can use the city treasury to improve Districts and Quarters."
+Politics_005,,Some offices let you change which actions are crimes and how severely they are punished.

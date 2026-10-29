@@ -1,230 +1,230 @@
-Key,SourceString,Translation
-Audio_BackgroundAudio_Description,"Turns game audio on or off when the game is in the background. When on, the game audio will continue to play when the game is minimized, or another window is focused.",
-Audio_BackgroundAudio_Name,Background Audio,
-Audio_Collection_Name,Audio,
-Audio_DefaultAudioOutputDevice,Default Output - {0},
-Audio_EGuildAllowBackgroundAudioSetting_AllSounds,All Sounds,
-Audio_HDRAudioMode_Description,"Enable high dynamic range audio. Changes the runtime processing chain to increase the dynamic range of the audio mixdown, appropriate for theater or more cinematic experiences.",
-Audio_HDRAudioMode_Name,High Dynamic Range Audio,
-Audio_HeadphoneMode_Description,"Enable binaural audio. Provides 3D audio spatialization, so you can hear the location of sounds more precisely, including above, below, and behind you. Recommended for use with stereo headphones only.",
-Audio_HeadphoneMode_Name,3D Headphones,
-Audio_OutputDevice_Description,"Changes the audio output device for game audio, not voice chat.",
-Audio_OutputDevice_Name,Audio Output Device,
-Audio_Sound_Collection_Name,Sound,
-Audio_Volume_Collection_Name,Volume,
-Audio_Volume_Dialogue_Description,Adjusts the volume of spoken dialogue.,
-Audio_Volume_Dialogue_Name,Dialogue,
-Audio_Volume_Master_Description,Adjusts the volume of everything.,
-Audio_Volume_Master_Name,Master,
-Audio_Volume_Music_Description,Adjusts the volume of music.,
-Audio_Volume_Music_Name,Music,
-Audio_Volume_SoundEffects_Description,Adjusts the volume of sound effects.,
-Audio_Volume_SoundEffects_Name,Sound Effects,
-Audio_Volume_UI_Description,Adjusts the volume of UI sounds.,
-Audio_Volume_UI_Name,UI Sounds,
-ColorBlindMode_Description,"Using the provided images, test out the different color blind modes to find a color correction that works best for you.",
-ColorBlindMode_Deuteranope,Deuteranope,
-ColorBlindMode_Name,Color Blind Mode,
-ColorBlindMode_Protanope,Protanope,
-ColorBlindMode_Tritanope,Tritanope,
-ColorBlindStrength_Description,"Using the provided images, test out the different strengths to find a color correction that works best for you.",
-ColorBlindStrength_Name,Color Blind Strength,
-Control_BasicSensitivity_Collection_Name,Sensitivity,
-Control_CameraEdgeMovement_Description,Move camera when cursor is near the edge of the game window.,
-Control_CameraEdgeMovement_Name,Camera Edge Scrolling,
-Control_CameraParallax_Description,Enables slight camera movement when you move the mouse in certain scenes.,
-Control_CameraParallax_Name,Camera Parallax,
-Control_ControllerHardware_Description,The type of controller you're using.,
-Control_ControllerHardware_Name,Controller Hardware,
-Control_DeadZone_Collection_Name,Controller Dead Zone,
-Control_DynamicDetails_KeyboardInputAction,Bindings for {0},
-Control_Gamepad_Collection_Name,Gamepad,
-Control_GamepadBinding_Collection_Name,Controls,
-Control_GamepadVibration_Description,Turns controller vibration on or off.,
-Control_GamepadVibration_Name,Vibration,
-Control_Hardware_Collection_Name,Hardware,
-Control_InputInfo_Collection_Name,Interaction Guide,
-Control_InvertHorizontalAxis_Description,Enable the inversion of the Horizontal look axis.,
-Control_InvertHorizontalAxis_Name,Invert Horizontal Axis,
-Control_InvertVerticalAxis_Description,Enable the inversion of the Vertical look axis.,
-Control_InvertVerticalAxis_Name,Invert Vertical Axis,
-Control_KeyBinding_AlreadyBound_Cancel,"Press button to cancel, or press {InKey} again to confirm rebinding.",
-Control_KeyBinding_AlreadyBound_Warning,{InKey} is already bound to {ActionNames}. Are you sure you want to rebind it?,
-Control_KeyBinding_AssignKey,Press any key to assign it to the selected action.,
-Control_KeyBinding_AssignKey_Header,{ActionName},
-Control_KeyBinding_Collection_Name,Keyboard & Mouse,
-Control_KeyBinding_Collection_Name_alt,Keybinding,
-Control_LockMouseToViewport_Description,Locks mouse cursor to the application window.,
-Control_LockMouseToViewport_Name,Lock Mouse to Window,
-Control_LookSensitivityPreset_Description,How quickly your view rotates.,
-Control_LookSensitivityPreset_Name,Look Sensitivity,
-Control_LookSensitivityPresetAds_Description,How quickly your view rotates while aiming down sights (ADS).,
-Control_LookSensitivityPresetAds_Name,Aim Sensitivity (ADS),
-Control_LookStickDeadZone_Description,Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the camera continuing to move even after removing your finger from the stick.,
-Control_LookStickDeadZone_Name,Right Stick Dead Zone,
-Control_MouseAndKeyboard_Collection_Name,Mouse & Keyboard,
-Control_MouseDoubleClickDelay_Description,The length of time between button presses that still enables a double-click action.,
-Control_MouseDoubleClickDelay_Name,Double-click Delay,
-Control_MouseSensitivity_Collection_Name,Sensitivity,
-Control_MouseSensitivityPitch_Description,Sets the sensitivity of the mouse's vertical (y) axis. With higher settings the camera will move faster when looking up and down with the mouse.,
-Control_MouseSensitivityPitch_Name,Y-Axis Sensitivity,
-Control_MouseSensitivityYaw_Description,Sets the sensitivity of the mouse's horizontal (x) axis. With higher settings the camera will move faster when looking left and right with the mouse.,
-Control_MouseSensitivityYaw_Name,X-Axis Sensitivity,
-Control_MouseTargetingMultiplier_Description,Sets the modifier for reducing mouse sensitivity when targeting. 100% will have no slowdown when targeting. Lower settings will have more slowdown when targeting.,
-Control_MouseTargetingMultiplier_Name,Targeting Sensitivity,
-Control_MoveStickDeadZone_Description,Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the character continuing to move even after removing your finger from the stick.,
-Control_MoveStickDeadZone_Name,Left Stick Dead Zone,
-Game_Collection_Name,Game,
-Game_PauseOnTurnStartMP_Description,Pause the game at the start of the next turn in multiplayer.,
-Game_PauseOnTurnStartMP_Name,Pause on turn start (Multiplayer),
-Game_PauseOnTurnStartSP_Description,Pause the game at the start of the next turn in singeplayer.,
-Game_PauseOnTurnStartSP_Name,Pause on turn start (Singleplayer),
-Gameplay_Collection_Name,Gameplay,
-GuildErrors_UnknownMappingName,Unknown Mapping,
-GuildInputDefaults,Default Experiences,
-Input_Key_Gamepad_LeftStick,Left Stick,
-Input_Key_Mouse_Wheel,Mouse Wheel,
-Language_AudioLanguage_Description,The language of the voiced audio.,
-Language_AudioLanguage_Name,Audio Language,
-Language_Changed_Warning_Message,You will need to restart the game completely for all language related changes to take effect.,
-Language_Changed_Warning_Title,Language Changed,
-Language_Collection_Name,Language,
-Language_SystemDefaultLanguage,System Default ({0}),
-Language_TextLanguage_Description,The language of the game.,
-Language_TextLanguage_Name,Text Language,
-Option_Custom,Custom,
-Option_Epic,Epic,
-Option_High,High,
-Option_Low,Low,
-Option_Medium,Medium,
-Option_Off,Off,
-Option_On,On,
-Speed_Fast,7 (Fast),
-Speed_FastPlus,8 (Fast+),
-Speed_FastPlusPlus,9 (Fast++),
-Speed_Insane,10 (Insane),
-Speed_Normal,4 (Normal),
-Speed_NormalPlus,5 (Normal+),
-Speed_NormalPlusPlus,6 (Normal++),
-Speed_Slow,1 (Slow),
-Speed_SlowPlus,2 (Slow+),
-Speed_SlowPlusPlus,3 (Slow++),
-Subtitles_Collection_Name,Subtitles,
-Subtitles_Description,Turns subtitles on or off.,
-Subtitles_Name,Subtitles,
-Subtitles_Setting_Description,Configure the visual appearance of subtitles.,
-Subtitles_Setting_Navigation,Options,
-UserInterface_Collection_Name,User Interface,
-UserInterface_Scale_Description,Adjusts the size of user interface elements.,
-UserInterface_Scale_Name,UI Scale,
-UserInterface_TooltipDelay_Description,Sets the delay before a tooltip is shown.,
-UserInterface_TooltipDelay_Name,Tooltip delay,
-Video_AdvancedGraphics_Name,Advanced Graphics,
-Video_AntiAliasing_Description,"Anti-Aliasing reduces jaggy artifacts along geometry edges. Increasing this setting will make edges look smoother, but can reduce performance. Higher settings mean more anti-aliasing.",
-Video_AntiAliasing_Name,Anti-Aliasing,
-Video_Brightness_AdjustInstructions,"Use <text color=\\\""FFFFFFFF\\\"" fontface=\\\""black\\\"">{0}</> to adjust the brightness",
-Video_Brightness_Description,Adjusts the brightness.,
-Video_Brightness_Format,{0}%,
-Video_Brightness_Name,Brightness,
-Video_Collection_Name,Video,
-Video_Display_AspectRatio_Format,{X}:{Y},
-Video_Display_Collection_Name,Display,
-Video_Display_Resolution_Description,"Display Resolution determines the size of the window in Windowed mode. In Fullscreen mode, Display Resolution determines the graphics card output resolution, which can result in black bars depending on monitor and graphics card. Display Resolution is inactive in Windowed Fullscreen mode.",
-Video_Display_Resolution_Format,{X} x {Y},
-Video_Display_Resolution_Name,Resolution,
-Video_Display_Resolution_Scale_Description,"3D resolution determines the resolution that objects are rendered in game, but does not affect the main menu. Lower resolutions can significantly increase frame rate.",
-Video_Display_Resolution_Scale_Name,3D Resolution,
-Video_Display_Resolution_WhenWindowedFullscreen_Disabled,"When the Window Mode is set to <strong>Windowed Fullscreen</>, the resolution must match the native desktop resolution.",
-Video_FrameRateLimit_Always_Description,Frame rate limit sets the highest frame rate that is allowed. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.,
-Video_FrameRateLimit_Always_Name,Frame Rate Limit,
-Video_FrameRateLimit_InMenu_Description,Frame rate limit when in the menu. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.,
-Video_FrameRateLimit_InMenu_Name,Frame Rate Limit (Menu),
-Video_FrameRateLimit_OnBattery_Description,Frame rate limit when running on battery. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.,
-Video_FrameRateLimit_OnBattery_Name,Frame Rate Limit (On Battery),
-Video_FrameRateLimit_WhenBackgrounded_Description,Frame rate limit when in the background. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.,
-Video_FrameRateLimit_WhenBackgrounded_Name,Frame Rate Limit (Background),
-Video_GlobalIlluminationQuality_Description,"Global Illumination controls the quality of dynamically calculated indirect lighting bounces, sky shadowing and Ambient Occlusion. Settings of 'High' and above use more accurate ray tracing methods to solve lighting, but can reduce performance.",
-Video_GlobalIlluminationQuality_Name,Global Illumination,
-Video_Graphics_AutoSetQuality_Action,Auto-Set,
-Video_Graphics_AutoSetQuality_Description,Automatically configure the graphics quality options based on a benchmark of the hardware.,
-Video_Graphics_AutoSetQuality_Name,Auto-Set Quality,
-Video_Graphics_Collection_Name,Graphics,
-Video_GraphicsQuality_Name,Graphics Quality,
-Video_GraphicsQualityPresets_Description,Quality Preset allows you to adjust multiple video options at once. Try a few options to see what fits your preference and device's performance.,
-Video_GraphicsQualityPresets_Name,Quality Presets,
-Video_NaniteTessellation_Description,Enables Nanite tessellation.,
-Video_NaniteTessellation_Name,Nanite tessellation,
-Video_PostProcessingQuality_Description,"Post Processing effects include Motion Blur, Depth of Field and Bloom. Increasing this setting improves the quality of post process effects, but can reduce performance.",
-Video_PostProcessingQuality_Name,Post Processing,
-Video_ReflectionQuality_Description,"Reflection quality determines the resolution and accuracy of reflections. Settings of 'High' and above use more accurate ray tracing methods to render reflections, but can reduce performance.",
-Video_ReflectionQuality_Name,Reflections,
-Video_SafeZone_Action,Set Safe Zone,
-Video_SafeZone_ActionInstructions,"Use <text color=\\\""FFFFFFFF\\\"" fontface=\\\""black\\\"">{0}</> to adjust the corners so it lines up with the edges of your display.",
-Video_SafeZone_Description,Sets the UI safe zone for the platform.,
-Video_SafeZone_Name,Safe Zone,
-Video_SafeZoneValue_Description,The safe zone area percentage.,
-Video_SafeZoneValue_Name,Safe Zone Value,
-Video_Shadows_Description,"Shadow quality determines the resolution and view distance of dynamic shadows. Shadows improve visual quality and give better depth perception, but can reduce performance.",
-Video_Shadows_Name,Shadows,
-Video_TextureQuality_Description,"Texture quality determines the resolution of textures in game. Increasing this setting will make objects more detailed, but can reduce performance.",
-Video_TextureQuality_Name,Textures,
-Video_UnlimitedFPS,Unlimited,
-Video_UpscalingMode_Balanced,Balanced,
-Video_UpscalingMode_Description,Type of upscaling system to be used.,
-Video_UpscalingMode_DLSS,DLSS,
-Video_UpscalingMode_FSR,FSR,
-Video_UpscalingMode_Name,Upscaling Mode,
-Video_UpscalingMode_Performance,Performance,
-Video_UpscalingMode_Quality,Quality,
-Video_UpscalingMode_UltraPerformance,Ultra performance,
-Video_UpscalingMode_XeSS,XeSS,
-Video_UpscalingQuality_Description,Determines which upscaling quality level is used for the selected upscaling system.,
-Video_UpscalingQuality_Name,Upscaling Quality,
-Video_UpscalingQuality_UpscalingDisabled,Upscaling is disabled.,
-Video_VerticalSync_Description,"Enabling Vertical Sync eliminates screen tearing by always rendering and presenting a full frame. Disabling Vertical Sync can give higher frame rate and better input response, but can result in horizontal screen tearing.",
-Video_VerticalSync_FullscreenNeededForVSync,This feature only works if 'Window Mode' is set to 'Fullscreen'.,
-Video_VerticalSync_Name,Vertical Sync,
-Video_ViewDistance_Description,View distance determines how far away objects remain visible. Lower settings may improve performance.,
-Video_ViewDistance_Far,Far,
-Video_ViewDistance_Name,View Distance,
-Video_ViewDistance_Near,Near,
-Video_VisualEffectQuality_Description,"Effects determines the quality of visual effects and lighting in game. Increasing this setting will increase the quality of visual effects, but can reduce performance.",
-Video_VisualEffectQuality_Name,Effects,
-Video_WindowMode_Description,"In Windowed mode you can interact with other windows more easily, and drag the edges of the window to set the size. In Windowed Fullscreen mode you can easily switch between applications. In Fullscreen mode you cannot interact with other windows as easily, but the game will run slightly faster.",
-Video_WindowMode_Fullscreen,Fullscreen,
-Video_WindowMode_Name,Window Mode,
-Video_WindowMode_Windowed,Windowed,
-Video_WindowMode_WindowedFullscreen,Windowed Fullscreen,
-UserInterface_CursorScale_Name,Mouse Cursor Size,
-UserInterface_CursorScale_Description,Adjusts the size of the mouse cursor.,
-Option_Small,Small,
-Option_Normal,Normal,
-Option_Large,Large,
-Control_KeyBinding_CameraForward_Name,Pan Camera Forward,
-Control_KeyBinding_CameraBackward_Name,Pan Camera Backward,
-Control_KeyBinding_CameraLeft_Name,Pan Camera Left,
-Control_KeyBinding_CameraRight_Name,Pan Camera Right,
-Control_KeyBinding_CameraRotateLeft_Name,Rotate Camera Left,
-Control_KeyBinding_CameraRotateRight_Name,Rotate Camera Right,
-Control_KeyBinding_TogglePause_Name,Toggle Pause,
-Control_KeyBinding_TogglePause_Description,"Pauses the game, or resumes it at the previous game speed.",
-Control_KeyBinding_GameSpeed_Pause_Name,Set Speed to Paused,
-Control_KeyBinding_GameSpeed_Pause_Description,Pauses the time in the game. This will not resume the game if it is already paused.,
-Control_KeyBinding_GameSpeed_Slow_Name,Set Speed to Slow,
-Control_KeyBinding_GameSpeed_Normal_Name,Set Speed to Normal,
-Control_KeyBinding_GameSpeed_Fast_Name,Set Speed to Fast,
-Control_KeyBinding_GameSpeed_Fastest_Name,Set Speed to Fastest,
-Control_KeyBinding_CloseAllWindows_Name,Close All Windows,
-Control_KeyBinding_CloseTopWindow_Name,Close Top Window,
-Control_KeyBinding_CloseTopWindow_Instruction,Right-click inside the window,
-Control_KeyBinding_OpenGuildopedia_Name,Open City Archives,
-Control_KeyBinding_OpenPauseMenu_Name,Open Pause Menu,
-Control_KeyBinding_SelectPrimaryKey,Set Primary Key,
-Control_KeyBinding_SelectSecondaryKey,Set Secondary Key,
-Control_KeyBinding_Unbind,Unbind Keys,
-Control_KeyBinding_ResetToDefault,Reset to Default,
-Video_CharacterDensityQuality_Name,Crowd Density,
-Video_CharacterDensityQuality_Description,How many characters are visible in game.,
-CanBeChangedInSettings,Can be changed in Settings,
-Game_ShowVersionWidget_Name,Show Game Version,
-Game_ShowVersionWidget_Description,Show or hide game version in the bottom-right corner of the screen.,
+Key,Namespace,Translation
+Audio_BackgroundAudio_Description,,"Turns game audio on or off when the game is in the background. When on, the game audio will continue to play when the game is minimized, or another window is focused."
+Audio_BackgroundAudio_Name,,Background Audio
+Audio_Collection_Name,,Audio
+Audio_DefaultAudioOutputDevice,,Default Output - {0}
+Audio_EGuildAllowBackgroundAudioSetting_AllSounds,,All Sounds
+Audio_HDRAudioMode_Description,,"Enable high dynamic range audio. Changes the runtime processing chain to increase the dynamic range of the audio mixdown, appropriate for theater or more cinematic experiences."
+Audio_HDRAudioMode_Name,,High Dynamic Range Audio
+Audio_HeadphoneMode_Description,,"Enable binaural audio. Provides 3D audio spatialization, so you can hear the location of sounds more precisely, including above, below, and behind you. Recommended for use with stereo headphones only."
+Audio_HeadphoneMode_Name,,3D Headphones
+Audio_OutputDevice_Description,,"Changes the audio output device for game audio, not voice chat."
+Audio_OutputDevice_Name,,Audio Output Device
+Audio_Sound_Collection_Name,,Sound
+Audio_Volume_Collection_Name,,Volume
+Audio_Volume_Dialogue_Description,,Adjusts the volume of spoken dialogue.
+Audio_Volume_Dialogue_Name,,Dialogue
+Audio_Volume_Master_Description,,Adjusts the volume of everything.
+Audio_Volume_Master_Name,,Master
+Audio_Volume_Music_Description,,Adjusts the volume of music.
+Audio_Volume_Music_Name,,Music
+Audio_Volume_SoundEffects_Description,,Adjusts the volume of sound effects.
+Audio_Volume_SoundEffects_Name,,Sound Effects
+Audio_Volume_UI_Description,,Adjusts the volume of UI sounds.
+Audio_Volume_UI_Name,,UI Sounds
+ColorBlindMode_Description,,"Using the provided images, test out the different color blind modes to find a color correction that works best for you."
+ColorBlindMode_Deuteranope,,Deuteranope
+ColorBlindMode_Name,,Color Blind Mode
+ColorBlindMode_Protanope,,Protanope
+ColorBlindMode_Tritanope,,Tritanope
+ColorBlindStrength_Description,,"Using the provided images, test out the different strengths to find a color correction that works best for you."
+ColorBlindStrength_Name,,Color Blind Strength
+Control_BasicSensitivity_Collection_Name,,Sensitivity
+Control_CameraEdgeMovement_Description,,Move camera when cursor is near the edge of the game window.
+Control_CameraEdgeMovement_Name,,Camera Edge Scrolling
+Control_CameraParallax_Description,,Enables slight camera movement when you move the mouse in certain scenes.
+Control_CameraParallax_Name,,Camera Parallax
+Control_ControllerHardware_Description,,The type of controller you're using.
+Control_ControllerHardware_Name,,Controller Hardware
+Control_DeadZone_Collection_Name,,Controller Dead Zone
+Control_DynamicDetails_KeyboardInputAction,,Bindings for {0}
+Control_Gamepad_Collection_Name,,Gamepad
+Control_GamepadBinding_Collection_Name,,Controls
+Control_GamepadVibration_Description,,Turns controller vibration on or off.
+Control_GamepadVibration_Name,,Vibration
+Control_Hardware_Collection_Name,,Hardware
+Control_InputInfo_Collection_Name,,Interaction Guide
+Control_InvertHorizontalAxis_Description,,Enable the inversion of the Horizontal look axis.
+Control_InvertHorizontalAxis_Name,,Invert Horizontal Axis
+Control_InvertVerticalAxis_Description,,Enable the inversion of the Vertical look axis.
+Control_InvertVerticalAxis_Name,,Invert Vertical Axis
+Control_KeyBinding_AlreadyBound_Cancel,,"Press button to cancel, or press {InKey} again to confirm rebinding."
+Control_KeyBinding_AlreadyBound_Warning,,{InKey} is already bound to {ActionNames}. Are you sure you want to rebind it?
+Control_KeyBinding_AssignKey,,Press any key to assign it to the selected action.
+Control_KeyBinding_AssignKey_Header,,{ActionName}
+Control_KeyBinding_Collection_Name,,Keyboard & Mouse
+Control_KeyBinding_Collection_Name_alt,,Keybinding
+Control_LockMouseToViewport_Description,,Locks mouse cursor to the application window.
+Control_LockMouseToViewport_Name,,Lock Mouse to Window
+Control_LookSensitivityPreset_Description,,How quickly your view rotates.
+Control_LookSensitivityPreset_Name,,Look Sensitivity
+Control_LookSensitivityPresetAds_Description,,How quickly your view rotates while aiming down sights (ADS).
+Control_LookSensitivityPresetAds_Name,,Aim Sensitivity (ADS)
+Control_LookStickDeadZone_Description,,Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the camera continuing to move even after removing your finger from the stick.
+Control_LookStickDeadZone_Name,,Right Stick Dead Zone
+Control_MouseAndKeyboard_Collection_Name,,Mouse & Keyboard
+Control_MouseDoubleClickDelay_Description,,The length of time between button presses that still enables a double-click action.
+Control_MouseDoubleClickDelay_Name,,Double-click Delay
+Control_MouseSensitivity_Collection_Name,,Sensitivity
+Control_MouseSensitivityPitch_Description,,Sets the sensitivity of the mouse's vertical (y) axis. With higher settings the camera will move faster when looking up and down with the mouse.
+Control_MouseSensitivityPitch_Name,,Y-Axis Sensitivity
+Control_MouseSensitivityYaw_Description,,Sets the sensitivity of the mouse's horizontal (x) axis. With higher settings the camera will move faster when looking left and right with the mouse.
+Control_MouseSensitivityYaw_Name,,X-Axis Sensitivity
+Control_MouseTargetingMultiplier_Description,,Sets the modifier for reducing mouse sensitivity when targeting. 100% will have no slowdown when targeting. Lower settings will have more slowdown when targeting.
+Control_MouseTargetingMultiplier_Name,,Targeting Sensitivity
+Control_MoveStickDeadZone_Description,,Increase or decrease the area surrounding the stick that we ignore input from. Setting this value too low may result in the character continuing to move even after removing your finger from the stick.
+Control_MoveStickDeadZone_Name,,Left Stick Dead Zone
+Game_Collection_Name,,Game
+Game_PauseOnTurnStartMP_Description,,Pause the game at the start of the next turn in multiplayer.
+Game_PauseOnTurnStartMP_Name,,Pause on turn start (Multiplayer)
+Game_PauseOnTurnStartSP_Description,,Pause the game at the start of the next turn in singeplayer.
+Game_PauseOnTurnStartSP_Name,,Pause on turn start (Singleplayer)
+Gameplay_Collection_Name,,Gameplay
+GuildErrors_UnknownMappingName,,Unknown Mapping
+GuildInputDefaults,,Default Experiences
+Input_Key_Gamepad_LeftStick,,Left Stick
+Input_Key_Mouse_Wheel,,Mouse Wheel
+Language_AudioLanguage_Description,,The language of the voiced audio.
+Language_AudioLanguage_Name,,Audio Language
+Language_Changed_Warning_Message,,You will need to restart the game completely for all language related changes to take effect.
+Language_Changed_Warning_Title,,Language Changed
+Language_Collection_Name,,Language
+Language_SystemDefaultLanguage,,System Default ({0})
+Language_TextLanguage_Description,,The language of the game.
+Language_TextLanguage_Name,,Text Language
+Option_Custom,,Custom
+Option_Epic,,Epic
+Option_High,,High
+Option_Low,,Low
+Option_Medium,,Medium
+Option_Off,,Off
+Option_On,,On
+Speed_Fast,,7 (Fast)
+Speed_FastPlus,,8 (Fast+)
+Speed_FastPlusPlus,,9 (Fast++)
+Speed_Insane,,10 (Insane)
+Speed_Normal,,4 (Normal)
+Speed_NormalPlus,,5 (Normal+)
+Speed_NormalPlusPlus,,6 (Normal++)
+Speed_Slow,,1 (Slow)
+Speed_SlowPlus,,2 (Slow+)
+Speed_SlowPlusPlus,,3 (Slow++)
+Subtitles_Collection_Name,,Subtitles
+Subtitles_Description,,Turns subtitles on or off.
+Subtitles_Name,,Subtitles
+Subtitles_Setting_Description,,Configure the visual appearance of subtitles.
+Subtitles_Setting_Navigation,,Options
+UserInterface_Collection_Name,,User Interface
+UserInterface_Scale_Description,,Adjusts the size of user interface elements.
+UserInterface_Scale_Name,,UI Scale
+UserInterface_TooltipDelay_Description,,Sets the delay before a tooltip is shown.
+UserInterface_TooltipDelay_Name,,Tooltip delay
+Video_AdvancedGraphics_Name,,Advanced Graphics
+Video_AntiAliasing_Description,,"Anti-Aliasing reduces jaggy artifacts along geometry edges. Increasing this setting will make edges look smoother, but can reduce performance. Higher settings mean more anti-aliasing."
+Video_AntiAliasing_Name,,Anti-Aliasing
+Video_Brightness_AdjustInstructions,,"Use <text color=\\\""FFFFFFFF\\\"" fontface=\\\""black\\\"">{0}</> to adjust the brightness"
+Video_Brightness_Description,,Adjusts the brightness.
+Video_Brightness_Format,,{0}%
+Video_Brightness_Name,,Brightness
+Video_Collection_Name,,Video
+Video_Display_AspectRatio_Format,,{X}:{Y}
+Video_Display_Collection_Name,,Display
+Video_Display_Resolution_Description,,"Display Resolution determines the size of the window in Windowed mode. In Fullscreen mode, Display Resolution determines the graphics card output resolution, which can result in black bars depending on monitor and graphics card. Display Resolution is inactive in Windowed Fullscreen mode."
+Video_Display_Resolution_Format,,{X} x {Y}
+Video_Display_Resolution_Name,,Resolution
+Video_Display_Resolution_Scale_Description,,"3D resolution determines the resolution that objects are rendered in game, but does not affect the main menu. Lower resolutions can significantly increase frame rate."
+Video_Display_Resolution_Scale_Name,,3D Resolution
+Video_Display_Resolution_WhenWindowedFullscreen_Disabled,,"When the Window Mode is set to <strong>Windowed Fullscreen</>, the resolution must match the native desktop resolution."
+Video_FrameRateLimit_Always_Description,,Frame rate limit sets the highest frame rate that is allowed. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.
+Video_FrameRateLimit_Always_Name,,Frame Rate Limit
+Video_FrameRateLimit_InMenu_Description,,Frame rate limit when in the menu. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.
+Video_FrameRateLimit_InMenu_Name,,Frame Rate Limit (Menu)
+Video_FrameRateLimit_OnBattery_Description,,Frame rate limit when running on battery. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.
+Video_FrameRateLimit_OnBattery_Name,,Frame Rate Limit (On Battery)
+Video_FrameRateLimit_WhenBackgrounded_Description,,Frame rate limit when in the background. Set this lower for a more consistent frame rate or higher for the best experience on faster machines. You may need to disable Vsync to reach high frame rates.
+Video_FrameRateLimit_WhenBackgrounded_Name,,Frame Rate Limit (Background)
+Video_GlobalIlluminationQuality_Description,,"Global Illumination controls the quality of dynamically calculated indirect lighting bounces, sky shadowing and Ambient Occlusion. Settings of 'High' and above use more accurate ray tracing methods to solve lighting, but can reduce performance."
+Video_GlobalIlluminationQuality_Name,,Global Illumination
+Video_Graphics_AutoSetQuality_Action,,Auto-Set
+Video_Graphics_AutoSetQuality_Description,,Automatically configure the graphics quality options based on a benchmark of the hardware.
+Video_Graphics_AutoSetQuality_Name,,Auto-Set Quality
+Video_Graphics_Collection_Name,,Graphics
+Video_GraphicsQuality_Name,,Graphics Quality
+Video_GraphicsQualityPresets_Description,,Quality Preset allows you to adjust multiple video options at once. Try a few options to see what fits your preference and device's performance.
+Video_GraphicsQualityPresets_Name,,Quality Presets
+Video_NaniteTessellation_Description,,Enables Nanite tessellation.
+Video_NaniteTessellation_Name,,Nanite tessellation
+Video_PostProcessingQuality_Description,,"Post Processing effects include Motion Blur, Depth of Field and Bloom. Increasing this setting improves the quality of post process effects, but can reduce performance."
+Video_PostProcessingQuality_Name,,Post Processing
+Video_ReflectionQuality_Description,,"Reflection quality determines the resolution and accuracy of reflections. Settings of 'High' and above use more accurate ray tracing methods to render reflections, but can reduce performance."
+Video_ReflectionQuality_Name,,Reflections
+Video_SafeZone_Action,,Set Safe Zone
+Video_SafeZone_ActionInstructions,,"Use <text color=\\\""FFFFFFFF\\\"" fontface=\\\""black\\\"">{0}</> to adjust the corners so it lines up with the edges of your display."
+Video_SafeZone_Description,,Sets the UI safe zone for the platform.
+Video_SafeZone_Name,,Safe Zone
+Video_SafeZoneValue_Description,,The safe zone area percentage.
+Video_SafeZoneValue_Name,,Safe Zone Value
+Video_Shadows_Description,,"Shadow quality determines the resolution and view distance of dynamic shadows. Shadows improve visual quality and give better depth perception, but can reduce performance."
+Video_Shadows_Name,,Shadows
+Video_TextureQuality_Description,,"Texture quality determines the resolution of textures in game. Increasing this setting will make objects more detailed, but can reduce performance."
+Video_TextureQuality_Name,,Textures
+Video_UnlimitedFPS,,Unlimited
+Video_UpscalingMode_Balanced,,Balanced
+Video_UpscalingMode_Description,,Type of upscaling system to be used.
+Video_UpscalingMode_DLSS,,DLSS
+Video_UpscalingMode_FSR,,FSR
+Video_UpscalingMode_Name,,Upscaling Mode
+Video_UpscalingMode_Performance,,Performance
+Video_UpscalingMode_Quality,,Quality
+Video_UpscalingMode_UltraPerformance,,Ultra performance
+Video_UpscalingMode_XeSS,,XeSS
+Video_UpscalingQuality_Description,,Determines which upscaling quality level is used for the selected upscaling system.
+Video_UpscalingQuality_Name,,Upscaling Quality
+Video_UpscalingQuality_UpscalingDisabled,,Upscaling is disabled.
+Video_VerticalSync_Description,,"Enabling Vertical Sync eliminates screen tearing by always rendering and presenting a full frame. Disabling Vertical Sync can give higher frame rate and better input response, but can result in horizontal screen tearing."
+Video_VerticalSync_FullscreenNeededForVSync,,This feature only works if 'Window Mode' is set to 'Fullscreen'.
+Video_VerticalSync_Name,,Vertical Sync
+Video_ViewDistance_Description,,View distance determines how far away objects remain visible. Lower settings may improve performance.
+Video_ViewDistance_Far,,Far
+Video_ViewDistance_Name,,View Distance
+Video_ViewDistance_Near,,Near
+Video_VisualEffectQuality_Description,,"Effects determines the quality of visual effects and lighting in game. Increasing this setting will increase the quality of visual effects, but can reduce performance."
+Video_VisualEffectQuality_Name,,Effects
+Video_WindowMode_Description,,"In Windowed mode you can interact with other windows more easily, and drag the edges of the window to set the size. In Windowed Fullscreen mode you can easily switch between applications. In Fullscreen mode you cannot interact with other windows as easily, but the game will run slightly faster."
+Video_WindowMode_Fullscreen,,Fullscreen
+Video_WindowMode_Name,,Window Mode
+Video_WindowMode_Windowed,,Windowed
+Video_WindowMode_WindowedFullscreen,,Windowed Fullscreen
+UserInterface_CursorScale_Name,,Mouse Cursor Size
+UserInterface_CursorScale_Description,,Adjusts the size of the mouse cursor.
+Option_Small,,Small
+Option_Normal,,Normal
+Option_Large,,Large
+Control_KeyBinding_CameraForward_Name,,Pan Camera Forward
+Control_KeyBinding_CameraBackward_Name,,Pan Camera Backward
+Control_KeyBinding_CameraLeft_Name,,Pan Camera Left
+Control_KeyBinding_CameraRight_Name,,Pan Camera Right
+Control_KeyBinding_CameraRotateLeft_Name,,Rotate Camera Left
+Control_KeyBinding_CameraRotateRight_Name,,Rotate Camera Right
+Control_KeyBinding_TogglePause_Name,,Toggle Pause
+Control_KeyBinding_TogglePause_Description,,"Pauses the game, or resumes it at the previous game speed."
+Control_KeyBinding_GameSpeed_Pause_Name,,Set Speed to Paused
+Control_KeyBinding_GameSpeed_Pause_Description,,Pauses the time in the game. This will not resume the game if it is already paused.
+Control_KeyBinding_GameSpeed_Slow_Name,,Set Speed to Slow
+Control_KeyBinding_GameSpeed_Normal_Name,,Set Speed to Normal
+Control_KeyBinding_GameSpeed_Fast_Name,,Set Speed to Fast
+Control_KeyBinding_GameSpeed_Fastest_Name,,Set Speed to Fastest
+Control_KeyBinding_CloseAllWindows_Name,,Close All Windows
+Control_KeyBinding_CloseTopWindow_Name,,Close Top Window
+Control_KeyBinding_CloseTopWindow_Instruction,,Right-click inside the window
+Control_KeyBinding_OpenGuildopedia_Name,,Open City Archives
+Control_KeyBinding_OpenPauseMenu_Name,,Open Pause Menu
+Control_KeyBinding_SelectPrimaryKey,,Set Primary Key
+Control_KeyBinding_SelectSecondaryKey,,Set Secondary Key
+Control_KeyBinding_Unbind,,Unbind Keys
+Control_KeyBinding_ResetToDefault,,Reset to Default
+Video_CharacterDensityQuality_Name,,Crowd Density
+Video_CharacterDensityQuality_Description,,How many characters are visible in game.
+CanBeChangedInSettings,,Can be changed in Settings
+Game_ShowVersionWidget_Name,,Show Game Version
+Game_ShowVersionWidget_Description,,Show or hide game version in the bottom-right corner of the screen.

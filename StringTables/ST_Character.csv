@@ -1,209 +1,209 @@
-Key,SourceString,Translation
-ActionPoints_Acronym,AP,
-ActionPoints_Description,"Some actions cost Action Points (AP), as you receive {ap_each_turn} each turn for free — spend them wisely.",
-ActionPoints_DisplayName_plural,Action Points,
-Age_DisplayName,Age,
-BabyChance_Description,Represents your likelihood of producing an {CHAR_HEI_C}heir{##}. It is influenced by both partners' {CHAR_FER_C}fertility{##} and the quality of your {CHAR_STA_C}relationship{##}.,
-BabyChance_DisplayName,Chance of Conceiving,
-Character_DisplayName,Character,
-Character_DisplayName_plural,Characters,
-CharacterCustomization_DisplayName,Customize Character,
-CharacterCustomization_DisplayName_alt,Character Creation,
-CharacterName_DisplayName,Name,
-CharacterScreen_DisplayName,Character Details,
-Citizen_Description,TBD,
-Citizen_DisplayName,Citizen,
-Citizen_DisplayName_Alt_01,Citizen,
-Citizen_DisplayName_Alt_02,TBD,
-Citizen_DisplayName_plural,Citizens,
-CitizensAndWokers_Description,"In this world, there are two castes you're born into. While Workers trade labor for pay and never ascend, Citizens can build {CHAR_WEA_C}wealth{##}, rise through {T_C}titles{##}, and take part in the town's {O_TYP_CIVOFF_C}political{##} life.",
-CitizensAndWokers_DisplayName,Workers vs. Citizens,
-Courting_FindCandidate_Diorama_Description,"Welcome to the Matchmaking Fair. Take a look around and get acquainted with the hopeful faces gathered here. Whether you're seeking love for yourself or a suitable match for a family member, everyone here is looking for much the same thing: L-O-V-E.",
-Courting_FindCandidate_Diorama_Description_extra1,"Click on a character to learn more about them. You can see their name, skills, desirable and undesirable traits, and even their wealth. If only life were always this transparent.",
-Courting_FindCandidate_Diorama_Description_extra2,"Take your time and choose carefully. Once someone catches your eye, click on the lucky candidate to begin courting them yourself or arrange a courtship for a family member. Should you choose to pursue them yourself, a more private corner of the park awaits, where you can get to know each other better.",
-Courting_FindCandidate_Diorama_Name_01,Find Your Soulmate Fair,
-Courting_FindCandidate_Diorama_Name_02,The Lonely Hearts Fountain,
-Courting_FindCandidate_Diorama_Name_03,The Lovers' Fountain,
-Courting_FindCandidate_Diorama_Name_04,The Marriage Market,
-Courting_FindCandidate_Diorama_Name_05,Matchmaking Fair,
-Courting_FindCandidate_GoToDiorama_Prompt,Seek a Suitable Match,
-Courting_StartCourtship_Prompt,Begin Courtship,
-Courting_Woo_Candidate_Diorama_Description,"Now that you have found a more private corner of the park, click on your chosen partner to interact with them. Sweet-talk them, bring them gifts, and give them plenty of reasons to want to marry you sooner.",
-Courting_Woo_Candidate_Diorama_Description_extra1,"If you need to leave, you can always come back later, as long as your chosen one has not been led down the aisle by you or, God forbid, by someone else.",
-Courting_Woo_Candidate_Diorama_Name,The Lovers' Corner,
-CourtingCandidatesList_Header,{charactername} has the following suitors:\n{candidates},
-CourtingProgress_Description,Courting leads to marriage — and marriage to {CHAR_HEI_C}heirs{##} and the continuation of your {CHAR_DYN_C}dynasty{##}.,
-CourtingProgress_Description_extra1,The bar tracks your progress toward winning your partner's hand. Be the first to fill it. Love can be a competitive sport.,
-CourtingProgress_Description_extra2,{A_SENGIF_C}Send gifts{##} or {A_SWETAL_C}sweet-talk{##} to hasten the progress.,
-CourtingProgress_DisplayName,Courtship Progress,
-CourtingProgress_Full_Description,A wedding has been arranged. The ceremony will take place on the turn following the acceptance of the proposal.,
-CourtingProgress_Full_DisplayName,Upcoming Wedding,
-CourtingProgress_Full_Label,Betrothed,
-CourtingProgress_InProgress_Label,In Courtship,
-Crest_Description_lobby,What symbol will represent your house? Choose the crest by which your family will be known.,
-Crest_DisplayName,Crest,
-Crest_DisplayName_alt,Dynasty Crest,
-Dynasty_Description,"A family line that endures across generations, shaped by the choices, fortunes, and failures of its members. Through {CHAR_HEI_C}heirs{##}, your dynasty outlives any single member.",
-Dynasty_DisplayName,Dynasty,
-Dynasty_DisplayName_plural,Dynasties,
-Dynasty_Ranking_Description,Some bloodlines are better than others.,
-Dynasty_Ranking_Description_extra1,{CHAR_DYN_C}Dynasties{##} are ranked by:,
-Dynasty_Ranking_DisplayName,Dynasty Prestige Ranking,
-Dynasty_Ranking_DisplayName_alt,Dynasty Prestige,
-Dynasty_Ranking_DisplayName_alt01,Prestige,
-Dynasty_Ranking_DisplayName_alt02,Dynasty Ranking,
-Dynasty_Ranking_Num,{CHAR_DYNRAN_C}Ranked{##} #{number} among all Dynasties,
-Dynasty_Ranking_Top1,{CHAR_DYNRAN_C}The Most Prestigious Dynasty{##},
-Dynasty_Ranking_Top3,Among the {CHAR_DYNRAN_C}Top 3 Most Prestigious Dynasties{##},
-Dynasty_Size_DisplayName,Dynasty Size,
-Dynasty_Size_DisplayName_alt,Number of Members,
-Dynasty_ViewFamilyTree_Prompt,View {dynastyname} Family Tree,
-Dynasty_YourDynasty_label,Your Dynasty,
-DynastyHead_Description,The Dynasty Head is most influential and wealthy member of each {CHAR_DYN_C}family{##}.,
-DynastyHead_DisplayName,Dynasty Head,
-DynastyHead_DisplayName_plural,Dynasty Heads,
-DynastyMembersCount_NoneDead,"{NumAll} {NumAll}|plural(one=member,other=members)",
-DynastyMembersCount_SomeDead,"{NumAlive}/{NumAll} {NumAll}|plural(one=member,other=members) ({NumDead}{deadicon})",
-Energy_Description,Energy represents your physical capacity to perform actions and tasks. It {CHAR_ENEREG_C}regenerates{##} over time and impacts both {CHAR_PRO_C}productivity{##} and {CO_COM_C}combat{##} effectiveness.,
-Energy_Description_extra1,"If energy drops to zero, you are {ST_CHR_KNODOW_C}knocked down{##}.",
-Energy_Description_extra2,Recharge with a refreshing {I_ENDPOT_C}endurance drink{##} or consider investing in {B_IMP_BETBED_C}better beds{##}.,
-Energy_DisplayName,Energy,
-EnergyMaximum_Description,Even the most tireless body has its limits.,
-EnergyMaximum_Description_extra1,"You can {CHAR_ENEREG_C}restore{##} your energy, but only up to a certain level. ",
-EnergyMaximum_Description_extra2,Travelers from the east hold that {B_IMP_HEA_C}warmth{##} is the root of all life's vigor.,
-EnergyMaximum_DisplayName,Maximum Energy,
-EnergyRegeneration_Description,"Your {CHAR_ENE_C}energy{##} regenerates every hour, and a good night's sleep restores a good portion of it, so each {C_TRN_C}turn{##} begins refreshed.",
-EnergyRegeneration_Description_extra1,Those living in a {C_QUA_C}quarter{##} blessed with a {B_PUB_FOU_C}fountain{##} recover even faster.,
-EnergyRegeneration_DisplayName,Energy Regeneration,
-EnergyRegenerationAtTheStartOfTheTurn_DisplayName,{CHAR_ENEREG_C}Energy Regeneration{##} per turn,
-EnergyRegenerationPerHour_DisplayName,{CHAR_ENEREG_C}Energy Regeneration{##} per hour,
-Family_Children_DisplayName,Children,
-Family_DisplayName,Family,
-Family_NumberOfAliveChildren_Header,Alive children:,
-Family_Spouse_DisplayName,Spouse,
-Fertility_Description,Influences your {CHAR_CHABABY_C}chance of producing heirs{##}. Waste no time — youth and {CHAR_HP_C}health{##} do not last forever.,
-Fertility_Description_extra1,"Younger mothers are more fertile, while fertility declines with age — more sharply for women than for men. Fathers are less affected, though age still takes its toll.",
-Fertility_DisplayName,Fertility,
-Gender_DisplayName,Gender,
-Gender_Female_DisplayName,Female,
-Gender_Male_DisplayName,Male,
-Gender_SelectGender_Prompt,Select a gender,
-Health_AverageHealth_DisplayName,Average Health,
-Health_CriticalHealth_DisplayName,Critical Health,
-Health_Description,"The healthier you are, the longer you live — and the better your {CHAR_FER_C}fertility{##}.",
-Health_Description_extra1,It ranges from:,
-Health_Description_extra2,Years wear the body down. {A_PHYCHE_C}Visit the physician{##} or drink the right potions to improve your health.,
-Health_DisplayName,Health,
-Health_GoodHealth_DisplayName,Good Health,
-Health_PerfectlyFit_DisplayName,Perfectly Fit,
-Health_PoorHealth_DisplayName,Poor Health,
-Heir_AllPossibleHeirsList_Header,"Any family member may inherit the dynasty, provided they are at least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old.",
-Heir_Description,"The successor to your {T_C}titles{##}, property, and {CHAR_WEA_C}wealth{##}. Your heir carries the legacy forward and keeps your {CHAR_DYN_C}dynasty{##} alive. Must be {heir_min_age} {heir_min_age}|plural(one=year,other=years) or older.",
-Heir_Description_extra1,"Any family member may inherit the dynasty, provided they are at least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old.",
-Heir_DisplayName,Heir,
-Heir_DisplayName_Plural,Heirs,
-Heir_Label,Heir,
-HUD_Button_Characters_Description,Shows list of characters.,
-HUD_Button_Characters_DisplayName,Townsfolk,
-Inventory_DisplayName,Personal Inventory,
-Inventory_Warning,"Your Personal Inventory accepts {I_TYP_INVITE_C}Inventory Items{##} only. Once inside, items cannot be moved — only used, given away, or discarded.",
-Inventory_Warning_shorter,"Once inside, items cannot be moved — only used, given away, or discarded.",
-LocateCharacter_Prompt,Focus camera on,
-MaritalStatus_Courting_Description,{A_SWETAL_C}Sweet words{##} and {A_SENGIF_C}fine gifts{##} win hearts. Hearts win marriages. Marriages win {CHAR_HEI_C}heirs{##}.,
-MaritalStatus_Courting_DisplayName,Courting,
-MaritalStatus_Description,TBD,
-MaritalStatus_DisplayName,Marital Status,
-MaritalStatus_Divorced_Description,Back on the market and free to seek another match.,
-MaritalStatus_Divorced_DisplayName,Divorced,
-MaritalStatus_Engaged_Description,They said yes. The marriage ceremony will follow soon.,
-MaritalStatus_Engaged_DisplayName,Engaged,
-MaritalStatus_Married_Description,Marriage has its pleasures. {A_PRITIM_C}Share a private moment{##} to increase the chances of producing {CHAR_HEI_C}heirs{##} and securing the {CHAR_DYN_C}dynasty{##}'s future.,
-MaritalStatus_Married_DisplayName,Married,
-MaritalStatus_Single_Description,{CHAR_HEI_C}Heirs{##}do not make themselves. Find someone to court and secure the {CHAR_DYN_C}dynasty{##}.,
-MaritalStatus_Single_DisplayName,Single,
-MaritalStatus_Widowed_Description,A spouse lost to fate.,
-MaritalStatus_Widowed_DisplayName,Widowed,
-MemberOfMyDynasty_DisplayName,Member Of My Dynasty,
-MemberOfMyDynasty_DisplayName_plural,Members Of My Dynasty,
-Money_Description,Your money in local currency.,
-Money_DisplayName,Money,
-Name_DisplayName,Name,
-Nationality_German,German,
-OpenCharacterContextMenu,Open Character Context Menu,
-OpenCharacterScreen_Instructions,Left-click to view character details,
-OpenCharacterScreen_Instructions_alt,Left-click to view details,
-OpenCharacterScreen_prompt,View Details,
-Portrait_DisplayName,Portrait,
-Relationship_YourBetrothed_Label,Your betrothed,
-Relationship_YourChild_Label,Your child,
-Relationship_YourCourtedCharacter_Label,Your love interest,
-Relationship_YourDeceasedSpouse_Label,Your late spouse,
-Relationship_YourEnemy_Label,Your enemy,
-Relationship_YourExSpouse_Label,Your former spouse,
-Relationship_YourFriend_Label,Your friend,
-Relationship_YourGrandchild_Label,Your grandchild,
-Relationship_YourGrandparent_Label,Your grandparent,
-Relationship_YourHeir_Label,Your heir,
-Relationship_YourParent_Label,Your parent,
-Relationship_YourRelative_Label,Your relative,
-Relationship_YourRival_Label,Your rival,
-Relationship_YourSibling_Label,Your sibling,
-Relationship_YourSpouse_Label,Your spouse,
-Relationship_YourWorker_Label,Your worker,
-Religion_Catharic,Catharic,
-Religion_Catholic,Catholic,
-Religion_Protestant,Protestant,
-Renown_Description,"Renown measures how much you are respected in the city. It reflects upon the {CHAR_RENDYN_C}dynasty{##} and its members, and is inherited across generations.",
-Renown_Description_extra1,"High renown can make you more persuasive and command greater respect, but it may also draw unwanted attention — from rivals, criminals, and those seeking to take advantage of your success.",
-Renown_Description_v2,"Renown measures how much you are respected in the city. Compared to the rest of your family members, your renown counts more towards the {CHAR_RENDYN_C}dynasty prestige{##}.",
-Renown_DisplayName,Renown,
-RenownDynasty_Description,A dynasty's renown is the combined {CHAR_REN_C}renown{##} of all its members.,
-RenownDynasty_DisplayName,Dynasty Renown,
-Requirement_ActiveCourtship_Description,"Courtship is where love starts. Guide it well and it leads to marriage, an {CHAR_HEI_C}heir{##}, and a secure {CHAR_DYN_C}dynasty{##}. ",
-Requirement_ActiveCourtship_Description_extra1,"The more you nurture it, the faster it blossoms. Try {A_SWETAL_C}sweet-talking{##} or {A_SENGIF_C}sending gifts{##}.",
-Requirement_ActiveCourtship_DisplayName,Courtship,
-Requirement_HaveChildren,Have children,
-Score_Description,"The Score measures someone's success based on their actions, achievements, and goals.",
-Score_DisplayName,Score,
-Skill_Combat_Description,"Handle physical confrontations more effectively, increasing your chance to hit the opponent in combat.",
-Skill_Combat_Description_extra1,tbd,
-Skill_Combat_DisplayName,Martial,
-Skill_Description,"Skills are the measure of a man — in trade, in craft, and in service to one's lord. \nThey sharpen your tongue for a good {PM_CITSKILL_NEG_C}deal{##}, help you choose the right workers for each {A_ACT_C}task{##}, persuade others, and even give you a knack for {CR_CRI_C}crime{##}.",
-Skill_Description_extra1,These include:,
-Skill_Description_extra2,Read a {I_SKIBOOI_C}skill book{##} or invest in home improvements to {A_IMPSKI_C}hone your skills{##} without leaving the house.,
-Skill_DisplayName,Skill,
-Skill_DisplayName_plural,Skills,
-Skill_Handicraft_Description,"Your expertise in handicraft enhances your businesses' efficiency, ensuring tasks are completed faster and with more successful outcomes.",
-Skill_Handicraft_Description_extra1,tbd,
-Skill_Handicraft_DisplayName,Handicraft,
-Skill_Negotiation_Description,"Negotiate better prices, securing discounts when buying and increasing success when selling above market price.",
-Skill_Negotiation_Description_extra1,tbd,
-Skill_Negotiation_DisplayName,Negotiation,
-Skill_Rhetoric_Description,"Use the power of words to persuade others and turn them in your favor, influencing trials, elections, or any situation that requires convincing.",
-Skill_Rhetoric_Description_extra1,tbd,
-Skill_Rhetoric_DisplayName,Rhetoric,
-Skill_Stealth_Description,"Use the art of deception to outsmart, outmaneuver, and sabotage your opponents, giving you the edge in {CR_CRI_C}crimes{##} while ensuring others do not take advantage of you.",
-Skill_Stealth_Description_extra1,tbd,
-Skill_Stealth_DisplayName,Roguery,
-Standing_Description1,Relationships are currency in this world. Opinion reflects someone's view of another and is not necessarily reciprocated.,
-Standing_Description2,"The number you see on a character's portrait shows how that character views you. When comparing opinions between multiple characters, you can click on the number to switch views and see how others feel about the character you've selected.",
-Standing_DisplayName,Opinion,
-Standing_HowCharacterAThinksOfCharacterB,{CharacterA}'s {CHAR_STA_C}opinion{##} of {CharacterB},
-Standing_HowCharacterThinksOfYou,{Character}'s {CHAR_STA_C}opinion{##} of you,
-Standing_HowYouThinkOfCharacter,Your {CHAR_STA_C}opinion{##} of {Character},
-StartingCharacter,Starting Character,
-Surname_Description,What name will your family bear for generations to come?,
-Surname_DisplayName,Surname,
-Surname_DisplayName_alt_01,Name,
-Surname_DisplayName_alt_02,Dynasty Name,
-Surname_Warning,"All your heirs, as well as your spouse, will receive the same surname.",
-Wealth_Amount,{value} of {CHAR_WEA_C}wealth{##},
-Wealth_CharacterScreen_instructions,Your Wealth is shown in your Character Details.,
-Wealth_Description,"Wealth is the total value of your assets, including cash, buildings, and carts.",
-Wealth_DisplayName,Wealth,
-WealthDynasty_Description,"A dynasty counts wealth not by owner, but by bloodline. Dynasty Wealth is the accumulated {CHAR_WEA_C}wealth{##} of all its members.",
-WealthDynasty_DisplayName,Dynasty Wealth,
-YouAndYourDynasty_Description,"Who are you, and what surname will carry your legacy through the generations?",
-YouAndYourDynasty_DisplayName,You and Your Dynasty,
-YourStory,Your Story,
-You_Label,You,
+Key,Namespace,Translation
+ActionPoints_Acronym,,AP
+ActionPoints_Description,,"Some actions cost Action Points (AP), as you receive {ap_each_turn} each turn for free — spend them wisely."
+ActionPoints_DisplayName_plural,,Action Points
+Age_DisplayName,,Age
+BabyChance_Description,,Represents your likelihood of producing an {CHAR_HEI_C}heir{##}. It is influenced by both partners' {CHAR_FER_C}fertility{##} and the quality of your {CHAR_STA_C}relationship{##}.
+BabyChance_DisplayName,,Chance of Conceiving
+Character_DisplayName,,Character
+Character_DisplayName_plural,,Characters
+CharacterCustomization_DisplayName,,Customize Character
+CharacterCustomization_DisplayName_alt,,Character Creation
+CharacterName_DisplayName,,Name
+CharacterScreen_DisplayName,,Character Details
+Citizen_Description,,TBD
+Citizen_DisplayName,,Citizen
+Citizen_DisplayName_Alt_01,,Citizen
+Citizen_DisplayName_Alt_02,,TBD
+Citizen_DisplayName_plural,,Citizens
+CitizensAndWokers_Description,,"In this world, there are two castes you're born into. While Workers trade labor for pay and never ascend, Citizens can build {CHAR_WEA_C}wealth{##}, rise through {T_C}titles{##}, and take part in the town's {O_TYP_CIVOFF_C}political{##} life."
+CitizensAndWokers_DisplayName,,Workers vs. Citizens
+Courting_FindCandidate_Diorama_Description,,"Welcome to the Matchmaking Fair. Take a look around and get acquainted with the hopeful faces gathered here. Whether you're seeking love for yourself or a suitable match for a family member, everyone here is looking for much the same thing: L-O-V-E."
+Courting_FindCandidate_Diorama_Description_extra1,,"Click on a character to learn more about them. You can see their name, skills, desirable and undesirable traits, and even their wealth. If only life were always this transparent."
+Courting_FindCandidate_Diorama_Description_extra2,,"Take your time and choose carefully. Once someone catches your eye, click on the lucky candidate to begin courting them yourself or arrange a courtship for a family member. Should you choose to pursue them yourself, a more private corner of the park awaits, where you can get to know each other better."
+Courting_FindCandidate_Diorama_Name_01,,Find Your Soulmate Fair
+Courting_FindCandidate_Diorama_Name_02,,The Lonely Hearts Fountain
+Courting_FindCandidate_Diorama_Name_03,,The Lovers' Fountain
+Courting_FindCandidate_Diorama_Name_04,,The Marriage Market
+Courting_FindCandidate_Diorama_Name_05,,Matchmaking Fair
+Courting_FindCandidate_GoToDiorama_Prompt,,Seek a Suitable Match
+Courting_StartCourtship_Prompt,,Begin Courtship
+Courting_Woo_Candidate_Diorama_Description,,"Now that you have found a more private corner of the park, click on your chosen partner to interact with them. Sweet-talk them, bring them gifts, and give them plenty of reasons to want to marry you sooner."
+Courting_Woo_Candidate_Diorama_Description_extra1,,"If you need to leave, you can always come back later, as long as your chosen one has not been led down the aisle by you or, God forbid, by someone else."
+Courting_Woo_Candidate_Diorama_Name,,The Lovers' Corner
+CourtingCandidatesList_Header,,{charactername} has the following suitors:\n{candidates}
+CourtingProgress_Description,,Courting leads to marriage — and marriage to {CHAR_HEI_C}heirs{##} and the continuation of your {CHAR_DYN_C}dynasty{##}.
+CourtingProgress_Description_extra1,,The bar tracks your progress toward winning your partner's hand. Be the first to fill it. Love can be a competitive sport.
+CourtingProgress_Description_extra2,,{A_SENGIF_C}Send gifts{##} or {A_SWETAL_C}sweet-talk{##} to hasten the progress.
+CourtingProgress_DisplayName,,Courtship Progress
+CourtingProgress_Full_Description,,A wedding has been arranged. The ceremony will take place on the turn following the acceptance of the proposal.
+CourtingProgress_Full_DisplayName,,Upcoming Wedding
+CourtingProgress_Full_Label,,Betrothed
+CourtingProgress_InProgress_Label,,In Courtship
+Crest_Description_lobby,,What symbol will represent your house? Choose the crest by which your family will be known.
+Crest_DisplayName,,Crest
+Crest_DisplayName_alt,,Dynasty Crest
+Dynasty_Description,,"A family line that endures across generations, shaped by the choices, fortunes, and failures of its members. Through {CHAR_HEI_C}heirs{##}, your dynasty outlives any single member."
+Dynasty_DisplayName,,Dynasty
+Dynasty_DisplayName_plural,,Dynasties
+Dynasty_Ranking_Description,,Some bloodlines are better than others.
+Dynasty_Ranking_Description_extra1,,{CHAR_DYN_C}Dynasties{##} are ranked by:
+Dynasty_Ranking_DisplayName,,Dynasty Prestige Ranking
+Dynasty_Ranking_DisplayName_alt,,Dynasty Prestige
+Dynasty_Ranking_DisplayName_alt01,,Prestige
+Dynasty_Ranking_DisplayName_alt02,,Dynasty Ranking
+Dynasty_Ranking_Num,,{CHAR_DYNRAN_C}Ranked{##} #{number} among all Dynasties
+Dynasty_Ranking_Top1,,{CHAR_DYNRAN_C}The Most Prestigious Dynasty{##}
+Dynasty_Ranking_Top3,,Among the {CHAR_DYNRAN_C}Top 3 Most Prestigious Dynasties{##}
+Dynasty_Size_DisplayName,,Dynasty Size
+Dynasty_Size_DisplayName_alt,,Number of Members
+Dynasty_ViewFamilyTree_Prompt,,View {dynastyname} Family Tree
+Dynasty_YourDynasty_label,,Your Dynasty
+DynastyHead_Description,,The Dynasty Head is most influential and wealthy member of each {CHAR_DYN_C}family{##}.
+DynastyHead_DisplayName,,Dynasty Head
+DynastyHead_DisplayName_plural,,Dynasty Heads
+DynastyMembersCount_NoneDead,,"{NumAll} {NumAll}|plural(one=member,other=members)"
+DynastyMembersCount_SomeDead,,"{NumAlive}/{NumAll} {NumAll}|plural(one=member,other=members) ({NumDead}{deadicon})"
+Energy_Description,,Energy represents your physical capacity to perform actions and tasks. It {CHAR_ENEREG_C}regenerates{##} over time and impacts both {CHAR_PRO_C}productivity{##} and {CO_COM_C}combat{##} effectiveness.
+Energy_Description_extra1,,"If energy drops to zero, you are {ST_CHR_KNODOW_C}knocked down{##}."
+Energy_Description_extra2,,Recharge with a refreshing {I_ENDPOT_C}endurance drink{##} or consider investing in {B_IMP_BETBED_C}better beds{##}.
+Energy_DisplayName,,Energy
+EnergyMaximum_Description,,Even the most tireless body has its limits.
+EnergyMaximum_Description_extra1,,"You can {CHAR_ENEREG_C}restore{##} your energy, but only up to a certain level. "
+EnergyMaximum_Description_extra2,,Travelers from the east hold that {B_IMP_HEA_C}warmth{##} is the root of all life's vigor.
+EnergyMaximum_DisplayName,,Maximum Energy
+EnergyRegeneration_Description,,"Your {CHAR_ENE_C}energy{##} regenerates every hour, and a good night's sleep restores a good portion of it, so each {C_TRN_C}turn{##} begins refreshed."
+EnergyRegeneration_Description_extra1,,Those living in a {C_QUA_C}quarter{##} blessed with a {B_PUB_FOU_C}fountain{##} recover even faster.
+EnergyRegeneration_DisplayName,,Energy Regeneration
+EnergyRegenerationAtTheStartOfTheTurn_DisplayName,,{CHAR_ENEREG_C}Energy Regeneration{##} per turn
+EnergyRegenerationPerHour_DisplayName,,{CHAR_ENEREG_C}Energy Regeneration{##} per hour
+Family_Children_DisplayName,,Children
+Family_DisplayName,,Family
+Family_NumberOfAliveChildren_Header,,Alive children:
+Family_Spouse_DisplayName,,Spouse
+Fertility_Description,,Influences your {CHAR_CHABABY_C}chance of producing heirs{##}. Waste no time — youth and {CHAR_HP_C}health{##} do not last forever.
+Fertility_Description_extra1,,"Younger mothers are more fertile, while fertility declines with age — more sharply for women than for men. Fathers are less affected, though age still takes its toll."
+Fertility_DisplayName,,Fertility
+Gender_DisplayName,,Gender
+Gender_Female_DisplayName,,Female
+Gender_Male_DisplayName,,Male
+Gender_SelectGender_Prompt,,Select a gender
+Health_AverageHealth_DisplayName,,Average Health
+Health_CriticalHealth_DisplayName,,Critical Health
+Health_Description,,"The healthier you are, the longer you live — and the better your {CHAR_FER_C}fertility{##}."
+Health_Description_extra1,,It ranges from:
+Health_Description_extra2,,Years wear the body down. {A_PHYCHE_C}Visit the physician{##} or drink the right potions to improve your health.
+Health_DisplayName,,Health
+Health_GoodHealth_DisplayName,,Good Health
+Health_PerfectlyFit_DisplayName,,Perfectly Fit
+Health_PoorHealth_DisplayName,,Poor Health
+Heir_AllPossibleHeirsList_Header,,"Any family member may inherit the dynasty, provided they are at least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old."
+Heir_Description,,"The successor to your {T_C}titles{##}, property, and {CHAR_WEA_C}wealth{##}. Your heir carries the legacy forward and keeps your {CHAR_DYN_C}dynasty{##} alive. Must be {heir_min_age} {heir_min_age}|plural(one=year,other=years) or older."
+Heir_Description_extra1,,"Any family member may inherit the dynasty, provided they are at least {heir_min_age} {heir_min_age}|plural(one=year,other=years) old."
+Heir_DisplayName,,Heir
+Heir_DisplayName_Plural,,Heirs
+Heir_Label,,Heir
+HUD_Button_Characters_Description,,Shows list of characters.
+HUD_Button_Characters_DisplayName,,Townsfolk
+Inventory_DisplayName,,Personal Inventory
+Inventory_Warning,,"Your Personal Inventory accepts {I_TYP_INVITE_C}Inventory Items{##} only. Once inside, items cannot be moved — only used, given away, or discarded."
+Inventory_Warning_shorter,,"Once inside, items cannot be moved — only used, given away, or discarded."
+LocateCharacter_Prompt,,Focus camera on
+MaritalStatus_Courting_Description,,{A_SWETAL_C}Sweet words{##} and {A_SENGIF_C}fine gifts{##} win hearts. Hearts win marriages. Marriages win {CHAR_HEI_C}heirs{##}.
+MaritalStatus_Courting_DisplayName,,Courting
+MaritalStatus_Description,,TBD
+MaritalStatus_DisplayName,,Marital Status
+MaritalStatus_Divorced_Description,,Back on the market and free to seek another match.
+MaritalStatus_Divorced_DisplayName,,Divorced
+MaritalStatus_Engaged_Description,,They said yes. The marriage ceremony will follow soon.
+MaritalStatus_Engaged_DisplayName,,Engaged
+MaritalStatus_Married_Description,,Marriage has its pleasures. {A_PRITIM_C}Share a private moment{##} to increase the chances of producing {CHAR_HEI_C}heirs{##} and securing the {CHAR_DYN_C}dynasty{##}'s future.
+MaritalStatus_Married_DisplayName,,Married
+MaritalStatus_Single_Description,,{CHAR_HEI_C}Heirs{##}do not make themselves. Find someone to court and secure the {CHAR_DYN_C}dynasty{##}.
+MaritalStatus_Single_DisplayName,,Single
+MaritalStatus_Widowed_Description,,A spouse lost to fate.
+MaritalStatus_Widowed_DisplayName,,Widowed
+MemberOfMyDynasty_DisplayName,,Member Of My Dynasty
+MemberOfMyDynasty_DisplayName_plural,,Members Of My Dynasty
+Money_Description,,Your money in local currency.
+Money_DisplayName,,Money
+Name_DisplayName,,Name
+Nationality_German,,German
+OpenCharacterContextMenu,,Open Character Context Menu
+OpenCharacterScreen_Instructions,,Left-click to view character details
+OpenCharacterScreen_Instructions_alt,,Left-click to view details
+OpenCharacterScreen_prompt,,View Details
+Portrait_DisplayName,,Portrait
+Relationship_YourBetrothed_Label,,Your betrothed
+Relationship_YourChild_Label,,Your child
+Relationship_YourCourtedCharacter_Label,,Your love interest
+Relationship_YourDeceasedSpouse_Label,,Your late spouse
+Relationship_YourEnemy_Label,,Your enemy
+Relationship_YourExSpouse_Label,,Your former spouse
+Relationship_YourFriend_Label,,Your friend
+Relationship_YourGrandchild_Label,,Your grandchild
+Relationship_YourGrandparent_Label,,Your grandparent
+Relationship_YourHeir_Label,,Your heir
+Relationship_YourParent_Label,,Your parent
+Relationship_YourRelative_Label,,Your relative
+Relationship_YourRival_Label,,Your rival
+Relationship_YourSibling_Label,,Your sibling
+Relationship_YourSpouse_Label,,Your spouse
+Relationship_YourWorker_Label,,Your worker
+Religion_Catharic,,Catharic
+Religion_Catholic,,Catholic
+Religion_Protestant,,Protestant
+Renown_Description,,"Renown measures how much you are respected in the city. It reflects upon the {CHAR_RENDYN_C}dynasty{##} and its members, and is inherited across generations."
+Renown_Description_extra1,,"High renown can make you more persuasive and command greater respect, but it may also draw unwanted attention — from rivals, criminals, and those seeking to take advantage of your success."
+Renown_Description_v2,,"Renown measures how much you are respected in the city. Compared to the rest of your family members, your renown counts more towards the {CHAR_RENDYN_C}dynasty prestige{##}."
+Renown_DisplayName,,Renown
+RenownDynasty_Description,,A dynasty's renown is the combined {CHAR_REN_C}renown{##} of all its members.
+RenownDynasty_DisplayName,,Dynasty Renown
+Requirement_ActiveCourtship_Description,,"Courtship is where love starts. Guide it well and it leads to marriage, an {CHAR_HEI_C}heir{##}, and a secure {CHAR_DYN_C}dynasty{##}. "
+Requirement_ActiveCourtship_Description_extra1,,"The more you nurture it, the faster it blossoms. Try {A_SWETAL_C}sweet-talking{##} or {A_SENGIF_C}sending gifts{##}."
+Requirement_ActiveCourtship_DisplayName,,Courtship
+Requirement_HaveChildren,,Have children
+Score_Description,,"The Score measures someone's success based on their actions, achievements, and goals."
+Score_DisplayName,,Score
+Skill_Combat_Description,,"Handle physical confrontations more effectively, increasing your chance to hit the opponent in combat."
+Skill_Combat_Description_extra1,,tbd
+Skill_Combat_DisplayName,,Martial
+Skill_Description,,"Skills are the measure of a man — in trade, in craft, and in service to one's lord. \nThey sharpen your tongue for a good {PM_CITSKILL_NEG_C}deal{##}, help you choose the right workers for each {A_ACT_C}task{##}, persuade others, and even give you a knack for {CR_CRI_C}crime{##}."
+Skill_Description_extra1,,These include:
+Skill_Description_extra2,,Read a {I_SKIBOOI_C}skill book{##} or invest in home improvements to {A_IMPSKI_C}hone your skills{##} without leaving the house.
+Skill_DisplayName,,Skill
+Skill_DisplayName_plural,,Skills
+Skill_Handicraft_Description,,"Your expertise in handicraft enhances your businesses' efficiency, ensuring tasks are completed faster and with more successful outcomes."
+Skill_Handicraft_Description_extra1,,tbd
+Skill_Handicraft_DisplayName,,Handicraft
+Skill_Negotiation_Description,,"Negotiate better prices, securing discounts when buying and increasing success when selling above market price."
+Skill_Negotiation_Description_extra1,,tbd
+Skill_Negotiation_DisplayName,,Negotiation
+Skill_Rhetoric_Description,,"Use the power of words to persuade others and turn them in your favor, influencing trials, elections, or any situation that requires convincing."
+Skill_Rhetoric_Description_extra1,,tbd
+Skill_Rhetoric_DisplayName,,Rhetoric
+Skill_Stealth_Description,,"Use the art of deception to outsmart, outmaneuver, and sabotage your opponents, giving you the edge in {CR_CRI_C}crimes{##} while ensuring others do not take advantage of you."
+Skill_Stealth_Description_extra1,,tbd
+Skill_Stealth_DisplayName,,Roguery
+Standing_Description1,,Relationships are currency in this world. Opinion reflects someone's view of another and is not necessarily reciprocated.
+Standing_Description2,,"The number you see on a character's portrait shows how that character views you. When comparing opinions between multiple characters, you can click on the number to switch views and see how others feel about the character you've selected."
+Standing_DisplayName,,Opinion
+Standing_HowCharacterAThinksOfCharacterB,,{CharacterA}'s {CHAR_STA_C}opinion{##} of {CharacterB}
+Standing_HowCharacterThinksOfYou,,{Character}'s {CHAR_STA_C}opinion{##} of you
+Standing_HowYouThinkOfCharacter,,Your {CHAR_STA_C}opinion{##} of {Character}
+StartingCharacter,,Starting Character
+Surname_Description,,What name will your family bear for generations to come?
+Surname_DisplayName,,Surname
+Surname_DisplayName_alt_01,,Name
+Surname_DisplayName_alt_02,,Dynasty Name
+Surname_Warning,,"All your heirs, as well as your spouse, will receive the same surname."
+Wealth_Amount,,{value} of {CHAR_WEA_C}wealth{##}
+Wealth_CharacterScreen_instructions,,Your Wealth is shown in your Character Details.
+Wealth_Description,,"Wealth is the total value of your assets, including cash, buildings, and carts."
+Wealth_DisplayName,,Wealth
+WealthDynasty_Description,,"A dynasty counts wealth not by owner, but by bloodline. Dynasty Wealth is the accumulated {CHAR_WEA_C}wealth{##} of all its members."
+WealthDynasty_DisplayName,,Dynasty Wealth
+YouAndYourDynasty_Description,,"Who are you, and what surname will carry your legacy through the generations?"
+YouAndYourDynasty_DisplayName,,You and Your Dynasty
+YourStory,,Your Story
+You_Label,,You

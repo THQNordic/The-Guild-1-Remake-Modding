@@ -1,618 +1,618 @@
-Key,SourceString,Translation
-Ambush_Description_0,{P_ROB_C}Robbers{##} and the {P_GUA_C}Guards{##} have always been mortal enemies. It was only a matter of time until your hard-working {A_ACT_GUAPAT_C}guard patrol{##} intercepted a band of lowlifes looking to take advantage of other people's hard work.,
-Ambush_Description_1,"It seems that day has come. You have a reputation to maintain in our fair city, as no one will respect guards who do not stand up for the innocent, so decide quickly how you plan to handle the situation.",
-Ambush_Description_2,"Are your people full of {CHAR_ENE_C}energy{##} and {I_TYP_COMEQU_C}well-equipped{##} to resolve the matter with arms, or do you prefer to bide your time and fight another day?",
-Ambush_Name,Guard Patrol Has Intercepted Robbers,
-Ambush_Option_01,Let the fight begin!,
-Ambush_Option_01_Result_Description,Robbers and guards are about to face off in battle. Better be prepared.,
-Ambush_Option_01_Result_Title,Situation escalated,
-Ambush_Option_02,Back down from the fight,
-Ambush_Option_02_Result_Description,"Cooler heads prevailed, so the robbers and guards continue on their merry ways as if they never met.",
-Ambush_Option_02_Result_Description_0,\nOnlookers disapprove:,
-Ambush_Option_02_Result_Title,Situation defused,
-Argument_Description_0,"Life in our bustling city is not exactly simple, and when you're looking for trouble, you tend to find it.",
-Argument_Description_1,"You'd think that your fellow citizens have better things to do than start arguments in public, but here you are.",
-Argument_Description_2,An innocent shoulder bump in the crowd unraveled into a dramatic quarrel. How do you react?,
-Argument_Name,Much Ado About Nothing,
-Argument_Option_01,Settle the matter peacefully,
-Argument_Option_01_Result_01_Instigator,"The tension eased, and you parted on calmer terms.",
-Argument_Option_01_Result_01_Target,"There was an incident in the crowd, but in the end everyone parted on calm terms.",
-Argument_Option_02,Denounce this shameful behavior,
-Argument_Option_02_Result_01_Instigator,"Your words stung, leaving the matter worse than it had started.",
-Argument_Option_02_Result_01_Target,Insults were exchanged during an incident in the crowd.,
-BadOmen_Description_0,"A red-tailed comet blazes across the sky, sparkling lively discussions among common folk, philosophers, and religious figures alike.",
-BadOmen_Description_1,"Citizens report feeling drained, and all sorts of bad things seem to be happening for no reason, as if an evil has seeped into the city.",
-BadOmen_Description_2,"The priests insist that our sinful nature is to blame. Conveniently, the sale of indulgences has increased.",
-BadOmen_Description_3,All {CHAR_CITVSWOR_C}townspeople{##}:\n-1 {CHAR_HP}\n-5 {CHAR_ENE},
-BadOmen_Name,Bad Omen,
-BallInvite_Description_0,All nobles and notables were invited to this auspicious event.,
-BallInvite_Description_1,"Attend, and win the favor of the wealthy — or refuse, and prove your bond with the common folk.",
-BallInvite_Description_2,"Whatever you choose, your dynasty's good name in this city is on the line.",
-BallInvite_Name,Ball Invite,
-BallInvite_Option_Accept,Attend,
-BallInvite_Option_Accept_Outcome_Instigator,Your presence at this auspicious event has been noted by the city's nobility. Your monetary contribution as well.,
-BallInvite_Option_Accept_Outcome_Targets,An intriguing upstart has been mingling with the city's nobility. Ambitious move.,
-BallInvite_Option_Refuse,Decline,
-BallInvite_Option_Refuse_Outcome_Instigator,The working class admire your refusal to succumb to such extravagant delights. It has also spared your pocket.,
-BallInvite_Option_Refuse_Outcome_Targets,Some upstart has spurned the city's nobility. Foolish move.,
-Bard_Description,"A bard has brought his talents to the city, singing merry songs aplenty. The bard's trail of tunes echoes cheerful notes of dancing and laughter — the question is, where is the bard?\nGo search the city streets for this merriment, and you may discover interesting opportunities…",
-Bard_Description_0,"A bard has brought his talents to the city, singing merry songs aplenty. The bard's trail of tunes echoes cheerful notes of dancing and laughter — the question is, where is the bard?",
-Bard_Description_1,"Go search the city streets for this merriment, and you may discover interesting opportunities…",
-Bard_Name,The Bard is in Town!,
-BeeAttack_Description_0,You were minding your own business when a swarm of bees suddenly decided that you were the problem.,
-BeeAttack_Description_1,"There was buzzing, swatting, running, and considerably less dignity than you would care to remember.",
-BeeAttack_Description_2,You could swear the swarm briefly formed the shape of a giant fist before knocking you flat. No one is going to believe that.,
-BeeAttack_Name,A Buzzkill,
-BeeAttack_Name_alt,Beeaten!,
-BeeAttack_Option_01,Ouch!,
-BeeAttack_Option_01_Result_Instigator,"As your head clears, so does your memory. That swarm was no accident. You must have upset someone quite badly for them to send killer bees after you.",
-BondingOpportunity_Description,You met a citizen and can spend some time together,
-BondingOpportunity_Name,Bonding Opportunity,
-BondingOpportunity_Option_01,Pay for entertainment effort into it (cost 200),
-BondingOpportunity_Option_01_Result_01,TBD,
-BondingOpportunity_Option_02,Put an effort into it (-10 energy),
-BondingOpportunity_Option_02_Result_01,TBD,
-BondingOpportunity_Option_03,Just chill,
-BondingOpportunity_Option_03_Result_01,TBD,
-BribeAttempt_Description,TBD,
-BribeAttempt_Name,TBD,
-BribeAttempt_Option_01,TBD,
-BribeAttempt_Option_01_Result_01,TBD,
-BribeAttempt_Option_02,TBD,
-BribeAttempt_Option_02_Result_01,TBD,
-CharacterAtPillory_Description_0,People are talking about the {O_CHA_TOWCOU_C}Town Council's{##} latest efforts to curb crime and heresy.,
-CharacterAtPillory_Description_1,"Supposedly, persons convicted of crimes would be pilloried instead of {ST_CHR_IMP_C}imprisoned{##}, so that the citizens can express their dissatisfaction however they see fit. It would probably also help cut down maintenance costs at the {B_PUB_PRI_C}prison{##}.",
-CharacterAtPillory_Description_2,"If a {B_PUB_PIL_C}pillory{##} has been built in our city, and if these new rules are indeed not mere rumors, there is surely a heckling crowd gathering to chuck a rotten cabbage or two at the convicted. Go search for it so you can join in on the mischief or show your superior virtue and capacity for forgiveness.",
-CharacterAtPillory_Name,Let the Sinless Cast the First Stone,
-ChildIsBorn_Description_0,"Your family has been blessed with a child! May this new life grow in health, and may your dynasty endure through the ages!",
-ChildIsBorn_Description_1,"Sleepless nights may follow, but they are a small price for such joy. Plus, nothing worth doing is ever easy.",
-ChildIsBorn_Description_2,"As your child grows, don't forget to invest in their {A_TRACHI_C}education{##} so that, one day, they can contribute meaningfully to your dynasty and even become your {CHAR_HEI_C}heir{##}.",
-ChildIsBorn_Description_3,Come hold the newest member of your dynasty!,
-ChildIsBorn_Description_4,"Your spouse has already taken the liberty of naming the child after a dearly beloved relative from their side of the family. A touching gesture, no doubt, though they seem rather attached to their choice.",
-ChildIsBorn_Description_5,"Will you honor their wishes and have the child baptized under that name, or exercise your authority as head of the dynasty and choose one yourself? Just remember, you'll have to share a bed with your spouse afterward.",
-ChildIsBorn_End_Description_0,"The child has been named, and a new chapter begins for your dynasty. Great things may await your newest family member, though for now, their greatest achievement is having the entire household wrapped around their tiny finger.",
-ChildIsBorn_End_Option_01,Let the child rest,
-ChildIsBorn_Option_02,See your child!,
-ChildIsBorn_End_Name,A Name Has Been Chosen!,
-ChildIsBorn_Name,You Have Become A Parent,
-ChildIsBorn_Option_01,Rejoice!,
-Contamination_Description_0,"Rat-infested food stores, contaminated water supply, sick-looking travelers… no one knows why or how, but many have suddenly fallen quite ill.",
-Contamination_Description_1,All persons affected: {ST_CHR_SIC},
-Contamination_Description_2,The same question is on everyone's lips: what if the Black Death has returned? City officials helpfully remind everyone that {QUA_HYG_C}sanitation{##} is their own responsibility and prevention is the best cure.,
-Contamination_Description_3,"You may want to {A_PHYCHE_C}visit a physician{##}, {A_PRASHR_C}pray{##} the sickness away, or at least use some salves or potions. Don't forget to check on the wellbeing of your workers and family members too, assuming you want your business and dynasty to survive this.",
-Contamination_Name,A Frightening Outbreak,
-CourtingCandidateDied_Description_0,"Such tragedy. You had a wedding planned, and now it has turned into a funeral.",
-CourtingCandidateDied_Description_1,Not even Cyprian's book could save this courtship now.,
-CourtingCandidateDied_Description_2,"Still, perhaps it was for the best. Whatever they had, it probably would not have produced good children anyway.",
-CourtingCandidateDied_Description_3,"You tell yourself this with venom, because the alternative is admitting how dearly you would have loved them.",
-CourtingCandidateDied_Name,Your love was taken… by the Reaper,
-CourtingCandidateDied_Option_01,Until we meet again,
-CourtingCandidateDied_Option_01_Result,You place a single flower upon their body and whisper the farewell you never had the chance to say.,
-CourtingCandidateStolen_Description_0,"Whether it is the first time or not, rejection hurts.",
-CourtingCandidateStolen_Description_1,"And unrequited love may be the cruelest of all: all that time spent hoping, waiting, and daydreaming of your first wedding night, only to see them now in the arms of another.",
-CourtingCandidateStolen_Description_2,May they both catch a suspicious groin rash!,
-CourtingCandidateStolen_Description_3,"And so, you are alone again. Back to the tedious process of courtship.",
-CourtingCandidateStolen_Description_4,"How much easier it would be if one could simply receive, by pigeon mail, a neat little bundle of portraits, each with a short description of the person's qualities, flaws, wealth, and family connections.",
-CourtingCandidateStolen_Name,Your love was taken,
-CourtingCandidateStolen_Option_01,Life must go on,
-CourtingCandidateStolen_Option_01_Result,"For a time, you still flinch whenever you hear their name. The portraits you had painted together remain tucked away where only you can find them. Eventually, they become little more than faded paint, and even more colorless memories.",
-DealWithDevil_Description_0,"As you walk the dark halls of your home, not able to fall sleep, you get the distinct feeling that you are being watched. You turn around suddenly and find a towering androgynous figure seemingly made of liquid swirling smoke.",
-DealWithDevil_Description_1,"Rather than threatening, the mysterious figure smiles knowingly and watches you attentively despite having no eyes to speak of. You feel it rummaging in the deepest corners of your mind.",
-DealWithDevil_Description_2,"No words are uttered, but your thoughts turn to an interesting but terrifying proposition: sacrifice a child of your body for the promise of a strong bloodline that will carry your dynasty into the annals of history. Make your choice now, mortal!",
-DealWithDevil_Name,Deal with the Devil,
-DealWithDevil_Option_Accept,Let it be such,
-DealWithDevil_Option_Accept_Outcome_Instigator,"With a satisfied nod, the mysterious figure fades away. As you blink and wonder whether you may have been dreaming, you hear the sudden screams of your spouse…",
-DealWithDevil_Option_Refuse,Exorcizamus te!,
-DealWithDevil_Option_Refuse_Outcome_Instigator,"The mysterious figure hisses angrily and disappears in a puff of smoke. Deep down, you know it may return in your darkest hour.",
-DeathSentence_Description_0,"Surely, you have heard that crime doesn't pay, yet you persisted in your wayward ways and now the day of reckoning has come. Better put your affairs in order while you still can.",
-DeathSentence_Description_1,"Check that your named {CHAR_HEI_C}heir{##} is properly trained and worthy of carrying your {T_C}title{##} and taking over your {P_C}business{##}. You may even pass the mantle before the sentence is executed, to spare your family some shame.",
-DeathSentence_Description_2,"As you stand on the gallows tomorrow, make sure that your last words are memorable for the right reasons.",
-DeathSentence_Name,Sentenced to Death!,
-DeathSentence_Option_Ok,I regret nothing!,
-DeathSentence_Option_Outcome_Instigator,Your execution is scheduled for tomorrow before noon. Use your remaining time wisely.,
-DuelChallenge_Description_0,Some people think very highly of themselves and apparently wish to bestow this impression upon all others.,
-DuelChallenge_Description_1,"As such, you now find yourself challenged. Duels are an honor-bound tradition where the participants gain glory by engaging in elegant battle. Well, some refer to duels as a childish need to compensate for something, though they rarely mention for what. Others have even gone so far as to call for {CR_CRI_C}outlawing{##} duels.",
-DuelChallenge_Description_2,"In any case, if you decide to partake in such a ritual, make sure you are well equipped for the task. If not, perhaps a bruised ego is less painful than a stab in the belly.",
-DuelChallenge_Name,Challenged to a Duel,
-DuelChallenge_Option_Accept_Outcome_Common,The duel will start at sundown. Make sure you rest and regain your energy. You will need it.,
-DuelChallenge_Option_Accept_Outcome_InstigatorAndTargets_Generic,"Hopefully, you have enough energy to get through this duel in one piece.",
-DuelChallenge_Option_Accept_Outcome_Targets,Your opponent has decided to defend their honor.,
-DuelChallenge_Option_Ignore_Outcome_Instigator,You have exhibited both common sense and cowardice. Your public image may not survive though.,
-DuelChallenge_Option_Ignore_Outcome_Targets,Your opponent has exhibited both common sense and cowardice. At least you've shamed them.,
-DynastyDied_Description_0,The bells toll to mark the tragedy of tragedies: the head of a dynasty exhales the last breath in empty halls. There is no one left to carry forth the family name.,
-DynastyDied_Description_1,"War, disease, a predilection for gambling and, above all, a general dislike of conjugal duties have left this dynasty with no one to inherit the family business. Thus, all property reverts to the city.",
-DynastyDied_Description_2,"If you're interested in acquiring production buildings at a bargain, better hurry and obtain the relevant license. But do not neglect your conjugal duties, or a similar fate may befall your own dynasty.",
-DynastyDied_Name,Dynasty Extinguished,
-DynastyDied_Option_01,Meditate upon the meaning of life,
-DynastyDied_Option_01_Tooltip,Breathe in… Hold… Breathe out… That's it.,
-DynastyHeadWithHeirDied_Description_0,"As your final breath escapes your body, you let go of victories and regrets. The city lives on, indifferent to your plight, yet subtly shaped by your actions.",
-DynastyHeadWithHeirDied_Description_1,"But just as your path dims, another may yet follow. Hopefully, you got your affairs in order well in advance, and your {CHAR_HEI_C}heir{##} is perfectly capable of taking over your {P_C}business{##} and {T_C}title{##}, ensuring your {CHAR_DYN_C}dynasty{##} thrives.",
-DynastyHeadWithHeirDied_Description_3,"And so, your story ends, and your heir's begins. As the new head of the family, you have a will to attend to, a few words to say in your own favor, and perhaps some disappointed relatives whose goodwill can be bought.",
-DynastyHeadWithHeirDied_Description_2,"They say time forgets nothing, yet remembers selectively. How long will your name linger in the memory of the city?",
-DynastyHeadWithHeirDied_Name,Your Time Has Come,
-DynastyHeadWithHeirDied_Option_01,Continue as your heir,
-DynastyHeadWithHeirDied_Option_02,Attend the Will Reading,
-DynastyHeadWithHeirDied_End_Description_0,"The notary rolls up the will, gathers his papers, and declares the proceedings concluded. With the inheritance settled, there is nothing left to do but carry on.",
-DynastyHeadWithHeirDied_End_Description_1,"For a moment, you find yourself wondering what the deceased would have thought of the way things turned out. Their legacy is now in your hands, along with all the responsibilities that come with it.",
-DynastyHeadWithHeirDied_End_Description_2,"A lifetime of work, passed on with a few strokes of a quill. You can only hope to leave behind something equally worth inheriting.",
-DynastyHeadWithHeirDied_End_Name,The Will Is Done,
-DynastyHeadWithHeirDied_End_Option_01,Take Up the Mantle,
-Event_Description,"Events are random occurrences that present choices, challenges, or opportunities.",
-Event_DisplayName,Event,
-Event_DisplayName_plural,Events,
-Event_Name,Event: {name},
-Event_Type_Tutorial_DisplayName,Tutorial,
-Event_Type_Tutorial_DisplayName_plural,Tutorials,
-EventA_Description,Test,
-EventA_Name,Test,
-EventA_Result_01,Test,
-EventB_Description,Test,
-EventB_Name,Test,
-EventB_Option_01,Test,
-EventB_Option_01_Result_01,Test,
-EventB_Option_02,Test,
-EventB_Option_02_Result_01,Test,
-EventB_Option_03,Test,
-EventB_Option_03_Result_01,Test,
-FamilyMemberDied_Description,"Sadly, one of your family members has passed away. As you gather in mourning to prepare funeral rites, try to keep in mind that your {CHAR_DYN_C}dynasty{##} must remain strong.\n\nMake sure your dynasty always has an {CHAR_HEI_C}heir{##}, or everything you have built will be lost when your time comes to leave the world of the living.",
-FamilyMemberDied_Description_0,"Sadly, one of your family members has passed away. As you gather in mourning to prepare funeral rites, try to keep in mind that your {CHAR_DYN_C}dynasty{##} must remain strong.",
-FamilyMemberDied_Description_1,"Make sure your dynasty always has an {CHAR_HEI_C}heir{##}, or everything you have built will be lost when your time comes to leave the world of the living.",
-FamilyMemberDied_Name,A Tragedy Shakes Your Family,
-FamilyMemberDied_Option_01,May they rest in peace,
-Fires_Description,TBD,
-Fires_Name,TBD,
-Fires_Result_01,TBD,
-GameChallenge_Description_0,"A half-drunk stranger challenges you to a game of dice. Seems like easy money, but then again, so did all your failed investments.",
-GameChallenge_Description_1,"You try to recall whether gambling is legal these days, but brush the thought away as the stranger clumsily rolls the dice ahead of you, mumbling something along the lines of:",
-GameChallenge_Description_2,">> Look, my friend, I want no trouble… but if you lose, I'll make it double!",
-GameChallenge_Name,"To Play, Or Not to Play",
-GameChallenge_Option_Accept_Result_Instigator,Satisfied with the outcome?,
-GameChallenge_Option_Cheat_Result_Instigator,It's all fun and games until someone gets caught.,
-GameChallenge_Option_Refuse_Result_Instigator,Better safe than sorry.,
-GoodOmen_Description_0,"A fiery light cuts across the sky, burning brighter than any torch or candle. It would be terrifying if it were not so magnificent.",
-GoodOmen_Description_1,"Comets are usually read as bad omens, but everyone agrees that this time life in the city actually feels better, as if renewed by means of divine light.",
-GoodOmen_Description_2,All {CHAR_CITVSWOR_C}townspeople{##}:\n+1 {CHAR_HP}\n+5 {CHAR_ENE},
-GoodOmen_Name,A Comet's Blessing,
-Goosezilla_Description,TBD,
-Goosezilla_Name,TBD,
-Goosezilla_Result_01,TBD,
-Hassle_Description_0,"You spoke too freely, and someone nearby took your words as an insult. Perhaps you were rude, but what of it?",
-Hassle_Description_1,"Now, people are watching and tempers are flaring. Neither side wants to back down.",
-Hassle_Description_2,"In case you have more {CHAR_ENE_C}energy{##} than sense, take your chance. You never know what comes out of it.",
-Hassle_Name,Not Every Action Needs a Reaction,
-Hassle_Option_GonOnWithIt,Let fists speak,
-Hassle_Option_GonOnWithIt_Result_Instigator,"The fight was rough, and you walked away bruised. But in their anger, your opponent might have let slip a secret.",
-Hassle_Option_GonOnWithIt_Result_Target,"Insults were exchanged in a moment of tension, and a fight ensued. Too much was said and done, and it may be used against you one day.",
-Hassle_Option_HandleWithManners,Keep it civil,
-Hassle_Option_HandleWithManners_Result_Instigator,"You answered with calm words, and your opponent was disarmed by your manners.",
-Hassle_Option_HandleWithManners_Result_Target,"Despite a moment of tension when insults were exchanged and things almost got physical, your opponent showed sense and good manners.",
-Imprisoned_Description_0,Borrowed money and never returned it? Tried to bribe some official? Blackmailed fellow citizens? Did business too poorly for too long? Read the wrong books? Just be honest.,
-Imprisoned_Description_1,"Haven't you ever heard that {CR_CRI_C}crime{##} doesn't pay? In fact, crime definitely pays, but not for you, it seems. You have been {CR_TRIPUN_C}sentenced{##} to jail time according to the {CR_SEV_C}severity of your crime{##} and how {L_LAWSEV_C}harsh{##} the current law is.",
-Imprisoned_Description_2,"During your {ST_CHR_IMP_C}imprisonment{##}, your actions will be limited, so use this time wisely and learn from your mistakes.",
-Imprisoned_Name,You Have Been Imprisoned!,
-Imprisoned_Option,Straight to jail!,
-InjuryVictim_Description,"Thugs came out of nowhere and left you battered. Perhaps this incident was mere chance, or perhaps someone plotted it. Either way, pain is your only certainty. \n\nHopefully, your remaining {CHAR_HP_C}health{##} and {CHAR_ENE_C}energy{##} allow you to proceed with your daily affairs.",
-InjuryVictim_Description_0,"Thugs came out of nowhere and left you battered. Perhaps this incident was mere chance, or perhaps someone plotted it. Either way, pain is your only certainty.",
-InjuryVictim_Description_1,"Hopefully, your remaining {CHAR_HP_C}health{##} and {CHAR_ENE_C}energy{##} allow you to proceed with your daily affairs.",
-InjuryVictim_Name,Not Your Day,
-InjuryVictim_Option_01,Ouch!,
-LetterUnmarkedLetter_Description,TBD,
-LetterUnmarkedLetter_Name,TBD,
-LetterUnmarkedLetter_Option_01,TBD,
-LetterUnmarkedLetter_Option_01_Result_01,TBD,
-LetterUnmarkedLetter_Option_01_Result_02,TBD,
-LetterUnmarkedLetter_Option_01_Result_03,TBD,
-LetterUnmarkedLetter_Option_02,TBD,
-LetterUnmarkedLetter_Option_02_Result_01,TBD,
-MarriageDecided_Description_0,The love of your life is ready to join you in the holy bond of matrimony. May your union be blessed with strong children to carry on your dynasty!,
-MarriageDecided_Description_1,"Wedding preparations will drain much energy, but your family and friends will rejoice with you, bearing gifts in celebration.",
-MarriageDecided_Description_2,"Alternatively, you may prefer a frugal event. In that case, better be prepared for meager wedding gifts and a cooler embrace by your new spouse.",
-MarriageDecided_Name,The Wedding Day,
-MarriageDecided_Option_Enjoy,Blessed be this union!,
-MarriageDecided_Option_GoToWedding,Attend Your Wedding,
-MarriageDecided_Option_Enjoy_Result_Instigator,Your wedding banquet is all people talk about these days.,
-MarriageDecided_Option_Enjoy_Result_Target,An upstanding citizen threw a wedding banquet and those who attended just can't stop talking about it.,
-MarriageDecided_Option_Ignore,Just get on with it,
-MarriageDecided_Option_Ignore_Result_Instigator,"Hopefully, your spouse learns to manage expectations better than you manage your finances.",
-MarriageDecided_Description_3,"The guests have gathered, the priest is waiting, and your beloved is dressed for the occasion. Make your way to the high altar, exchange your vows, and seal your union before God and your witnesses.",
-MarriageDecided_Description_4,"After that, you may find a few other ways to enjoy the festivities. A wedding is a celebration, after all!",
-MarriageDecided_End_Name,One Last Wedding Expense,
-MarriageDecided_End_Description_0,"The festivities are finally drawing to a close. The last guests are making their way home, some a little less steadily than others, though a few seem determined to accompany you all the way to the marriage bed. Such enthusiasm for your union!",
-MarriageDecided_End_Description_1,"Once you've finally secured a moment alone, your new spouse suggests taking a little journey together. A honeymoon, just the two of you, away from the demands of family and business.",
-MarriageDecided_End_Description_2,"It would certainly cost a pretty penny, but the time spent together could strengthen your marriage. And a happy marriage may well improve your chances of welcoming a few heirs into the family!",
-MarriageDecided_End_Option_Honeymoon,Enjoy a Honeymoon,
-MarriageDecided_End_Option_Honeymoon_Result_Name,Just the Two of Us,
-MarriageDecided_End_Option_Honeymoon_Result_Description,"The honeymoon costs a small fortune, but the time spent together brings you closer than ever.",
-MarriageDecided_End_Option_MarriedLife,Settle Into Married Life,
-MarriageDecided_End_Option_MarriedLife_Result_Name,"Home, Not So Sweet Home",
-MarriageDecided_End_Option_MarriedLife_Result_Description,"You may have saved a small fortune, but the embrace you receive tonight is noticeably colder. Perhaps some things are worth spending a little coin on.",
-MineAccident_Description,"This morning, at one of the town's mines, a support frame collapsed, burying the crew beneath it. The tragedy shook the entire city.",
-MineAccident_Name,Last Shift,
-MineAccident_Result_01,Lives were lost. The town sends prayers and comfort to their families in this dark hour.,
-MysteriousBeggar_Description_01,"From the shadows of an alley, a beggar raises his hand toward you. Do you have anything to offer?",
-MysteriousBeggar_Description_02,"You never know what may come of it. Beggars live by scavenging and might reward your generosity with an item, a piece of evidence… or nothing at all.",
-MysteriousBeggar_Name,The Beggar,
-MysteriousBeggar_Option_01,Offer money,
-MysteriousBeggar_Option_01_Result_01,"The beggar takes your coin with a nod, then ducks into a crowd. No more is seen or heard of him.",
-MysteriousBeggar_Option_01_Result_02,"From the folds of his ragged cloak, he presses a small vial into your hand. No word of thanks, only a steady gaze before he turns away.",
-MysteriousBeggar_Option_02,Offer help,
-MysteriousBeggar_Option_02_Result_01,The beggar presses a folded note into your hand. Its lines point to another's secret dealings — enough to be used as evidence against them.,
-MysteriousBeggar_Option_03,Do nothing,
-MysteriousBeggar_Option_03_Result_01,"You ignore him. He chuckles as if he knew your choice all along. By the time you look back, the alley is empty.",
-Onboarding_BeeHives_Description_00,Can you believe those fellows at the bar today? No? You did not hear them?,
-Onboarding_BeeHives_Description_01,"Well, I have made a habit of keeping my ears open. It is good for business — and considerably cheaper than paying a spy.",
-Onboarding_BeeHives_Description_02,"You see that poor man with the swollen face? And the well-dressed fellow beside him? That second man used to be a small-time merchant. Then fortune smiled upon him, and he decided that earning money was less profitable than charging other people to hear how he had done it.",
-Onboarding_BeeHives_Description_03,"Apparently, he told our unfortunate friend that honey would be the town's next great fortune. Men will believe almost anything if the advice comes from fine clothes and costs enough.",
-Onboarding_BeeHives_Description_04,The bees disagreed.,
-Onboarding_BeeHives_Description_05,"Still, all this talk has left me craving mead. Queen bees can be found in the Timberlands. Go find one, and we shall see whether that merchant was onto something after all.",
-Onboarding_BuyMaterials_Description_00,"I spent the morning waiting for a mason to finish a sanding block. He arranged his tools, inspected the workbench, and then stood there looking thoughtful.",
-Onboarding_BuyMaterials_Description_01,We had no stone.,
-Onboarding_BuyMaterials_Description_02,"Before your workers can craft anything, the required materials must be in the storeroom. Send your cart to the Marketplace to buy what they need, or visit Resource Sites such as mines, where materials are often available at better prices because they come straight from the source.",
-Onboarding_BuyMaterials_Description_03,"Once the materials are unloaded, production can begin. Potential is just another word for empty shelves.",
-Onboarding_CourtshipAndMarriage_Description_00,"Your workshop is coming along nicely. Now, I did not want to say anything, but what about the rest of your life?",
-Onboarding_CourtshipAndMarriage_Description_01,"There are a few respectable unmarried people in Herle. I know which are kind, which are sensible, and which only pretend to be either. A lady has an intuition for these things.",
-Onboarding_CourtshipAndMarriage_Description_02,"Find someone you like, court them properly, and perhaps marriage will follow.",
-Onboarding_CourtshipAndMarriage_Description_03,I am not interfering. I am helping.,
-Onboarding_CraftAndSell_Description_00,You are the new smith. Marta said you would be here.,
-Onboarding_CraftAndSell_Description_01,"I'm Elsbeth, the town's mason. I collect old swords, though the fittings interest me more than the blades. Blades receive all the praise. Fittings hold everything together and are only noticed when they fail.",
-Onboarding_CraftAndSell_Description_02,"You should probably begin with those. Craft some fittings and sell them at the marketplace. Someone will need them soon, even if they do not know it yet.",
-Onboarding_CraftAndSell_Description_03,Keep one for yourself. A sword begins with smaller things.,
-Onboarding_EvidenceFound_Description_00,"After finishing your errands, you sit for a moment and watch the town pass by.",
-Onboarding_EvidenceFound_Description_01,"A merchant argues over the price of wool. A boy steals an apple, then immediately drops it while trying to look innocent. Nearby, two women complain that their husbands somehow become helpless the moment a chair needs moving.",
-Onboarding_EvidenceFound_Description_02,Herle is alive.,
-Onboarding_EvidenceFound_Description_03,"Then you notice two men standing at a distance, making a great effort not to be noticed… and failing badly. You recognize one of them as a town official.",
-Onboarding_EvidenceFound_Description_04,The other man slips a purse into the official's belt pouch. They shake hands and quickly part ways.,
-Onboarding_EvidenceFound_Description_05,A folded note falls to the ground behind them.,
-Onboarding_EvidenceFound_Description_06,"When you retrieve it, you find the amount of the payment written inside, followed by the words: “Do not forget to vote for me.”",
-Onboarding_EvidenceFound_Description_07,The fool even signed his name.,
-Onboarding_GuardService_Description_00,Someone broke into my joinery.,
-Onboarding_GuardService_Description_01,I switched to selling from my storefront to avoid robbers on the road. It turns out they were willing to walk the rest of the way.,
-Onboarding_GuardService_Description_02,"You wouldn't happen to know how to install barred windows, would you? No? A pity. You certainly wouldn't be short of clients.",
-Onboarding_GuardService_Description_03,"Apparently, since the authorities cannot protect the streets themselves, they have decided to leave the work to whichever desperate citizens are willing to put their lives on the line.",
-Onboarding_GuardService_Description_04,I hear guard service pays well. Hm… I shall recommend it to someone I dislike.,
-Onboarding_HireAndTrainWorkerSkill_Description_00,"I once employed the finest brewer I ever met. He could brew a full batch in half the time it took most men, without sacrificing a drop of quality.",
-Onboarding_HireAndTrainWorkerSkill_Description_01,"Unfortunately, whenever I sent him to serve the tables, he frightened half the customers into drinking elsewhere. Excellent with barrels. Terrible with people.",
-Onboarding_HireAndTrainWorkerSkill_Description_02,"That taught me to hire workers for what they are good at. Some have the hands for crafting, some can sell anything placed before them, and some know how to keep customers happy.",
-Onboarding_HireAndTrainWorkerSkill_Description_03,"As a smith, you should look for those skilled in handicraft, choose someone who suits your needs, and hire them. If you are happy with the workers you have, you can train their skills.",
-Onboarding_HireAndTrainWorkerSkill_Description_04,skip,
-Onboarding_HireAndTrainWorkerSkill_Description_05,"You linger, admiring the stonework, as though it alone were the handiwork of God. Yet His truest work is found in the faithful gathered here — and it is the duty of a skilled priest to guide them.",
-Onboarding_ImproveHandicraft_Description_00,"I am Bishop van Hochstaden-Herle. People come here carrying the consequences of what they failed to notice, correct, or prevent. They call such failures misfortune. More often, they are simply neglect allowed to mature.",
-Onboarding_ImproveHandicraft_Description_01,"Your workers may stand at the forge, but their failures will still bear your name. If you cannot recognize waste, clumsy work, or lost time, then you are not directing them. You are merely paying them.",
-Onboarding_ImproveHandicraft_Description_02,"Improve your handicraft. Capable workers are valuable, but a capable master makes them better. You need not perform every task yourself—but do not mistake ignorance for delegation.",
-Onboarding_MasterGrade01_Description_00,I have been watching you. Not closely. Closely enough.,
-Onboarding_MasterGrade01_Description_01,Your work no longer looks like the work of a beginner. I think you are ready to seek a higher master grade.,
-Onboarding_MasterGrade01_Description_02,"It will bring renown to your name. A higher mastery will let you accomplish more in your profession and, in time, build a larger smithy offering more crafts and services.",
-Onboarding_MasterGrade01_Description_03,"It is curious how skill takes up no room, yet always seems to require a larger building.",
-Onboarding_PressCharges_Description_00,What is that you are holding? Let me see… reading Hm. This looks like evidence.,
-Onboarding_PressCharges_Description_01,"Let me be clear: what happens in my inn stays in my inn. People need somewhere they can speak freely, make fools of themselves, and return the next day without discovering that half the town knows about it.",
-Onboarding_PressCharges_Description_02,"But you found this elsewhere, so it is no concern of mine. You may sell the evidence, use it for blackmail, or take it before the court. If you want the law involved, press charges.",
-Onboarding_PressCharges_Description_03,"What you do after that is between you, your conscience, and whoever pays best.",
-Onboarding_PrivateTimeAndHeirs_Description_00,"Oh, there you are! Come, you must meet the family before one of them wanders off.",
-Onboarding_PrivateTimeAndHeirs_Description_01,"This is Jan, Willem, Pieter, Margriet, Lijsbeth, Cornelis, Aleid, Geertruid, little Hendrika — and the one hiding beneath the table is Adriaan. Unless that is Pieter. No, Pieter is eating the cheese.",
-Onboarding_PrivateTimeAndHeirs_Description_02,"Ah, my little blessings.",
-Onboarding_PrivateTimeAndHeirs_Description_03,"A business may fill your purse, and a title may raise your standing, but an heir gives all that work somewhere to go. Someone to carry the family name, inherit what you have built, and perhaps improve upon it.",
-Onboarding_PrivateTimeAndHeirs_Description_04,You should think about starting a family of your own. A little private time with your spouse is often where such things begin.,
-Onboarding_ProfessionTraining_Description_00,"My family had produced priests for generations, and they had every intention of producing one more. I had other plans, though I did not know what they were yet.",
-Onboarding_ProfessionTraining_Description_01,"So I left home and travelled through Bohemia. Somewhere along the way, I discovered brewing. Shortly after that, I discovered the woman who would become my wife. One proved far more patient with me than the other.",
-Onboarding_ProfessionTraining_Description_02,"Loving a trade, however, does not make it yours. Before I could keep an inn, I had to present myself to the Innkeepers' Guild and learn the profession properly.",
-Onboarding_ProfessionTraining_Description_03,"The guilds are the place to go when you wish to take up a new profession. They also offer professional training, which can bring you closer to the rank of master in your trade.",
-Onboarding_ProfessionTraining_Description_04,"Changing one's path is not always easy. Still, I have found it preferable to spending a lifetime walking in the wrong direction.",
-Onboarding_Purge_A_Description_00,"What happened last night? While you slept, the whole city seems to have gone mad, and now no one remembers a thing.",
-Onboarding_Purge_A_Description_01,"Fabian's pilgrim badges were stolen, fires were set, and moustaches were painted on every noble portrait in the town hall.",
-Onboarding_Purge_A_Description_02,Was it some kind of purge? What on earth happened?,
-Onboarding_Purge_A_Description_03,"Evidence is everywhere, and some of your own memories already contain it. The only question is who will make use of it first.",
-Onboarding_Purge_A_Name,The Purge,
-Onboarding_Purge_B1_Description_00,"What has come over everyone? The townsfolk are seized by an itching need to cause trouble, as though a little destruction were necessary to endure another day.",
-Onboarding_Purge_B1_Description_01,"The town crier has announced the Purge. By decree of the highest officials, one day of disorder shall preserve order for all the rest.",
-Onboarding_Purge_B1_Description_02,"Goodwife Gertrud was seen beating the man who trampled her flowers last week. Children are vandalizing buildings, politicians are telling the truth, and Ruprecht, the robber, has somehow got his hands on a very dangerous book.",
-Onboarding_Purge_B1_Description_03,"Today, no one is afraid.",
-Onboarding_Purge_B1_Name,The Purge,
-Onboarding_Purge_B2_Description_00,"Unfortunately, it was all a misunderstanding. The officials have withdrawn the decree and insist that everyone may still be prosecuted for their crimes.",
-Onboarding_Purge_B2_Description_01,There is now an impressive amount of evidence documenting the town's misconduct.,
-Onboarding_Purge_B2_Description_02,The only question is who will take advantage of it first.,
-Onboarding_Purge_B2_Name,The Aftermath,
-Onboarding_RepairBuilding_Description_00,"I was passing by when your building caught my eye. It is wearing in several places, though not enough for most people to notice. That is how damage likes to begin — quietly.",
-Onboarding_RepairBuilding_Description_01,"The mortar is loosening, and one of the cracks has already begun to spread. Leave it much longer, and the repair will become a far larger job.",
-Onboarding_RepairBuilding_Description_02,"Were it mine, I would repair it now. A poorly maintained building affects every part of a business — customer appeal, productivity, sanitation, and safety. Neglect has a way of making itself expensive.",
-Onboarding_RepairBuilding_Description_03,Marta says I worry too much about cracks. Marta works with wood.,
-Onboarding_SalaryAndTreatment_Description_00,"Certain things are told to a priest because they cannot be safely told to a master. I will not say who spoke to me, nor repeat what was said.",
-Onboarding_SalaryAndTreatment_Description_01,"But you should know this: a generous wage does not excuse poor treatment, and kind words do not make up for an empty purse. Your workers care about both how they are paid and how they are treated.",
-Onboarding_SalaryAndTreatment_Description_02,"See to one, and they may tolerate you. See to both, and they may remain loyal.",
-Onboarding_SocializeAtInn_Description_00,Ah! A face I don't know! That does not happen often in my inn. I'm Hendrik Bloudil. You must be the new smith.,
-Onboarding_SocializeAtInn_Description_01,I hope you have a better head for business than the last one. He was too fond of his cups and not fond enough of his accounts.,
-Onboarding_SocializeAtInn_Description_02,"Still, as we say: the inn fills the cup, and the church empties the conscience. Drink tonight, pray tomorrow, and wake as good as new.",
-Onboarding_SocializeAtInn_Description_03,"I admit, I do not follow the second half as faithfully as I once did. In Prague, I heard a preacher speak as though a man's faith should be measured by how he lives, not by how often he crosses a church threshold. I found some sense in that.",
-Onboarding_SocializeAtInn_Description_04,"Even so, you should pay the church a visit. You can hardly claim to know Herle until you have stood beneath its tower.",
-Onboarding_StorefrontAndEscort_Description_00,You will not believe what happened on my way here.,
-Onboarding_StorefrontAndEscort_Description_01,"Robbers ambushed my cart and took an entire cartload of crossbows. Crossbows! So now I have lost a fortune, and the local criminals are considerably better armed.",
-Onboarding_StorefrontAndEscort_Description_02,"I should have hired escorts. I knew that, of course.",
-Onboarding_StorefrontAndEscort_Description_03,"Do be careful inside the walls as well, especially when carrying anything valuable. You can sell goods from your storefront, naturally, but the Marketplace is much faster. Though speed loses some of its charm when your cart never arrives.",
-Onboarding_StorefrontAndEscort_Description_04,"For the moment, I think I shall trust my storefront. I am still one step ahead of those robbers. They will see.",
-Onboarding_Title01_Description_00,A de Rochefort has nothing to discuss with a mere commoner.,
-Onboarding_Title01_Description_01,I value my time. You should learn to value yours.,
-Onboarding_Title01_Description_02,"Claim the title of Burgher, and perhaps then we shall have business together. Until that day, do not waste either.",
-Onboarding_UnpauseAndEnter_Description_00,"God be praised, the smithy has a smith again! You must be the newcomer. Welcome to town. I'm Marta, the town's joiner — and, before you ask, yes, I already have work in mind for you.",
-Onboarding_UnpauseAndEnter_Description_01,"My twin sister, Elsbeth, is the town's mason. You'll likely meet her soon enough. She is something of a collector, though she can be rather particular about what deserves keeping. She asks unusual questions, too, and has an uncanny habit of already knowing half the answer.",
-Onboarding_UnpauseAndEnter_Description_02,"Pay it no mind. Elsbeth may be peculiar company, but she is good company. Between her curiosity and my need for hinges, I doubt we shall leave you lonely for long.",
-Onboarding_UnpauseAndEnter_Description_03,"Still, if you wish to meet more of the town, visit the Inn. Hendrik keeps the place, and he is one of the kindest men you are likely to meet.",
-Onboarding_UnpauseAndEnter_Description_04,"For now, acquaint yourself with your new workshop. I'll give you a little time before I begin arriving with requests.",
-OpponentConvicted_Description,A Dynasty Head has been convicted of a notorious crime. \n\nYou may spend your energy to voice an opinion — or mind your own business. \n\nRemember: the enemy of my enemy is my friend.,
-OpponentConvicted_Description_0,"A Dynasty Head has been convicted of a notorious crime. Shocking, really. They seemed like such a fine citizen: Sunday prayers, taxes paid on time, always ready to help others — well, as long as those others could offer something in return. But then again, God made hierarchy for a reason.",
-OpponentConvicted_Description_1,"Well, it is the talk of the town, and this is your chance to take part. You may spend your energy to voice an opinion or save it for worthier pursuits. ",
-OpponentConvicted_Description_2,"Some people make friends by hating the same person, or you could try to defend them instead — extra points if they can return the favor later.",
-OpponentConvicted_Name,Justice Served,
-OpponentConvicted_Option_01,Speak for,
-OpponentConvicted_Option_01_Result_01,You have befriended someone with a stained reputation. May their friendship prove more useful than their name.,
-OpponentConvicted_Option_02,Speak against,
-OpponentConvicted_Option_02_Result_01,The enemy of my enemy is my friend.,
-OpponentConvicted_Option_03,Ignore,
-OpponentConvicted_Option_03_Result_01,Inane chatter is for those with empty hands.,
-OpponentDied_Description,"Another dynasty head has passed away this year. \n\nYou may seize the opportunity to offer condolences — and a sum of money — to the new heir. \n\nIn showing respect, you may also find a stronger ally in the next generation.",
-OpponentDied_Description_0,The bells announce the death of a Dynasty Head.,
-OpponentDied_Description_1,"Rumor says there will be a grand procession to the church, with heraldry, priests, candles, and enough solemn dignity to bankrupt a smaller household. Naturally, it is not only a funeral. It is a declaration. The old head may be gone, but the dynasty, in case anyone was wondering, remains terribly alive.",
-OpponentDied_Description_2,"The chapel will be packed with family, servants, and mourners. Even the poor may try to squeeze inside for a glimpse of grief dressed in its finest clothes.",
-OpponentDied_Description_3,"Still, beneath all the velvet and candlelight, the family stands at a delicate hour. Becoming the heir is one thing; being accepted and respected by the other families is another.",
-OpponentDied_Description_4,"Show respect at the right moment, and you may find a stronger ally in the next generation.",
-OpponentDied_Name,A Dynasty in Mourning,
-OpponentDied_Option_01,"You offer a generous funeral gift and pay your respects to the new heir. Grief is costly, but gratitude can be worth more than coin.",
-OpponentDied_Option_01_Result_01,Pay Respects,
-OpponentDied_Option_02,Ignore,
-OpponentDied_Option_02_Result_01,tbd,
-OpponentElected_Description,"A dynasty head has been elected to an office. \n\nYou may spend your energy to voice your thoughts — or keep your envy to yourself.\n\nSpeak, and you might find more than a few who agree with you.",
-OpponentElected_Description_0,A dynasty head has been elected to office.,
-OpponentElected_Description_1,You may spend your energy to voice your thoughts — or keep your envy to yourself.,
-OpponentElected_Description_2,"Speak, and you might find more than a few who agree with you.",
-OpponentElected_Name,An Office Position Claimed,
-OpponentElected_Option_01,Praise,
-OpponentElected_Option_02,Criticize,
-OpponentElected_Option_03,Ignore,
-OpponentHadChild_Description,A child has been born into another dynasty. They will surely expect a word or gesture from you.,
-OpponentHadChild_Name,Born to Another House,
-OpponentHadChild_Option_01,Congratulate,
-OpponentHadChild_Option_02,Send a gift,
-OpponentHadChild_Option_03,Ignore though it may strain relations,
-OpponentMarried_Description,A marriage has been celebrated in another dynasty. They will surely expect a word or gesture from you.,
-OpponentMarried_Name,A Match in Another House,
-OpponentMarried_Option_01,Congratulate,
-OpponentMarried_Option_02,Send a gift,
-OpponentMarried_Option_03,Ignore and it may strain relations,
-OrphanFound_Description_0,"You come across a small orphaned child, born to a humble worker. With no soul left to care, they are at the mercy of strangers. Some give food, some merely a dismissive look. And you?",
-OrphanFound_Description_1,"Consider how grateful this poor orphan would be to take your name and follow in your footsteps. Perhaps even more grateful than children born of your own body. Then again, you know nothing about this child.",
-OrphanFound_Description_2,Consider also how other members of your family may see such an addition. And consider the judgement of noblemen and other high-class citizens whose favor you seek.,
-OrphanFound_Name,Lost and Alone,
-OrphanFound_Option_Adopt,Adopt the child,
-OrphanFound_Option_Adopt_Result_Instigator,"You extend your hand and the child's eyes widen as understanding sets in. This bold move will strengthen your dynasty, though some may raise concerns about inheritance when the time comes.",
-OrphanFound_Option_DoNothing,Turn away,
-OrphanFound_Option_DoNothing_Result_Instigator,"You pass the child by and mind your own business. You are not to blame for everyone's misfortunes, and you are not responsible for fixing them. Sad but true.",
-OrphanFound_Option_Help,Offer help,
-OrphanFound_Option_Help_Result_Instigator,"You hand out what you feel is appropriate. The child seems a bit disappointed, but surely something is better than nothing. Your generosity is appreciated by the downtrodden.",
-Preacher_Description_0,"Even kings bow to the church, as the church speaks with the authority of God. However, it is no secret that some eminent {O_CHA_CHUAUT_C}church authorities{##} use this situation as an opportunity to further their own interests.",
-Preacher_Description_1,"A new preacher has arrived in our city. Pious citizens who have heard him speak have nothing but respect for this person, whereas more secular citizens remain skeptical.",
-Preacher_Description_2,"If you aspire to some day rise among the clerical ranks, go search the city streets for this preacher and engage in theological debate. Hopefully, that will steer public opinion towards your views.",
-Preacher_Name,A Church Emissary in Our City,
-PurseFound_Description,"You find a half-open purse lying suspiciously in the middle of the street, heavy with coin.\n\nNo one is around.\n\nYou remember last week when Hans was caught in the same situation, except it was a scam, and thugs came out of nowhere to beat him. \n\nBut perhaps today is truly your lucky day.",
-PurseFound_Description_0,"You find a half-open purse lying suspiciously in the middle of the street, heavy with coin.",
-PurseFound_Description_1,No one is around.,
-PurseFound_Description_2,"You remember last week when Hans was caught in the same situation, except it was a scam, and thugs came out of nowhere to beat him. ",
-PurseFound_Description_3,But perhaps today is truly your lucky day.,
-PurseFound_Name,Too Good to Be True,
-PurseFound_Option_01,Grab it,
-PurseFound_Option_01_Result_01,The purse is heavy with coin.,
-PurseFound_Option_01_Result_02,A circle of rough men stepped out of the dark. What felt like fortune was nothing but a trap.,
-PurseFound_Option_02,Ignore it,
-PurseFound_Option_02_Result_01,Not every coin is worth the effort.,
-RelicAcquisition_Description_0,"A weary pilgrim collapses near your house. Between ragged breaths, he whispers that he has carried a holy relic across half of Christendom to deliver it to a monastery far away.",
-RelicAcquisition_Description_1,"Bandits pursue him, he claims, and he fears the relic will be lost before reaching its destination, which would greatly anger the Almighty.",
-RelicAcquisition_Description_2,"Before giving his last breath, he begs you to help safeguard the relic, and, if it is in your power, deliver it to its fated location.",
-RelicAcquisition_Name,The Pilgrim's Dying Wish,
-RelicAcquisition_Option_Deliver,Deliver the relic,
-RelicAcquisition_Option_Deliver_Result_Instigator,Your piousness got the best of you.,
-RelicAcquisition_Option_Deliver_Result_Target,A pious soul found a holy relic and delivered it to a monastery. A miracle!,
-RelicAcquisition_Option_Keep,Keep the relic,
-RelicAcquisition_Option_Keep_Result_Instigator,Your eccentricity got the best of you.,
-RelicAcquisition_Option_Keep_Result_Target,Some heretic found a holy relic and kept it. Blasphemy!,
-RelicAcquisition_Option_Sell,Sell the relic,
-RelicAcquisition_Option_Sell_Result_Instigator,Your greed got the best of you.,
-RelicAcquisition_Option_Sell_Result_Target,Some ignoramus found a holy relic and sold it. A shame!,
-RelicDiscovery_Description_0,"A loose wooden board moves under your foot. Beneath it, tucked into a shallow hollow, lies a metal box wrapped in rotting cloth.",
-RelicDiscovery_Description_1,"Oh? Hidden treasure? Coin, perhaps?",
-RelicDiscovery_Description_2,"You brush away the dust and uncover a reliquary, marked with a cross.",
-RelicDiscovery_Description_3,Ah. Religious.,
-RelicDiscovery_Description_4,You hesitate.,
-RelicDiscovery_Description_5,"...Religious things aren't cursed, are they?",
-RelicDiscovery_Description_6,Probably not.,
-RelicDiscovery_Name,The Forgotten Relic,
-RelicDiscovery_Option_Keep,Keep the Relic,
-RelicDiscovery_Option_Keep_Result_Instigator,"You keep the reliquary for yourself. Saint, fraud, or curiosity—whatever it is, it belongs to you now.",
-RelicDiscovery_Option_LeaveIt,Admire It But Leave It Where It Belongs,
-RelicDiscovery_Option_LeaveIt_Result_Instigator,Some things survive for centuries precisely because no one meddles with them. You put the relic back in its hiding place.,
-RelicDiscovery_Option_Sell,Find It a New Home,
-RelicDiscovery_Option_Sell_Result_Instigator,"You offer the relic to the Church, and the reaction is immediate: astonishment, prayers, excitement. A relic thought lost has been found again. God works in mysterious ways—it seems to have found its way home, whether anyone involved intended it or not.",
-RelicDiscovery_Option_Sell_Result_Target,A lost holy relic has been returned to the Church. Some are already calling it a miracle—and its retriever must surely have been guided by God.,
-RelicDreams_Description_0,It's the seventh night in a row that you wake drenched in sweat. Another crazy dream.,
-RelicDreams_Description_1,"As you grasp at the fading pieces, a few images remain: grapes, a stag, and… the relic. That relic again!",
-RelicDreams_Description_2,"You get up and go to where you left it. It's still there, exactly as before. What will you do with it?",
-RelicDreams_Name,The Relic Calls,
-RelicDreams_Option_ForgetIt,Seal It Forever and Never Look Back,
-RelicDreams_Option_ForgetIt_Result_Instigator,You seal the relic for good. The dreams stop. You hid it so seamlessly that even you could not find it again without tearing the whole place apart.,
-RelicDreams_Option_Keep,Keep It,
-RelicDreams_Option_Keep_Result_Instigator,"You tried not to meddle, but perhaps this was fate. That relic wanted to be found—and it chose you.",
-Riot_Description_0,"Rabbles of grumbling citizens are rioting in the streets, and they can't even agree on their demands. Have our esteemed officials truly been so blind to the {QUA_UNR_C}unrest{##} troubling our fair city?",
-Riot_Description_1,"Due to the violence, all buildings in the affected {C_QUA_C}city quarter{##} have been damaged:",
-Riot_Description_2,"If the buildings are not repaired, they will become unsafe, increasing the chance of work accidents and overall {QUA_DEV_C}devastation{##} in the area. Our city's {QUA_REP_C}reputation{##} will drop and the empire will hesitate to fill the city treasury, which will only make things worse.",
-Riot_Name,Pitchforks and Torches,
-RobberStoleYourPurse_Description,"In the busy street, a nimble hand slipped your coin purse off your waist. By the time you noticed, the thief was already weaving into the crowd.",
-RobberStoleYourPurse_Name,The Cutpurse,
-RobberStoleYourPurse_Option_01,Try to reclaim your money,
-RobberStoleYourPurse_Option_01_Result_01,"At the last moment you seized his sleeve. He tore free, leaving your purse — and every coin — behind.",
-RobberStoleYourPurse_Option_02,Do nothing,
-RobberStoleYourPurse_Option_02_Result_01,The thief vanished into the crowd with your money.,
-SabotageVictim_Description,"That will be costly! Someone has despoiled your premises, as if trying to ruin it outright.\n\n…If only the guild offered vandalism insurance.",
-SabotageVictim_Name,Sabotaged!,
-SabotageVictim_Option_01,Accept the losses,
-ShadyCharacter_Description_0,"The city guards were overheard joking about some suspicious fellows hanging around the city, looking like the saddest criminals in history.",
-ShadyCharacter_Description_1,"Perhaps the guards are too quick to judge. What if these shady-looking fellows are not criminals, but simply businessmen with loose morals and unusual offers?",
-ShadyCharacter_Description_2,"If you seek them out, you may discover interesting opportunities.",
-ShadyCharacter_Name,Everything Is Worth Something to Someone,
-StrangeItemFound_Description_0,"In your wanderings about the city outskirts, you spot a green stone with strange rings. Its rare beauty is mesmerising.",
-StrangeItemFound_Description_1,"Surely, owning such a precious stone will make you and your dynasty the envy of the entire city.",
-StrangeItemFound_Description_2,"Then again, something inside you wonders if it could be dangerous. Perhaps donating it will bring other gains.",
-StrangeItemFound_Name,The Greenstone,
-StrangeItemFound_Option_DonateChurch,Donate it to the church,
-StrangeItemFound_Option_DonateChurch_Result_Instigator,Your piousness got the best of you. The members of the {O_CHA_CHUAUT_C}Church Authority{##} are pleased.,
-StrangeItemFound_Option_DonateChurch_Result_Target,A pious soul has donated a precious stone of rare beauty to our church. Blessed be!,
-StrangeItemFound_Option_DonateCity,Donate it to the city,
-StrangeItemFound_Option_DonateCity_Result_Instigator,Your civic duty got the best of you. The members of the {O_CHA_TOWCOU_C}Town Council{##} are pleased.,
-StrangeItemFound_Option_DonateCity_Result_Target,An upstanding citizen has donated a precious stone of rare beauty to our city. We shall be the envy of the Empire!,
-StrangeItemFound_Option_Keep,Keep it,
-StrangeItemFound_Option_Keep_Result_Instigator,"Your kin gathered to marvel, calling it a blessing. Yet with time you grew pale and weary, as though its beauty carried a hidden cost.",
-StrangeItemFound_Option_Keep_Result_Target,One of your kin has found a precious stone of rare beauty. Your dynasty's {CHAR_REN_C}renown{##} has surely increased.,
-StrangeVegetable_Description,"You notice a fruit unlike any other for sale. The merchant calls it rare, yet no one dares touch it. \n\nTry it! Fruits are healthy… right? It could restore your energy — or leave you with food poisoning.",
-StrangeVegetable_Name,The Forbidden Fruit,
-StrangeVegetable_Option_01,Taste it,
-StrangeVegetable_Option_01_Result_01,"A burning twist grips your stomach, and the taste turns to bile.",
-StrangeVegetable_Option_01_Result_02,"The taste was strange, but it left you feeling younger, stronger, alive.",
-StrangeVegetable_Option_02,Steal it and risk angering the Town Bailiffs,
-StrangeVegetable_Option_02_Result_01,The merchant caught you in the act but let you go with a warning.,
-StrangeVegetable_Option_02_Result_02,"You slipped away with the fruit. Whether it was the taste or the thrill, you felt younger, alive.",
-StrangeVegetable_Option_03,Ignore it,
-StrangeVegetable_Option_03_Result_01,The fruit stayed where it was.,
-StreetBrawl_Description_0,"What began as boasting and shouting in the tavern ended as a drunken brawl in the city streets, all shaky punches and sloppy slashes.",
-StreetBrawl_Description_1,Some {CHAR_CITVSWOR_C}workers{##} were caught up in the fighting:,
-StreetBrawl_Description_2,"The {CHAR_PRO_C}productivity{##} of workers who got {ST_CHR_KNODOW_C}tired{##} or {ST_INJ_C}hurt{##} is sure to plummet, as is the profitability of their employers. No need to worry though, as surely you've employed only upstanding members of society's lower ranks.",
-StreetBrawl_Name,Ale and Anger,
-StreetBrawl_Result_01,"Some workers were caught up in the fighting, leaving them tired and hurt.",
-SuppliesSpoiled_Description,"The city granary was found spoiled from end to end, every sack ruined. Not a kernel spared for bread or porridge.",
-SuppliesSpoiled_Name,The Last Supper,
-SuppliesSpoiled_Result_01,"Prices climb, and the town must endure lean days ahead.",
-SupportLetter_Description,"Ah, coin and kind words — not a bad surprise at all.\n\nSomeone decided to extend a hand to you by sending a courier with a supportive letter and a substantial amount of money!\n\nGood to be remembered… and better still to be supported.",
-SupportLetter_Description_0,"Ah, coin and kind words — not a bad surprise at all.",
-SupportLetter_Description_1,Someone decided to extend a hand to you by sending a courier with a supportive letter and a substantial amount of money!,
-SupportLetter_Description_2,Good to be remembered… and better still to be supported.,
-SupportLetter_Name,A Hand Extended,
-SupportLetter_Option_01,Accept gift,
-ThugsVandalizingYourHouse_Description,"On your way back, you found your own door defaced. Crude signs and shameful words were smeared across the walls, left by thugs who had already fled.",
-ThugsVandalizingYourHouse_Name,Redecoration,
-ThugsVandalizingYourHouse_Option_01,Seek revenge,
-ThugsVandalizingYourHouse_Option_01_Result_01,TBD,
-ThugsVandalizingYourHouse_Option_02,Do nothing,
-ThugsVandalizingYourHouse_Option_02_Result_01,"The marks stayed on your walls, and the sight lowered respect in the eyes of those around you.",
-TreasureFound_Description,"You stumble upon hidden treasure — a stroke of luck! \n\nKeep it to enrich your dynasty, or donate it to earn respect from poor workers or city officials.",
-TreasureFound_Description_0,You stumble upon hidden treasure — a stroke of luck! ,
-TreasureFound_Description_1,"Keep it to enrich your dynasty, or donate it to earn respect from poor workers or city officials.",
-TreasureFound_Name,Your Lucky Day,
-TreasureFound_Option_01,Donate to the city,
-TreasureFound_Option_01_Result_01,TBD,
-TreasureFound_Option_02,Donate to the poor,
-TreasureFound_Option_02_Result_01,workers are impressed by your generosity,
-TreasureFound_Option_03,Keep it,
-TreasureFound_Option_03_Result_01,TBD,
-TutorialBusiness_Description_0,"Welcome to our beautiful city! A person of your {P_C}Profession{##} will find no shortage of opportunities here. Do it well to earn {CHAR_MON_C}Money{##}, professional {P_MASGRA_C}Mastery{##}, {CHAR_WEA_C}Wealth{##}, and {CHAR_REN_C}Renown{##}, so you can climb the {T_C}ranks of society{##}.",
-TutorialBusiness_Description_1,Assign your {CHAR_CITVSWOR_C}Workers{##} to {A_ACT_CRA_C}craft{##} products from various materials that you purchase or gather. Hire more workers as needed and watch their {CHAR_ENE_C}Energy{##} — it affects {CHAR_PRO_C}Productivity{##}.,
-TutorialBusiness_Description_2,"{A_OVEPRO_C}Oversee Work{##} to motivate your employees to work faster. If their {CHAR_STA_C}Opinion{##} of you is too low, they may leave; if overworked, they will be prone to {B_PARAM_ACCPRO_ACC}Accidents{##}.",
-TutorialBusiness_Description_3,"Visit a {B_GUILD_C}Guild House{##} if you'd like to expedite your {A_TRAPRO_C}training{##} or unlock a new profession. You can then switch between {A_ACTPRO_C}active professions{##}, mixing business with pleasure as you see fit.",
-TutorialBusiness_Description_4,"The {B_HP_C}Integrity{##} of a building affects {B_PARAM_ACCPRO_C}safety{##} and {B_PARAM_PROBON_C}productivity{##}, so don't skimp out on repairs. Rooms and Improvements in your building help your business and unlock {A_ACT_C}tasks for your workers{##}, as well as new actions for you or your clients.",
-TutorialBusiness_Description_5,"Sell your products to turn a profit. Move them from your {B_STOROO_C}Storeroom{##} to your {B_STOFRO_C}Storefront{##}, or load them in {CAR_C}Carts{##} and send them to the {B_PUB_MKT_C}Marketplace{##}. Repair your carts or buy carts with more slots, better integrity, and more speed.",
-TutorialBusiness_Description_6,"Before sending out a cart, consider {A_HIRESC_C}hiring an escort{##} to defend against waylaying bandits. However, even strong escorts won't fend off all attacks if your carts carry very tempting riches, especially if some corrupt city official {CR_CRI_C}decriminalizes{##} such activities.",
-TutorialBusiness_Name,Running Your Business,
-TutorialCrime_Description_0,"City {L_LAW_C}Laws{##} affect how you conduct business and interact with {CHAR_CITVSWOR_C}Citizens{##}. The Lawbook indicates which actions are considered {CR_CRI_C}Crimes{##} under current laws, though we all know that laws can be bent.",
-TutorialCrime_Description_1,"From petty crimes to despicable acts, you can be sure that your political opponents are doing it. {A_SPY_C}Spy{##} on them often or trade for {CR_EVI_C}Evidence{##} that you can use to {A_PRECHA_C}press charges{##} or gain leverage.",
-TutorialCrime_Description_2,"If you are accused of a crime, real or fabricated, your fate will be decided by {CR_TRI_C}Trial{##}, so try to ensure that the members of the {CR_TRI_JUR_C}Jury{##} have a good {CHAR_STA_C}Opinion{##} of you. If the carrot doesn't work, try the stick.",
-TutorialCrime_Description_3,"When found guilty, you will be punished according to the {CR_SEV_C}Severity{##} of your crime. You may be forced to pay a hefty fine, but you may also get {ST_CHR_IMP_C}imprisoned{##} or even sentenced to death. Hard to say which of these would bring more shame to your good name.",
-TutorialCrime_Description_4,"Then again, people who say that crime doesn't pay are probably just not very {S_STE_C}skilled{##} at it. Sometimes, one's livelihood depends on being a successful criminal. And since politics and crime have always gone hand in hand, why not apply for an office position that can decriminalize your favorite activity?",
-TutorialCrime_Name,Obeying the Law,
-TutorialEconomy_Description_Buy,"If looking to buy, the {B_PUB_MKT_C}marketplace{##} may provide the widest range of offers, but it's often best to purchase {I_TYP_RAWMAT_C}raw materials{##} from {B_TYP_EXTFAC_C}Resource Sites{##}on the city outskirts, and artisanal goods and {I_TYP_INTPRO_C}intermediate wares{##} from the {B_STOFRO_C}storefronts{##} of other businesses.",
-TutorialEconomy_Description_Items,"Regardless of your craft, you will have to manage many types of goods. You can only use or equip items placed in your personal inventory, but beware that such {I_TYP_INVITE_C}items{##} cannot be moved or sold, though they can be discarded or given to others.",
-TutorialEconomy_Description_Prices,"The price and availability of goods are affected by the balance of supply and demand, as well as by seasons, city {L_LAW_C}laws{##}, and even world events such as wars. If you are looking for truly special items, keep an eye out for time-limited events such as fairs or visiting merchants.",
-TutorialEconomy_Description_Sell,"If looking to sell, sooner or later someone at the marketplace typically pays good money for your wares, unless prohibited by law. You can also sell your wares from your storefront, where you can earn a premium for {B_PARAM_ATT_C}good service{##}, scarce goods, and contraband.",
-TutorialEconomy_Description_Taxes_0,"Always remember: the only certainties in life are death and taxes, and death only comes once. Taxes come, or rather go, at the end of every year. If you can't pay, you better hope that you can make up for it while {ST_CHR_IMP_C}imprisoned{##}.",
-TutorialEconomy_Description_Taxes_1,"Check your end-of-year balance for {L_SALTAX_C}sales tax{##}, church tithe, inheritance tax, and other law-mandated benefits of city dwelling. No excuses, no exceptions. If you don't like it, get into {O_TYP_CIVOFF_C}politics{##} and change it.",
-TutorialEconomy_Name,Economy,
-TutorialFamily_Description_0,"To ensure that your {CHAR_DYN_C}Dynasty{##} can endure after you die, you must build a family, which means finding a spouse and producing offspring worthy of carrying your {T_C}title{##} and taking over your {P_C}business{##}.",
-TutorialFamily_Description_1,"{CHAR_COU_C}Start courting{##} the most suitable candidate based on their age, {CHAR_HP_C}Health{##}, {CHAR_WEA_C}Wealth{##}, {S_C}Skills{##}, and other desirable characteristics. {A_SENGIF_C}Send gifts{##} to your love interest and {A_SWETAL_C}sweet-talk{##} them into getting engaged with you sooner, or you might lose out to more persuasive suitors.",
-TutorialFamily_Description_2,"The wedding ceremony will take place the {C_TRN_C}turn{##} following your successful engagement. Thereafter, children may be born to you depending on your {CHAR_FER_C}fertility{##}, your {A_PRITIM_C}marital efforts{##}, and focus diverted to {A_SPOHEL_C}other engagements{##}. Perhaps consider adopting an orphan or two, just to be sure.",
-TutorialFamily_Description_3,"To avoid losing your empire upon your untimely death, your spouse and later your eldest adult child, meaning aged at least {heir_min_age} years, will be set to inherit your fortune. You can always {A_CHOHEI_C}name a different heir{##} from among eligible family members, if only to keep them on their toes.",
-TutorialFamily_Description_4,"Don't forget to invest in your chosen {CHAR_HEI_C}heir{##}, to make sure that they are indeed ready to perform their duties and will not bring shame and ruin to your dynasty when the time comes for you to pass the mantle, willingly or otherwise. Start {A_TRACHI_C}training{##} your first born early, as you never know how much time you have left.",
-TutorialFamily_Name,Growing Your Dynasty,
-TutorialGoToHerleTutorial_Description_0,"The city officials recommend that all newcomers direct their first efforts to establishing a business in Herle before moving to the big city and becoming entangled in the many demands of business, influence, and personal affairs.",
-TutorialGoToHerleTutorial_Description_1,"Herle offers more than an introduction to the controls. You will receive useful advice on how the game's systems work, along with goals to guide you. And you are still free to pursue them however you wish or ignore them entirely.",
-TutorialGoToHerleTutorial_Description_2,"And, between us, Herle is a rather charming town. You may even come to prefer it to this one.",
-TutorialGoToHerleTutorial_Description_3,"But should you wish to go into politics and intrigue without learning the ropes, the choice is yours. You will find everything you need in the City Archives.",
-TutorialGoToHerleTutorial_Description_4,May your trade prosper!,
-TutorialGoToHerleTutorial_Description_5,tbd,
-TutorialGoToHerleTutorial_Name,New to Europa 1410?\nBegin with the tutorial in Herle!,
-TutorialOffice_Description_0,"{O_TYP_CIVOFF_C}Political offices{##} can grant incredible power to drive the city's development, as well as unofficial perks afforded by the natural desire of citizens to seek the good graces of city officials.",
-TutorialOffice_Description_1,"Understandably, regular people with no notable {CHAR_WEA_C}Wealth{##} or {T_C}Title{##} are ineligible for such honor. Once you amass sufficient wealth, go to the {B_PUB_TOWHAL_C}Town Hall{##} and apply for the title of {T_FULCIT_C}Burgher{##}; then, apply for an open position in any low-level office such as {O_CHA_TOWSER_C}Town Servant{##}.",
-TutorialOffice_Description_2,"Every application is judged by certain appointers, who can be swayed. As you wait for the {O_ELE_C}elections{##}, try to improve your {S_RHE_C}Rhetoric skill{##} and use Actions and Items to boost the appointers' {CHAR_STA_C}Opinion{##} of you, as well as to {A_BLANAM_C}undermine{##} your competitors.",
-TutorialOffice_Description_3,"While in office, you receive a hefty salary and can use the city treasury to improve the city {C_DIS_C}Districts{##} and {C_QUA_C}Quarters{##}.",
-TutorialOffice_Description_4,"You may also change {L_LAW_C}laws{##}, especially those regulating which behaviors are {CR_CRI_C}criminalized{##} and how severely the perpetrators should be punished. After all, reading the wrong books can often be more damaging than robbing carts, which helps with distributing wealth more equally across our fair city.",
-TutorialOffice_Name,Success in Politics,
-TutorialUX_Description_0,"No problem! We know that our game can be a bit much, so we've prepared a few tips to get you around the most common hurdles.",
-TutorialUX_Description_1,Try hovering over {TUT_TOO_1_C}highlighted text{##} or any icon to reveal a tooltip that provides detailed information.,
-TutorialUX_Description_10,Left-click an item icon to pick up one unit. Keep clicking with a pause between clicks to add more units one at a time.,
-TutorialUX_Description_11,Double-click to pick up the entire stack at once.,
-TutorialUX_Description_12,"Alternatively, click and hold, then drag left or right to select the exact amount on a slider.",
-TutorialUX_Description_2,Lock the tooltip in place by pressing the middle mouse button.,
-TutorialUX_Description_3,"Locked tooltips are interactive, so hover over highlighted terms or icons to open additional tooltips and dive deeper into game mechanics.",
-TutorialUX_Description_4,Dismiss all locked tooltips by pressing the left mouse button (left click).,
-TutorialUX_Description_5,"Left-click an item icon to pick up that item. There is no need to hold, as the item attaches to your cursor and can be moved freely.",
-TutorialUX_Description_6,"Left-click again to place the item in the desired inventory, or to trade it at the marketplace.",
-TutorialUX_Description_7,"The same when managing your business: left-click to select a worker from the resting bench, then left-click again to assign them to a task; or left-click to select a worker from a task, then left-click on the resting bench to unassign them and thus allow them to rest.",
-TutorialUX_Description_8,"If needed, right-click to cancel the operation, and the item or worker will be returned to the original location.",
-TutorialUX_Description_9,"Items can be stacked, so you can pick up as many or as few as needed.",
-TutorialUX_Name_0,First Time?,
-TutorialUX_Name_1,"Click-to-Pick, Click-to-Place",
-TutorialUX_Name_2,Picking Up Multiple Units,
-TutorialUX_NestedTooltip_1,"Good. Now click the middle mouse button to lock this tooltip, and then hover over this {TUT_TOO_2_C}highlighted text{##}.",
-TutorialUX_NestedTooltip_2,That's it. Our game holds no more secrets for you. Go play!,
-UnderWaylayingAttack_Description_0,"Some lowlifes have decided that they can lay claim to the fruit of your hard labor, so they have waylaid your cart.",
-UnderWaylayingAttack_Description_1,"Sadly, the {P_GUA_C}guards{##} aren't what they used to be, so you should always consider {A_HIRESC_C}hiring an escort{##} for your cart if you are transporting valuable goods.",
-UnderWaylayingAttack_Description_1_WithEscort,"Sadly, the {P_GUA_C}guards{##} aren't what they used to be, so {A_HIRESC_C}hiring an escort{##} for your cart was a fortunate decision, as you are transporting valuable goods.",
-UnderWaylayingAttack_Description_1_WithoutEscort,"Sadly, the {P_GUA_C}guards{##} aren't what they used to be, and you did not {A_HIRESC_C}hire an escort{##} to protect the valuable goods you are transporting, so you find yourself in a dilemma.",
-UnderWaylayingAttack_Description_2,"If you haven't invested in an escort, you can try to negotiate your way out of it and save part of your goods. But if you've spent your money's worth on defenders, let them fight it out.",
-UnderWaylayingAttack_Description_2_WithEscort,"You could try to negotiate your way out of it and save part of your goods. But if you've spent your money's worth on defenders, let them fight it out.",
-UnderWaylayingAttack_Description_2_WithoutEscort,"You could try to quietly negotiate your way out of it and save part of your goods, or denounce this heinous act publicly and lose all your goods but gain evidence against the perpetrator.",
-UnderWaylayingAttack_Description_3,"As the waylaying of carts is generally frowned upon and often illegal, you may obtain {CR_EVI_C}evidence{##}. You could {A_SPY_C}spy{##} on the perpetrator, convince witnesses to speak up, or just {A_SNI_C}spread the rumor{##} yourself.",
-UnderWaylayingAttack_Name,Your Cart Has Been Intercepted,
-UnderWaylayingAttack_Option_FightBack,Fight!,
-UnderWaylayingAttack_Option_FightBack_Outcome_Instigator,You've chosen to fight to defend your cart and goods. Better be worth it.,
-UnderWaylayingAttack_Option_FightBack_Outcome_Targets,The poor fellow whose cart you're trying to rob has decided to fight back. Your goons better be prepared.,
-UnderWaylayingAttack_Option_Flight,Pay robbers,
-UnderWaylayingAttack_Option_Flight_Outcome_Instigator,You've spent some money but got away with your life and goods.,
-UnderWaylayingAttack_Option_Flight_Outcome_Targets,The goons you've hired to attack a cart have turned up empty handed. Are you sure they're not scamming you?,
-UnderWaylayingAttack_Option_SurrenderGoods,Negotiate,
-UnderWaylayingAttack_Option_SurrenderGoods_Outcome_Instigator,"You've lost the contents of your cart, however much or little that may have been.",
-UnderWaylayingAttack_Option_SurrenderGoods_Outcome_Targets,The goons you've hired to attack a cart have sold the plunder and returned the profits to you.,
-UnderWaylayingAttackNoEscort_Option_Denounce,Denounce,
-UnderWaylayingAttackNoEscort_Option_Denounce_Outcome_Instigator,But it was not in vain. Justice shall come for all.,
-UnderWaylayingAttackNoEscort_Option_SurrenderGoods_Outcome_Instigator,Better to lose some than to lose it all. And no one got hurt. You find yourself approving of robberies conducted in such a civil manner.,
-WaylayingIntercepted_Description_0,"Your henchmen have managed to waylay the cart of an unsuspecting business owner. Hopefully, the cart is not {A_HIRESC_C}escorted{##} by capable defenders who would give trouble to your well trained thugs.",
-WaylayingIntercepted_Description_1,"If, by some divine revelation, you decide not to attack this cart, your restraint should be respected. Still, the criminal world is a competitive one: if you do not rob it, some other less spiritually conflicted lowlife probably will.",
-WaylayingIntercepted_Description_2,"Would you like to proceed with the attack, or would you rather be merciful?",
-WaylayingIntercepted_Name,You Have Intercepted a Cart,
-WaylayingIntercepted_Option_Attack,Attack the cart. Robbers gonna rob.,
-WaylayingIntercepted_Option_Attack_Outcome_Instigator,"You've chosen to attack the waylaid cart. Your henchmen better be well trained, well rested, and well equipped.",
-WaylayingIntercepted_Option_Attack_Outcome_Targets,Some lowlifes are attacking your cart in an attempt to make off with your goods. Have you {A_HIRESC_C}hired an escort{##}?,
-WaylayingIntercepted_Option_LetPass,"Let the cart pass for now. Sometimes, less is more.",
-WaylayingIntercepted_Option_LetPass_Outcome_Instigator,You've decided to not attack the waylaid cart. Very forward-thinking of you.,
-WaylayingIntercepted_Option_LetPass_Outcome_Targets,Some goons had waylaid your cart but in the end decided to just let it go. Someone must be looking out for you.,
-WorkerAccident_Description_0,"One of your workers has collapsed. As they are no longer at their post, production is stalling.",
-WorkerAccident_Description_1,Was it misfortune made worse by abusive working conditions and lack of {B_PARAM_ACCPRO_C}accident protection{##} at the workplace? Or perhaps the tasks have been so enjoyable that the worker simply forgot to take rest?,
-WorkerAccident_Description_2,"Either way, what is to be done? Even if you help them, they will still need to rest before they can be productive.",
-WorkerAccident_Name,Exhaustion Plagues Your Business,
-WorkerAccident_Option_01,Cover medical costs,
-WorkerAccident_Option_01_Result_Instigator,"Your kind gesture is highly appreciated. Hopefully, this also means your workers will be more dedicated.",
-WorkerAccident_Option_02,Punish the worker,
-WorkerAccident_Option_02_Result_Instigator,"Your harsh treatment is received with gasps of outrage, but everyone quickly goes back to their workstations.",
-WorkerAccident_Option_03_Result_Instigator,Your workers' faces are blank as they put their heads down and return to their workstations.,
-WorkerDeath_Description_0,"Unfortunately, one of your workers has passed away.",
-WorkerDeath_Description_1,"It remains unclear how long it takes for the body to stop working after death, but tasks still need to be done.",
-WorkerDeath_Description_2,"A funeral may drain your coin and your workers' energy, but all will know you cared.",
-WorkerDeath_Name,Even Death Visits Your Business,
-WorkerDeath_Option_Mourn,Arrange funeral,
-WorkerDeath_Option_Mourn_Result_Instigator,Your empathy and generosity stir nothing but admiration among your workers.,
-WreckedCaravan_Description_0,You hear whispers that a rich merchant's caravan met with misfortune while passing through our city. The thought of valuables spilling out on the side of the road is unbearable.,
-WreckedCaravan_Description_1,"Rumor has it that the caravan is filled to the brim with gold and extravagant goods, though it may not be for much longer, as many of our fair citizens are likely headed that way to… lend a hand and reduce waste.",
-WreckedCaravan_Description_2,Go search in and around the city for the wrecked caravan and try to salvage what you can. It may be more than you expect.,
-WreckedCaravan_Name,One Man's Misery Could Be Your Fortune,
-UnderWaylayingAttackNoEscort_Option_Denounce_Outcome_Targets,"Unfortunately, they did not take the evidence with them, and now your misdeeds shall be known by all.",
+Key,Namespace,Translation
+Ambush_Description_0,,{P_ROB_C}Robbers{##} and the {P_GUA_C}Guards{##} have always been mortal enemies. It was only a matter of time until your hard-working {A_ACT_GUAPAT_C}guard patrol{##} intercepted a band of lowlifes looking to take advantage of other people's hard work.
+Ambush_Description_1,,"It seems that day has come. You have a reputation to maintain in our fair city, as no one will respect guards who do not stand up for the innocent, so decide quickly how you plan to handle the situation."
+Ambush_Description_2,,"Are your people full of {CHAR_ENE_C}energy{##} and {I_TYP_COMEQU_C}well-equipped{##} to resolve the matter with arms, or do you prefer to bide your time and fight another day?"
+Ambush_Name,,Guard Patrol Has Intercepted Robbers
+Ambush_Option_01,,Let the fight begin!
+Ambush_Option_01_Result_Description,,Robbers and guards are about to face off in battle. Better be prepared.
+Ambush_Option_01_Result_Title,,Situation escalated
+Ambush_Option_02,,Back down from the fight
+Ambush_Option_02_Result_Description,,"Cooler heads prevailed, so the robbers and guards continue on their merry ways as if they never met."
+Ambush_Option_02_Result_Description_0,,\nOnlookers disapprove:
+Ambush_Option_02_Result_Title,,Situation defused
+Argument_Description_0,,"Life in our bustling city is not exactly simple, and when you're looking for trouble, you tend to find it."
+Argument_Description_1,,"You'd think that your fellow citizens have better things to do than start arguments in public, but here you are."
+Argument_Description_2,,An innocent shoulder bump in the crowd unraveled into a dramatic quarrel. How do you react?
+Argument_Name,,Much Ado About Nothing
+Argument_Option_01,,Settle the matter peacefully
+Argument_Option_01_Result_01_Instigator,,"The tension eased, and you parted on calmer terms."
+Argument_Option_01_Result_01_Target,,"There was an incident in the crowd, but in the end everyone parted on calm terms."
+Argument_Option_02,,Denounce this shameful behavior
+Argument_Option_02_Result_01_Instigator,,"Your words stung, leaving the matter worse than it had started."
+Argument_Option_02_Result_01_Target,,Insults were exchanged during an incident in the crowd.
+BadOmen_Description_0,,"A red-tailed comet blazes across the sky, sparkling lively discussions among common folk, philosophers, and religious figures alike."
+BadOmen_Description_1,,"Citizens report feeling drained, and all sorts of bad things seem to be happening for no reason, as if an evil has seeped into the city."
+BadOmen_Description_2,,"The priests insist that our sinful nature is to blame. Conveniently, the sale of indulgences has increased."
+BadOmen_Description_3,,All {CHAR_CITVSWOR_C}townspeople{##}:\n-1 {CHAR_HP}\n-5 {CHAR_ENE}
+BadOmen_Name,,Bad Omen
+BallInvite_Description_0,,All nobles and notables were invited to this auspicious event.
+BallInvite_Description_1,,"Attend, and win the favor of the wealthy — or refuse, and prove your bond with the common folk."
+BallInvite_Description_2,,"Whatever you choose, your dynasty's good name in this city is on the line."
+BallInvite_Name,,Ball Invite
+BallInvite_Option_Accept,,Attend
+BallInvite_Option_Accept_Outcome_Instigator,,Your presence at this auspicious event has been noted by the city's nobility. Your monetary contribution as well.
+BallInvite_Option_Accept_Outcome_Targets,,An intriguing upstart has been mingling with the city's nobility. Ambitious move.
+BallInvite_Option_Refuse,,Decline
+BallInvite_Option_Refuse_Outcome_Instigator,,The working class admire your refusal to succumb to such extravagant delights. It has also spared your pocket.
+BallInvite_Option_Refuse_Outcome_Targets,,Some upstart has spurned the city's nobility. Foolish move.
+Bard_Description,,"A bard has brought his talents to the city, singing merry songs aplenty. The bard's trail of tunes echoes cheerful notes of dancing and laughter — the question is, where is the bard?\nGo search the city streets for this merriment, and you may discover interesting opportunities…"
+Bard_Description_0,,"A bard has brought his talents to the city, singing merry songs aplenty. The bard's trail of tunes echoes cheerful notes of dancing and laughter — the question is, where is the bard?"
+Bard_Description_1,,"Go search the city streets for this merriment, and you may discover interesting opportunities…"
+Bard_Name,,The Bard is in Town!
+BeeAttack_Description_0,,You were minding your own business when a swarm of bees suddenly decided that you were the problem.
+BeeAttack_Description_1,,"There was buzzing, swatting, running, and considerably less dignity than you would care to remember."
+BeeAttack_Description_2,,You could swear the swarm briefly formed the shape of a giant fist before knocking you flat. No one is going to believe that.
+BeeAttack_Name,,A Buzzkill
+BeeAttack_Name_alt,,Beeaten!
+BeeAttack_Option_01,,Ouch!
+BeeAttack_Option_01_Result_Instigator,,"As your head clears, so does your memory. That swarm was no accident. You must have upset someone quite badly for them to send killer bees after you."
+BondingOpportunity_Description,,You met a citizen and can spend some time together
+BondingOpportunity_Name,,Bonding Opportunity
+BondingOpportunity_Option_01,,Pay for entertainment effort into it (cost 200)
+BondingOpportunity_Option_01_Result_01,,TBD
+BondingOpportunity_Option_02,,Put an effort into it (-10 energy)
+BondingOpportunity_Option_02_Result_01,,TBD
+BondingOpportunity_Option_03,,Just chill
+BondingOpportunity_Option_03_Result_01,,TBD
+BribeAttempt_Description,,TBD
+BribeAttempt_Name,,TBD
+BribeAttempt_Option_01,,TBD
+BribeAttempt_Option_01_Result_01,,TBD
+BribeAttempt_Option_02,,TBD
+BribeAttempt_Option_02_Result_01,,TBD
+CharacterAtPillory_Description_0,,People are talking about the {O_CHA_TOWCOU_C}Town Council's{##} latest efforts to curb crime and heresy.
+CharacterAtPillory_Description_1,,"Supposedly, persons convicted of crimes would be pilloried instead of {ST_CHR_IMP_C}imprisoned{##}, so that the citizens can express their dissatisfaction however they see fit. It would probably also help cut down maintenance costs at the {B_PUB_PRI_C}prison{##}."
+CharacterAtPillory_Description_2,,"If a {B_PUB_PIL_C}pillory{##} has been built in our city, and if these new rules are indeed not mere rumors, there is surely a heckling crowd gathering to chuck a rotten cabbage or two at the convicted. Go search for it so you can join in on the mischief or show your superior virtue and capacity for forgiveness."
+CharacterAtPillory_Name,,Let the Sinless Cast the First Stone
+ChildIsBorn_Description_0,,"Your family has been blessed with a child! May this new life grow in health, and may your dynasty endure through the ages!"
+ChildIsBorn_Description_1,,"Sleepless nights may follow, but they are a small price for such joy. Plus, nothing worth doing is ever easy."
+ChildIsBorn_Description_2,,"As your child grows, don't forget to invest in their {A_TRACHI_C}education{##} so that, one day, they can contribute meaningfully to your dynasty and even become your {CHAR_HEI_C}heir{##}."
+ChildIsBorn_Description_3,,Come hold the newest member of your dynasty!
+ChildIsBorn_Description_4,,"Your spouse has already taken the liberty of naming the child after a dearly beloved relative from their side of the family. A touching gesture, no doubt, though they seem rather attached to their choice."
+ChildIsBorn_Description_5,,"Will you honor their wishes and have the child baptized under that name, or exercise your authority as head of the dynasty and choose one yourself? Just remember, you'll have to share a bed with your spouse afterward."
+ChildIsBorn_End_Description_0,,"The child has been named, and a new chapter begins for your dynasty. Great things may await your newest family member, though for now, their greatest achievement is having the entire household wrapped around their tiny finger."
+ChildIsBorn_End_Option_01,,Let the child rest
+ChildIsBorn_Option_02,,See your child!
+ChildIsBorn_End_Name,,A Name Has Been Chosen!
+ChildIsBorn_Name,,You Have Become A Parent
+ChildIsBorn_Option_01,,Rejoice!
+Contamination_Description_0,,"Rat-infested food stores, contaminated water supply, sick-looking travelers… no one knows why or how, but many have suddenly fallen quite ill."
+Contamination_Description_1,,All persons affected: {ST_CHR_SIC}
+Contamination_Description_2,,The same question is on everyone's lips: what if the Black Death has returned? City officials helpfully remind everyone that {QUA_HYG_C}sanitation{##} is their own responsibility and prevention is the best cure.
+Contamination_Description_3,,"You may want to {A_PHYCHE_C}visit a physician{##}, {A_PRASHR_C}pray{##} the sickness away, or at least use some salves or potions. Don't forget to check on the wellbeing of your workers and family members too, assuming you want your business and dynasty to survive this."
+Contamination_Name,,A Frightening Outbreak
+CourtingCandidateDied_Description_0,,"Such tragedy. You had a wedding planned, and now it has turned into a funeral."
+CourtingCandidateDied_Description_1,,Not even Cyprian's book could save this courtship now.
+CourtingCandidateDied_Description_2,,"Still, perhaps it was for the best. Whatever they had, it probably would not have produced good children anyway."
+CourtingCandidateDied_Description_3,,"You tell yourself this with venom, because the alternative is admitting how dearly you would have loved them."
+CourtingCandidateDied_Name,,Your love was taken… by the Reaper
+CourtingCandidateDied_Option_01,,Until we meet again
+CourtingCandidateDied_Option_01_Result,,You place a single flower upon their body and whisper the farewell you never had the chance to say.
+CourtingCandidateStolen_Description_0,,"Whether it is the first time or not, rejection hurts."
+CourtingCandidateStolen_Description_1,,"And unrequited love may be the cruelest of all: all that time spent hoping, waiting, and daydreaming of your first wedding night, only to see them now in the arms of another."
+CourtingCandidateStolen_Description_2,,May they both catch a suspicious groin rash!
+CourtingCandidateStolen_Description_3,,"And so, you are alone again. Back to the tedious process of courtship."
+CourtingCandidateStolen_Description_4,,"How much easier it would be if one could simply receive, by pigeon mail, a neat little bundle of portraits, each with a short description of the person's qualities, flaws, wealth, and family connections."
+CourtingCandidateStolen_Name,,Your love was taken
+CourtingCandidateStolen_Option_01,,Life must go on
+CourtingCandidateStolen_Option_01_Result,,"For a time, you still flinch whenever you hear their name. The portraits you had painted together remain tucked away where only you can find them. Eventually, they become little more than faded paint, and even more colorless memories."
+DealWithDevil_Description_0,,"As you walk the dark halls of your home, not able to fall sleep, you get the distinct feeling that you are being watched. You turn around suddenly and find a towering androgynous figure seemingly made of liquid swirling smoke."
+DealWithDevil_Description_1,,"Rather than threatening, the mysterious figure smiles knowingly and watches you attentively despite having no eyes to speak of. You feel it rummaging in the deepest corners of your mind."
+DealWithDevil_Description_2,,"No words are uttered, but your thoughts turn to an interesting but terrifying proposition: sacrifice a child of your body for the promise of a strong bloodline that will carry your dynasty into the annals of history. Make your choice now, mortal!"
+DealWithDevil_Name,,Deal with the Devil
+DealWithDevil_Option_Accept,,Let it be such
+DealWithDevil_Option_Accept_Outcome_Instigator,,"With a satisfied nod, the mysterious figure fades away. As you blink and wonder whether you may have been dreaming, you hear the sudden screams of your spouse…"
+DealWithDevil_Option_Refuse,,Exorcizamus te!
+DealWithDevil_Option_Refuse_Outcome_Instigator,,"The mysterious figure hisses angrily and disappears in a puff of smoke. Deep down, you know it may return in your darkest hour."
+DeathSentence_Description_0,,"Surely, you have heard that crime doesn't pay, yet you persisted in your wayward ways and now the day of reckoning has come. Better put your affairs in order while you still can."
+DeathSentence_Description_1,,"Check that your named {CHAR_HEI_C}heir{##} is properly trained and worthy of carrying your {T_C}title{##} and taking over your {P_C}business{##}. You may even pass the mantle before the sentence is executed, to spare your family some shame."
+DeathSentence_Description_2,,"As you stand on the gallows tomorrow, make sure that your last words are memorable for the right reasons."
+DeathSentence_Name,,Sentenced to Death!
+DeathSentence_Option_Ok,,I regret nothing!
+DeathSentence_Option_Outcome_Instigator,,Your execution is scheduled for tomorrow before noon. Use your remaining time wisely.
+DuelChallenge_Description_0,,Some people think very highly of themselves and apparently wish to bestow this impression upon all others.
+DuelChallenge_Description_1,,"As such, you now find yourself challenged. Duels are an honor-bound tradition where the participants gain glory by engaging in elegant battle. Well, some refer to duels as a childish need to compensate for something, though they rarely mention for what. Others have even gone so far as to call for {CR_CRI_C}outlawing{##} duels."
+DuelChallenge_Description_2,,"In any case, if you decide to partake in such a ritual, make sure you are well equipped for the task. If not, perhaps a bruised ego is less painful than a stab in the belly."
+DuelChallenge_Name,,Challenged to a Duel
+DuelChallenge_Option_Accept_Outcome_Common,,The duel will start at sundown. Make sure you rest and regain your energy. You will need it.
+DuelChallenge_Option_Accept_Outcome_InstigatorAndTargets_Generic,,"Hopefully, you have enough energy to get through this duel in one piece."
+DuelChallenge_Option_Accept_Outcome_Targets,,Your opponent has decided to defend their honor.
+DuelChallenge_Option_Ignore_Outcome_Instigator,,You have exhibited both common sense and cowardice. Your public image may not survive though.
+DuelChallenge_Option_Ignore_Outcome_Targets,,Your opponent has exhibited both common sense and cowardice. At least you've shamed them.
+DynastyDied_Description_0,,The bells toll to mark the tragedy of tragedies: the head of a dynasty exhales the last breath in empty halls. There is no one left to carry forth the family name.
+DynastyDied_Description_1,,"War, disease, a predilection for gambling and, above all, a general dislike of conjugal duties have left this dynasty with no one to inherit the family business. Thus, all property reverts to the city."
+DynastyDied_Description_2,,"If you're interested in acquiring production buildings at a bargain, better hurry and obtain the relevant license. But do not neglect your conjugal duties, or a similar fate may befall your own dynasty."
+DynastyDied_Name,,Dynasty Extinguished
+DynastyDied_Option_01,,Meditate upon the meaning of life
+DynastyDied_Option_01_Tooltip,,Breathe in… Hold… Breathe out… That's it.
+DynastyHeadWithHeirDied_Description_0,,"As your final breath escapes your body, you let go of victories and regrets. The city lives on, indifferent to your plight, yet subtly shaped by your actions."
+DynastyHeadWithHeirDied_Description_1,,"But just as your path dims, another may yet follow. Hopefully, you got your affairs in order well in advance, and your {CHAR_HEI_C}heir{##} is perfectly capable of taking over your {P_C}business{##} and {T_C}title{##}, ensuring your {CHAR_DYN_C}dynasty{##} thrives."
+DynastyHeadWithHeirDied_Description_3,,"And so, your story ends, and your heir's begins. As the new head of the family, you have a will to attend to, a few words to say in your own favor, and perhaps some disappointed relatives whose goodwill can be bought."
+DynastyHeadWithHeirDied_Description_2,,"They say time forgets nothing, yet remembers selectively. How long will your name linger in the memory of the city?"
+DynastyHeadWithHeirDied_Name,,Your Time Has Come
+DynastyHeadWithHeirDied_Option_01,,Continue as your heir
+DynastyHeadWithHeirDied_Option_02,,Attend the Will Reading
+DynastyHeadWithHeirDied_End_Description_0,,"The notary rolls up the will, gathers his papers, and declares the proceedings concluded. With the inheritance settled, there is nothing left to do but carry on."
+DynastyHeadWithHeirDied_End_Description_1,,"For a moment, you find yourself wondering what the deceased would have thought of the way things turned out. Their legacy is now in your hands, along with all the responsibilities that come with it."
+DynastyHeadWithHeirDied_End_Description_2,,"A lifetime of work, passed on with a few strokes of a quill. You can only hope to leave behind something equally worth inheriting."
+DynastyHeadWithHeirDied_End_Name,,The Will Is Done
+DynastyHeadWithHeirDied_End_Option_01,,Take Up the Mantle
+Event_Description,,"Events are random occurrences that present choices, challenges, or opportunities."
+Event_DisplayName,,Event
+Event_DisplayName_plural,,Events
+Event_Name,,Event: {name}
+Event_Type_Tutorial_DisplayName,,Tutorial
+Event_Type_Tutorial_DisplayName_plural,,Tutorials
+EventA_Description,,Test
+EventA_Name,,Test
+EventA_Result_01,,Test
+EventB_Description,,Test
+EventB_Name,,Test
+EventB_Option_01,,Test
+EventB_Option_01_Result_01,,Test
+EventB_Option_02,,Test
+EventB_Option_02_Result_01,,Test
+EventB_Option_03,,Test
+EventB_Option_03_Result_01,,Test
+FamilyMemberDied_Description,,"Sadly, one of your family members has passed away. As you gather in mourning to prepare funeral rites, try to keep in mind that your {CHAR_DYN_C}dynasty{##} must remain strong.\n\nMake sure your dynasty always has an {CHAR_HEI_C}heir{##}, or everything you have built will be lost when your time comes to leave the world of the living."
+FamilyMemberDied_Description_0,,"Sadly, one of your family members has passed away. As you gather in mourning to prepare funeral rites, try to keep in mind that your {CHAR_DYN_C}dynasty{##} must remain strong."
+FamilyMemberDied_Description_1,,"Make sure your dynasty always has an {CHAR_HEI_C}heir{##}, or everything you have built will be lost when your time comes to leave the world of the living."
+FamilyMemberDied_Name,,A Tragedy Shakes Your Family
+FamilyMemberDied_Option_01,,May they rest in peace
+Fires_Description,,TBD
+Fires_Name,,TBD
+Fires_Result_01,,TBD
+GameChallenge_Description_0,,"A half-drunk stranger challenges you to a game of dice. Seems like easy money, but then again, so did all your failed investments."
+GameChallenge_Description_1,,"You try to recall whether gambling is legal these days, but brush the thought away as the stranger clumsily rolls the dice ahead of you, mumbling something along the lines of:"
+GameChallenge_Description_2,,">> Look, my friend, I want no trouble… but if you lose, I'll make it double!"
+GameChallenge_Name,,"To Play, Or Not to Play"
+GameChallenge_Option_Accept_Result_Instigator,,Satisfied with the outcome?
+GameChallenge_Option_Cheat_Result_Instigator,,It's all fun and games until someone gets caught.
+GameChallenge_Option_Refuse_Result_Instigator,,Better safe than sorry.
+GoodOmen_Description_0,,"A fiery light cuts across the sky, burning brighter than any torch or candle. It would be terrifying if it were not so magnificent."
+GoodOmen_Description_1,,"Comets are usually read as bad omens, but everyone agrees that this time life in the city actually feels better, as if renewed by means of divine light."
+GoodOmen_Description_2,,All {CHAR_CITVSWOR_C}townspeople{##}:\n+1 {CHAR_HP}\n+5 {CHAR_ENE}
+GoodOmen_Name,,A Comet's Blessing
+Goosezilla_Description,,TBD
+Goosezilla_Name,,TBD
+Goosezilla_Result_01,,TBD
+Hassle_Description_0,,"You spoke too freely, and someone nearby took your words as an insult. Perhaps you were rude, but what of it?"
+Hassle_Description_1,,"Now, people are watching and tempers are flaring. Neither side wants to back down."
+Hassle_Description_2,,"In case you have more {CHAR_ENE_C}energy{##} than sense, take your chance. You never know what comes out of it."
+Hassle_Name,,Not Every Action Needs a Reaction
+Hassle_Option_GonOnWithIt,,Let fists speak
+Hassle_Option_GonOnWithIt_Result_Instigator,,"The fight was rough, and you walked away bruised. But in their anger, your opponent might have let slip a secret."
+Hassle_Option_GonOnWithIt_Result_Target,,"Insults were exchanged in a moment of tension, and a fight ensued. Too much was said and done, and it may be used against you one day."
+Hassle_Option_HandleWithManners,,Keep it civil
+Hassle_Option_HandleWithManners_Result_Instigator,,"You answered with calm words, and your opponent was disarmed by your manners."
+Hassle_Option_HandleWithManners_Result_Target,,"Despite a moment of tension when insults were exchanged and things almost got physical, your opponent showed sense and good manners."
+Imprisoned_Description_0,,Borrowed money and never returned it? Tried to bribe some official? Blackmailed fellow citizens? Did business too poorly for too long? Read the wrong books? Just be honest.
+Imprisoned_Description_1,,"Haven't you ever heard that {CR_CRI_C}crime{##} doesn't pay? In fact, crime definitely pays, but not for you, it seems. You have been {CR_TRIPUN_C}sentenced{##} to jail time according to the {CR_SEV_C}severity of your crime{##} and how {L_LAWSEV_C}harsh{##} the current law is."
+Imprisoned_Description_2,,"During your {ST_CHR_IMP_C}imprisonment{##}, your actions will be limited, so use this time wisely and learn from your mistakes."
+Imprisoned_Name,,You Have Been Imprisoned!
+Imprisoned_Option,,Straight to jail!
+InjuryVictim_Description,,"Thugs came out of nowhere and left you battered. Perhaps this incident was mere chance, or perhaps someone plotted it. Either way, pain is your only certainty. \n\nHopefully, your remaining {CHAR_HP_C}health{##} and {CHAR_ENE_C}energy{##} allow you to proceed with your daily affairs."
+InjuryVictim_Description_0,,"Thugs came out of nowhere and left you battered. Perhaps this incident was mere chance, or perhaps someone plotted it. Either way, pain is your only certainty."
+InjuryVictim_Description_1,,"Hopefully, your remaining {CHAR_HP_C}health{##} and {CHAR_ENE_C}energy{##} allow you to proceed with your daily affairs."
+InjuryVictim_Name,,Not Your Day
+InjuryVictim_Option_01,,Ouch!
+LetterUnmarkedLetter_Description,,TBD
+LetterUnmarkedLetter_Name,,TBD
+LetterUnmarkedLetter_Option_01,,TBD
+LetterUnmarkedLetter_Option_01_Result_01,,TBD
+LetterUnmarkedLetter_Option_01_Result_02,,TBD
+LetterUnmarkedLetter_Option_01_Result_03,,TBD
+LetterUnmarkedLetter_Option_02,,TBD
+LetterUnmarkedLetter_Option_02_Result_01,,TBD
+MarriageDecided_Description_0,,The love of your life is ready to join you in the holy bond of matrimony. May your union be blessed with strong children to carry on your dynasty!
+MarriageDecided_Description_1,,"Wedding preparations will drain much energy, but your family and friends will rejoice with you, bearing gifts in celebration."
+MarriageDecided_Description_2,,"Alternatively, you may prefer a frugal event. In that case, better be prepared for meager wedding gifts and a cooler embrace by your new spouse."
+MarriageDecided_Name,,The Wedding Day
+MarriageDecided_Option_Enjoy,,Blessed be this union!
+MarriageDecided_Option_GoToWedding,,Attend Your Wedding
+MarriageDecided_Option_Enjoy_Result_Instigator,,Your wedding banquet is all people talk about these days.
+MarriageDecided_Option_Enjoy_Result_Target,,An upstanding citizen threw a wedding banquet and those who attended just can't stop talking about it.
+MarriageDecided_Option_Ignore,,Just get on with it
+MarriageDecided_Option_Ignore_Result_Instigator,,"Hopefully, your spouse learns to manage expectations better than you manage your finances."
+MarriageDecided_Description_3,,"The guests have gathered, the priest is waiting, and your beloved is dressed for the occasion. Make your way to the high altar, exchange your vows, and seal your union before God and your witnesses."
+MarriageDecided_Description_4,,"After that, you may find a few other ways to enjoy the festivities. A wedding is a celebration, after all!"
+MarriageDecided_End_Name,,One Last Wedding Expense
+MarriageDecided_End_Description_0,,"The festivities are finally drawing to a close. The last guests are making their way home, some a little less steadily than others, though a few seem determined to accompany you all the way to the marriage bed. Such enthusiasm for your union!"
+MarriageDecided_End_Description_1,,"Once you've finally secured a moment alone, your new spouse suggests taking a little journey together. A honeymoon, just the two of you, away from the demands of family and business."
+MarriageDecided_End_Description_2,,"It would certainly cost a pretty penny, but the time spent together could strengthen your marriage. And a happy marriage may well improve your chances of welcoming a few heirs into the family!"
+MarriageDecided_End_Option_Honeymoon,,Enjoy a Honeymoon
+MarriageDecided_End_Option_Honeymoon_Result_Name,,Just the Two of Us
+MarriageDecided_End_Option_Honeymoon_Result_Description,,"The honeymoon costs a small fortune, but the time spent together brings you closer than ever."
+MarriageDecided_End_Option_MarriedLife,,Settle Into Married Life
+MarriageDecided_End_Option_MarriedLife_Result_Name,,"Home, Not So Sweet Home"
+MarriageDecided_End_Option_MarriedLife_Result_Description,,"You may have saved a small fortune, but the embrace you receive tonight is noticeably colder. Perhaps some things are worth spending a little coin on."
+MineAccident_Description,,"This morning, at one of the town's mines, a support frame collapsed, burying the crew beneath it. The tragedy shook the entire city."
+MineAccident_Name,,Last Shift
+MineAccident_Result_01,,Lives were lost. The town sends prayers and comfort to their families in this dark hour.
+MysteriousBeggar_Description_01,,"From the shadows of an alley, a beggar raises his hand toward you. Do you have anything to offer?"
+MysteriousBeggar_Description_02,,"You never know what may come of it. Beggars live by scavenging and might reward your generosity with an item, a piece of evidence… or nothing at all."
+MysteriousBeggar_Name,,The Beggar
+MysteriousBeggar_Option_01,,Offer money
+MysteriousBeggar_Option_01_Result_01,,"The beggar takes your coin with a nod, then ducks into a crowd. No more is seen or heard of him."
+MysteriousBeggar_Option_01_Result_02,,"From the folds of his ragged cloak, he presses a small vial into your hand. No word of thanks, only a steady gaze before he turns away."
+MysteriousBeggar_Option_02,,Offer help
+MysteriousBeggar_Option_02_Result_01,,The beggar presses a folded note into your hand. Its lines point to another's secret dealings — enough to be used as evidence against them.
+MysteriousBeggar_Option_03,,Do nothing
+MysteriousBeggar_Option_03_Result_01,,"You ignore him. He chuckles as if he knew your choice all along. By the time you look back, the alley is empty."
+Onboarding_BeeHives_Description_00,,Can you believe those fellows at the bar today? No? You did not hear them?
+Onboarding_BeeHives_Description_01,,"Well, I have made a habit of keeping my ears open. It is good for business — and considerably cheaper than paying a spy."
+Onboarding_BeeHives_Description_02,,"You see that poor man with the swollen face? And the well-dressed fellow beside him? That second man used to be a small-time merchant. Then fortune smiled upon him, and he decided that earning money was less profitable than charging other people to hear how he had done it."
+Onboarding_BeeHives_Description_03,,"Apparently, he told our unfortunate friend that honey would be the town's next great fortune. Men will believe almost anything if the advice comes from fine clothes and costs enough."
+Onboarding_BeeHives_Description_04,,The bees disagreed.
+Onboarding_BeeHives_Description_05,,"Still, all this talk has left me craving mead. Queen bees can be found in the Timberlands. Go find one, and we shall see whether that merchant was onto something after all."
+Onboarding_BuyMaterials_Description_00,,"I spent the morning waiting for a mason to finish a sanding block. He arranged his tools, inspected the workbench, and then stood there looking thoughtful."
+Onboarding_BuyMaterials_Description_01,,We had no stone.
+Onboarding_BuyMaterials_Description_02,,"Before your workers can craft anything, the required materials must be in the storeroom. Send your cart to the Marketplace to buy what they need, or visit Resource Sites such as mines, where materials are often available at better prices because they come straight from the source."
+Onboarding_BuyMaterials_Description_03,,"Once the materials are unloaded, production can begin. Potential is just another word for empty shelves."
+Onboarding_CourtshipAndMarriage_Description_00,,"Your workshop is coming along nicely. Now, I did not want to say anything, but what about the rest of your life?"
+Onboarding_CourtshipAndMarriage_Description_01,,"There are a few respectable unmarried people in Herle. I know which are kind, which are sensible, and which only pretend to be either. A lady has an intuition for these things."
+Onboarding_CourtshipAndMarriage_Description_02,,"Find someone you like, court them properly, and perhaps marriage will follow."
+Onboarding_CourtshipAndMarriage_Description_03,,I am not interfering. I am helping.
+Onboarding_CraftAndSell_Description_00,,You are the new smith. Marta said you would be here.
+Onboarding_CraftAndSell_Description_01,,"I'm Elsbeth, the town's mason. I collect old swords, though the fittings interest me more than the blades. Blades receive all the praise. Fittings hold everything together and are only noticed when they fail."
+Onboarding_CraftAndSell_Description_02,,"You should probably begin with those. Craft some fittings and sell them at the marketplace. Someone will need them soon, even if they do not know it yet."
+Onboarding_CraftAndSell_Description_03,,Keep one for yourself. A sword begins with smaller things.
+Onboarding_EvidenceFound_Description_00,,"After finishing your errands, you sit for a moment and watch the town pass by."
+Onboarding_EvidenceFound_Description_01,,"A merchant argues over the price of wool. A boy steals an apple, then immediately drops it while trying to look innocent. Nearby, two women complain that their husbands somehow become helpless the moment a chair needs moving."
+Onboarding_EvidenceFound_Description_02,,Herle is alive.
+Onboarding_EvidenceFound_Description_03,,"Then you notice two men standing at a distance, making a great effort not to be noticed… and failing badly. You recognize one of them as a town official."
+Onboarding_EvidenceFound_Description_04,,The other man slips a purse into the official's belt pouch. They shake hands and quickly part ways.
+Onboarding_EvidenceFound_Description_05,,A folded note falls to the ground behind them.
+Onboarding_EvidenceFound_Description_06,,"When you retrieve it, you find the amount of the payment written inside, followed by the words: “Do not forget to vote for me.”"
+Onboarding_EvidenceFound_Description_07,,The fool even signed his name.
+Onboarding_GuardService_Description_00,,Someone broke into my joinery.
+Onboarding_GuardService_Description_01,,I switched to selling from my storefront to avoid robbers on the road. It turns out they were willing to walk the rest of the way.
+Onboarding_GuardService_Description_02,,"You wouldn't happen to know how to install barred windows, would you? No? A pity. You certainly wouldn't be short of clients."
+Onboarding_GuardService_Description_03,,"Apparently, since the authorities cannot protect the streets themselves, they have decided to leave the work to whichever desperate citizens are willing to put their lives on the line."
+Onboarding_GuardService_Description_04,,I hear guard service pays well. Hm… I shall recommend it to someone I dislike.
+Onboarding_HireAndTrainWorkerSkill_Description_00,,"I once employed the finest brewer I ever met. He could brew a full batch in half the time it took most men, without sacrificing a drop of quality."
+Onboarding_HireAndTrainWorkerSkill_Description_01,,"Unfortunately, whenever I sent him to serve the tables, he frightened half the customers into drinking elsewhere. Excellent with barrels. Terrible with people."
+Onboarding_HireAndTrainWorkerSkill_Description_02,,"That taught me to hire workers for what they are good at. Some have the hands for crafting, some can sell anything placed before them, and some know how to keep customers happy."
+Onboarding_HireAndTrainWorkerSkill_Description_03,,"As a smith, you should look for those skilled in handicraft, choose someone who suits your needs, and hire them. If you are happy with the workers you have, you can train their skills."
+Onboarding_HireAndTrainWorkerSkill_Description_04,,skip
+Onboarding_HireAndTrainWorkerSkill_Description_05,,"You linger, admiring the stonework, as though it alone were the handiwork of God. Yet His truest work is found in the faithful gathered here — and it is the duty of a skilled priest to guide them."
+Onboarding_ImproveHandicraft_Description_00,,"I am Bishop van Hochstaden-Herle. People come here carrying the consequences of what they failed to notice, correct, or prevent. They call such failures misfortune. More often, they are simply neglect allowed to mature."
+Onboarding_ImproveHandicraft_Description_01,,"Your workers may stand at the forge, but their failures will still bear your name. If you cannot recognize waste, clumsy work, or lost time, then you are not directing them. You are merely paying them."
+Onboarding_ImproveHandicraft_Description_02,,"Improve your handicraft. Capable workers are valuable, but a capable master makes them better. You need not perform every task yourself—but do not mistake ignorance for delegation."
+Onboarding_MasterGrade01_Description_00,,I have been watching you. Not closely. Closely enough.
+Onboarding_MasterGrade01_Description_01,,Your work no longer looks like the work of a beginner. I think you are ready to seek a higher master grade.
+Onboarding_MasterGrade01_Description_02,,"It will bring renown to your name. A higher mastery will let you accomplish more in your profession and, in time, build a larger smithy offering more crafts and services."
+Onboarding_MasterGrade01_Description_03,,"It is curious how skill takes up no room, yet always seems to require a larger building."
+Onboarding_PressCharges_Description_00,,What is that you are holding? Let me see… reading Hm. This looks like evidence.
+Onboarding_PressCharges_Description_01,,"Let me be clear: what happens in my inn stays in my inn. People need somewhere they can speak freely, make fools of themselves, and return the next day without discovering that half the town knows about it."
+Onboarding_PressCharges_Description_02,,"But you found this elsewhere, so it is no concern of mine. You may sell the evidence, use it for blackmail, or take it before the court. If you want the law involved, press charges."
+Onboarding_PressCharges_Description_03,,"What you do after that is between you, your conscience, and whoever pays best."
+Onboarding_PrivateTimeAndHeirs_Description_00,,"Oh, there you are! Come, you must meet the family before one of them wanders off."
+Onboarding_PrivateTimeAndHeirs_Description_01,,"This is Jan, Willem, Pieter, Margriet, Lijsbeth, Cornelis, Aleid, Geertruid, little Hendrika — and the one hiding beneath the table is Adriaan. Unless that is Pieter. No, Pieter is eating the cheese."
+Onboarding_PrivateTimeAndHeirs_Description_02,,"Ah, my little blessings."
+Onboarding_PrivateTimeAndHeirs_Description_03,,"A business may fill your purse, and a title may raise your standing, but an heir gives all that work somewhere to go. Someone to carry the family name, inherit what you have built, and perhaps improve upon it."
+Onboarding_PrivateTimeAndHeirs_Description_04,,You should think about starting a family of your own. A little private time with your spouse is often where such things begin.
+Onboarding_ProfessionTraining_Description_00,,"My family had produced priests for generations, and they had every intention of producing one more. I had other plans, though I did not know what they were yet."
+Onboarding_ProfessionTraining_Description_01,,"So I left home and travelled through Bohemia. Somewhere along the way, I discovered brewing. Shortly after that, I discovered the woman who would become my wife. One proved far more patient with me than the other."
+Onboarding_ProfessionTraining_Description_02,,"Loving a trade, however, does not make it yours. Before I could keep an inn, I had to present myself to the Innkeepers' Guild and learn the profession properly."
+Onboarding_ProfessionTraining_Description_03,,"The guilds are the place to go when you wish to take up a new profession. They also offer professional training, which can bring you closer to the rank of master in your trade."
+Onboarding_ProfessionTraining_Description_04,,"Changing one's path is not always easy. Still, I have found it preferable to spending a lifetime walking in the wrong direction."
+Onboarding_Purge_A_Description_00,,"What happened last night? While you slept, the whole city seems to have gone mad, and now no one remembers a thing."
+Onboarding_Purge_A_Description_01,,"Fabian's pilgrim badges were stolen, fires were set, and moustaches were painted on every noble portrait in the town hall."
+Onboarding_Purge_A_Description_02,,Was it some kind of purge? What on earth happened?
+Onboarding_Purge_A_Description_03,,"Evidence is everywhere, and some of your own memories already contain it. The only question is who will make use of it first."
+Onboarding_Purge_A_Name,,The Purge
+Onboarding_Purge_B1_Description_00,,"What has come over everyone? The townsfolk are seized by an itching need to cause trouble, as though a little destruction were necessary to endure another day."
+Onboarding_Purge_B1_Description_01,,"The town crier has announced the Purge. By decree of the highest officials, one day of disorder shall preserve order for all the rest."
+Onboarding_Purge_B1_Description_02,,"Goodwife Gertrud was seen beating the man who trampled her flowers last week. Children are vandalizing buildings, politicians are telling the truth, and Ruprecht, the robber, has somehow got his hands on a very dangerous book."
+Onboarding_Purge_B1_Description_03,,"Today, no one is afraid."
+Onboarding_Purge_B1_Name,,The Purge
+Onboarding_Purge_B2_Description_00,,"Unfortunately, it was all a misunderstanding. The officials have withdrawn the decree and insist that everyone may still be prosecuted for their crimes."
+Onboarding_Purge_B2_Description_01,,There is now an impressive amount of evidence documenting the town's misconduct.
+Onboarding_Purge_B2_Description_02,,The only question is who will take advantage of it first.
+Onboarding_Purge_B2_Name,,The Aftermath
+Onboarding_RepairBuilding_Description_00,,"I was passing by when your building caught my eye. It is wearing in several places, though not enough for most people to notice. That is how damage likes to begin — quietly."
+Onboarding_RepairBuilding_Description_01,,"The mortar is loosening, and one of the cracks has already begun to spread. Leave it much longer, and the repair will become a far larger job."
+Onboarding_RepairBuilding_Description_02,,"Were it mine, I would repair it now. A poorly maintained building affects every part of a business — customer appeal, productivity, sanitation, and safety. Neglect has a way of making itself expensive."
+Onboarding_RepairBuilding_Description_03,,Marta says I worry too much about cracks. Marta works with wood.
+Onboarding_SalaryAndTreatment_Description_00,,"Certain things are told to a priest because they cannot be safely told to a master. I will not say who spoke to me, nor repeat what was said."
+Onboarding_SalaryAndTreatment_Description_01,,"But you should know this: a generous wage does not excuse poor treatment, and kind words do not make up for an empty purse. Your workers care about both how they are paid and how they are treated."
+Onboarding_SalaryAndTreatment_Description_02,,"See to one, and they may tolerate you. See to both, and they may remain loyal."
+Onboarding_SocializeAtInn_Description_00,,Ah! A face I don't know! That does not happen often in my inn. I'm Hendrik Bloudil. You must be the new smith.
+Onboarding_SocializeAtInn_Description_01,,I hope you have a better head for business than the last one. He was too fond of his cups and not fond enough of his accounts.
+Onboarding_SocializeAtInn_Description_02,,"Still, as we say: the inn fills the cup, and the church empties the conscience. Drink tonight, pray tomorrow, and wake as good as new."
+Onboarding_SocializeAtInn_Description_03,,"I admit, I do not follow the second half as faithfully as I once did. In Prague, I heard a preacher speak as though a man's faith should be measured by how he lives, not by how often he crosses a church threshold. I found some sense in that."
+Onboarding_SocializeAtInn_Description_04,,"Even so, you should pay the church a visit. You can hardly claim to know Herle until you have stood beneath its tower."
+Onboarding_StorefrontAndEscort_Description_00,,You will not believe what happened on my way here.
+Onboarding_StorefrontAndEscort_Description_01,,"Robbers ambushed my cart and took an entire cartload of crossbows. Crossbows! So now I have lost a fortune, and the local criminals are considerably better armed."
+Onboarding_StorefrontAndEscort_Description_02,,"I should have hired escorts. I knew that, of course."
+Onboarding_StorefrontAndEscort_Description_03,,"Do be careful inside the walls as well, especially when carrying anything valuable. You can sell goods from your storefront, naturally, but the Marketplace is much faster. Though speed loses some of its charm when your cart never arrives."
+Onboarding_StorefrontAndEscort_Description_04,,"For the moment, I think I shall trust my storefront. I am still one step ahead of those robbers. They will see."
+Onboarding_Title01_Description_00,,A de Rochefort has nothing to discuss with a mere commoner.
+Onboarding_Title01_Description_01,,I value my time. You should learn to value yours.
+Onboarding_Title01_Description_02,,"Claim the title of Burgher, and perhaps then we shall have business together. Until that day, do not waste either."
+Onboarding_UnpauseAndEnter_Description_00,,"God be praised, the smithy has a smith again! You must be the newcomer. Welcome to town. I'm Marta, the town's joiner — and, before you ask, yes, I already have work in mind for you."
+Onboarding_UnpauseAndEnter_Description_01,,"My twin sister, Elsbeth, is the town's mason. You'll likely meet her soon enough. She is something of a collector, though she can be rather particular about what deserves keeping. She asks unusual questions, too, and has an uncanny habit of already knowing half the answer."
+Onboarding_UnpauseAndEnter_Description_02,,"Pay it no mind. Elsbeth may be peculiar company, but she is good company. Between her curiosity and my need for hinges, I doubt we shall leave you lonely for long."
+Onboarding_UnpauseAndEnter_Description_03,,"Still, if you wish to meet more of the town, visit the Inn. Hendrik keeps the place, and he is one of the kindest men you are likely to meet."
+Onboarding_UnpauseAndEnter_Description_04,,"For now, acquaint yourself with your new workshop. I'll give you a little time before I begin arriving with requests."
+OpponentConvicted_Description,,A Dynasty Head has been convicted of a notorious crime. \n\nYou may spend your energy to voice an opinion — or mind your own business. \n\nRemember: the enemy of my enemy is my friend.
+OpponentConvicted_Description_0,,"A Dynasty Head has been convicted of a notorious crime. Shocking, really. They seemed like such a fine citizen: Sunday prayers, taxes paid on time, always ready to help others — well, as long as those others could offer something in return. But then again, God made hierarchy for a reason."
+OpponentConvicted_Description_1,,"Well, it is the talk of the town, and this is your chance to take part. You may spend your energy to voice an opinion or save it for worthier pursuits. "
+OpponentConvicted_Description_2,,"Some people make friends by hating the same person, or you could try to defend them instead — extra points if they can return the favor later."
+OpponentConvicted_Name,,Justice Served
+OpponentConvicted_Option_01,,Speak for
+OpponentConvicted_Option_01_Result_01,,You have befriended someone with a stained reputation. May their friendship prove more useful than their name.
+OpponentConvicted_Option_02,,Speak against
+OpponentConvicted_Option_02_Result_01,,The enemy of my enemy is my friend.
+OpponentConvicted_Option_03,,Ignore
+OpponentConvicted_Option_03_Result_01,,Inane chatter is for those with empty hands.
+OpponentDied_Description,,"Another dynasty head has passed away this year. \n\nYou may seize the opportunity to offer condolences — and a sum of money — to the new heir. \n\nIn showing respect, you may also find a stronger ally in the next generation."
+OpponentDied_Description_0,,The bells announce the death of a Dynasty Head.
+OpponentDied_Description_1,,"Rumor says there will be a grand procession to the church, with heraldry, priests, candles, and enough solemn dignity to bankrupt a smaller household. Naturally, it is not only a funeral. It is a declaration. The old head may be gone, but the dynasty, in case anyone was wondering, remains terribly alive."
+OpponentDied_Description_2,,"The chapel will be packed with family, servants, and mourners. Even the poor may try to squeeze inside for a glimpse of grief dressed in its finest clothes."
+OpponentDied_Description_3,,"Still, beneath all the velvet and candlelight, the family stands at a delicate hour. Becoming the heir is one thing; being accepted and respected by the other families is another."
+OpponentDied_Description_4,,"Show respect at the right moment, and you may find a stronger ally in the next generation."
+OpponentDied_Name,,A Dynasty in Mourning
+OpponentDied_Option_01,,"You offer a generous funeral gift and pay your respects to the new heir. Grief is costly, but gratitude can be worth more than coin."
+OpponentDied_Option_01_Result_01,,Pay Respects
+OpponentDied_Option_02,,Ignore
+OpponentDied_Option_02_Result_01,,tbd
+OpponentElected_Description,,"A dynasty head has been elected to an office. \n\nYou may spend your energy to voice your thoughts — or keep your envy to yourself.\n\nSpeak, and you might find more than a few who agree with you."
+OpponentElected_Description_0,,A dynasty head has been elected to office.
+OpponentElected_Description_1,,You may spend your energy to voice your thoughts — or keep your envy to yourself.
+OpponentElected_Description_2,,"Speak, and you might find more than a few who agree with you."
+OpponentElected_Name,,An Office Position Claimed
+OpponentElected_Option_01,,Praise
+OpponentElected_Option_02,,Criticize
+OpponentElected_Option_03,,Ignore
+OpponentHadChild_Description,,A child has been born into another dynasty. They will surely expect a word or gesture from you.
+OpponentHadChild_Name,,Born to Another House
+OpponentHadChild_Option_01,,Congratulate
+OpponentHadChild_Option_02,,Send a gift
+OpponentHadChild_Option_03,,Ignore though it may strain relations
+OpponentMarried_Description,,A marriage has been celebrated in another dynasty. They will surely expect a word or gesture from you.
+OpponentMarried_Name,,A Match in Another House
+OpponentMarried_Option_01,,Congratulate
+OpponentMarried_Option_02,,Send a gift
+OpponentMarried_Option_03,,Ignore and it may strain relations
+OrphanFound_Description_0,,"You come across a small orphaned child, born to a humble worker. With no soul left to care, they are at the mercy of strangers. Some give food, some merely a dismissive look. And you?"
+OrphanFound_Description_1,,"Consider how grateful this poor orphan would be to take your name and follow in your footsteps. Perhaps even more grateful than children born of your own body. Then again, you know nothing about this child."
+OrphanFound_Description_2,,Consider also how other members of your family may see such an addition. And consider the judgement of noblemen and other high-class citizens whose favor you seek.
+OrphanFound_Name,,Lost and Alone
+OrphanFound_Option_Adopt,,Adopt the child
+OrphanFound_Option_Adopt_Result_Instigator,,"You extend your hand and the child's eyes widen as understanding sets in. This bold move will strengthen your dynasty, though some may raise concerns about inheritance when the time comes."
+OrphanFound_Option_DoNothing,,Turn away
+OrphanFound_Option_DoNothing_Result_Instigator,,"You pass the child by and mind your own business. You are not to blame for everyone's misfortunes, and you are not responsible for fixing them. Sad but true."
+OrphanFound_Option_Help,,Offer help
+OrphanFound_Option_Help_Result_Instigator,,"You hand out what you feel is appropriate. The child seems a bit disappointed, but surely something is better than nothing. Your generosity is appreciated by the downtrodden."
+Preacher_Description_0,,"Even kings bow to the church, as the church speaks with the authority of God. However, it is no secret that some eminent {O_CHA_CHUAUT_C}church authorities{##} use this situation as an opportunity to further their own interests."
+Preacher_Description_1,,"A new preacher has arrived in our city. Pious citizens who have heard him speak have nothing but respect for this person, whereas more secular citizens remain skeptical."
+Preacher_Description_2,,"If you aspire to some day rise among the clerical ranks, go search the city streets for this preacher and engage in theological debate. Hopefully, that will steer public opinion towards your views."
+Preacher_Name,,A Church Emissary in Our City
+PurseFound_Description,,"You find a half-open purse lying suspiciously in the middle of the street, heavy with coin.\n\nNo one is around.\n\nYou remember last week when Hans was caught in the same situation, except it was a scam, and thugs came out of nowhere to beat him. \n\nBut perhaps today is truly your lucky day."
+PurseFound_Description_0,,"You find a half-open purse lying suspiciously in the middle of the street, heavy with coin."
+PurseFound_Description_1,,No one is around.
+PurseFound_Description_2,,"You remember last week when Hans was caught in the same situation, except it was a scam, and thugs came out of nowhere to beat him. "
+PurseFound_Description_3,,But perhaps today is truly your lucky day.
+PurseFound_Name,,Too Good to Be True
+PurseFound_Option_01,,Grab it
+PurseFound_Option_01_Result_01,,The purse is heavy with coin.
+PurseFound_Option_01_Result_02,,A circle of rough men stepped out of the dark. What felt like fortune was nothing but a trap.
+PurseFound_Option_02,,Ignore it
+PurseFound_Option_02_Result_01,,Not every coin is worth the effort.
+RelicAcquisition_Description_0,,"A weary pilgrim collapses near your house. Between ragged breaths, he whispers that he has carried a holy relic across half of Christendom to deliver it to a monastery far away."
+RelicAcquisition_Description_1,,"Bandits pursue him, he claims, and he fears the relic will be lost before reaching its destination, which would greatly anger the Almighty."
+RelicAcquisition_Description_2,,"Before giving his last breath, he begs you to help safeguard the relic, and, if it is in your power, deliver it to its fated location."
+RelicAcquisition_Name,,The Pilgrim's Dying Wish
+RelicAcquisition_Option_Deliver,,Deliver the relic
+RelicAcquisition_Option_Deliver_Result_Instigator,,Your piousness got the best of you.
+RelicAcquisition_Option_Deliver_Result_Target,,A pious soul found a holy relic and delivered it to a monastery. A miracle!
+RelicAcquisition_Option_Keep,,Keep the relic
+RelicAcquisition_Option_Keep_Result_Instigator,,Your eccentricity got the best of you.
+RelicAcquisition_Option_Keep_Result_Target,,Some heretic found a holy relic and kept it. Blasphemy!
+RelicAcquisition_Option_Sell,,Sell the relic
+RelicAcquisition_Option_Sell_Result_Instigator,,Your greed got the best of you.
+RelicAcquisition_Option_Sell_Result_Target,,Some ignoramus found a holy relic and sold it. A shame!
+RelicDiscovery_Description_0,,"A loose wooden board moves under your foot. Beneath it, tucked into a shallow hollow, lies a metal box wrapped in rotting cloth."
+RelicDiscovery_Description_1,,"Oh? Hidden treasure? Coin, perhaps?"
+RelicDiscovery_Description_2,,"You brush away the dust and uncover a reliquary, marked with a cross."
+RelicDiscovery_Description_3,,Ah. Religious.
+RelicDiscovery_Description_4,,You hesitate.
+RelicDiscovery_Description_5,,"...Religious things aren't cursed, are they?"
+RelicDiscovery_Description_6,,Probably not.
+RelicDiscovery_Name,,The Forgotten Relic
+RelicDiscovery_Option_Keep,,Keep the Relic
+RelicDiscovery_Option_Keep_Result_Instigator,,"You keep the reliquary for yourself. Saint, fraud, or curiosity—whatever it is, it belongs to you now."
+RelicDiscovery_Option_LeaveIt,,Admire It But Leave It Where It Belongs
+RelicDiscovery_Option_LeaveIt_Result_Instigator,,Some things survive for centuries precisely because no one meddles with them. You put the relic back in its hiding place.
+RelicDiscovery_Option_Sell,,Find It a New Home
+RelicDiscovery_Option_Sell_Result_Instigator,,"You offer the relic to the Church, and the reaction is immediate: astonishment, prayers, excitement. A relic thought lost has been found again. God works in mysterious ways—it seems to have found its way home, whether anyone involved intended it or not."
+RelicDiscovery_Option_Sell_Result_Target,,A lost holy relic has been returned to the Church. Some are already calling it a miracle—and its retriever must surely have been guided by God.
+RelicDreams_Description_0,,It's the seventh night in a row that you wake drenched in sweat. Another crazy dream.
+RelicDreams_Description_1,,"As you grasp at the fading pieces, a few images remain: grapes, a stag, and… the relic. That relic again!"
+RelicDreams_Description_2,,"You get up and go to where you left it. It's still there, exactly as before. What will you do with it?"
+RelicDreams_Name,,The Relic Calls
+RelicDreams_Option_ForgetIt,,Seal It Forever and Never Look Back
+RelicDreams_Option_ForgetIt_Result_Instigator,,You seal the relic for good. The dreams stop. You hid it so seamlessly that even you could not find it again without tearing the whole place apart.
+RelicDreams_Option_Keep,,Keep It
+RelicDreams_Option_Keep_Result_Instigator,,"You tried not to meddle, but perhaps this was fate. That relic wanted to be found—and it chose you."
+Riot_Description_0,,"Rabbles of grumbling citizens are rioting in the streets, and they can't even agree on their demands. Have our esteemed officials truly been so blind to the {QUA_UNR_C}unrest{##} troubling our fair city?"
+Riot_Description_1,,"Due to the violence, all buildings in the affected {C_QUA_C}city quarter{##} have been damaged:"
+Riot_Description_2,,"If the buildings are not repaired, they will become unsafe, increasing the chance of work accidents and overall {QUA_DEV_C}devastation{##} in the area. Our city's {QUA_REP_C}reputation{##} will drop and the empire will hesitate to fill the city treasury, which will only make things worse."
+Riot_Name,,Pitchforks and Torches
+RobberStoleYourPurse_Description,,"In the busy street, a nimble hand slipped your coin purse off your waist. By the time you noticed, the thief was already weaving into the crowd."
+RobberStoleYourPurse_Name,,The Cutpurse
+RobberStoleYourPurse_Option_01,,Try to reclaim your money
+RobberStoleYourPurse_Option_01_Result_01,,"At the last moment you seized his sleeve. He tore free, leaving your purse — and every coin — behind."
+RobberStoleYourPurse_Option_02,,Do nothing
+RobberStoleYourPurse_Option_02_Result_01,,The thief vanished into the crowd with your money.
+SabotageVictim_Description,,"That will be costly! Someone has despoiled your premises, as if trying to ruin it outright.\n\n…If only the guild offered vandalism insurance."
+SabotageVictim_Name,,Sabotaged!
+SabotageVictim_Option_01,,Accept the losses
+ShadyCharacter_Description_0,,"The city guards were overheard joking about some suspicious fellows hanging around the city, looking like the saddest criminals in history."
+ShadyCharacter_Description_1,,"Perhaps the guards are too quick to judge. What if these shady-looking fellows are not criminals, but simply businessmen with loose morals and unusual offers?"
+ShadyCharacter_Description_2,,"If you seek them out, you may discover interesting opportunities."
+ShadyCharacter_Name,,Everything Is Worth Something to Someone
+StrangeItemFound_Description_0,,"In your wanderings about the city outskirts, you spot a green stone with strange rings. Its rare beauty is mesmerising."
+StrangeItemFound_Description_1,,"Surely, owning such a precious stone will make you and your dynasty the envy of the entire city."
+StrangeItemFound_Description_2,,"Then again, something inside you wonders if it could be dangerous. Perhaps donating it will bring other gains."
+StrangeItemFound_Name,,The Greenstone
+StrangeItemFound_Option_DonateChurch,,Donate it to the church
+StrangeItemFound_Option_DonateChurch_Result_Instigator,,Your piousness got the best of you. The members of the {O_CHA_CHUAUT_C}Church Authority{##} are pleased.
+StrangeItemFound_Option_DonateChurch_Result_Target,,A pious soul has donated a precious stone of rare beauty to our church. Blessed be!
+StrangeItemFound_Option_DonateCity,,Donate it to the city
+StrangeItemFound_Option_DonateCity_Result_Instigator,,Your civic duty got the best of you. The members of the {O_CHA_TOWCOU_C}Town Council{##} are pleased.
+StrangeItemFound_Option_DonateCity_Result_Target,,An upstanding citizen has donated a precious stone of rare beauty to our city. We shall be the envy of the Empire!
+StrangeItemFound_Option_Keep,,Keep it
+StrangeItemFound_Option_Keep_Result_Instigator,,"Your kin gathered to marvel, calling it a blessing. Yet with time you grew pale and weary, as though its beauty carried a hidden cost."
+StrangeItemFound_Option_Keep_Result_Target,,One of your kin has found a precious stone of rare beauty. Your dynasty's {CHAR_REN_C}renown{##} has surely increased.
+StrangeVegetable_Description,,"You notice a fruit unlike any other for sale. The merchant calls it rare, yet no one dares touch it. \n\nTry it! Fruits are healthy… right? It could restore your energy — or leave you with food poisoning."
+StrangeVegetable_Name,,The Forbidden Fruit
+StrangeVegetable_Option_01,,Taste it
+StrangeVegetable_Option_01_Result_01,,"A burning twist grips your stomach, and the taste turns to bile."
+StrangeVegetable_Option_01_Result_02,,"The taste was strange, but it left you feeling younger, stronger, alive."
+StrangeVegetable_Option_02,,Steal it and risk angering the Town Bailiffs
+StrangeVegetable_Option_02_Result_01,,The merchant caught you in the act but let you go with a warning.
+StrangeVegetable_Option_02_Result_02,,"You slipped away with the fruit. Whether it was the taste or the thrill, you felt younger, alive."
+StrangeVegetable_Option_03,,Ignore it
+StrangeVegetable_Option_03_Result_01,,The fruit stayed where it was.
+StreetBrawl_Description_0,,"What began as boasting and shouting in the tavern ended as a drunken brawl in the city streets, all shaky punches and sloppy slashes."
+StreetBrawl_Description_1,,Some {CHAR_CITVSWOR_C}workers{##} were caught up in the fighting:
+StreetBrawl_Description_2,,"The {CHAR_PRO_C}productivity{##} of workers who got {ST_CHR_KNODOW_C}tired{##} or {ST_INJ_C}hurt{##} is sure to plummet, as is the profitability of their employers. No need to worry though, as surely you've employed only upstanding members of society's lower ranks."
+StreetBrawl_Name,,Ale and Anger
+StreetBrawl_Result_01,,"Some workers were caught up in the fighting, leaving them tired and hurt."
+SuppliesSpoiled_Description,,"The city granary was found spoiled from end to end, every sack ruined. Not a kernel spared for bread or porridge."
+SuppliesSpoiled_Name,,The Last Supper
+SuppliesSpoiled_Result_01,,"Prices climb, and the town must endure lean days ahead."
+SupportLetter_Description,,"Ah, coin and kind words — not a bad surprise at all.\n\nSomeone decided to extend a hand to you by sending a courier with a supportive letter and a substantial amount of money!\n\nGood to be remembered… and better still to be supported."
+SupportLetter_Description_0,,"Ah, coin and kind words — not a bad surprise at all."
+SupportLetter_Description_1,,Someone decided to extend a hand to you by sending a courier with a supportive letter and a substantial amount of money!
+SupportLetter_Description_2,,Good to be remembered… and better still to be supported.
+SupportLetter_Name,,A Hand Extended
+SupportLetter_Option_01,,Accept gift
+ThugsVandalizingYourHouse_Description,,"On your way back, you found your own door defaced. Crude signs and shameful words were smeared across the walls, left by thugs who had already fled."
+ThugsVandalizingYourHouse_Name,,Redecoration
+ThugsVandalizingYourHouse_Option_01,,Seek revenge
+ThugsVandalizingYourHouse_Option_01_Result_01,,TBD
+ThugsVandalizingYourHouse_Option_02,,Do nothing
+ThugsVandalizingYourHouse_Option_02_Result_01,,"The marks stayed on your walls, and the sight lowered respect in the eyes of those around you."
+TreasureFound_Description,,"You stumble upon hidden treasure — a stroke of luck! \n\nKeep it to enrich your dynasty, or donate it to earn respect from poor workers or city officials."
+TreasureFound_Description_0,,You stumble upon hidden treasure — a stroke of luck! 
+TreasureFound_Description_1,,"Keep it to enrich your dynasty, or donate it to earn respect from poor workers or city officials."
+TreasureFound_Name,,Your Lucky Day
+TreasureFound_Option_01,,Donate to the city
+TreasureFound_Option_01_Result_01,,TBD
+TreasureFound_Option_02,,Donate to the poor
+TreasureFound_Option_02_Result_01,,workers are impressed by your generosity
+TreasureFound_Option_03,,Keep it
+TreasureFound_Option_03_Result_01,,TBD
+TutorialBusiness_Description_0,,"Welcome to our beautiful city! A person of your {P_C}Profession{##} will find no shortage of opportunities here. Do it well to earn {CHAR_MON_C}Money{##}, professional {P_MASGRA_C}Mastery{##}, {CHAR_WEA_C}Wealth{##}, and {CHAR_REN_C}Renown{##}, so you can climb the {T_C}ranks of society{##}."
+TutorialBusiness_Description_1,,Assign your {CHAR_CITVSWOR_C}Workers{##} to {A_ACT_CRA_C}craft{##} products from various materials that you purchase or gather. Hire more workers as needed and watch their {CHAR_ENE_C}Energy{##} — it affects {CHAR_PRO_C}Productivity{##}.
+TutorialBusiness_Description_2,,"{A_OVEPRO_C}Oversee Work{##} to motivate your employees to work faster. If their {CHAR_STA_C}Opinion{##} of you is too low, they may leave; if overworked, they will be prone to {B_PARAM_ACCPRO_ACC}Accidents{##}."
+TutorialBusiness_Description_3,,"Visit a {B_GUILD_C}Guild House{##} if you'd like to expedite your {A_TRAPRO_C}training{##} or unlock a new profession. You can then switch between {A_ACTPRO_C}active professions{##}, mixing business with pleasure as you see fit."
+TutorialBusiness_Description_4,,"The {B_HP_C}Integrity{##} of a building affects {B_PARAM_ACCPRO_C}safety{##} and {B_PARAM_PROBON_C}productivity{##}, so don't skimp out on repairs. Rooms and Improvements in your building help your business and unlock {A_ACT_C}tasks for your workers{##}, as well as new actions for you or your clients."
+TutorialBusiness_Description_5,,"Sell your products to turn a profit. Move them from your {B_STOROO_C}Storeroom{##} to your {B_STOFRO_C}Storefront{##}, or load them in {CAR_C}Carts{##} and send them to the {B_PUB_MKT_C}Marketplace{##}. Repair your carts or buy carts with more slots, better integrity, and more speed."
+TutorialBusiness_Description_6,,"Before sending out a cart, consider {A_HIRESC_C}hiring an escort{##} to defend against waylaying bandits. However, even strong escorts won't fend off all attacks if your carts carry very tempting riches, especially if some corrupt city official {CR_CRI_C}decriminalizes{##} such activities."
+TutorialBusiness_Name,,Running Your Business
+TutorialCrime_Description_0,,"City {L_LAW_C}Laws{##} affect how you conduct business and interact with {CHAR_CITVSWOR_C}Citizens{##}. The Lawbook indicates which actions are considered {CR_CRI_C}Crimes{##} under current laws, though we all know that laws can be bent."
+TutorialCrime_Description_1,,"From petty crimes to despicable acts, you can be sure that your political opponents are doing it. {A_SPY_C}Spy{##} on them often or trade for {CR_EVI_C}Evidence{##} that you can use to {A_PRECHA_C}press charges{##} or gain leverage."
+TutorialCrime_Description_2,,"If you are accused of a crime, real or fabricated, your fate will be decided by {CR_TRI_C}Trial{##}, so try to ensure that the members of the {CR_TRI_JUR_C}Jury{##} have a good {CHAR_STA_C}Opinion{##} of you. If the carrot doesn't work, try the stick."
+TutorialCrime_Description_3,,"When found guilty, you will be punished according to the {CR_SEV_C}Severity{##} of your crime. You may be forced to pay a hefty fine, but you may also get {ST_CHR_IMP_C}imprisoned{##} or even sentenced to death. Hard to say which of these would bring more shame to your good name."
+TutorialCrime_Description_4,,"Then again, people who say that crime doesn't pay are probably just not very {S_STE_C}skilled{##} at it. Sometimes, one's livelihood depends on being a successful criminal. And since politics and crime have always gone hand in hand, why not apply for an office position that can decriminalize your favorite activity?"
+TutorialCrime_Name,,Obeying the Law
+TutorialEconomy_Description_Buy,,"If looking to buy, the {B_PUB_MKT_C}marketplace{##} may provide the widest range of offers, but it's often best to purchase {I_TYP_RAWMAT_C}raw materials{##} from {B_TYP_EXTFAC_C}Resource Sites{##}on the city outskirts, and artisanal goods and {I_TYP_INTPRO_C}intermediate wares{##} from the {B_STOFRO_C}storefronts{##} of other businesses."
+TutorialEconomy_Description_Items,,"Regardless of your craft, you will have to manage many types of goods. You can only use or equip items placed in your personal inventory, but beware that such {I_TYP_INVITE_C}items{##} cannot be moved or sold, though they can be discarded or given to others."
+TutorialEconomy_Description_Prices,,"The price and availability of goods are affected by the balance of supply and demand, as well as by seasons, city {L_LAW_C}laws{##}, and even world events such as wars. If you are looking for truly special items, keep an eye out for time-limited events such as fairs or visiting merchants."
+TutorialEconomy_Description_Sell,,"If looking to sell, sooner or later someone at the marketplace typically pays good money for your wares, unless prohibited by law. You can also sell your wares from your storefront, where you can earn a premium for {B_PARAM_ATT_C}good service{##}, scarce goods, and contraband."
+TutorialEconomy_Description_Taxes_0,,"Always remember: the only certainties in life are death and taxes, and death only comes once. Taxes come, or rather go, at the end of every year. If you can't pay, you better hope that you can make up for it while {ST_CHR_IMP_C}imprisoned{##}."
+TutorialEconomy_Description_Taxes_1,,"Check your end-of-year balance for {L_SALTAX_C}sales tax{##}, church tithe, inheritance tax, and other law-mandated benefits of city dwelling. No excuses, no exceptions. If you don't like it, get into {O_TYP_CIVOFF_C}politics{##} and change it."
+TutorialEconomy_Name,,Economy
+TutorialFamily_Description_0,,"To ensure that your {CHAR_DYN_C}Dynasty{##} can endure after you die, you must build a family, which means finding a spouse and producing offspring worthy of carrying your {T_C}title{##} and taking over your {P_C}business{##}."
+TutorialFamily_Description_1,,"{CHAR_COU_C}Start courting{##} the most suitable candidate based on their age, {CHAR_HP_C}Health{##}, {CHAR_WEA_C}Wealth{##}, {S_C}Skills{##}, and other desirable characteristics. {A_SENGIF_C}Send gifts{##} to your love interest and {A_SWETAL_C}sweet-talk{##} them into getting engaged with you sooner, or you might lose out to more persuasive suitors."
+TutorialFamily_Description_2,,"The wedding ceremony will take place the {C_TRN_C}turn{##} following your successful engagement. Thereafter, children may be born to you depending on your {CHAR_FER_C}fertility{##}, your {A_PRITIM_C}marital efforts{##}, and focus diverted to {A_SPOHEL_C}other engagements{##}. Perhaps consider adopting an orphan or two, just to be sure."
+TutorialFamily_Description_3,,"To avoid losing your empire upon your untimely death, your spouse and later your eldest adult child, meaning aged at least {heir_min_age} years, will be set to inherit your fortune. You can always {A_CHOHEI_C}name a different heir{##} from among eligible family members, if only to keep them on their toes."
+TutorialFamily_Description_4,,"Don't forget to invest in your chosen {CHAR_HEI_C}heir{##}, to make sure that they are indeed ready to perform their duties and will not bring shame and ruin to your dynasty when the time comes for you to pass the mantle, willingly or otherwise. Start {A_TRACHI_C}training{##} your first born early, as you never know how much time you have left."
+TutorialFamily_Name,,Growing Your Dynasty
+TutorialGoToHerleTutorial_Description_0,,"The city officials recommend that all newcomers direct their first efforts to establishing a business in Herle before moving to the big city and becoming entangled in the many demands of business, influence, and personal affairs."
+TutorialGoToHerleTutorial_Description_1,,"Herle offers more than an introduction to the controls. You will receive useful advice on how the game's systems work, along with goals to guide you. And you are still free to pursue them however you wish or ignore them entirely."
+TutorialGoToHerleTutorial_Description_2,,"And, between us, Herle is a rather charming town. You may even come to prefer it to this one."
+TutorialGoToHerleTutorial_Description_3,,"But should you wish to go into politics and intrigue without learning the ropes, the choice is yours. You will find everything you need in the City Archives."
+TutorialGoToHerleTutorial_Description_4,,May your trade prosper!
+TutorialGoToHerleTutorial_Description_5,,tbd
+TutorialGoToHerleTutorial_Name,,New to Europa 1410?\nBegin with the tutorial in Herle!
+TutorialOffice_Description_0,,"{O_TYP_CIVOFF_C}Political offices{##} can grant incredible power to drive the city's development, as well as unofficial perks afforded by the natural desire of citizens to seek the good graces of city officials."
+TutorialOffice_Description_1,,"Understandably, regular people with no notable {CHAR_WEA_C}Wealth{##} or {T_C}Title{##} are ineligible for such honor. Once you amass sufficient wealth, go to the {B_PUB_TOWHAL_C}Town Hall{##} and apply for the title of {T_FULCIT_C}Burgher{##}; then, apply for an open position in any low-level office such as {O_CHA_TOWSER_C}Town Servant{##}."
+TutorialOffice_Description_2,,"Every application is judged by certain appointers, who can be swayed. As you wait for the {O_ELE_C}elections{##}, try to improve your {S_RHE_C}Rhetoric skill{##} and use Actions and Items to boost the appointers' {CHAR_STA_C}Opinion{##} of you, as well as to {A_BLANAM_C}undermine{##} your competitors."
+TutorialOffice_Description_3,,"While in office, you receive a hefty salary and can use the city treasury to improve the city {C_DIS_C}Districts{##} and {C_QUA_C}Quarters{##}."
+TutorialOffice_Description_4,,"You may also change {L_LAW_C}laws{##}, especially those regulating which behaviors are {CR_CRI_C}criminalized{##} and how severely the perpetrators should be punished. After all, reading the wrong books can often be more damaging than robbing carts, which helps with distributing wealth more equally across our fair city."
+TutorialOffice_Name,,Success in Politics
+TutorialUX_Description_0,,"No problem! We know that our game can be a bit much, so we've prepared a few tips to get you around the most common hurdles."
+TutorialUX_Description_1,,Try hovering over {TUT_TOO_1_C}highlighted text{##} or any icon to reveal a tooltip that provides detailed information.
+TutorialUX_Description_10,,Left-click an item icon to pick up one unit. Keep clicking with a pause between clicks to add more units one at a time.
+TutorialUX_Description_11,,Double-click to pick up the entire stack at once.
+TutorialUX_Description_12,,"Alternatively, click and hold, then drag left or right to select the exact amount on a slider."
+TutorialUX_Description_2,,Lock the tooltip in place by pressing the middle mouse button.
+TutorialUX_Description_3,,"Locked tooltips are interactive, so hover over highlighted terms or icons to open additional tooltips and dive deeper into game mechanics."
+TutorialUX_Description_4,,Dismiss all locked tooltips by pressing the left mouse button (left click).
+TutorialUX_Description_5,,"Left-click an item icon to pick up that item. There is no need to hold, as the item attaches to your cursor and can be moved freely."
+TutorialUX_Description_6,,"Left-click again to place the item in the desired inventory, or to trade it at the marketplace."
+TutorialUX_Description_7,,"The same when managing your business: left-click to select a worker from the resting bench, then left-click again to assign them to a task; or left-click to select a worker from a task, then left-click on the resting bench to unassign them and thus allow them to rest."
+TutorialUX_Description_8,,"If needed, right-click to cancel the operation, and the item or worker will be returned to the original location."
+TutorialUX_Description_9,,"Items can be stacked, so you can pick up as many or as few as needed."
+TutorialUX_Name_0,,First Time?
+TutorialUX_Name_1,,"Click-to-Pick, Click-to-Place"
+TutorialUX_Name_2,,Picking Up Multiple Units
+TutorialUX_NestedTooltip_1,,"Good. Now click the middle mouse button to lock this tooltip, and then hover over this {TUT_TOO_2_C}highlighted text{##}."
+TutorialUX_NestedTooltip_2,,That's it. Our game holds no more secrets for you. Go play!
+UnderWaylayingAttack_Description_0,,"Some lowlifes have decided that they can lay claim to the fruit of your hard labor, so they have waylaid your cart."
+UnderWaylayingAttack_Description_1,,"Sadly, the {P_GUA_C}guards{##} aren't what they used to be, so you should always consider {A_HIRESC_C}hiring an escort{##} for your cart if you are transporting valuable goods."
+UnderWaylayingAttack_Description_1_WithEscort,,"Sadly, the {P_GUA_C}guards{##} aren't what they used to be, so {A_HIRESC_C}hiring an escort{##} for your cart was a fortunate decision, as you are transporting valuable goods."
+UnderWaylayingAttack_Description_1_WithoutEscort,,"Sadly, the {P_GUA_C}guards{##} aren't what they used to be, and you did not {A_HIRESC_C}hire an escort{##} to protect the valuable goods you are transporting, so you find yourself in a dilemma."
+UnderWaylayingAttack_Description_2,,"If you haven't invested in an escort, you can try to negotiate your way out of it and save part of your goods. But if you've spent your money's worth on defenders, let them fight it out."
+UnderWaylayingAttack_Description_2_WithEscort,,"You could try to negotiate your way out of it and save part of your goods. But if you've spent your money's worth on defenders, let them fight it out."
+UnderWaylayingAttack_Description_2_WithoutEscort,,"You could try to quietly negotiate your way out of it and save part of your goods, or denounce this heinous act publicly and lose all your goods but gain evidence against the perpetrator."
+UnderWaylayingAttack_Description_3,,"As the waylaying of carts is generally frowned upon and often illegal, you may obtain {CR_EVI_C}evidence{##}. You could {A_SPY_C}spy{##} on the perpetrator, convince witnesses to speak up, or just {A_SNI_C}spread the rumor{##} yourself."
+UnderWaylayingAttack_Name,,Your Cart Has Been Intercepted
+UnderWaylayingAttack_Option_FightBack,,Fight!
+UnderWaylayingAttack_Option_FightBack_Outcome_Instigator,,You've chosen to fight to defend your cart and goods. Better be worth it.
+UnderWaylayingAttack_Option_FightBack_Outcome_Targets,,The poor fellow whose cart you're trying to rob has decided to fight back. Your goons better be prepared.
+UnderWaylayingAttack_Option_Flight,,Pay robbers
+UnderWaylayingAttack_Option_Flight_Outcome_Instigator,,You've spent some money but got away with your life and goods.
+UnderWaylayingAttack_Option_Flight_Outcome_Targets,,The goons you've hired to attack a cart have turned up empty handed. Are you sure they're not scamming you?
+UnderWaylayingAttack_Option_SurrenderGoods,,Negotiate
+UnderWaylayingAttack_Option_SurrenderGoods_Outcome_Instigator,,"You've lost the contents of your cart, however much or little that may have been."
+UnderWaylayingAttack_Option_SurrenderGoods_Outcome_Targets,,The goons you've hired to attack a cart have sold the plunder and returned the profits to you.
+UnderWaylayingAttackNoEscort_Option_Denounce,,Denounce
+UnderWaylayingAttackNoEscort_Option_Denounce_Outcome_Instigator,,But it was not in vain. Justice shall come for all.
+UnderWaylayingAttackNoEscort_Option_SurrenderGoods_Outcome_Instigator,,Better to lose some than to lose it all. And no one got hurt. You find yourself approving of robberies conducted in such a civil manner.
+WaylayingIntercepted_Description_0,,"Your henchmen have managed to waylay the cart of an unsuspecting business owner. Hopefully, the cart is not {A_HIRESC_C}escorted{##} by capable defenders who would give trouble to your well trained thugs."
+WaylayingIntercepted_Description_1,,"If, by some divine revelation, you decide not to attack this cart, your restraint should be respected. Still, the criminal world is a competitive one: if you do not rob it, some other less spiritually conflicted lowlife probably will."
+WaylayingIntercepted_Description_2,,"Would you like to proceed with the attack, or would you rather be merciful?"
+WaylayingIntercepted_Name,,You Have Intercepted a Cart
+WaylayingIntercepted_Option_Attack,,Attack the cart. Robbers gonna rob.
+WaylayingIntercepted_Option_Attack_Outcome_Instigator,,"You've chosen to attack the waylaid cart. Your henchmen better be well trained, well rested, and well equipped."
+WaylayingIntercepted_Option_Attack_Outcome_Targets,,Some lowlifes are attacking your cart in an attempt to make off with your goods. Have you {A_HIRESC_C}hired an escort{##}?
+WaylayingIntercepted_Option_LetPass,,"Let the cart pass for now. Sometimes, less is more."
+WaylayingIntercepted_Option_LetPass_Outcome_Instigator,,You've decided to not attack the waylaid cart. Very forward-thinking of you.
+WaylayingIntercepted_Option_LetPass_Outcome_Targets,,Some goons had waylaid your cart but in the end decided to just let it go. Someone must be looking out for you.
+WorkerAccident_Description_0,,"One of your workers has collapsed. As they are no longer at their post, production is stalling."
+WorkerAccident_Description_1,,Was it misfortune made worse by abusive working conditions and lack of {B_PARAM_ACCPRO_C}accident protection{##} at the workplace? Or perhaps the tasks have been so enjoyable that the worker simply forgot to take rest?
+WorkerAccident_Description_2,,"Either way, what is to be done? Even if you help them, they will still need to rest before they can be productive."
+WorkerAccident_Name,,Exhaustion Plagues Your Business
+WorkerAccident_Option_01,,Cover medical costs
+WorkerAccident_Option_01_Result_Instigator,,"Your kind gesture is highly appreciated. Hopefully, this also means your workers will be more dedicated."
+WorkerAccident_Option_02,,Punish the worker
+WorkerAccident_Option_02_Result_Instigator,,"Your harsh treatment is received with gasps of outrage, but everyone quickly goes back to their workstations."
+WorkerAccident_Option_03_Result_Instigator,,Your workers' faces are blank as they put their heads down and return to their workstations.
+WorkerDeath_Description_0,,"Unfortunately, one of your workers has passed away."
+WorkerDeath_Description_1,,"It remains unclear how long it takes for the body to stop working after death, but tasks still need to be done."
+WorkerDeath_Description_2,,"A funeral may drain your coin and your workers' energy, but all will know you cared."
+WorkerDeath_Name,,Even Death Visits Your Business
+WorkerDeath_Option_Mourn,,Arrange funeral
+WorkerDeath_Option_Mourn_Result_Instigator,,Your empathy and generosity stir nothing but admiration among your workers.
+WreckedCaravan_Description_0,,You hear whispers that a rich merchant's caravan met with misfortune while passing through our city. The thought of valuables spilling out on the side of the road is unbearable.
+WreckedCaravan_Description_1,,"Rumor has it that the caravan is filled to the brim with gold and extravagant goods, though it may not be for much longer, as many of our fair citizens are likely headed that way to… lend a hand and reduce waste."
+WreckedCaravan_Description_2,,Go search in and around the city for the wrecked caravan and try to salvage what you can. It may be more than you expect.
+WreckedCaravan_Name,,One Man's Misery Could Be Your Fortune
+UnderWaylayingAttackNoEscort_Option_Denounce_Outcome_Targets,,"Unfortunately, they did not take the evidence with them, and now your misdeeds shall be known by all."

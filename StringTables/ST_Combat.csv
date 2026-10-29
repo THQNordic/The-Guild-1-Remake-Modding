@@ -1,137 +1,137 @@
-Key,SourceString,Translation
-AttackCart_Attacker_Defeat_Major_Message,"A disastrous outcome.\nNo goods taken, and two robbers now sit in chains.",
-AttackCart_Attacker_Defeat_Minor_Message,"The robbers achieved nothing.\nWorse, one of them was taken.",
-AttackCart_Attacker_Defeat_Total_Message,"A humiliating disaster.\nThree robbers captured, no goods secured, and the cart's owner rises in popularity — on the back of your failure.",
-AttackCart_Attacker_Draw_Message,Neither side prevails.,
-AttackCart_Attacker_Victory_Major_Message,"It was a hard fight, but the robbers prevailed.\nHalf the goods were looted from the cart.",
-AttackCart_Attacker_Victory_Minor_Message,"The escorts put up a fight, but were ultimately overwhelmed.\nThe robbers escaped with a small portion of the goods.",
-AttackCart_Attacker_Victory_Total_Message,They call themselves escorts?\nThe robbers met no real resistance and looted the cart entirely.,
-AttackCart_Defender_Defeat_Major_Message,"It was a hard fight, but the robbers prevailed.\nHalf the goods were looted from the cart.",
-AttackCart_Defender_Defeat_Minor_Message,"The escorts put up a fight, but were ultimately overwhelmed.\nThe robbers escaped with a small portion of the goods.",
-AttackCart_Defender_Defeat_Total_Message,They call themselves escorts?\nThe robbers met no real resistance and looted the cart entirely.,
-AttackCart_Defender_Draw_Message,Neither side prevails.,
-AttackCart_Defender_Victory_Major_Message,"The escorts held the line.\nNo goods were stolen, and your standing in town improves slightly.",
-AttackCart_Defender_Victory_Minor_Message,"The escorts held the line.\nNo goods were stolen, and your standing in town improves slightly.",
-AttackCart_Defender_Victory_Total_Message,"The robbers were driven off without success.\nNot a single crate was lost, and your popularity rises noticeably across town.",
-AttackCart_Description,Robbers {A_ATKCAR_C}strike{##} a cart — but hired {A_HIRESC_C}escorts{##} stand in their way.,
-AttackCart_DisplayName,Cart Attack,
-Attacker_DisplayName,Attacker,
-Attacker_DisplayName_plural,Cart Attackers,
-Challenger_DisplayName,Challenger,
-Combat_Description,Equip your {I_TYP_COMEQU_C}weapons and armor{##} — a {B_IMP_IMPCOM_C}weapon rack{##} at home may prove useful.,
-Combat_Description_extra1,"Combat unfolds in {CO_ROU_C}rounds{##} and {CO_PHA_C}phases{##}. During rounds, orders adjust {CO_ORD_C}stances{##} to gain advantage on the {CO_SCOBAR_C}Victory Meter{##}.",
-Combat_Description_extra2,"Attacks drain {CHAR_ENE_C}energy{##}, not {CHAR_HP_C}health{##}.\nWhen energy runs out, combatants risk being {ST_CHR_KNODOW_C}knocked down{##}.",
-Combat_Description_extra3,Types of combat:,
-Combat_DisplayName,Combat,
-Combatants_Count,"{NumCombatants} {CO_COM_C}{NumCombatants}|plural(one=combatant,other=combatants){##}",
-CombatEncounter_Description,"Even if you avoid {CO_COM_C}combat{##}, it may still find you. Best to stay prepared.\n{I_TYP_COMEQU_C}Combat equipment{##} endures only a limited number of combat encounters.",
-CombatEncounter_DisplayName,Combat Encounter,
-CombatEquipment_Effect_CombatBonus_Description,Affects the chance to hit a target during {CO_COM_C}combat{##}.,
-CombatEquipment_Effect_CombatBonus_DisplayName,Accuracy,
-CombatEquipment_Effect_CombatBonus_DisplayName_alt,Weapon Accuracy,
-CombatEquipment_Effect_DamageEnergy_Description,{CHAR_ENE_C}Energy{##} taken from the target on hit during {CO_COM_C}combat{##}.,
-CombatEquipment_Effect_DamageEnergy_DisplayName,Damage,
-CombatEquipment_Effect_ProtectionEnergy_Description,Reduces {CHAR_ENE_C}energy{##} damage taken when hit in {CO_COM_C}combat{##}.,
-CombatEquipment_Effect_ProtectionEnergy_DisplayName,Protection,
-CombatEquipment_Effect_Special_PoisonDagger,Continues to deal damage after a hit.,
-CombatEquipment_Effect_Special_ShadowDagger,{S_STE_C}Roguery{##} increases accuracy,
-CombatResult_EndRule_NoUnitsLeft,One side can no longer continue the fight.,
-CombatResult_EndRule_Score,One side has reached the maximum score.,
-CombatResult_EndRule_TimeOut,The time has run out.{CO_TIMOUT_C}*{##},
-CombatResult_EndRule_TimeOut_explanation,"When the time has run out, the side with the higher score wins. If tied, the initiator loses in a duel, and the attacker loses in a cart attack.",
-Defender_DisplayName,Defender,
-Defender_DisplayName_plural,Defenders,
-Duel_Challenger_Defeat_Major_Message,You failed the duel. What a shame.\nThe city won't let you forget it anytime soon.,
-Duel_Challenger_Defeat_Minor_Message,You lost the duel — narrowly.\nThe city thinks a little less of you.,
-Duel_Challenger_Defeat_Total_Message,You failed the duel. Spectacularly.\nIt's time to consider a new name — and perhaps a new city.,
-Duel_Challenger_Draw_Message,Neither side prevails.,
-Duel_Challenger_Victory_Major_Message,You won the duel — well fought and well earned. \nYour popularity grows.,
-Duel_Challenger_Victory_Minor_Message,"You prevailed — but only just.\nStill, a win is a win, and the city takes notice.",
-Duel_Challenger_Victory_Total_Message,"You won the duel. Decisively.\nIf your opponent remains in town, it's only out of stubbornness.",
-Duel_Description,Two {CHAR_CITVSWOR_C}citizens{##} {CO_COM_C}fight{##} for their honor.,
-Duel_Description_extra1,"Duels are always fought in {CO_PHA_C}close combat{##}, making {CO_COMEQU_WEAMEL_C}weapon{##} choice decisive.",
-Duel_DisplayName,Duel,
-Duel_Respondent_Defeat_Major_Message,You failed the duel. What a shame.\nThe city won't let you forget it anytime soon.,
-Duel_Respondent_Defeat_Minor_Message,You lost the duel — narrowly.\nThe city thinks a little less of you.,
-Duel_Respondent_Defeat_Total_Message,You failed the duel. Spectacularly.\nIt's time to consider a new name — and perhaps a new city.,
-Duel_Respondent_Draw_Message,Neither side prevails.,
-Duel_Respondent_Victory_Major_Message,You won the duel — well fought and well earned. \nYour popularity grows.,
-Duel_Respondent_Victory_Minor_Message,"You prevailed — but only just.\nStill, a win is a win, and the city takes notice.",
-Duel_Respondent_Victory_Total_Message,"You won the duel. Decisively.\nIf your opponent remains in town, it's only out of stubbornness.",
-Order_Aggressive_Description,You have a higher chance to hit and push for a faster victory at all costs.,
-Order_Aggressive_DisplayName,Aggressive,
-Order_Avoid_Description,"Combatants prioritize survival, sacrificing their chance to hit the enemy.",
-Order_Avoid_DisplayName,Evasive,
-Order_Default_Description,A neutral combat stance.,
-Order_Default_DisplayName,Default,
-Order_Description,Stances allows you to influence the combat process.\nIt remains active until changed and takes effect at the start of the next {CO_ROU_C}combat round{##}.,
-Order_DisplayName,Stance,
-Order_DisplayName_alt,Combat Stance,
-Order_DisplayName_plural,Stances,
-Order_DisplayName_plural_alt,Combat Stances,
-Order_HoldTheLine_Description,Combatants take less damage when hit but also have a lower chance to hit the opponent.,
-Order_HoldTheLine_DisplayName,Defensive,
-Order_Overwhelm_Description,Combatants have a higher chance to hit and push for a faster victory at all costs.,
-Order_Overwhelm_DisplayName,Offensive,
-Order_Passive_Description,"You preserve energy, sacrificing your chance to hit the enemy.",
-Order_Passive_DisplayName,Passive,
-Order_Push_Description,Combatants deal more damage but are also more likely to be hit by the opponent.,
-Order_Push_DisplayName,Aggressive,
-Phase_Description,"{CO_ROU_C}Combat rounds{##} proceed in three phases — Ranged, Special, and Melee — each allowing only the corresponding weapons.",
-Phase_DisplayName,Combat Phase,
-Phase_Melee_DisplayName,Melee,
-Phase_Melee_DisplayName_alt,Melee Phase,
-Phase_Ranged_DisplayName,Ranged,
-Phase_Ranged_DisplayName_alt,Ranged Phase,
-Phase_Special_DisplayName,Special,
-Phase_Special_DisplayName_alt,Special Phase,
-Phase_Melee_Description,Combatants equipped with {CO_COMEQU_WEAMEL_C}melee weapons{##}.,
-Phase_Ranged_Description,Combatants equipped with {CO_COMEQU_WEARAN_C}ranged weapons{##}.,
-Phase_Special_Description,Combatants equipped with {CO_COMEQU_WEASPE_C}special weapons{##}.,
-Result_Defeat_DisplayName,Defeat,
-Result_DisplayName,Combat Results,
-Result_Draw_DisplayName,Draw,
-Result_Victory_DisplayName,Victory,
-Round_Description,"Combat unfolds over multiple rounds, each with three {CO_PHA_C}combat phases{##}.",
-Round_Description_extra1,Each round ends with a calculated {CO_SCO_C}score{##} that adjusts the {CO_SCOBAR_C}Victory Meter{##}.,
-Round_DisplayName,Combat Round,
-Timeline_Description,"The timeline represents the maximum duration of combat. It is divided into a sequence of {CO_ROU_C}rounds{##} and their {CO_PHA_C}phases{##}. When it reaches the end, the side with the higher {CO_SCO_C}score{##} wins.",
-Timeline_DisplayName,Timeline,
-Effect_ChanceToHit,Chance to hit,
-Effect_ChanceOfBeingHit,Chance of being hit,
-Effect_DamageDealt,{CO_COMEQU_DAM_C}Damage{##} dealt,
-Effect_DamageReceived,{CO_COMEQU_DAM_C}Damage{##} received,
-Effect_DamageReceivedPercentage,{CO_COMEQU_DAM_C}Damage{##} received{CO_SCOWAR_C}*{##},
-Effect_DamageReceivedPercentage_Warning,"Despite this reduction, full damage is used when calculating the {CO_SCO_C}score{##}.",
-Score_DisplayName,Combat Score,
-Score_Description,"Each {CO_ROU_C}round{##}, the {CO_SCO_C}score{##} is calculated from the percentage of {CHAR_ENE_C}energy{##} lost due to {CO_COMEQU_DAM_C}damage{##} on both sides.\nThe side with the smaller proportional loss gains the difference as score, shifting the {CO_SCOBAR_C}Victory Meter{##} in their favor.",
-ScoreBar_DisplayName,Victory Meter,
-ScoreBar_Description,"Represents the current {CO_SCO_C}score{##} balance, colored by the leading side.",
-ScoreBar_Description_extra1,There are three ways to win a combat:,
-ScoreBar_Description_extra2,You reach the maximum {CO_SCO_C}score{##}.,
-ScoreBar_Description_extra3,The enemy is {ST_CHR_KNODOW_C}knocked down{##}.,
-ScoreBar_Description_extra4,Time runs out and you have the higher {CO_SCO_C}score{##}.,
-ScoreBar_Description_extra5,"If time runs out and the {CO_SCO_C}scores{##} are equal, the person who initiated the {CO_TYPE_DUE_C}duel{##} loses. In a {CO_TYPE_ATTCAR_C}cart attack{##}, the attacker loses.",
-EnergyPool_DisplayName,Energy Pool,
-EnergyPool_Description,The total {CHAR_ENE_C}energy{##} of all combatants on this side.,
-Order_PickOrder_Prompt,Choose a stance,
-MarginOfVictory_DisplayName,Margin of Victory,
-MarginOfVictory_Description,Indicates how decisive the result is based on the final position of the {CO_SCOBAR_C}Victory Meter{##}. Determines the applied effects.,
-MarginOfVictory_Draw_DisplayName,Draw,
-MarginOfVictory_Draw_Description,The combat ends in a draw.,
-MarginOfVictory_MinorVictory_DisplayName,Minor Victory,
-MarginOfVictory_MinorVictory_Description,You achieve a minor victory.,
-MarginOfVictory_MajorVictory_DisplayName,Major Victory,
-MarginOfVictory_MajorVictory_Description,You achieve a major victory.,
-MarginOfVictory_TotalVictory_DisplayName,Total Victory,
-MarginOfVictory_TotalVictory_Description,You achieve a total victory.,
-MarginOfVictory_MinorDefeat_DisplayName,Minor Defeat,
-MarginOfVictory_MinorDefeat_Description,You suffer a minor defeat.,
-MarginOfVictory_MajorDefeat_DisplayName,Major Defeat,
-MarginOfVictory_MajorDefeat_Description,You suffer a major defeat.,
-MarginOfVictory_TotalDefeat_DisplayName,Total Defeat,
-MarginOfVictory_TotalDefeat_Description,You suffer a total defeat.,
-Role_CartAttackers_DisplayName,Cart Attackers,
-Role_CartEscort_DisplayName,Cart Escort,
-NoneEquipped_Armor_Label,Unarmored,
-NoneEquipped_Weapon_Label,Unarmed,
+Key,Namespace,Translation
+AttackCart_Attacker_Defeat_Major_Message,,"A disastrous outcome.\nNo goods taken, and two robbers now sit in chains."
+AttackCart_Attacker_Defeat_Minor_Message,,"The robbers achieved nothing.\nWorse, one of them was taken."
+AttackCart_Attacker_Defeat_Total_Message,,"A humiliating disaster.\nThree robbers captured, no goods secured, and the cart's owner rises in popularity — on the back of your failure."
+AttackCart_Attacker_Draw_Message,,Neither side prevails.
+AttackCart_Attacker_Victory_Major_Message,,"It was a hard fight, but the robbers prevailed.\nHalf the goods were looted from the cart."
+AttackCart_Attacker_Victory_Minor_Message,,"The escorts put up a fight, but were ultimately overwhelmed.\nThe robbers escaped with a small portion of the goods."
+AttackCart_Attacker_Victory_Total_Message,,They call themselves escorts?\nThe robbers met no real resistance and looted the cart entirely.
+AttackCart_Defender_Defeat_Major_Message,,"It was a hard fight, but the robbers prevailed.\nHalf the goods were looted from the cart."
+AttackCart_Defender_Defeat_Minor_Message,,"The escorts put up a fight, but were ultimately overwhelmed.\nThe robbers escaped with a small portion of the goods."
+AttackCart_Defender_Defeat_Total_Message,,They call themselves escorts?\nThe robbers met no real resistance and looted the cart entirely.
+AttackCart_Defender_Draw_Message,,Neither side prevails.
+AttackCart_Defender_Victory_Major_Message,,"The escorts held the line.\nNo goods were stolen, and your standing in town improves slightly."
+AttackCart_Defender_Victory_Minor_Message,,"The escorts held the line.\nNo goods were stolen, and your standing in town improves slightly."
+AttackCart_Defender_Victory_Total_Message,,"The robbers were driven off without success.\nNot a single crate was lost, and your popularity rises noticeably across town."
+AttackCart_Description,,Robbers {A_ATKCAR_C}strike{##} a cart — but hired {A_HIRESC_C}escorts{##} stand in their way.
+AttackCart_DisplayName,,Cart Attack
+Attacker_DisplayName,,Attacker
+Attacker_DisplayName_plural,,Cart Attackers
+Challenger_DisplayName,,Challenger
+Combat_Description,,Equip your {I_TYP_COMEQU_C}weapons and armor{##} — a {B_IMP_IMPCOM_C}weapon rack{##} at home may prove useful.
+Combat_Description_extra1,,"Combat unfolds in {CO_ROU_C}rounds{##} and {CO_PHA_C}phases{##}. During rounds, orders adjust {CO_ORD_C}stances{##} to gain advantage on the {CO_SCOBAR_C}Victory Meter{##}."
+Combat_Description_extra2,,"Attacks drain {CHAR_ENE_C}energy{##}, not {CHAR_HP_C}health{##}.\nWhen energy runs out, combatants risk being {ST_CHR_KNODOW_C}knocked down{##}."
+Combat_Description_extra3,,Types of combat:
+Combat_DisplayName,,Combat
+Combatants_Count,,"{NumCombatants} {CO_COM_C}{NumCombatants}|plural(one=combatant,other=combatants){##}"
+CombatEncounter_Description,,"Even if you avoid {CO_COM_C}combat{##}, it may still find you. Best to stay prepared.\n{I_TYP_COMEQU_C}Combat equipment{##} endures only a limited number of combat encounters."
+CombatEncounter_DisplayName,,Combat Encounter
+CombatEquipment_Effect_CombatBonus_Description,,Affects the chance to hit a target during {CO_COM_C}combat{##}.
+CombatEquipment_Effect_CombatBonus_DisplayName,,Accuracy
+CombatEquipment_Effect_CombatBonus_DisplayName_alt,,Weapon Accuracy
+CombatEquipment_Effect_DamageEnergy_Description,,{CHAR_ENE_C}Energy{##} taken from the target on hit during {CO_COM_C}combat{##}.
+CombatEquipment_Effect_DamageEnergy_DisplayName,,Damage
+CombatEquipment_Effect_ProtectionEnergy_Description,,Reduces {CHAR_ENE_C}energy{##} damage taken when hit in {CO_COM_C}combat{##}.
+CombatEquipment_Effect_ProtectionEnergy_DisplayName,,Protection
+CombatEquipment_Effect_Special_PoisonDagger,,Continues to deal damage after a hit.
+CombatEquipment_Effect_Special_ShadowDagger,,{S_STE_C}Roguery{##} increases accuracy
+CombatResult_EndRule_NoUnitsLeft,,One side can no longer continue the fight.
+CombatResult_EndRule_Score,,One side has reached the maximum score.
+CombatResult_EndRule_TimeOut,,The time has run out.{CO_TIMOUT_C}*{##}
+CombatResult_EndRule_TimeOut_explanation,,"When the time has run out, the side with the higher score wins. If tied, the initiator loses in a duel, and the attacker loses in a cart attack."
+Defender_DisplayName,,Defender
+Defender_DisplayName_plural,,Defenders
+Duel_Challenger_Defeat_Major_Message,,You failed the duel. What a shame.\nThe city won't let you forget it anytime soon.
+Duel_Challenger_Defeat_Minor_Message,,You lost the duel — narrowly.\nThe city thinks a little less of you.
+Duel_Challenger_Defeat_Total_Message,,You failed the duel. Spectacularly.\nIt's time to consider a new name — and perhaps a new city.
+Duel_Challenger_Draw_Message,,Neither side prevails.
+Duel_Challenger_Victory_Major_Message,,You won the duel — well fought and well earned. \nYour popularity grows.
+Duel_Challenger_Victory_Minor_Message,,"You prevailed — but only just.\nStill, a win is a win, and the city takes notice."
+Duel_Challenger_Victory_Total_Message,,"You won the duel. Decisively.\nIf your opponent remains in town, it's only out of stubbornness."
+Duel_Description,,Two {CHAR_CITVSWOR_C}citizens{##} {CO_COM_C}fight{##} for their honor.
+Duel_Description_extra1,,"Duels are always fought in {CO_PHA_C}close combat{##}, making {CO_COMEQU_WEAMEL_C}weapon{##} choice decisive."
+Duel_DisplayName,,Duel
+Duel_Respondent_Defeat_Major_Message,,You failed the duel. What a shame.\nThe city won't let you forget it anytime soon.
+Duel_Respondent_Defeat_Minor_Message,,You lost the duel — narrowly.\nThe city thinks a little less of you.
+Duel_Respondent_Defeat_Total_Message,,You failed the duel. Spectacularly.\nIt's time to consider a new name — and perhaps a new city.
+Duel_Respondent_Draw_Message,,Neither side prevails.
+Duel_Respondent_Victory_Major_Message,,You won the duel — well fought and well earned. \nYour popularity grows.
+Duel_Respondent_Victory_Minor_Message,,"You prevailed — but only just.\nStill, a win is a win, and the city takes notice."
+Duel_Respondent_Victory_Total_Message,,"You won the duel. Decisively.\nIf your opponent remains in town, it's only out of stubbornness."
+Order_Aggressive_Description,,You have a higher chance to hit and push for a faster victory at all costs.
+Order_Aggressive_DisplayName,,Aggressive
+Order_Avoid_Description,,"Combatants prioritize survival, sacrificing their chance to hit the enemy."
+Order_Avoid_DisplayName,,Evasive
+Order_Default_Description,,A neutral combat stance.
+Order_Default_DisplayName,,Default
+Order_Description,,Stances allows you to influence the combat process.\nIt remains active until changed and takes effect at the start of the next {CO_ROU_C}combat round{##}.
+Order_DisplayName,,Stance
+Order_DisplayName_alt,,Combat Stance
+Order_DisplayName_plural,,Stances
+Order_DisplayName_plural_alt,,Combat Stances
+Order_HoldTheLine_Description,,Combatants take less damage when hit but also have a lower chance to hit the opponent.
+Order_HoldTheLine_DisplayName,,Defensive
+Order_Overwhelm_Description,,Combatants have a higher chance to hit and push for a faster victory at all costs.
+Order_Overwhelm_DisplayName,,Offensive
+Order_Passive_Description,,"You preserve energy, sacrificing your chance to hit the enemy."
+Order_Passive_DisplayName,,Passive
+Order_Push_Description,,Combatants deal more damage but are also more likely to be hit by the opponent.
+Order_Push_DisplayName,,Aggressive
+Phase_Description,,"{CO_ROU_C}Combat rounds{##} proceed in three phases — Ranged, Special, and Melee — each allowing only the corresponding weapons."
+Phase_DisplayName,,Combat Phase
+Phase_Melee_DisplayName,,Melee
+Phase_Melee_DisplayName_alt,,Melee Phase
+Phase_Ranged_DisplayName,,Ranged
+Phase_Ranged_DisplayName_alt,,Ranged Phase
+Phase_Special_DisplayName,,Special
+Phase_Special_DisplayName_alt,,Special Phase
+Phase_Melee_Description,,Combatants equipped with {CO_COMEQU_WEAMEL_C}melee weapons{##}.
+Phase_Ranged_Description,,Combatants equipped with {CO_COMEQU_WEARAN_C}ranged weapons{##}.
+Phase_Special_Description,,Combatants equipped with {CO_COMEQU_WEASPE_C}special weapons{##}.
+Result_Defeat_DisplayName,,Defeat
+Result_DisplayName,,Combat Results
+Result_Draw_DisplayName,,Draw
+Result_Victory_DisplayName,,Victory
+Round_Description,,"Combat unfolds over multiple rounds, each with three {CO_PHA_C}combat phases{##}."
+Round_Description_extra1,,Each round ends with a calculated {CO_SCO_C}score{##} that adjusts the {CO_SCOBAR_C}Victory Meter{##}.
+Round_DisplayName,,Combat Round
+Timeline_Description,,"The timeline represents the maximum duration of combat. It is divided into a sequence of {CO_ROU_C}rounds{##} and their {CO_PHA_C}phases{##}. When it reaches the end, the side with the higher {CO_SCO_C}score{##} wins."
+Timeline_DisplayName,,Timeline
+Effect_ChanceToHit,,Chance to hit
+Effect_ChanceOfBeingHit,,Chance of being hit
+Effect_DamageDealt,,{CO_COMEQU_DAM_C}Damage{##} dealt
+Effect_DamageReceived,,{CO_COMEQU_DAM_C}Damage{##} received
+Effect_DamageReceivedPercentage,,{CO_COMEQU_DAM_C}Damage{##} received{CO_SCOWAR_C}*{##}
+Effect_DamageReceivedPercentage_Warning,,"Despite this reduction, full damage is used when calculating the {CO_SCO_C}score{##}."
+Score_DisplayName,,Combat Score
+Score_Description,,"Each {CO_ROU_C}round{##}, the {CO_SCO_C}score{##} is calculated from the percentage of {CHAR_ENE_C}energy{##} lost due to {CO_COMEQU_DAM_C}damage{##} on both sides.\nThe side with the smaller proportional loss gains the difference as score, shifting the {CO_SCOBAR_C}Victory Meter{##} in their favor."
+ScoreBar_DisplayName,,Victory Meter
+ScoreBar_Description,,"Represents the current {CO_SCO_C}score{##} balance, colored by the leading side."
+ScoreBar_Description_extra1,,There are three ways to win a combat:
+ScoreBar_Description_extra2,,You reach the maximum {CO_SCO_C}score{##}.
+ScoreBar_Description_extra3,,The enemy is {ST_CHR_KNODOW_C}knocked down{##}.
+ScoreBar_Description_extra4,,Time runs out and you have the higher {CO_SCO_C}score{##}.
+ScoreBar_Description_extra5,,"If time runs out and the {CO_SCO_C}scores{##} are equal, the person who initiated the {CO_TYPE_DUE_C}duel{##} loses. In a {CO_TYPE_ATTCAR_C}cart attack{##}, the attacker loses."
+EnergyPool_DisplayName,,Energy Pool
+EnergyPool_Description,,The total {CHAR_ENE_C}energy{##} of all combatants on this side.
+Order_PickOrder_Prompt,,Choose a stance
+MarginOfVictory_DisplayName,,Margin of Victory
+MarginOfVictory_Description,,Indicates how decisive the result is based on the final position of the {CO_SCOBAR_C}Victory Meter{##}. Determines the applied effects.
+MarginOfVictory_Draw_DisplayName,,Draw
+MarginOfVictory_Draw_Description,,The combat ends in a draw.
+MarginOfVictory_MinorVictory_DisplayName,,Minor Victory
+MarginOfVictory_MinorVictory_Description,,You achieve a minor victory.
+MarginOfVictory_MajorVictory_DisplayName,,Major Victory
+MarginOfVictory_MajorVictory_Description,,You achieve a major victory.
+MarginOfVictory_TotalVictory_DisplayName,,Total Victory
+MarginOfVictory_TotalVictory_Description,,You achieve a total victory.
+MarginOfVictory_MinorDefeat_DisplayName,,Minor Defeat
+MarginOfVictory_MinorDefeat_Description,,You suffer a minor defeat.
+MarginOfVictory_MajorDefeat_DisplayName,,Major Defeat
+MarginOfVictory_MajorDefeat_Description,,You suffer a major defeat.
+MarginOfVictory_TotalDefeat_DisplayName,,Total Defeat
+MarginOfVictory_TotalDefeat_Description,,You suffer a total defeat.
+Role_CartAttackers_DisplayName,,Cart Attackers
+Role_CartEscort_DisplayName,,Cart Escort
+NoneEquipped_Armor_Label,,Unarmored
+NoneEquipped_Weapon_Label,,Unarmed

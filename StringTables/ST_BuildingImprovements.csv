@@ -1,176 +1,176 @@
-Key,SourceString,Translation
- BuildingAttractiveness_DisplayName,Shop Signs,
- BuildingAttractiveness_DisplayName_Inn,Inn Signs,
-AccidentProtection_DisplayName,Safety Measures,
-Accomodations_DisplayName,Accommodations,
-AccomodationsI_Description,Unlocks affairs,
-AccomodationsII_Description,Lets you have more affairs,
-AdditionalEmployee_Description,Lets you hire one more worker,
-AdditionalEmployee_DisplayName,Workforce,
-AdditionalGatheringIngredient_Description,Lets you gather {item},
-AdditionalGatheringIngredient_DisplayName,Additional Gathering Ingredient,
-AdditionalGatheringBotanicalIngredient_DisplayName,Useful Greens,
-AdditionalGatheringAnimalIngredient_DisplayName,tbd,
-AdditionalRecipe_Description,Unlocks the {item} recipe,
-AdditionalRecipe_DisplayName,New Craft,
-AdditionalStorage_alt_01_DisplayName,Shelves,
-AdditionalStorage_alt_02_DisplayName,More Shelves,
-AdditionalStorage_alt_03_DisplayName,"Shelves, Again",
-AdditionalStorage_alt_04_DisplayName,Extra Shelves,
-AdditionalStorage_alt_05_DisplayName,Shelves Everywhere,
-AdditionalStorage_alt_06_DisplayName,Every Wall a Shelf,
-AdditionalStorage_Description,Adds one {B_STOROO_C}storeroom{##} slot,
-AdditionalStorage_DisplayName,Extra Storeroom,
-AdditionalStorefront_Description,Adds one {B_STOFRO_C}storefront{##} slot,
-AdditionalStorefront_DisplayName,Sales Counter,
-BarPodium_Description,Unlocks {A_ACT_LIVPER_C}put on a show{##},
-BarPodium_DisplayName,Bar Podium,
-Bell _DisplayName,Bell,
-BetterBeds_Description,{CV_({Value})} {CHAR_ENE_C}Energy{##} at the start of the turn,
-BetterBeds_DisplayName,Rope Bed,
-BetterBedsForWorkers_DisplayName,Straw Mattresses,
-BetterPriestClothes_DisplayName,Clerical Vestments,
-BetterPriestClothesI_Description,Unlocks {A_ACT_PASVIS_C}give absolution{##},
-BetterPriestClothesII_Description,When {A_ACT_PASVIS_C}giving absolution{##}:\n{CV_({Value})} {CHAR_PRO},
-BetterPriestClothesIII_Description,"When {A_ACT_PASVIS_C}giving absolution{##}:\n{CV_({Value})} {CHAR_AP}, if successful",
-BlackenSomeonesName_Description,Unlocks the ability to {A_BLANAM_C}blacken someone's name{##},
-BlackenSomeonesName_DisplayName,Defamation Ledger,
-BonusYieldChance_Description,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} chance to double the yield,
-BonusYieldChance_DisplayName,Lucky Yield,
-Bribe_Description,Unlocks the ability to {A_BRI_C}bribe{##} others,
-Bribe_DisplayName,Purse of Persuasion,
-BurglaryProtection_DisplayName,Reinforced Defenses,
-Camouflage_Description,{#green}{Value}{##} chance to be detected by a {A_ACT_GUAPAT_C}guard patrol{##},
-Camouflage_DisplayName,Camouflage,
-CheaperRepairs_Description,Lowers {B_HP_C}repair{##} costs by {value},
-CheaperRepairs_DisplayName,Cheaper Repairs,
-ChooseImprovement_Prompt,Only one improvement can be built here. Choose which one.,
-ChooseImprovement_Prompt_shorter,Choose one improvement.,
-CreateLampoon_Description,Unlocks the ability to create {A_WRILAM_C}lampoons{##},
-CreateLampoon_DisplayName,Satire Stand,
-Cross_DisplayName,Cross,
-CrossI_Description,Forgives one {CR_SEV_C}trivial crime{##} every {C_TRN_C}turn{##},
-CrossII_Description,Forgives one {CR_SEV_C}minor crime{##} every {C_TRN_C}turn{##},
-DarkCorner_DisplayName,Dark Corner,
-DarkCornerI_Description,Unlocks {A_ACT_FINEVIFROWOR_C}eavesdrop on customers{##},
-DarkCornerII_Description,When {A_ACT_FINEVIFROWOR_C}eavesdropping on customers{##}:\n{CV_({Value})} {CHAR_PRO},
-Decorations_DisplayName,Adornments,
-EfficiencyGathering _Description,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} faster gathering,
-EfficiencyGathering _DisplayName,Quick Harvest,
-ExtraCell_Description,Adds one extra cell,
-ExtraCell_DisplayName,Extra Cell,
-Feast_Description,Unlocks the ability to {A_INVDIN_C}invite to dinner{##},
-Feast_DisplayName,Feastmaster's Table,
-GameTable_Description,Unlocks {A_ACT_TRALIVPER_C}rehearse{##},
-GameTable_DisplayName,Improv Corner,
-GatherAnimalIngredients_Description,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} {item},
-GatherAnimalIngredients_DisplayName,Fresh Stock,
-GatherBotanicalIngredients_Description,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} {item},
-GatherBotanicalIngredients_DisplayName,Garden Beds,
-GuestRevenue_DisplayName,Charming Staff,
-HaveAChat_Description,Unlocks the ability to {A_ACT_HAVCHA_C}have a chat{##},
-HaveAChat_DisplayName,Comfortable Couch,
-Heating_DisplayName,Hearth,
-HidingSpot_DisplayName,Hiding Spot,
-HidingSpotI_Description,Allows you to stash money in the cellar,
-HidingSpotII_Description,Adds a hidden compartment for storing items,
-HostageControl_DisplayName,Hostage Control,
-HostageControlI_Description,{#green}{Value}{##} chance for prisoner to die,
-HostageControlII_Description,{#green}{Value}{##} chance for prisoner to escape,
-Hygiene_DisplayName,Wash Station,
-ImproveBuilding_Description,Unlocks the service to {A_ACT_IMPSTR_C}improve structure{##},
-ImproveBuilding_DisplayName,Master Builder's Tools,
-ImproveCarts_Description,Unlocks the service to {A_ACT_IMPCAR_C}improve carts{##},
-ImproveCarts_DisplayName,Wheel Reinforcement Set,
-ImproveCombat_Description,Unlocks the ability to improve {S_COM_C}martial{##} skills,
-ImproveCombat_DisplayName,Weapon Rack,
-ImprovedPreaching_Description,When performing a {A_ACT_HOLSTRSER_C}street sermon{##}:\n{CV_({Value})} {CHAR_PRO},
-ImprovedPreaching_DisplayName,Improved Preaching,
-ImprovedStanding_Description,Every turn:\n{CV_({Value})} {CHAR_STA_C}workers' opinion{##} of you,
-ImprovedStanding_DisplayName,Worker Amenities,
-ImproveHandicraft_Description,Unlocks the ability to improve {S_HAN_C}handicraft{##} skills,
-ImproveHandicraft_DisplayName,Artisan's Toolbox,
-ImproveHUB_Description,Unlocks the service to {A_ACT_IMPQUA_C}improve quarter{##},
-ImproveHUB_DisplayName,Street Paving Kit,
-Improvement_Description,"Improvements refine your buildings — unlocking new actions, expanding capacity, and improving efficiency, safety, and other capabilities.",
-Improvement_DisplayName,Improvement,
-Improvement_DisplayName_plural,Improvements,
-ImproveNegotiation_Description,Unlocks the ability to improve {S_NEG_C}negotiation{##} skills,
-ImproveNegotiation_DisplayName,Negotiator's Seal,
-ImproveRhetoric_Description,Unlocks the ability to improve {S_RHE_C}rhetoric{##} skills,
-ImproveRhetoric_DisplayName,Scroll of Fine Words,
-ImproveStealth_Description,Unlocks the ability to improve {S_STE_C}roguery{##} skills,
-ImproveStealth_DisplayName,Trickster's Box,
-Infirmary_Description,{CV_({Value})} faster recovery when {ST_INJ_C}injured{##},
-Infirmary_DisplayName,Infirmary,
-Inspection_Description,Unlocks {A_ACT_INSBUS_C}inspect business{##},
-Inspection_DisplayName,Map of Holdings,
-Instruments_DisplayName,Instruments,
-InstrumentsI_Description,Unlocks musical instruments for {A_INVDIN_C}dinners{##},
-InstrumentsII_Description,Musical instruments are twice as effective at {A_INVDIN_C}dinners{##},
-IronBars_Description,Unlocks the service to {A_ACT_STRBAR_C}reinforce security{##},
-IronBars_DisplayName,Iron Bars,
-LargerBar_Description,When {A_ACT_WORINN_C}working at the bar{##}:\n{CV_({Value})} {CHAR_PRO},
-LargerBar_DisplayName,Larger Bar,
-LeadershipTraining_Description,Unlocks Leadership Training,
-LeadershipTraining_DisplayName,Leadership Training,
-NightSkill_Description,{CV_({Value})} {S_STE_C}roguery{##} out of {WORHOU_C}working hours{##},
-NightSkill_DisplayName,Night Skill,
-PatrolDetection_Description,During a {A_ACT_GUAPAT_C}patrol{##}:\n{CV_({Value})} chance to detect {P_THI_C}thieves{##} and {P_ROB_C}robbers{##},
-PatrolDetection_DisplayName,Patrol Detection,
-PestControl_Description,Unlocks the service to {A_ACT_PESCON_C}pest control{##},
-PestControl_DisplayName,Pest Control,
-PickpocketTactics_Description,When {A_ACT_PICPOC_C}pickpocketing{##}:\n{CV_({Value})} {CHAR_MON},
-PickpocketTactics_DisplayName,Pickpocket Tactics,
-Portal_DisplayName,Portal,
-PrayingShrine_DisplayName,Side Altar,
-PrayingShrineI_Description,Unlocks {A_PRAOTH_C}pray for others{##},
-PrayingShrineII_Description,When {A_PRAOTH_C}praying for others{##}:\n{#green}{Value}{##} {CHAR_ENE} cost,
-PrayingShrineIIAlt_Description,When {A_PRAOTH_C}praying for others{##}:\n{#green}{Value}{##} {CHAR_AP} cost,
-PreachingBible_Description,Unlocks {A_ACT_HOLSTRSER_C}street sermon{##},
-PreachingBible_DisplayName,Holy Scripture,
-ProductivityBonus_DisplayName,Proper Tools,
-RegularsTable_Description,The regulars' table serves more than ale. Customers pay handsomely for the {CR_EVI_C}gossip{##} shared over its cups.,
-RegularsTable_DisplayName,Regulars' Table,
-Sabotage_Description,Unlocks the ability to {A_SAB_C}sabotage{##} buildings,
-Sabotage_DisplayName,Calamity Bucket,
-ScentEnhancement_Description,Unlocks the service to {A_ACT_SCEENH_C}scent enhancement{##},
-ScentEnhancement_DisplayName,Scent Enhancement,
-Security_Description,Enemies have {value}% less chance to scout this building successfully,
-Security_Description_alt,Enemies have {value}% less chance to scout this building successfully\nEnemies can only scout this building up to level {value2},
-Security_DisplayName,Fortification,
-SewClothes_Description,Unlocks the service to {A_ACT_SEWCLO_C}refine someone's attire{##},
-SewClothes_DisplayName,Portable Sewing Kit,
-SkillGrowth_Description,"{CV_({Value})} {S_HAN_C}handicraft{##} for every {NumTrip} {A_ACT_GATING_C}{NumTrip}|plural(one=trip,other=trips){##}",
-SkillGrowth_DisplayName,Hands-On Learning,
-SmugglingDetection_Description,{CV_({Value})} chance to detect illegal goods,
-SmugglingDetection_DisplayName,Smuggling Detection,
-SpyGlass_Description,Unlocks the ability to {A_SPY_C}spy{##} on others,
-SpyGlass_DisplayName,Spyglass,
-StrategicAmbush_Description,When {A_ACT_WAYTRA_C}waylaying a cart{##}:\n{CV_({Value})} chance to successfully intercept a cart,
-StrategicAmbush_DisplayName,Strategic Ambush,
-Sturdiness_DisplayName,Sturdiness,
-ThreateningLetter_Description,Unlocks the ability to send a {A_THRLET_C}threatening letter{##},
-ThreateningLetter_DisplayName,The “Strongly Worded” Letter Kit,
-TrainingBonus_DisplayName,Training Bonus,
-TrainingBonusI_Description,All workers in the building:\n{CV_({Value})} {S_COM},
-TrainingBonusII_Description,All workers in the building:\n{CV_({Value})} {S_STE},
-TrainingEquipment_Combat_Description_Guard,Allows you to send guards to {A_ACT_TRACOMGUA_C}train martial{##},
-TrainingEquipment_Combat_Description_Robber,Allows you to send robbers to {A_ACT_TRACOMROB_C}train martial{##},
-TrainingEquipment_Combat_Description_Thief,Allows you to send thieves to {A_ACT_TRACOMTHI_C}train martial{##},
-TrainingEquipment_Combat_DisplayName,Martial Training Equipment,
-TrainingEquipment_Stealth_Description_Guard,Allows you to send guards to {A_ACT_TRASTEGUA_C}train roguery{##},
-TrainingEquipment_Stealth_Description_Robber,Allows you to send robbers to {A_ACT_TRASTEROB_C}train roguery{##},
-TrainingEquipment_Stealth_Description_Thief,Allows you to send thieves to {A_ACT_TRASTETHI_C}train roguery{##},
-TrainingEquipment_Stealth_DisplayName,Roguery Training Equipment,
-TrainingSpeed_Description,{CV_({Value})} faster training,
-TrainingSpeed_DisplayName,Training Speed,
-Trashing_Description,Unlocks the action to thrash a target by having them {A_THR_C}beaten up{##} in the streets,
-Trashing_DisplayName,Underhand Contracts,
-VictoryEnergizer_Description,After a victory in combat:\n{CV_({Value})} {CHAR_ENE},
-VictoryEnergizer_DisplayName,Victory Energizer,
-WeaponMaintenance_Description,"{I_TYP_COMEQU_C}Combat equipment{##} lasts {NumCombat} more {CO_COMENC_C}{NumCombat}|plural(one=combat encounter,other=combat encounters){##}",
-WeaponMaintenance_DisplayName,Weapon Maintenance,
-Improved_Fully_Label,Fully improved,
-ActionAccessPoint_Instruction,The action will be available directly from the object.,
-EnterBuildingForImprovements_Instruction,Step inside to install improvements.,
+Key,Namespace,Translation
+ BuildingAttractiveness_DisplayName,,Shop Signs
+ BuildingAttractiveness_DisplayName_Inn,,Inn Signs
+AccidentProtection_DisplayName,,Safety Measures
+Accomodations_DisplayName,,Accommodations
+AccomodationsI_Description,,Unlocks affairs
+AccomodationsII_Description,,Lets you have more affairs
+AdditionalEmployee_Description,,Lets you hire one more worker
+AdditionalEmployee_DisplayName,,Workforce
+AdditionalGatheringIngredient_Description,,Lets you gather {item}
+AdditionalGatheringIngredient_DisplayName,,Additional Gathering Ingredient
+AdditionalGatheringBotanicalIngredient_DisplayName,,Useful Greens
+AdditionalGatheringAnimalIngredient_DisplayName,,tbd
+AdditionalRecipe_Description,,Unlocks the {item} recipe
+AdditionalRecipe_DisplayName,,New Craft
+AdditionalStorage_alt_01_DisplayName,,Shelves
+AdditionalStorage_alt_02_DisplayName,,More Shelves
+AdditionalStorage_alt_03_DisplayName,,"Shelves, Again"
+AdditionalStorage_alt_04_DisplayName,,Extra Shelves
+AdditionalStorage_alt_05_DisplayName,,Shelves Everywhere
+AdditionalStorage_alt_06_DisplayName,,Every Wall a Shelf
+AdditionalStorage_Description,,Adds one {B_STOROO_C}storeroom{##} slot
+AdditionalStorage_DisplayName,,Extra Storeroom
+AdditionalStorefront_Description,,Adds one {B_STOFRO_C}storefront{##} slot
+AdditionalStorefront_DisplayName,,Sales Counter
+BarPodium_Description,,Unlocks {A_ACT_LIVPER_C}put on a show{##}
+BarPodium_DisplayName,,Bar Podium
+Bell _DisplayName,,Bell
+BetterBeds_Description,,{CV_({Value})} {CHAR_ENE_C}Energy{##} at the start of the turn
+BetterBeds_DisplayName,,Rope Bed
+BetterBedsForWorkers_DisplayName,,Straw Mattresses
+BetterPriestClothes_DisplayName,,Clerical Vestments
+BetterPriestClothesI_Description,,Unlocks {A_ACT_PASVIS_C}give absolution{##}
+BetterPriestClothesII_Description,,When {A_ACT_PASVIS_C}giving absolution{##}:\n{CV_({Value})} {CHAR_PRO}
+BetterPriestClothesIII_Description,,"When {A_ACT_PASVIS_C}giving absolution{##}:\n{CV_({Value})} {CHAR_AP}, if successful"
+BlackenSomeonesName_Description,,Unlocks the ability to {A_BLANAM_C}blacken someone's name{##}
+BlackenSomeonesName_DisplayName,,Defamation Ledger
+BonusYieldChance_Description,,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} chance to double the yield
+BonusYieldChance_DisplayName,,Lucky Yield
+Bribe_Description,,Unlocks the ability to {A_BRI_C}bribe{##} others
+Bribe_DisplayName,,Purse of Persuasion
+BurglaryProtection_DisplayName,,Reinforced Defenses
+Camouflage_Description,,{#green}{Value}{##} chance to be detected by a {A_ACT_GUAPAT_C}guard patrol{##}
+Camouflage_DisplayName,,Camouflage
+CheaperRepairs_Description,,Lowers {B_HP_C}repair{##} costs by {value}
+CheaperRepairs_DisplayName,,Cheaper Repairs
+ChooseImprovement_Prompt,,Only one improvement can be built here. Choose which one.
+ChooseImprovement_Prompt_shorter,,Choose one improvement.
+CreateLampoon_Description,,Unlocks the ability to create {A_WRILAM_C}lampoons{##}
+CreateLampoon_DisplayName,,Satire Stand
+Cross_DisplayName,,Cross
+CrossI_Description,,Forgives one {CR_SEV_C}trivial crime{##} every {C_TRN_C}turn{##}
+CrossII_Description,,Forgives one {CR_SEV_C}minor crime{##} every {C_TRN_C}turn{##}
+DarkCorner_DisplayName,,Dark Corner
+DarkCornerI_Description,,Unlocks {A_ACT_FINEVIFROWOR_C}eavesdrop on customers{##}
+DarkCornerII_Description,,When {A_ACT_FINEVIFROWOR_C}eavesdropping on customers{##}:\n{CV_({Value})} {CHAR_PRO}
+Decorations_DisplayName,,Adornments
+EfficiencyGathering _Description,,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} faster gathering
+EfficiencyGathering _DisplayName,,Quick Harvest
+ExtraCell_Description,,Adds one extra cell
+ExtraCell_DisplayName,,Extra Cell
+Feast_Description,,Unlocks the ability to {A_INVDIN_C}invite to dinner{##}
+Feast_DisplayName,,Feastmaster's Table
+GameTable_Description,,Unlocks {A_ACT_TRALIVPER_C}rehearse{##}
+GameTable_DisplayName,,Improv Corner
+GatherAnimalIngredients_Description,,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} {item}
+GatherAnimalIngredients_DisplayName,,Fresh Stock
+GatherBotanicalIngredients_Description,,When {A_ACT_GATING_C}looking for ingredients{##}:\n{CV_({Value})} {item}
+GatherBotanicalIngredients_DisplayName,,Garden Beds
+GuestRevenue_DisplayName,,Charming Staff
+HaveAChat_Description,,Unlocks the ability to {A_ACT_HAVCHA_C}have a chat{##}
+HaveAChat_DisplayName,,Comfortable Couch
+Heating_DisplayName,,Hearth
+HidingSpot_DisplayName,,Hiding Spot
+HidingSpotI_Description,,Allows you to stash money in the cellar
+HidingSpotII_Description,,Adds a hidden compartment for storing items
+HostageControl_DisplayName,,Hostage Control
+HostageControlI_Description,,{#green}{Value}{##} chance for prisoner to die
+HostageControlII_Description,,{#green}{Value}{##} chance for prisoner to escape
+Hygiene_DisplayName,,Wash Station
+ImproveBuilding_Description,,Unlocks the service to {A_ACT_IMPSTR_C}improve structure{##}
+ImproveBuilding_DisplayName,,Master Builder's Tools
+ImproveCarts_Description,,Unlocks the service to {A_ACT_IMPCAR_C}improve carts{##}
+ImproveCarts_DisplayName,,Wheel Reinforcement Set
+ImproveCombat_Description,,Unlocks the ability to improve {S_COM_C}martial{##} skills
+ImproveCombat_DisplayName,,Weapon Rack
+ImprovedPreaching_Description,,When performing a {A_ACT_HOLSTRSER_C}street sermon{##}:\n{CV_({Value})} {CHAR_PRO}
+ImprovedPreaching_DisplayName,,Improved Preaching
+ImprovedStanding_Description,,Every turn:\n{CV_({Value})} {CHAR_STA_C}workers' opinion{##} of you
+ImprovedStanding_DisplayName,,Worker Amenities
+ImproveHandicraft_Description,,Unlocks the ability to improve {S_HAN_C}handicraft{##} skills
+ImproveHandicraft_DisplayName,,Artisan's Toolbox
+ImproveHUB_Description,,Unlocks the service to {A_ACT_IMPQUA_C}improve quarter{##}
+ImproveHUB_DisplayName,,Street Paving Kit
+Improvement_Description,,"Improvements refine your buildings — unlocking new actions, expanding capacity, and improving efficiency, safety, and other capabilities."
+Improvement_DisplayName,,Improvement
+Improvement_DisplayName_plural,,Improvements
+ImproveNegotiation_Description,,Unlocks the ability to improve {S_NEG_C}negotiation{##} skills
+ImproveNegotiation_DisplayName,,Negotiator's Seal
+ImproveRhetoric_Description,,Unlocks the ability to improve {S_RHE_C}rhetoric{##} skills
+ImproveRhetoric_DisplayName,,Scroll of Fine Words
+ImproveStealth_Description,,Unlocks the ability to improve {S_STE_C}roguery{##} skills
+ImproveStealth_DisplayName,,Trickster's Box
+Infirmary_Description,,{CV_({Value})} faster recovery when {ST_INJ_C}injured{##}
+Infirmary_DisplayName,,Infirmary
+Inspection_Description,,Unlocks {A_ACT_INSBUS_C}inspect business{##}
+Inspection_DisplayName,,Map of Holdings
+Instruments_DisplayName,,Instruments
+InstrumentsI_Description,,Unlocks musical instruments for {A_INVDIN_C}dinners{##}
+InstrumentsII_Description,,Musical instruments are twice as effective at {A_INVDIN_C}dinners{##}
+IronBars_Description,,Unlocks the service to {A_ACT_STRBAR_C}reinforce security{##}
+IronBars_DisplayName,,Iron Bars
+LargerBar_Description,,When {A_ACT_WORINN_C}working at the bar{##}:\n{CV_({Value})} {CHAR_PRO}
+LargerBar_DisplayName,,Larger Bar
+LeadershipTraining_Description,,Unlocks Leadership Training
+LeadershipTraining_DisplayName,,Leadership Training
+NightSkill_Description,,{CV_({Value})} {S_STE_C}roguery{##} out of {WORHOU_C}working hours{##}
+NightSkill_DisplayName,,Night Skill
+PatrolDetection_Description,,During a {A_ACT_GUAPAT_C}patrol{##}:\n{CV_({Value})} chance to detect {P_THI_C}thieves{##} and {P_ROB_C}robbers{##}
+PatrolDetection_DisplayName,,Patrol Detection
+PestControl_Description,,Unlocks the service to {A_ACT_PESCON_C}pest control{##}
+PestControl_DisplayName,,Pest Control
+PickpocketTactics_Description,,When {A_ACT_PICPOC_C}pickpocketing{##}:\n{CV_({Value})} {CHAR_MON}
+PickpocketTactics_DisplayName,,Pickpocket Tactics
+Portal_DisplayName,,Portal
+PrayingShrine_DisplayName,,Side Altar
+PrayingShrineI_Description,,Unlocks {A_PRAOTH_C}pray for others{##}
+PrayingShrineII_Description,,When {A_PRAOTH_C}praying for others{##}:\n{#green}{Value}{##} {CHAR_ENE} cost
+PrayingShrineIIAlt_Description,,When {A_PRAOTH_C}praying for others{##}:\n{#green}{Value}{##} {CHAR_AP} cost
+PreachingBible_Description,,Unlocks {A_ACT_HOLSTRSER_C}street sermon{##}
+PreachingBible_DisplayName,,Holy Scripture
+ProductivityBonus_DisplayName,,Proper Tools
+RegularsTable_Description,,The regulars' table serves more than ale. Customers pay handsomely for the {CR_EVI_C}gossip{##} shared over its cups.
+RegularsTable_DisplayName,,Regulars' Table
+Sabotage_Description,,Unlocks the ability to {A_SAB_C}sabotage{##} buildings
+Sabotage_DisplayName,,Calamity Bucket
+ScentEnhancement_Description,,Unlocks the service to {A_ACT_SCEENH_C}scent enhancement{##}
+ScentEnhancement_DisplayName,,Scent Enhancement
+Security_Description,,Enemies have {value}% less chance to scout this building successfully
+Security_Description_alt,,Enemies have {value}% less chance to scout this building successfully\nEnemies can only scout this building up to level {value2}
+Security_DisplayName,,Fortification
+SewClothes_Description,,Unlocks the service to {A_ACT_SEWCLO_C}refine someone's attire{##}
+SewClothes_DisplayName,,Portable Sewing Kit
+SkillGrowth_Description,,"{CV_({Value})} {S_HAN_C}handicraft{##} for every {NumTrip} {A_ACT_GATING_C}{NumTrip}|plural(one=trip,other=trips){##}"
+SkillGrowth_DisplayName,,Hands-On Learning
+SmugglingDetection_Description,,{CV_({Value})} chance to detect illegal goods
+SmugglingDetection_DisplayName,,Smuggling Detection
+SpyGlass_Description,,Unlocks the ability to {A_SPY_C}spy{##} on others
+SpyGlass_DisplayName,,Spyglass
+StrategicAmbush_Description,,When {A_ACT_WAYTRA_C}waylaying a cart{##}:\n{CV_({Value})} chance to successfully intercept a cart
+StrategicAmbush_DisplayName,,Strategic Ambush
+Sturdiness_DisplayName,,Sturdiness
+ThreateningLetter_Description,,Unlocks the ability to send a {A_THRLET_C}threatening letter{##}
+ThreateningLetter_DisplayName,,The “Strongly Worded” Letter Kit
+TrainingBonus_DisplayName,,Training Bonus
+TrainingBonusI_Description,,All workers in the building:\n{CV_({Value})} {S_COM}
+TrainingBonusII_Description,,All workers in the building:\n{CV_({Value})} {S_STE}
+TrainingEquipment_Combat_Description_Guard,,Allows you to send guards to {A_ACT_TRACOMGUA_C}train martial{##}
+TrainingEquipment_Combat_Description_Robber,,Allows you to send robbers to {A_ACT_TRACOMROB_C}train martial{##}
+TrainingEquipment_Combat_Description_Thief,,Allows you to send thieves to {A_ACT_TRACOMTHI_C}train martial{##}
+TrainingEquipment_Combat_DisplayName,,Martial Training Equipment
+TrainingEquipment_Stealth_Description_Guard,,Allows you to send guards to {A_ACT_TRASTEGUA_C}train roguery{##}
+TrainingEquipment_Stealth_Description_Robber,,Allows you to send robbers to {A_ACT_TRASTEROB_C}train roguery{##}
+TrainingEquipment_Stealth_Description_Thief,,Allows you to send thieves to {A_ACT_TRASTETHI_C}train roguery{##}
+TrainingEquipment_Stealth_DisplayName,,Roguery Training Equipment
+TrainingSpeed_Description,,{CV_({Value})} faster training
+TrainingSpeed_DisplayName,,Training Speed
+Trashing_Description,,Unlocks the action to thrash a target by having them {A_THR_C}beaten up{##} in the streets
+Trashing_DisplayName,,Underhand Contracts
+VictoryEnergizer_Description,,After a victory in combat:\n{CV_({Value})} {CHAR_ENE}
+VictoryEnergizer_DisplayName,,Victory Energizer
+WeaponMaintenance_Description,,"{I_TYP_COMEQU_C}Combat equipment{##} lasts {NumCombat} more {CO_COMENC_C}{NumCombat}|plural(one=combat encounter,other=combat encounters){##}"
+WeaponMaintenance_DisplayName,,Weapon Maintenance
+Improved_Fully_Label,,Fully improved
+ActionAccessPoint_Instruction,,The action will be available directly from the object.
+EnterBuildingForImprovements_Instruction,,Step inside to install improvements.

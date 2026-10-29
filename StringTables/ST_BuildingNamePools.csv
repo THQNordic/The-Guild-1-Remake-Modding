@@ -1,629 +1,629 @@
-Key,SourceString,Translation
-Cart_Cow_Pool001,Moo Moo,
-Cart_Cow_Pool002,Otis,
-Cart_Cow_Pool003,Cow King,
-Cart_Cow_Pool004,Daisy,
-Cart_Cow_Pool005,Sir Loin,
-Cart_Cow_Pool006,Ribeye,
-Cart_Cow_Pool007,Milkshake,
-Cart_Cow_Pool008,Sisyphus,
-Cart_Cow_Pool009,Chubbyhoof,
-Cart_Cow_Pool010,Big Guy,
-Cart_Cow_Pool011,Bessy,
-Cart_Donkey_Pool001,Stallion,
-Cart_Donkey_Pool002,Ogre's Best Friend,
-Cart_Donkey_Pool003,Kong,
-Cart_Donkey_Pool004,Buridan,
-Cart_Donkey_Pool005,Dominick ,
-Cart_Donkey_Pool006,Eeyore,
-Cart_Donkey_Pool007,Benjamin,
-Cart_Donkey_Pool008,Jack,
-Cart_Donkey_Pool009,Speedy,
-Cart_Donkey_Pool010,Ranger,
-Cart_Goat_Pool001,Tanngrisnir ,
-Cart_Goat_Pool002,Tanngnjóstr ,
-Cart_Goat_Pool003,Amalthea,
-Cart_Goat_Pool004,Black Phillip,
-Cart_Goat_Pool005,Scape,
-Cart_Goat_Pool006,Vincent van Goat,
-Cart_Goat_Pool007,Bandid,
-Cart_Goat_Pool008,Lightning,
-Cart_Goat_Pool009,Biscuit,
-Cart_Goat_Pool010,G.O.A.T.,
-Cart_Goat_Pool011,Billy the Kid,
-Cart_Horse_Pool001,Torrent,
-Cart_Horse_Pool002,Sugarfoot,
-Cart_Horse_Pool003,Shadowmane,
-Cart_Horse_Pool004,Sleipnir,
-Cart_Horse_Pool005,Epona,
-Cart_Horse_Pool006,Bullseye,
-Cart_Horse_Pool007,Agro,
-Cart_Horse_Pool008,Pony Montana,
-Cart_Horse_Pool009,Powerhoof,
-Cart_Horse_Pool010,Atlas,
-Cart_Horse_Pool011,Glitterhoof,
-Cart_Horse_Pool012,Pferdinand,
-Cart_Horse_Pool013,Boxer,
-Dwelling_Dwelling_Pool001,TBD,
-Dwelling_Dwelling_Pool002,TBD,
-Dwelling_Dwelling_Pool003,TBD,
-Dwelling_Dwelling_Pool004,TBD,
-Dwelling_Dwelling_Pool005,TBD,
-Dwelling_Dwelling_Pool006,TBD,
-Dwelling_Dwelling_Pool007,TBD,
-Dwelling_Dwelling_Pool008,TBD,
-Dwelling_Dwelling_Pool009,TBD,
-Dwelling_Dwelling_Pool010,TBD,
-ExtractionFacility_Mine_Pool001,The Iron Vein,
-ExtractionFacility_Mine_Pool002,Fat Nuggets,
-ExtractionFacility_Mine_Pool003,Endless Galleries,
-ExtractionFacility_Mine_Pool004,Collapsed Access,
-ExtractionFacility_Mine_Pool005,Mouth of Hell,
-ExtractionFacility_Mine_Pool006,The Abyss of Echoes,
-ExtractionFacility_Mine_Pool007,The Devil's Digging End,
-ExtractionFacility_Mine_Pool008,The Sparkly Cavern,
-ExtractionFacility_Mine_Pool009,The Whispering Pit,
-ExtractionFacility_Mine_Pool010,The Gem Gem,
-ExtractionFacility_Quarry_Pool001,Brick by Brick,
-ExtractionFacility_Quarry_Pool002,Rock Bottom,
-ExtractionFacility_Quarry_Pool003,"Warning, Quicksand!",
-ExtractionFacility_Quarry_Pool004,Sandcastle,
-ExtractionFacility_Quarry_Pool005,Sharp Stone,
-ExtractionFacility_Quarry_Pool006,The Mason's Source,
-ExtractionFacility_Quarry_Pool007,The Earthcut,
-ExtractionFacility_Quarry_Pool008,Pebble Vale,
-ExtractionFacility_Quarry_Pool009,The Dust Pit,
-ExtractionFacility_Quarry_Pool010,Stony Ground,
-ExtractionFacility_VillageMarket_Pool001,From the Fields,
-ExtractionFacility_VillageMarket_Pool002,The First Harvest,
-ExtractionFacility_VillageMarket_Pool003,Fresh from the Dirt,
-ExtractionFacility_VillageMarket_Pool004,What the Land Gives,
-ExtractionFacility_VillageMarket_Pool005,Fresh Enough,
-ExtractionFacility_VillageMarket_Pool006,Fleece & Furrow,
-ExtractionFacility_VillageMarket_Pool007,The Winnow Yard,
-ExtractionFacility_VillageMarket_Pool008,Sheaf & Bale,
-ExtractionFacility_VillageMarket_Pool009,The Threshing Floor,
-ExtractionFacility_VillageMarket_Pool010,The Roughcut Market,
-ExtractionFacility_WoodlandArea_Pool001,Lots of Wood,
-ExtractionFacility_WoodlandArea_Pool002,Timber Vale,
-ExtractionFacility_WoodlandArea_Pool003,High Pines,
-ExtractionFacility_WoodlandArea_Pool004,The Chop Shop,
-ExtractionFacility_WoodlandArea_Pool005,Lumberjack's Lair,
-ExtractionFacility_WoodlandArea_Pool006,Fallen Vale,
-ExtractionFacility_WoodlandArea_Pool007,Axe's Edge,
-ExtractionFacility_WoodlandArea_Pool008,Saw's Edge,
-ExtractionFacility_WoodlandArea_Pool009,The Chop Forest,
-ExtractionFacility_WoodlandArea_Pool010,Undergrowth,
-Guild_AlchemistsGuild_Pool001,The Controlled Explosion Guild,
-Guild_AlchemistsGuild_Pool002,The Unstable Mixture Society,
-Guild_AlchemistsGuild_Pool003,The Final Substance,
-Guild_AlchemistsGuild_Pool004,The Perfect Solution Assembly,
-Guild_AlchemistsGuild_Pool005,The Chrysopoeia Circle,
-Guild_AlchemistsGuild_Pool006,The Almost Perfect Solution Assembly,
-Guild_AlchemistsGuild_Pool007,The Order of Prima Materia,
-Guild_AlchemistsGuild_Pool008,The Transmutation Brotherhood,
-Guild_AlchemistsGuild_Pool009,Brotherhood of the Scorched Ceiling,
-Guild_AlchemistsGuild_Pool010,Circle of the Azoth,
-Guild_GraveyardWardensGuild_Pool001,The Custodians of the Silent Garden,
-Guild_GraveyardWardensGuild_Pool002,The Order of the Last Address,
-Guild_GraveyardWardensGuild_Pool003,The Society of Natural Post-Mortem Activity,
-Guild_GraveyardWardensGuild_Pool004,The Guild of Persistent Aromas,
-Guild_GraveyardWardensGuild_Pool005,The Bureau of Eternal Shifts,
-Guild_GraveyardWardensGuild_Pool006,The Fellowship of Unpaid Overtime,
-Guild_GraveyardWardensGuild_Pool007,The Fellowship of Unfinished Business,
-Guild_GraveyardWardensGuild_Pool008,The Society of Advanced Decomposition,
-Guild_GraveyardWardensGuild_Pool009,The Society of That Was Probably Gas,
-Guild_GraveyardWardensGuild_Pool010,The Order of Secure Lids,
-Guild_GuardsGuild_Pool001,The Wardens of the Gate,
-Guild_GuardsGuild_Pool002,The Guardians of the Streets,
-Guild_GuardsGuild_Pool003,The City Sentinels,
-Guild_GuardsGuild_Pool004,The Society of Raised Eyebrows,
-Guild_GuardsGuild_Pool005,The Sleep-Deprived Watch,
-Guild_GuardsGuild_Pool006,The Fellowship of Unnecessary Questions,
-Guild_GuardsGuild_Pool007,The Order of Paid Discretion,
-Guild_GuardsGuild_Pool008,The Guild of Selective Enforcement,
-Guild_GuardsGuild_Pool009,The Brotherhood of Convenient Blindness,
-Guild_GuardsGuild_Pool010,We'll Need to Check That,
-Guild_InnkeepersGuild_Pool001,The Order of the Bottomless Mug,
-Guild_InnkeepersGuild_Pool002,The Guild of Responsible Drinking,
-Guild_InnkeepersGuild_Pool003,The Fellowship of Heard Conversations,
-Guild_InnkeepersGuild_Pool004,Alekeepers Anonymous,
-Guild_InnkeepersGuild_Pool005,The Order of Emotional Support Ale,
-Guild_InnkeepersGuild_Pool006,The Guild of Bad Life Choices,
-Guild_InnkeepersGuild_Pool007,The Fellowship of She Left Me,
-Guild_InnkeepersGuild_Pool008,The Fellowship of She Left Me Again,
-Guild_InnkeepersGuild_Pool009,The Society of Drowning Our Sorrows,
-Guild_InnkeepersGuild_Pool010,The Society of Just One More,
-Guild_JoinersGuild_Pool001,The Saw & Chisel Guild,
-Guild_JoinersGuild_Pool002,The Wood Moves Society,
-Guild_JoinersGuild_Pool003,The Timberwrights,
-Guild_JoinersGuild_Pool004,The Hidden Joint,
-Guild_JoinersGuild_Pool005,The Against the Grain Brotherhood,
-Guild_JoinersGuild_Pool006,The Smooth Finish,
-Guild_JoinersGuild_Pool007,The Well-Joined Society,
-Guild_JoinersGuild_Pool008,The Joined Hands Brotherhood,
-Guild_JoinersGuild_Pool009,The Fine Grain Society,
-Guild_JoinersGuild_Pool010,"The Measure Twice, Cut Once Society",
-Guild_JoinersGuild_Pool011,The Nine-Fingers Band,
-Guild_MoneyLendersGuild_Pool001,The Society of Settled Disputes,
-Guild_MoneyLendersGuild_Pool002,The Society of Convenient Clauses,
-Guild_MoneyLendersGuild_Pool003,In Your Time of Need Guild,
-Guild_MoneyLendersGuild_Pool004,Brotherhood of Here to Assist,
-Guild_MoneyLendersGuild_Pool005,You Owe Us,
-Guild_MoneyLendersGuild_Pool006,A Debt Between Friends Society,
-Guild_MoneyLendersGuild_Pool007,We Remember,
-Guild_MoneyLendersGuild_Pool008,The Order of the Unforgotten Ledger,
-Guild_MoneyLendersGuild_Pool009,No Hurry at All Brotherhood,
-Guild_MoneyLendersGuild_Pool010,Time Keeps Count Society,
-Guild_PerfumersGuild_Pool001,The Three Notes Society,
-Guild_PerfumersGuild_Pool002,The Fine Nose Society,
-Guild_PerfumersGuild_Pool003,The Traders of Scent,
-Guild_PerfumersGuild_Pool004,The Hidden Note Society,
-Guild_PerfumersGuild_Pool005,The Lingering Scent Brotherhood,
-Guild_PerfumersGuild_Pool006,The Nose Fatigue Society,
-Guild_PerfumersGuild_Pool007,The Sealed Bottle Guild,
-Guild_PerfumersGuild_Pool008,The First Impression Society,
-Guild_PerfumersGuild_Pool009,The Broken Accord Assembly,
-Guild_PerfumersGuild_Pool010,We Can Fix Your Stench,
-Guild_PreachersGuild_Pool001,Fellowship of the Chapter and Verse,
-Guild_PreachersGuild_Pool002,Order of the Overlong Sermon,
-Guild_PreachersGuild_Pool003,Order of the Certain Damnation,
-Guild_PreachersGuild_Pool004,The Circle of Willing Donations,
-Guild_PreachersGuild_Pool005,The Society of Almost Virtuous Souls,
-Guild_PreachersGuild_Pool006,The Pay and Be Forgiven Society,
-Guild_PreachersGuild_Pool007,The Order of Timely Repentance,
-Guild_PreachersGuild_Pool008,The Order of the Open Hand,
-Guild_PreachersGuild_Pool009,The Assembly of Good Intentions,
-Guild_PreachersGuild_Pool010,The Order of Convenient Redemption,
-Guild_RobbersGuild_Pool001,The Bureau of Flexible Ownership,
-Guild_RobbersGuild_Pool002,The Private Goods Custodians,
-Guild_RobbersGuild_Pool003,The Society of Borrowed Things,
-Guild_RobbersGuild_Pool004,The Fellowship of Sudden Loss,
-Guild_RobbersGuild_Pool005,The Guild of Violent Acquisition,
-Guild_RobbersGuild_Pool006,The Brotherhood of Unplanned Donations,
-Guild_RobbersGuild_Pool007,The Black Ledger,
-Guild_RobbersGuild_Pool008,The Locksmith Guild,
-Guild_RobbersGuild_Pool009,The Fellowship of Flexible Law,
-Guild_RobbersGuild_Pool010,We Are Totally Not Criminals,
-Guild_SmithsGuild_Pool001,The Grind Will Fix It Brotherhood,
-Guild_SmithsGuild_Pool002,The Forged Brotherhood,
-Guild_SmithsGuild_Pool003,The Anvil Circle,
-Guild_SmithsGuild_Pool004,The Order of Smiths,
-Guild_SmithsGuild_Pool005,The Forgemasters' Guild,
-Guild_SmithsGuild_Pool006,The Singing Anvil,
-Guild_SmithsGuild_Pool007,The Iron Authority,
-Guild_SmithsGuild_Pool008,The Hammer Council,
-Guild_SmithsGuild_Pool009,Heat. Beat. Repeat Society,
-Guild_SmithsGuild_Pool010,The Final Strike,
-Guild_StoneMasonsGuild_Pool001,Set in Stone Society,
-Guild_StoneMasonsGuild_Pool002,The Lift Together Brotherhood,
-Guild_StoneMasonsGuild_Pool003,The Solid Foundation Assembly,
-Guild_StoneMasonsGuild_Pool004,The Well-Laid Assembly,
-Guild_StoneMasonsGuild_Pool005,The Mortarbound Brotherhood,
-Guild_StoneMasonsGuild_Pool006,The Keystone Society,
-Guild_StoneMasonsGuild_Pool007,The First Stone Guild,
-Guild_StoneMasonsGuild_Pool008,The Firmly Set Guild,
-Guild_StoneMasonsGuild_Pool009,The Bedrock Assembly,
-Guild_StoneMasonsGuild_Pool010,The Set and Settled Society,
-Guild_TailorsGuild_Pool001,The It Will Stretch Society,
-Guild_TailorsGuild_Pool002,The Golden Seam Society,
-Guild_TailorsGuild_Pool003,The Well-Suited Society,
-Guild_TailorsGuild_Pool004,The Loose Thread Brotherhood,
-Guild_TailorsGuild_Pool005,The Second Skin Society,
-Guild_TailorsGuild_Pool006,The Silhouette Society,
-Guild_TailorsGuild_Pool007,The Well-Fitted Guild,
-Guild_TailorsGuild_Pool008,Order of the Client Who Lied About Their Measurements,
-Guild_TailorsGuild_Pool009,Order of the Lost Bobbin,
-Guild_TailorsGuild_Pool010,Brotherhood of the Dropped Pin,
-Guild_ThievesGuild_Pool001,The Order of Lightened Pockets,
-Guild_ThievesGuild_Pool002,The Committee for Unexpected Ownership,
-Guild_ThievesGuild_Pool003,The Society of Misplaced Goods,
-Guild_ThievesGuild_Pool004,The Hidden Hand,
-Guild_ThievesGuild_Pool005,The Light Pockets Society,
-Guild_ThievesGuild_Pool006,We Only Borrow Things,
-Guild_ThievesGuild_Pool007,Absolutely Not Thieves,
-Guild_ThievesGuild_Pool008,The Gentle Touch,
-Guild_ThievesGuild_Pool009,The Discreet Society,
-Guild_ThievesGuild_Pool010,The Bureau of Non-Consensual Exchange,
-Guild_TradersGuild_Pool001,The Mutual Advantage Society,
-Guild_TradersGuild_Pool002,The Honest Profit Guild,
-Guild_TradersGuild_Pool003,Order of I Make Nothing on This,
-Guild_TradersGuild_Pool004,The Final Offer Association,
-Guild_TradersGuild_Pool005,The Just Enough Profit Guild,
-Guild_TradersGuild_Pool006,The Silver Tongue Traders,
-Guild_TradersGuild_Pool007,The Just Business Guild,
-Guild_TradersGuild_Pool008,The Better End of the Deal,
-Guild_TradersGuild_Pool009,The Terms May Vary,
-Guild_TradersGuild_Pool010,"Special Price, Only For You Brotherhood",
-Guild_TravellingEntertainersGuild_Pool001,The Society of Performing Arts,
-Guild_TravellingEntertainersGuild_Pool002,The Order of Stagecraft,
-Guild_TravellingEntertainersGuild_Pool003,The Society of Painted Smiles,
-Guild_TravellingEntertainersGuild_Pool004,The Grand Guild of Spectacle,
-Guild_TravellingEntertainersGuild_Pool005,The Society of Wandering Wonders,
-Guild_TravellingEntertainersGuild_Pool006,The Guild of Spectacles and Delights,
-Guild_TravellingEntertainersGuild_Pool007,The Society of Ladies and Gentlemen,
-Guild_TravellingEntertainersGuild_Pool008,The Fellowship of Unquestionably Ethical Performances,
-Guild_TravellingEntertainersGuild_Pool009,The Guild of Astonishment and Applause,
-Guild_TravellingEntertainersGuild_Pool010,The Society of Unusual Talents,
-OccupationBuilding_Alchemist_Pool001,Tincture Trumpery,
-OccupationBuilding_Alchemist_Pool002,Herb and Turnip,
-OccupationBuilding_Alchemist_Pool003,Field Herbs,
-OccupationBuilding_Alchemist_Pool004,Evil Odours,
-OccupationBuilding_Alchemist_Pool005,Ludicrous Laboratories,
-OccupationBuilding_Alchemist_Pool006,Traumatic Drinks,
-OccupationBuilding_Alchemist_Pool007,Health in Danger,
-OccupationBuilding_Alchemist_Pool008,Magic Parlour,
-OccupationBuilding_Alchemist_Pool009,Alchemist's Corner,
-OccupationBuilding_Alchemist_Pool010,Fantastic Flasks,
-OccupationBuilding_Church_Pool001,The Crying Virgin,
-OccupationBuilding_Church_Pool002,Donations Welcome!,
-OccupationBuilding_Church_Pool003,Faith Will be Rewarded!,
-OccupationBuilding_Church_Pool004,Truthful & Virtuous,
-OccupationBuilding_Church_Pool005,Dedication & Peace,
-OccupationBuilding_Church_Pool006,God's Homestead,
-OccupationBuilding_Church_Pool007,Confess & Pray,
-OccupationBuilding_Church_Pool008,Conservative Concepts,
-OccupationBuilding_Church_Pool009,Almighty Praise,
-OccupationBuilding_Church_Pool010,The 5 Apostles,
-OccupationBuilding_Entertainer_Pool001,Making Merry,
-OccupationBuilding_Entertainer_Pool002,True Vagabonds,
-OccupationBuilding_Entertainer_Pool003,Animals & Sensations,
-OccupationBuilding_Entertainer_Pool004,Blood & Revenge,
-OccupationBuilding_Entertainer_Pool005,Trumpery & Theatre,
-OccupationBuilding_Entertainer_Pool006,Short-Lived Curses,
-OccupationBuilding_Entertainer_Pool007,Curses and Charms,
-OccupationBuilding_Entertainer_Pool008,A Cursed Life,
-OccupationBuilding_Entertainer_Pool009,Clan Life,
-OccupationBuilding_Entertainer_Pool010,Marvellous Life,
-OccupationBuilding_Graveyard_Pool001,The Creaking Gates,
-OccupationBuilding_Graveyard_Pool002,The Haunted Grounds,
-OccupationBuilding_Graveyard_Pool003,Carcass Camp,
-OccupationBuilding_Graveyard_Pool004,Beneath the Linden Tree,
-OccupationBuilding_Graveyard_Pool005,Resting-Place,
-OccupationBuilding_Graveyard_Pool006,Eternal Rest,
-OccupationBuilding_Graveyard_Pool007,Deathly Hush,
-OccupationBuilding_Graveyard_Pool008,Witching Hour,
-OccupationBuilding_Graveyard_Pool009,Misty Silence,
-OccupationBuilding_Graveyard_Pool010,Mildew & Decay,
-OccupationBuilding_Graveyard_Pool011,Corpse Depot,
-OccupationBuilding_Graveyard_Pool012,Pale Bones,
-OccupationBuilding_Graveyard_Pool013,Decaying Cadaver,
-OccupationBuilding_Graveyard_Pool014,Skeleton Springs,
-OccupationBuilding_Guard_Pool001,We Are the Law!,
-OccupationBuilding_Guard_Pool002,Sword & Screams,
-OccupationBuilding_Guard_Pool003,Law and Order,
-OccupationBuilding_Guard_Pool004,Criminal's End,
-OccupationBuilding_Guard_Pool005,No Mercy,
-OccupationBuilding_Guard_Pool006,Short Trial,
-OccupationBuilding_Guard_Pool007,Vigilant Steel,
-OccupationBuilding_Guard_Pool008,Swords of Justice,
-OccupationBuilding_Guard_Pool009,Vengeful Vigilantes,
-OccupationBuilding_Guard_Pool010,Judgment's Wrath,
-OccupationBuilding_Inn_Pool001,Laughter & Liquid,
-OccupationBuilding_Inn_Pool002,Decent Glasses,
-OccupationBuilding_Inn_Pool003,Closing Time,
-OccupationBuilding_Inn_Pool004,Dance 'Til Midnight,
-OccupationBuilding_Inn_Pool005,Riff-Raff Meeting,
-OccupationBuilding_Inn_Pool006,Bishop's Head,
-OccupationBuilding_Inn_Pool007,Patricians' Corner,
-OccupationBuilding_Inn_Pool008,The Fat Goose,
-OccupationBuilding_Inn_Pool009,The Stewed Chicken,
-OccupationBuilding_Inn_Pool010,The Three Oaks,
-OccupationBuilding_Joiner_Pool001,Rotten Wood,
-OccupationBuilding_Joiner_Pool002,Very Brittle,
-OccupationBuilding_Joiner_Pool003,Saw Shavings,
-OccupationBuilding_Joiner_Pool004,Durable Woodwork,
-OccupationBuilding_Joiner_Pool005,Good Wood Construction,
-OccupationBuilding_Joiner_Pool006,The Iron Oak,
-OccupationBuilding_Joiner_Pool007,Wooden Decorations,
-OccupationBuilding_Joiner_Pool008,Turned Angel,
-OccupationBuilding_Joiner_Pool009,Only Oak,
-OccupationBuilding_Joiner_Pool010,Ornate Decoration,
-OccupationBuilding_MoneyLender_Pool001,Gold Reserves,
-OccupationBuilding_MoneyLender_Pool002,Interest on Interest,
-OccupationBuilding_MoneyLender_Pool003,The Golden Hen,
-OccupationBuilding_MoneyLender_Pool004,Speculator's Luck,
-OccupationBuilding_MoneyLender_Pool005,Wealth Makers,
-OccupationBuilding_MoneyLender_Pool006,Flashing Coin,
-OccupationBuilding_MoneyLender_Pool007,The Social Divide,
-OccupationBuilding_MoneyLender_Pool008,Extortionate Interest,
-OccupationBuilding_MoneyLender_Pool009,Friend of the Miserly,
-OccupationBuilding_MoneyLender_Pool010,Low Interest,
-OccupationBuilding_Perfumer_Pool001,Smelly Flower,
-OccupationBuilding_Perfumer_Pool002,Occasional Stinks,
-OccupationBuilding_Perfumer_Pool003,Waft of Love,
-OccupationBuilding_Perfumer_Pool004,Hardly Smells,
-OccupationBuilding_Perfumer_Pool005,Fuggy Boilery,
-OccupationBuilding_Perfumer_Pool006,Questionable Aroma,
-OccupationBuilding_Perfumer_Pool007,Shady Scents,
-OccupationBuilding_Perfumer_Pool008,Scent of Sin,
-OccupationBuilding_Perfumer_Pool009,Smell Without Regret,
-OccupationBuilding_Perfumer_Pool010,Perfect Perfumes,
-OccupationBuilding_Robber_Pool001,Dark Fortress,
-OccupationBuilding_Robber_Pool002,The Black Fee,
-OccupationBuilding_Robber_Pool003,Robbers' Den,
-OccupationBuilding_Robber_Pool004,The Stolen Haul,
-OccupationBuilding_Robber_Pool005,Vulture's Nest,
-OccupationBuilding_Robber_Pool006,The Shattered Keep,
-OccupationBuilding_Robber_Pool007,The Dark Passage,
-OccupationBuilding_Robber_Pool008,The Highwaymen's Roost,
-OccupationBuilding_Robber_Pool009,The Silver Toll,
-OccupationBuilding_Robber_Pool010,The Extortion Gate,
-OccupationBuilding_Smithy_Pool001,Heavy Hammer,
-OccupationBuilding_Smithy_Pool002,The Farrier,
-OccupationBuilding_Smithy_Pool003,Hot Embers,
-OccupationBuilding_Smithy_Pool004,Simple Tool,
-OccupationBuilding_Smithy_Pool005,The Forge,
-OccupationBuilding_Smithy_Pool006,Burning Embers,
-OccupationBuilding_Smithy_Pool007,Glowing Coals,
-OccupationBuilding_Smithy_Pool008,Hot from the Forge,
-OccupationBuilding_Smithy_Pool009,Nails Here!,
-OccupationBuilding_Smithy_Pool010,Iron Work,
-OccupationBuilding_Smithy_Pool011,Rusty & Heavy,
-OccupationBuilding_Smithy_Pool012,The Silver Lining,
-OccupationBuilding_StoneMason_Pool001,Stone by Stone,
-OccupationBuilding_StoneMason_Pool002,Could Collapse,
-OccupationBuilding_StoneMason_Pool003,First Attempt,
-OccupationBuilding_StoneMason_Pool004,Fine Stone Mason's Art,
-OccupationBuilding_StoneMason_Pool005,Fundamentals of Foundations,
-OccupationBuilding_StoneMason_Pool006,Guaranteed Weather-Proof,
-OccupationBuilding_StoneMason_Pool007,Ornate Relief,
-OccupationBuilding_StoneMason_Pool008,No Experiments,
-OccupationBuilding_StoneMason_Pool009,Slate & Ebony,
-OccupationBuilding_StoneMason_Pool010,Ready To Move In!,
-OccupationBuilding_Tailor_Pool001,The Golden Sash ,
-OccupationBuilding_Tailor_Pool002,The Nimble Needle,
-OccupationBuilding_Tailor_Pool003,The Outfitter,
-OccupationBuilding_Tailor_Pool004,Stitch by Stitch,
-OccupationBuilding_Tailor_Pool005,The Latest Fashion,
-OccupationBuilding_Tailor_Pool006,The Fashion Maker,
-OccupationBuilding_Tailor_Pool007,Leather & Linen,
-OccupationBuilding_Tailor_Pool008,The Brocade Cloak,
-OccupationBuilding_Tailor_Pool009,Bags'n'Socks,
-OccupationBuilding_Tailor_Pool010,The Brave Little Tailor,
-OccupationBuilding_Thief_Pool001,The One-Armed Bandit,
-OccupationBuilding_Thief_Pool002,The Empty Purse,
-OccupationBuilding_Thief_Pool003,The Lost Wallet,
-OccupationBuilding_Thief_Pool004,Pinch & Be Pinched,
-OccupationBuilding_Thief_Pool005,Lost and Found,
-OccupationBuilding_Thief_Pool006,Your Money is Safe,
-OccupationBuilding_Thief_Pool007,Town Guard's Friend,
-OccupationBuilding_Thief_Pool008,Lilias Pastia,
-OccupationBuilding_Thief_Pool009,Scoundrels' Meet,
-OccupationBuilding_Thief_Pool010,The Bloody Dagger,
-OccupationBuilding_Trader_Pool001,The Well-Stocked Trader,
-OccupationBuilding_Trader_Pool002,Overseas Dispatch,
-OccupationBuilding_Trader_Pool003,The Large Cart,
-OccupationBuilding_Trader_Pool004,Wholesale,
-OccupationBuilding_Trader_Pool005,From All the World,
-OccupationBuilding_Trader_Pool006,Business House,
-OccupationBuilding_Trader_Pool007,Trumpery and Junk,
-OccupationBuilding_Trader_Pool008,Everything in Stock!,
-OccupationBuilding_Trader_Pool009,Well-Known Routes Only,
-OccupationBuilding_Trader_Pool010,Barrels & Bales,
-PersonalBuilding_BeeHives_Pool001,Sweet & Slightly Violent,
-PersonalBuilding_BeeHives_Pool002,The Sunlit Comb,
-PersonalBuilding_BeeHives_Pool003,The Sweet Dominion,
-PersonalBuilding_BeeHives_Pool004,Honeyhall,
-PersonalBuilding_BeeHives_Pool005,Coup d'Bee,
-PersonalBuilding_BeeHives_Pool006,Buzziness & Co.,
-PersonalBuilding_BeeHives_Pool007,"Wax On, Wax Off",
-PersonalBuilding_BeeHives_Pool008,Sweet Profit,
-PersonalBuilding_BeeHives_Pool009,No Kings Allowed,
-PersonalBuilding_BeeHives_Pool010,We Know Your Face Apiary,
-PersonalBuilding_BeeHives_Pool011,Honey & Heresy,
-PersonalBuilding_BeeHives_Pool012,We Are Many,
-PersonalBuilding_BeeHives_Pool013,Workers' Union (All Female),
-PersonalBuilding_BeeHives_Pool014,Long Live the Fertile One,
-PersonalBuilding_BeeHives_Pool015,Stingholders' Assembly,
-PersonalBuilding_Shrine_Pool001,The Devout Corner,
-PersonalBuilding_Shrine_Pool002,The “Just in Case” Shrine,
-PersonalBuilding_Shrine_Pool003,Saint Mercator the Well-Margined,
-PersonalBuilding_Shrine_Pool004,Saint Bartholomew of Modest Profits,
-PersonalBuilding_Shrine_Pool005,Saint Vitus of Many Descendants,
-PersonalBuilding_Shrine_Pool006,Saint Adelheid of Not Being Caught,
-PersonalBuilding_Shrine_Pool007,Private Dealings with the Divine,
-PersonalBuilding_Shrine_Pool008,The Saint of Convenient Outcomes,
-PersonalBuilding_Shrine_Pool009,The Altar of Selective Repentance,
-PersonalBuilding_Shrine_Pool010,Candlelit Sanctum,
-PersonalBuilding_Statue_Pool001,The One Who Definitely Deserved a Statue,
-PersonalBuilding_Statue_Pool002,The Eternal Taxpayer,
-PersonalBuilding_Statue_Pool003,The Master of Coin,
-PersonalBuilding_Statue_Pool004,The First Citizen,
-PersonalBuilding_Statue_Pool005,The People's Favorite Citizen,
-PersonalBuilding_Statue_Pool006,The Pride of the City,
-PersonalBuilding_Statue_Pool007,The Man/Woman of Remarkable Merit,
-PersonalBuilding_Statue_Pool008,The Town's Most Modest Citizen,
-PersonalBuilding_Statue_Pool009,The Appreciated (At Last),
-PersonalBuilding_Statue_Pool010,The Honored Burgher,
-PersonalBuilding_Statue_Pool011,The Statue of Someone Important (Me),
-PersonalBuilding_Statue_Pool012,Commissioned by Popular Demand (Unverified),
-PersonalBuilding_Statue_Pool013,The Generous Soul (According to Himself),
-PersonalBuilding_Statue_Pool014,The Self-Made Hero,
-PersonalBuilding_Statue_Pool015,Our Esteemed Neighbor,
-PersonalBuilding_StorageShed_Pool001,The Strategic Hoard,
-PersonalBuilding_StorageShed_Pool002,The “I Might Need This” House,
-PersonalBuilding_StorageShed_Pool003,The Necessary Excess,
-PersonalBuilding_StorageShed_Pool004,The Calculated Accumulation,
-PersonalBuilding_StorageShed_Pool005,The Patient Speculator,
-PersonalBuilding_StorageShed_Pool006,Hold for Later,
-PersonalBuilding_StorageShed_Pool007,Profit Pending,
-PersonalBuilding_StorageShed_Pool008,Stored Advantage,
-PersonalBuilding_StorageShed_Pool009,Just in Case,
-PersonalBuilding_StorageShed_Pool010,Absolutely Needed,
-PublicBuilding_Blackmarket_Pool001,TBD,
-PublicBuilding_Blackmarket_Pool002,TBD,
-PublicBuilding_Blackmarket_Pool003,TBD,
-PublicBuilding_Blackmarket_Pool004,TBD,
-PublicBuilding_Blackmarket_Pool005,TBD,
-PublicBuilding_Blackmarket_Pool006,TBD,
-PublicBuilding_Blackmarket_Pool007,TBD,
-PublicBuilding_Blackmarket_Pool008,TBD,
-PublicBuilding_Blackmarket_Pool009,TBD,
-PublicBuilding_Blackmarket_Pool010,TBD,
-PublicBuilding_Fountain_Pool001,Mayor's Generosity,
-PublicBuilding_Fountain_Pool002,Civic Refresher,
-PublicBuilding_Fountain_Pool003,Moisture for the Masses,
-PublicBuilding_Fountain_Pool004,The Thirst Solution,
-PublicBuilding_Fountain_Pool005,Still & Flowing,
-PublicBuilding_Fountain_Pool006,Gift of the Council,
-PublicBuilding_Fountain_Pool007,Votes & Water,
-PublicBuilding_Fountain_Pool008,Market Fountain,
-PublicBuilding_Fountain_Pool009,Fountain of the Quarter,
-PublicBuilding_Fountain_Pool010,Marble Spring,
-PublicBuilding_Marketplace_Pool001,Market Square,
-PublicBuilding_Marketplace_Pool002,Market Hall,
-PublicBuilding_Marketplace_Pool003,Open Market,
-PublicBuilding_Marketplace_Pool004,Street Market,
-PublicBuilding_Marketplace_Pool005,The Stalls,
-PublicBuilding_Marketplace_Pool006,Trading Yard,
-PublicBuilding_Marketplace_Pool007,Merchant Court,
-PublicBuilding_Marketplace_Pool008,The Exchange,
-PublicBuilding_Marketplace_Pool009,Busy Market,
-PublicBuilding_Marketplace_Pool010,Humming Market,
-PublicBuilding_PhysiciansOffice_Pool001,Cough & Coffin,
-PublicBuilding_PhysiciansOffice_Pool002,The Final Check-Up,
-PublicBuilding_PhysiciansOffice_Pool003,One Foot in the Grave,
-PublicBuilding_PhysiciansOffice_Pool004,Pill & Prayer Medical,
-PublicBuilding_PhysiciansOffice_Pool005,The Last Resort Clinic,
-PublicBuilding_PhysiciansOffice_Pool006,Sawbones & Co.,
-PublicBuilding_PhysiciansOffice_Pool007,Scalpel & Scream,
-PublicBuilding_PhysiciansOffice_Pool008,Doctor Leech's Delight,
-PublicBuilding_PhysiciansOffice_Pool009,MediEvilCare,
-PublicBuilding_PhysiciansOffice_Pool010,St. Hypochondrius' Clinic,
-PublicBuilding_Pillory_Pool001,The Market of Accountability,
-PublicBuilding_Pillory_Pool002,Open for Public Ridicule,
-PublicBuilding_Pillory_Pool003,The Shame Frame,
-PublicBuilding_Pillory_Pool004,The Tribunal Post,
-PublicBuilding_Pillory_Pool005,The “Told You So” Stand,
-PublicBuilding_Pillory_Pool006,Rot & Reflect,
-PublicBuilding_Pillory_Pool007,The Social Correction Device,
-PublicBuilding_Pillory_Pool008,The Square of Bitter Lessons,
-PublicBuilding_Pillory_Pool009,The Unfortunate Spotlight,
-PublicBuilding_Pillory_Pool010,"Bread, Circuses & You",
-PublicBuilding_Prison_Pool001,Shush & Suffer,
-PublicBuilding_Prison_Pool002,Irony Bars,
-PublicBuilding_Prison_Pool003,Muffled Scream,
-PublicBuilding_Prison_Pool004,Torturer's Delight,
-PublicBuilding_Prison_Pool005,Cat-o'-Nine-Tails,
-PublicBuilding_Prison_Pool006,"Check In, Never Check Out!",
-PublicBuilding_Prison_Pool007,Permanent Residence,
-PublicBuilding_Prison_Pool008,The Iron Keep,
-PublicBuilding_Prison_Pool009,The Guilt's End,
-PublicBuilding_Prison_Pool010,Punishment Guaranteed Co.,
-PublicBuilding_Rostrum_Pool001,Shout Platform,
-PublicBuilding_Rostrum_Pool002,The Elevated Opinion,
-PublicBuilding_Rostrum_Pool003,Yell Here,
-PublicBuilding_Rostrum_Pool004,Talky Talk Stand,
-PublicBuilding_Rostrum_Pool005,Volume Over Substance,
-PublicBuilding_Rostrum_Pool006,Approved for Dramatic Gestures,
-PublicBuilding_Rostrum_Pool007,Raised Expectations,
-PublicBuilding_Rostrum_Pool008,The Crowd Stirrer,
-PublicBuilding_Rostrum_Pool009,Say It With Confidence,
-PublicBuilding_Rostrum_Pool010,Glory or Tomatoes,
-PublicBuilding_SovereignsSeat_Pool001,TBD,
-PublicBuilding_SovereignsSeat_Pool002,TBD,
-PublicBuilding_SovereignsSeat_Pool003,TBD,
-PublicBuilding_SovereignsSeat_Pool004,TBD,
-PublicBuilding_SovereignsSeat_Pool005,TBD,
-PublicBuilding_SovereignsSeat_Pool006,TBD,
-PublicBuilding_SovereignsSeat_Pool007,TBD,
-PublicBuilding_SovereignsSeat_Pool008,TBD,
-PublicBuilding_SovereignsSeat_Pool009,TBD,
-PublicBuilding_SovereignsSeat_Pool010,TBD,
-PublicBuilding_TownHall_Pool001,The Civic Assembly,
-PublicBuilding_TownHall_Pool002,The Council Chambers,
-PublicBuilding_TownHall_Pool003,The Court of Governance,
-PublicBuilding_TownHall_Pool004,The Tax Collector's Lair,
-PublicBuilding_TownHall_Pool005,The Chamber of Unfulfilled Promises,
-PublicBuilding_TownHall_Pool006,Mayor's Mansion of Misery,
-PublicBuilding_TownHall_Pool007,The Heart of the City,
-PublicBuilding_TownHall_Pool008,Voice of the People,
-PublicBuilding_TownHall_Pool009,Citadel of Order,
-PublicBuilding_TownHall_Pool010,Council of Chaos,
-PublicBuilding_TownsGate_Pool001,TBD,
-PublicBuilding_TownsGate_Pool002,TBD,
-PublicBuilding_TownsGate_Pool003,TBD,
-PublicBuilding_TownsGate_Pool004,TBD,
-PublicBuilding_TownsGate_Pool005,TBD,
-PublicBuilding_TownsGate_Pool006,TBD,
-PublicBuilding_TownsGate_Pool007,TBD,
-PublicBuilding_TownsGate_Pool008,TBD,
-PublicBuilding_TownsGate_Pool009,TBD,
-PublicBuilding_TownsGate_Pool010,TBD,
-PublicBuilding_Well_Pool001,Well Well Well,
-PublicBuilding_Well_Pool002,The Deep Echo,
-PublicBuilding_Well_Pool003,Community Well,
-PublicBuilding_Well_Pool004,Dig & Drink,
-PublicBuilding_Well_Pool005,The Necessary Hole,
-PublicBuilding_Well_Pool006,Pull the Rope,
-PublicBuilding_Well_Pool007,Drink at Your Own Risk,
-PublicBuilding_Well_Pool008,Vertical Lake,
-PublicBuilding_Well_Pool009,Down There Somewhere,
-PublicBuilding_Well_Pool010,Hydration Infrastructure (Manual),
-PublicBuilding_Well_Pool011,Bring Your Own Bucket,
-PublicBuilding_Well_Pool012,The Hole Stares Back,
-PublicBuilding_Well_Pool013,The Thirst Abyss,
-PublicBuilding_CannonTower_Pool001,The Argument Settler,
-PublicBuilding_CannonTower_Pool002,Diplomatic Tower,
-PublicBuilding_CannonTower_Pool003,The Roof Inspector,
-PublicBuilding_CannonTower_Pool004,The Last Word,
-PublicBuilding_CannonTower_Pool005,The Long-Distance Complaint,
-PublicBuilding_CannonTower_Pool006,The Window Maker,
-PublicBuilding_CannonTower_Pool007,The Renovator,
-PublicBuilding_CannonTower_Pool008,The Sleeping Giant,
-PublicBuilding_CannonTower_Pool009,Old Agnes,
-PublicBuilding_CannonTower_Pool010,Tower No. 4,
-PublicBuilding_CannonTower_Pool011,Orthan's Tower,
-PublicBuilding_CannonTower_Pool012,Ramazin's Tower,
-PublicBuilding_CannonTower_Pool013,Tower of Zott,
-PublicBuilding_WorkersAccommodation_Pool001,Workers' Rest,
-PublicBuilding_WorkersAccommodation_Pool002,Cold Storeroom,
-PublicBuilding_WorkersAccommodation_Pool003,Homestead,
-PublicBuilding_WorkersAccommodation_Pool004,Workers' Peace,
-PublicBuilding_WorkersAccommodation_Pool005,The Bed of Straw,
-PublicBuilding_WorkersAccommodation_Pool006,Sleepy Abode,
-PublicBuilding_WorkersAccommodation_Pool007,Serfs' Home,
-PublicBuilding_WorkersAccommodation_Pool008,End of the Day,
-PublicBuilding_WorkersAccommodation_Pool009,Windy Hut,
-PublicBuilding_WorkersAccommodation_Pool010,Cold Cottage,
-PublicBuilding_WorkersAccommodation_Pool011,TBD,
-PublicBuilding_WorkersAccommodation_Pool012,TBD,
-PublicBuilding_WorkersAccommodation_Pool013,TBD,
-PublicBuilding_WorkersAccommodation_Pool014,TBD,
-PublicBuilding_WorkersAccommodation_Pool015,TBD,
-PublicBuilding_WorkersAccommodation_Pool016,TBD,
-PublicBuilding_WorkersAccommodation_Pool017,TBD,
-PublicBuilding_WorkersAccommodation_Pool018,TBD,
-PublicBuilding_WorkersAccommodation_Pool019,TBD,
-PublicBuilding_WorkersAccommodation_Pool020,TBD,
-Residence_House_Pool001,House and Court,
-Residence_House_Pool002,Evening Peace,
-Residence_House_Pool003,Solid Walls,
-Residence_House_Pool004,Honest Home,
-Residence_House_Pool005,Peaceful Work,
-Residence_House_Pool006,Considered Walls,
-Residence_House_Pool007,Pleasant & Prosperous,
-Residence_House_Pool008,Bourgeois Homestead,
-Residence_House_Pool009,Comfortably Habitable,
-Residence_House_Pool010,Warm Winters,
-Residence_House_Pool011,Count the Bricks,
-Residence_House_Pool012,TBD,
-Residence_House_Pool013,TBD,
-Residence_House_Pool014,TBD,
-Residence_House_Pool015,TBD,
-Residence_House_Pool016,TBD,
-Residence_House_Pool017,TBD,
-Residence_House_Pool018,TBD,
-Residence_House_Pool019,TBD,
-Residence_House_Pool020,TBD,
-Residence_Villa_Pool001,Money is Good!,
-Residence_Villa_Pool002,Riches? Yes!,
-Residence_Villa_Pool003,We're Doing Well!,
-Residence_Villa_Pool004,Lap of Luxury,
-Residence_Villa_Pool005,Extensions Included,
-Residence_Villa_Pool006,Owner's Jewellery,
-Residence_Villa_Pool007,Hill of Decadence,
-Residence_Villa_Pool008,Large Family,
-Residence_Villa_Pool009,Villa Abode,
-Residence_Villa_Pool010,Rosy Home,
+Key,Namespace,Translation
+Cart_Cow_Pool001,,Moo Moo
+Cart_Cow_Pool002,,Otis
+Cart_Cow_Pool003,,Cow King
+Cart_Cow_Pool004,,Daisy
+Cart_Cow_Pool005,,Sir Loin
+Cart_Cow_Pool006,,Ribeye
+Cart_Cow_Pool007,,Milkshake
+Cart_Cow_Pool008,,Sisyphus
+Cart_Cow_Pool009,,Chubbyhoof
+Cart_Cow_Pool010,,Big Guy
+Cart_Cow_Pool011,,Bessy
+Cart_Donkey_Pool001,,Stallion
+Cart_Donkey_Pool002,,Ogre's Best Friend
+Cart_Donkey_Pool003,,Kong
+Cart_Donkey_Pool004,,Buridan
+Cart_Donkey_Pool005,,Dominick 
+Cart_Donkey_Pool006,,Eeyore
+Cart_Donkey_Pool007,,Benjamin
+Cart_Donkey_Pool008,,Jack
+Cart_Donkey_Pool009,,Speedy
+Cart_Donkey_Pool010,,Ranger
+Cart_Goat_Pool001,,Tanngrisnir 
+Cart_Goat_Pool002,,Tanngnjóstr 
+Cart_Goat_Pool003,,Amalthea
+Cart_Goat_Pool004,,Black Phillip
+Cart_Goat_Pool005,,Scape
+Cart_Goat_Pool006,,Vincent van Goat
+Cart_Goat_Pool007,,Bandid
+Cart_Goat_Pool008,,Lightning
+Cart_Goat_Pool009,,Biscuit
+Cart_Goat_Pool010,,G.O.A.T.
+Cart_Goat_Pool011,,Billy the Kid
+Cart_Horse_Pool001,,Torrent
+Cart_Horse_Pool002,,Sugarfoot
+Cart_Horse_Pool003,,Shadowmane
+Cart_Horse_Pool004,,Sleipnir
+Cart_Horse_Pool005,,Epona
+Cart_Horse_Pool006,,Bullseye
+Cart_Horse_Pool007,,Agro
+Cart_Horse_Pool008,,Pony Montana
+Cart_Horse_Pool009,,Powerhoof
+Cart_Horse_Pool010,,Atlas
+Cart_Horse_Pool011,,Glitterhoof
+Cart_Horse_Pool012,,Pferdinand
+Cart_Horse_Pool013,,Boxer
+Dwelling_Dwelling_Pool001,,TBD
+Dwelling_Dwelling_Pool002,,TBD
+Dwelling_Dwelling_Pool003,,TBD
+Dwelling_Dwelling_Pool004,,TBD
+Dwelling_Dwelling_Pool005,,TBD
+Dwelling_Dwelling_Pool006,,TBD
+Dwelling_Dwelling_Pool007,,TBD
+Dwelling_Dwelling_Pool008,,TBD
+Dwelling_Dwelling_Pool009,,TBD
+Dwelling_Dwelling_Pool010,,TBD
+ExtractionFacility_Mine_Pool001,,The Iron Vein
+ExtractionFacility_Mine_Pool002,,Fat Nuggets
+ExtractionFacility_Mine_Pool003,,Endless Galleries
+ExtractionFacility_Mine_Pool004,,Collapsed Access
+ExtractionFacility_Mine_Pool005,,Mouth of Hell
+ExtractionFacility_Mine_Pool006,,The Abyss of Echoes
+ExtractionFacility_Mine_Pool007,,The Devil's Digging End
+ExtractionFacility_Mine_Pool008,,The Sparkly Cavern
+ExtractionFacility_Mine_Pool009,,The Whispering Pit
+ExtractionFacility_Mine_Pool010,,The Gem Gem
+ExtractionFacility_Quarry_Pool001,,Brick by Brick
+ExtractionFacility_Quarry_Pool002,,Rock Bottom
+ExtractionFacility_Quarry_Pool003,,"Warning, Quicksand!"
+ExtractionFacility_Quarry_Pool004,,Sandcastle
+ExtractionFacility_Quarry_Pool005,,Sharp Stone
+ExtractionFacility_Quarry_Pool006,,The Mason's Source
+ExtractionFacility_Quarry_Pool007,,The Earthcut
+ExtractionFacility_Quarry_Pool008,,Pebble Vale
+ExtractionFacility_Quarry_Pool009,,The Dust Pit
+ExtractionFacility_Quarry_Pool010,,Stony Ground
+ExtractionFacility_VillageMarket_Pool001,,From the Fields
+ExtractionFacility_VillageMarket_Pool002,,The First Harvest
+ExtractionFacility_VillageMarket_Pool003,,Fresh from the Dirt
+ExtractionFacility_VillageMarket_Pool004,,What the Land Gives
+ExtractionFacility_VillageMarket_Pool005,,Fresh Enough
+ExtractionFacility_VillageMarket_Pool006,,Fleece & Furrow
+ExtractionFacility_VillageMarket_Pool007,,The Winnow Yard
+ExtractionFacility_VillageMarket_Pool008,,Sheaf & Bale
+ExtractionFacility_VillageMarket_Pool009,,The Threshing Floor
+ExtractionFacility_VillageMarket_Pool010,,The Roughcut Market
+ExtractionFacility_WoodlandArea_Pool001,,Lots of Wood
+ExtractionFacility_WoodlandArea_Pool002,,Timber Vale
+ExtractionFacility_WoodlandArea_Pool003,,High Pines
+ExtractionFacility_WoodlandArea_Pool004,,The Chop Shop
+ExtractionFacility_WoodlandArea_Pool005,,Lumberjack's Lair
+ExtractionFacility_WoodlandArea_Pool006,,Fallen Vale
+ExtractionFacility_WoodlandArea_Pool007,,Axe's Edge
+ExtractionFacility_WoodlandArea_Pool008,,Saw's Edge
+ExtractionFacility_WoodlandArea_Pool009,,The Chop Forest
+ExtractionFacility_WoodlandArea_Pool010,,Undergrowth
+Guild_AlchemistsGuild_Pool001,,The Controlled Explosion Guild
+Guild_AlchemistsGuild_Pool002,,The Unstable Mixture Society
+Guild_AlchemistsGuild_Pool003,,The Final Substance
+Guild_AlchemistsGuild_Pool004,,The Perfect Solution Assembly
+Guild_AlchemistsGuild_Pool005,,The Chrysopoeia Circle
+Guild_AlchemistsGuild_Pool006,,The Almost Perfect Solution Assembly
+Guild_AlchemistsGuild_Pool007,,The Order of Prima Materia
+Guild_AlchemistsGuild_Pool008,,The Transmutation Brotherhood
+Guild_AlchemistsGuild_Pool009,,Brotherhood of the Scorched Ceiling
+Guild_AlchemistsGuild_Pool010,,Circle of the Azoth
+Guild_GraveyardWardensGuild_Pool001,,The Custodians of the Silent Garden
+Guild_GraveyardWardensGuild_Pool002,,The Order of the Last Address
+Guild_GraveyardWardensGuild_Pool003,,The Society of Natural Post-Mortem Activity
+Guild_GraveyardWardensGuild_Pool004,,The Guild of Persistent Aromas
+Guild_GraveyardWardensGuild_Pool005,,The Bureau of Eternal Shifts
+Guild_GraveyardWardensGuild_Pool006,,The Fellowship of Unpaid Overtime
+Guild_GraveyardWardensGuild_Pool007,,The Fellowship of Unfinished Business
+Guild_GraveyardWardensGuild_Pool008,,The Society of Advanced Decomposition
+Guild_GraveyardWardensGuild_Pool009,,The Society of That Was Probably Gas
+Guild_GraveyardWardensGuild_Pool010,,The Order of Secure Lids
+Guild_GuardsGuild_Pool001,,The Wardens of the Gate
+Guild_GuardsGuild_Pool002,,The Guardians of the Streets
+Guild_GuardsGuild_Pool003,,The City Sentinels
+Guild_GuardsGuild_Pool004,,The Society of Raised Eyebrows
+Guild_GuardsGuild_Pool005,,The Sleep-Deprived Watch
+Guild_GuardsGuild_Pool006,,The Fellowship of Unnecessary Questions
+Guild_GuardsGuild_Pool007,,The Order of Paid Discretion
+Guild_GuardsGuild_Pool008,,The Guild of Selective Enforcement
+Guild_GuardsGuild_Pool009,,The Brotherhood of Convenient Blindness
+Guild_GuardsGuild_Pool010,,We'll Need to Check That
+Guild_InnkeepersGuild_Pool001,,The Order of the Bottomless Mug
+Guild_InnkeepersGuild_Pool002,,The Guild of Responsible Drinking
+Guild_InnkeepersGuild_Pool003,,The Fellowship of Heard Conversations
+Guild_InnkeepersGuild_Pool004,,Alekeepers Anonymous
+Guild_InnkeepersGuild_Pool005,,The Order of Emotional Support Ale
+Guild_InnkeepersGuild_Pool006,,The Guild of Bad Life Choices
+Guild_InnkeepersGuild_Pool007,,The Fellowship of She Left Me
+Guild_InnkeepersGuild_Pool008,,The Fellowship of She Left Me Again
+Guild_InnkeepersGuild_Pool009,,The Society of Drowning Our Sorrows
+Guild_InnkeepersGuild_Pool010,,The Society of Just One More
+Guild_JoinersGuild_Pool001,,The Saw & Chisel Guild
+Guild_JoinersGuild_Pool002,,The Wood Moves Society
+Guild_JoinersGuild_Pool003,,The Timberwrights
+Guild_JoinersGuild_Pool004,,The Hidden Joint
+Guild_JoinersGuild_Pool005,,The Against the Grain Brotherhood
+Guild_JoinersGuild_Pool006,,The Smooth Finish
+Guild_JoinersGuild_Pool007,,The Well-Joined Society
+Guild_JoinersGuild_Pool008,,The Joined Hands Brotherhood
+Guild_JoinersGuild_Pool009,,The Fine Grain Society
+Guild_JoinersGuild_Pool010,,"The Measure Twice, Cut Once Society"
+Guild_JoinersGuild_Pool011,,The Nine-Fingers Band
+Guild_MoneyLendersGuild_Pool001,,The Society of Settled Disputes
+Guild_MoneyLendersGuild_Pool002,,The Society of Convenient Clauses
+Guild_MoneyLendersGuild_Pool003,,In Your Time of Need Guild
+Guild_MoneyLendersGuild_Pool004,,Brotherhood of Here to Assist
+Guild_MoneyLendersGuild_Pool005,,You Owe Us
+Guild_MoneyLendersGuild_Pool006,,A Debt Between Friends Society
+Guild_MoneyLendersGuild_Pool007,,We Remember
+Guild_MoneyLendersGuild_Pool008,,The Order of the Unforgotten Ledger
+Guild_MoneyLendersGuild_Pool009,,No Hurry at All Brotherhood
+Guild_MoneyLendersGuild_Pool010,,Time Keeps Count Society
+Guild_PerfumersGuild_Pool001,,The Three Notes Society
+Guild_PerfumersGuild_Pool002,,The Fine Nose Society
+Guild_PerfumersGuild_Pool003,,The Traders of Scent
+Guild_PerfumersGuild_Pool004,,The Hidden Note Society
+Guild_PerfumersGuild_Pool005,,The Lingering Scent Brotherhood
+Guild_PerfumersGuild_Pool006,,The Nose Fatigue Society
+Guild_PerfumersGuild_Pool007,,The Sealed Bottle Guild
+Guild_PerfumersGuild_Pool008,,The First Impression Society
+Guild_PerfumersGuild_Pool009,,The Broken Accord Assembly
+Guild_PerfumersGuild_Pool010,,We Can Fix Your Stench
+Guild_PreachersGuild_Pool001,,Fellowship of the Chapter and Verse
+Guild_PreachersGuild_Pool002,,Order of the Overlong Sermon
+Guild_PreachersGuild_Pool003,,Order of the Certain Damnation
+Guild_PreachersGuild_Pool004,,The Circle of Willing Donations
+Guild_PreachersGuild_Pool005,,The Society of Almost Virtuous Souls
+Guild_PreachersGuild_Pool006,,The Pay and Be Forgiven Society
+Guild_PreachersGuild_Pool007,,The Order of Timely Repentance
+Guild_PreachersGuild_Pool008,,The Order of the Open Hand
+Guild_PreachersGuild_Pool009,,The Assembly of Good Intentions
+Guild_PreachersGuild_Pool010,,The Order of Convenient Redemption
+Guild_RobbersGuild_Pool001,,The Bureau of Flexible Ownership
+Guild_RobbersGuild_Pool002,,The Private Goods Custodians
+Guild_RobbersGuild_Pool003,,The Society of Borrowed Things
+Guild_RobbersGuild_Pool004,,The Fellowship of Sudden Loss
+Guild_RobbersGuild_Pool005,,The Guild of Violent Acquisition
+Guild_RobbersGuild_Pool006,,The Brotherhood of Unplanned Donations
+Guild_RobbersGuild_Pool007,,The Black Ledger
+Guild_RobbersGuild_Pool008,,The Locksmith Guild
+Guild_RobbersGuild_Pool009,,The Fellowship of Flexible Law
+Guild_RobbersGuild_Pool010,,We Are Totally Not Criminals
+Guild_SmithsGuild_Pool001,,The Grind Will Fix It Brotherhood
+Guild_SmithsGuild_Pool002,,The Forged Brotherhood
+Guild_SmithsGuild_Pool003,,The Anvil Circle
+Guild_SmithsGuild_Pool004,,The Order of Smiths
+Guild_SmithsGuild_Pool005,,The Forgemasters' Guild
+Guild_SmithsGuild_Pool006,,The Singing Anvil
+Guild_SmithsGuild_Pool007,,The Iron Authority
+Guild_SmithsGuild_Pool008,,The Hammer Council
+Guild_SmithsGuild_Pool009,,Heat. Beat. Repeat Society
+Guild_SmithsGuild_Pool010,,The Final Strike
+Guild_StoneMasonsGuild_Pool001,,Set in Stone Society
+Guild_StoneMasonsGuild_Pool002,,The Lift Together Brotherhood
+Guild_StoneMasonsGuild_Pool003,,The Solid Foundation Assembly
+Guild_StoneMasonsGuild_Pool004,,The Well-Laid Assembly
+Guild_StoneMasonsGuild_Pool005,,The Mortarbound Brotherhood
+Guild_StoneMasonsGuild_Pool006,,The Keystone Society
+Guild_StoneMasonsGuild_Pool007,,The First Stone Guild
+Guild_StoneMasonsGuild_Pool008,,The Firmly Set Guild
+Guild_StoneMasonsGuild_Pool009,,The Bedrock Assembly
+Guild_StoneMasonsGuild_Pool010,,The Set and Settled Society
+Guild_TailorsGuild_Pool001,,The It Will Stretch Society
+Guild_TailorsGuild_Pool002,,The Golden Seam Society
+Guild_TailorsGuild_Pool003,,The Well-Suited Society
+Guild_TailorsGuild_Pool004,,The Loose Thread Brotherhood
+Guild_TailorsGuild_Pool005,,The Second Skin Society
+Guild_TailorsGuild_Pool006,,The Silhouette Society
+Guild_TailorsGuild_Pool007,,The Well-Fitted Guild
+Guild_TailorsGuild_Pool008,,Order of the Client Who Lied About Their Measurements
+Guild_TailorsGuild_Pool009,,Order of the Lost Bobbin
+Guild_TailorsGuild_Pool010,,Brotherhood of the Dropped Pin
+Guild_ThievesGuild_Pool001,,The Order of Lightened Pockets
+Guild_ThievesGuild_Pool002,,The Committee for Unexpected Ownership
+Guild_ThievesGuild_Pool003,,The Society of Misplaced Goods
+Guild_ThievesGuild_Pool004,,The Hidden Hand
+Guild_ThievesGuild_Pool005,,The Light Pockets Society
+Guild_ThievesGuild_Pool006,,We Only Borrow Things
+Guild_ThievesGuild_Pool007,,Absolutely Not Thieves
+Guild_ThievesGuild_Pool008,,The Gentle Touch
+Guild_ThievesGuild_Pool009,,The Discreet Society
+Guild_ThievesGuild_Pool010,,The Bureau of Non-Consensual Exchange
+Guild_TradersGuild_Pool001,,The Mutual Advantage Society
+Guild_TradersGuild_Pool002,,The Honest Profit Guild
+Guild_TradersGuild_Pool003,,Order of I Make Nothing on This
+Guild_TradersGuild_Pool004,,The Final Offer Association
+Guild_TradersGuild_Pool005,,The Just Enough Profit Guild
+Guild_TradersGuild_Pool006,,The Silver Tongue Traders
+Guild_TradersGuild_Pool007,,The Just Business Guild
+Guild_TradersGuild_Pool008,,The Better End of the Deal
+Guild_TradersGuild_Pool009,,The Terms May Vary
+Guild_TradersGuild_Pool010,,"Special Price, Only For You Brotherhood"
+Guild_TravellingEntertainersGuild_Pool001,,The Society of Performing Arts
+Guild_TravellingEntertainersGuild_Pool002,,The Order of Stagecraft
+Guild_TravellingEntertainersGuild_Pool003,,The Society of Painted Smiles
+Guild_TravellingEntertainersGuild_Pool004,,The Grand Guild of Spectacle
+Guild_TravellingEntertainersGuild_Pool005,,The Society of Wandering Wonders
+Guild_TravellingEntertainersGuild_Pool006,,The Guild of Spectacles and Delights
+Guild_TravellingEntertainersGuild_Pool007,,The Society of Ladies and Gentlemen
+Guild_TravellingEntertainersGuild_Pool008,,The Fellowship of Unquestionably Ethical Performances
+Guild_TravellingEntertainersGuild_Pool009,,The Guild of Astonishment and Applause
+Guild_TravellingEntertainersGuild_Pool010,,The Society of Unusual Talents
+OccupationBuilding_Alchemist_Pool001,,Tincture Trumpery
+OccupationBuilding_Alchemist_Pool002,,Herb and Turnip
+OccupationBuilding_Alchemist_Pool003,,Field Herbs
+OccupationBuilding_Alchemist_Pool004,,Evil Odours
+OccupationBuilding_Alchemist_Pool005,,Ludicrous Laboratories
+OccupationBuilding_Alchemist_Pool006,,Traumatic Drinks
+OccupationBuilding_Alchemist_Pool007,,Health in Danger
+OccupationBuilding_Alchemist_Pool008,,Magic Parlour
+OccupationBuilding_Alchemist_Pool009,,Alchemist's Corner
+OccupationBuilding_Alchemist_Pool010,,Fantastic Flasks
+OccupationBuilding_Church_Pool001,,The Crying Virgin
+OccupationBuilding_Church_Pool002,,Donations Welcome!
+OccupationBuilding_Church_Pool003,,Faith Will be Rewarded!
+OccupationBuilding_Church_Pool004,,Truthful & Virtuous
+OccupationBuilding_Church_Pool005,,Dedication & Peace
+OccupationBuilding_Church_Pool006,,God's Homestead
+OccupationBuilding_Church_Pool007,,Confess & Pray
+OccupationBuilding_Church_Pool008,,Conservative Concepts
+OccupationBuilding_Church_Pool009,,Almighty Praise
+OccupationBuilding_Church_Pool010,,The 5 Apostles
+OccupationBuilding_Entertainer_Pool001,,Making Merry
+OccupationBuilding_Entertainer_Pool002,,True Vagabonds
+OccupationBuilding_Entertainer_Pool003,,Animals & Sensations
+OccupationBuilding_Entertainer_Pool004,,Blood & Revenge
+OccupationBuilding_Entertainer_Pool005,,Trumpery & Theatre
+OccupationBuilding_Entertainer_Pool006,,Short-Lived Curses
+OccupationBuilding_Entertainer_Pool007,,Curses and Charms
+OccupationBuilding_Entertainer_Pool008,,A Cursed Life
+OccupationBuilding_Entertainer_Pool009,,Clan Life
+OccupationBuilding_Entertainer_Pool010,,Marvellous Life
+OccupationBuilding_Graveyard_Pool001,,The Creaking Gates
+OccupationBuilding_Graveyard_Pool002,,The Haunted Grounds
+OccupationBuilding_Graveyard_Pool003,,Carcass Camp
+OccupationBuilding_Graveyard_Pool004,,Beneath the Linden Tree
+OccupationBuilding_Graveyard_Pool005,,Resting-Place
+OccupationBuilding_Graveyard_Pool006,,Eternal Rest
+OccupationBuilding_Graveyard_Pool007,,Deathly Hush
+OccupationBuilding_Graveyard_Pool008,,Witching Hour
+OccupationBuilding_Graveyard_Pool009,,Misty Silence
+OccupationBuilding_Graveyard_Pool010,,Mildew & Decay
+OccupationBuilding_Graveyard_Pool011,,Corpse Depot
+OccupationBuilding_Graveyard_Pool012,,Pale Bones
+OccupationBuilding_Graveyard_Pool013,,Decaying Cadaver
+OccupationBuilding_Graveyard_Pool014,,Skeleton Springs
+OccupationBuilding_Guard_Pool001,,We Are the Law!
+OccupationBuilding_Guard_Pool002,,Sword & Screams
+OccupationBuilding_Guard_Pool003,,Law and Order
+OccupationBuilding_Guard_Pool004,,Criminal's End
+OccupationBuilding_Guard_Pool005,,No Mercy
+OccupationBuilding_Guard_Pool006,,Short Trial
+OccupationBuilding_Guard_Pool007,,Vigilant Steel
+OccupationBuilding_Guard_Pool008,,Swords of Justice
+OccupationBuilding_Guard_Pool009,,Vengeful Vigilantes
+OccupationBuilding_Guard_Pool010,,Judgment's Wrath
+OccupationBuilding_Inn_Pool001,,Laughter & Liquid
+OccupationBuilding_Inn_Pool002,,Decent Glasses
+OccupationBuilding_Inn_Pool003,,Closing Time
+OccupationBuilding_Inn_Pool004,,Dance 'Til Midnight
+OccupationBuilding_Inn_Pool005,,Riff-Raff Meeting
+OccupationBuilding_Inn_Pool006,,Bishop's Head
+OccupationBuilding_Inn_Pool007,,Patricians' Corner
+OccupationBuilding_Inn_Pool008,,The Fat Goose
+OccupationBuilding_Inn_Pool009,,The Stewed Chicken
+OccupationBuilding_Inn_Pool010,,The Three Oaks
+OccupationBuilding_Joiner_Pool001,,Rotten Wood
+OccupationBuilding_Joiner_Pool002,,Very Brittle
+OccupationBuilding_Joiner_Pool003,,Saw Shavings
+OccupationBuilding_Joiner_Pool004,,Durable Woodwork
+OccupationBuilding_Joiner_Pool005,,Good Wood Construction
+OccupationBuilding_Joiner_Pool006,,The Iron Oak
+OccupationBuilding_Joiner_Pool007,,Wooden Decorations
+OccupationBuilding_Joiner_Pool008,,Turned Angel
+OccupationBuilding_Joiner_Pool009,,Only Oak
+OccupationBuilding_Joiner_Pool010,,Ornate Decoration
+OccupationBuilding_MoneyLender_Pool001,,Gold Reserves
+OccupationBuilding_MoneyLender_Pool002,,Interest on Interest
+OccupationBuilding_MoneyLender_Pool003,,The Golden Hen
+OccupationBuilding_MoneyLender_Pool004,,Speculator's Luck
+OccupationBuilding_MoneyLender_Pool005,,Wealth Makers
+OccupationBuilding_MoneyLender_Pool006,,Flashing Coin
+OccupationBuilding_MoneyLender_Pool007,,The Social Divide
+OccupationBuilding_MoneyLender_Pool008,,Extortionate Interest
+OccupationBuilding_MoneyLender_Pool009,,Friend of the Miserly
+OccupationBuilding_MoneyLender_Pool010,,Low Interest
+OccupationBuilding_Perfumer_Pool001,,Smelly Flower
+OccupationBuilding_Perfumer_Pool002,,Occasional Stinks
+OccupationBuilding_Perfumer_Pool003,,Waft of Love
+OccupationBuilding_Perfumer_Pool004,,Hardly Smells
+OccupationBuilding_Perfumer_Pool005,,Fuggy Boilery
+OccupationBuilding_Perfumer_Pool006,,Questionable Aroma
+OccupationBuilding_Perfumer_Pool007,,Shady Scents
+OccupationBuilding_Perfumer_Pool008,,Scent of Sin
+OccupationBuilding_Perfumer_Pool009,,Smell Without Regret
+OccupationBuilding_Perfumer_Pool010,,Perfect Perfumes
+OccupationBuilding_Robber_Pool001,,Dark Fortress
+OccupationBuilding_Robber_Pool002,,The Black Fee
+OccupationBuilding_Robber_Pool003,,Robbers' Den
+OccupationBuilding_Robber_Pool004,,The Stolen Haul
+OccupationBuilding_Robber_Pool005,,Vulture's Nest
+OccupationBuilding_Robber_Pool006,,The Shattered Keep
+OccupationBuilding_Robber_Pool007,,The Dark Passage
+OccupationBuilding_Robber_Pool008,,The Highwaymen's Roost
+OccupationBuilding_Robber_Pool009,,The Silver Toll
+OccupationBuilding_Robber_Pool010,,The Extortion Gate
+OccupationBuilding_Smithy_Pool001,,Heavy Hammer
+OccupationBuilding_Smithy_Pool002,,The Farrier
+OccupationBuilding_Smithy_Pool003,,Hot Embers
+OccupationBuilding_Smithy_Pool004,,Simple Tool
+OccupationBuilding_Smithy_Pool005,,The Forge
+OccupationBuilding_Smithy_Pool006,,Burning Embers
+OccupationBuilding_Smithy_Pool007,,Glowing Coals
+OccupationBuilding_Smithy_Pool008,,Hot from the Forge
+OccupationBuilding_Smithy_Pool009,,Nails Here!
+OccupationBuilding_Smithy_Pool010,,Iron Work
+OccupationBuilding_Smithy_Pool011,,Rusty & Heavy
+OccupationBuilding_Smithy_Pool012,,The Silver Lining
+OccupationBuilding_StoneMason_Pool001,,Stone by Stone
+OccupationBuilding_StoneMason_Pool002,,Could Collapse
+OccupationBuilding_StoneMason_Pool003,,First Attempt
+OccupationBuilding_StoneMason_Pool004,,Fine Stone Mason's Art
+OccupationBuilding_StoneMason_Pool005,,Fundamentals of Foundations
+OccupationBuilding_StoneMason_Pool006,,Guaranteed Weather-Proof
+OccupationBuilding_StoneMason_Pool007,,Ornate Relief
+OccupationBuilding_StoneMason_Pool008,,No Experiments
+OccupationBuilding_StoneMason_Pool009,,Slate & Ebony
+OccupationBuilding_StoneMason_Pool010,,Ready To Move In!
+OccupationBuilding_Tailor_Pool001,,The Golden Sash 
+OccupationBuilding_Tailor_Pool002,,The Nimble Needle
+OccupationBuilding_Tailor_Pool003,,The Outfitter
+OccupationBuilding_Tailor_Pool004,,Stitch by Stitch
+OccupationBuilding_Tailor_Pool005,,The Latest Fashion
+OccupationBuilding_Tailor_Pool006,,The Fashion Maker
+OccupationBuilding_Tailor_Pool007,,Leather & Linen
+OccupationBuilding_Tailor_Pool008,,The Brocade Cloak
+OccupationBuilding_Tailor_Pool009,,Bags'n'Socks
+OccupationBuilding_Tailor_Pool010,,The Brave Little Tailor
+OccupationBuilding_Thief_Pool001,,The One-Armed Bandit
+OccupationBuilding_Thief_Pool002,,The Empty Purse
+OccupationBuilding_Thief_Pool003,,The Lost Wallet
+OccupationBuilding_Thief_Pool004,,Pinch & Be Pinched
+OccupationBuilding_Thief_Pool005,,Lost and Found
+OccupationBuilding_Thief_Pool006,,Your Money is Safe
+OccupationBuilding_Thief_Pool007,,Town Guard's Friend
+OccupationBuilding_Thief_Pool008,,Lilias Pastia
+OccupationBuilding_Thief_Pool009,,Scoundrels' Meet
+OccupationBuilding_Thief_Pool010,,The Bloody Dagger
+OccupationBuilding_Trader_Pool001,,The Well-Stocked Trader
+OccupationBuilding_Trader_Pool002,,Overseas Dispatch
+OccupationBuilding_Trader_Pool003,,The Large Cart
+OccupationBuilding_Trader_Pool004,,Wholesale
+OccupationBuilding_Trader_Pool005,,From All the World
+OccupationBuilding_Trader_Pool006,,Business House
+OccupationBuilding_Trader_Pool007,,Trumpery and Junk
+OccupationBuilding_Trader_Pool008,,Everything in Stock!
+OccupationBuilding_Trader_Pool009,,Well-Known Routes Only
+OccupationBuilding_Trader_Pool010,,Barrels & Bales
+PersonalBuilding_BeeHives_Pool001,,Sweet & Slightly Violent
+PersonalBuilding_BeeHives_Pool002,,The Sunlit Comb
+PersonalBuilding_BeeHives_Pool003,,The Sweet Dominion
+PersonalBuilding_BeeHives_Pool004,,Honeyhall
+PersonalBuilding_BeeHives_Pool005,,Coup d'Bee
+PersonalBuilding_BeeHives_Pool006,,Buzziness & Co.
+PersonalBuilding_BeeHives_Pool007,,"Wax On, Wax Off"
+PersonalBuilding_BeeHives_Pool008,,Sweet Profit
+PersonalBuilding_BeeHives_Pool009,,No Kings Allowed
+PersonalBuilding_BeeHives_Pool010,,We Know Your Face Apiary
+PersonalBuilding_BeeHives_Pool011,,Honey & Heresy
+PersonalBuilding_BeeHives_Pool012,,We Are Many
+PersonalBuilding_BeeHives_Pool013,,Workers' Union (All Female)
+PersonalBuilding_BeeHives_Pool014,,Long Live the Fertile One
+PersonalBuilding_BeeHives_Pool015,,Stingholders' Assembly
+PersonalBuilding_Shrine_Pool001,,The Devout Corner
+PersonalBuilding_Shrine_Pool002,,The “Just in Case” Shrine
+PersonalBuilding_Shrine_Pool003,,Saint Mercator the Well-Margined
+PersonalBuilding_Shrine_Pool004,,Saint Bartholomew of Modest Profits
+PersonalBuilding_Shrine_Pool005,,Saint Vitus of Many Descendants
+PersonalBuilding_Shrine_Pool006,,Saint Adelheid of Not Being Caught
+PersonalBuilding_Shrine_Pool007,,Private Dealings with the Divine
+PersonalBuilding_Shrine_Pool008,,The Saint of Convenient Outcomes
+PersonalBuilding_Shrine_Pool009,,The Altar of Selective Repentance
+PersonalBuilding_Shrine_Pool010,,Candlelit Sanctum
+PersonalBuilding_Statue_Pool001,,The One Who Definitely Deserved a Statue
+PersonalBuilding_Statue_Pool002,,The Eternal Taxpayer
+PersonalBuilding_Statue_Pool003,,The Master of Coin
+PersonalBuilding_Statue_Pool004,,The First Citizen
+PersonalBuilding_Statue_Pool005,,The People's Favorite Citizen
+PersonalBuilding_Statue_Pool006,,The Pride of the City
+PersonalBuilding_Statue_Pool007,,The Man/Woman of Remarkable Merit
+PersonalBuilding_Statue_Pool008,,The Town's Most Modest Citizen
+PersonalBuilding_Statue_Pool009,,The Appreciated (At Last)
+PersonalBuilding_Statue_Pool010,,The Honored Burgher
+PersonalBuilding_Statue_Pool011,,The Statue of Someone Important (Me)
+PersonalBuilding_Statue_Pool012,,Commissioned by Popular Demand (Unverified)
+PersonalBuilding_Statue_Pool013,,The Generous Soul (According to Himself)
+PersonalBuilding_Statue_Pool014,,The Self-Made Hero
+PersonalBuilding_Statue_Pool015,,Our Esteemed Neighbor
+PersonalBuilding_StorageShed_Pool001,,The Strategic Hoard
+PersonalBuilding_StorageShed_Pool002,,The “I Might Need This” House
+PersonalBuilding_StorageShed_Pool003,,The Necessary Excess
+PersonalBuilding_StorageShed_Pool004,,The Calculated Accumulation
+PersonalBuilding_StorageShed_Pool005,,The Patient Speculator
+PersonalBuilding_StorageShed_Pool006,,Hold for Later
+PersonalBuilding_StorageShed_Pool007,,Profit Pending
+PersonalBuilding_StorageShed_Pool008,,Stored Advantage
+PersonalBuilding_StorageShed_Pool009,,Just in Case
+PersonalBuilding_StorageShed_Pool010,,Absolutely Needed
+PublicBuilding_Blackmarket_Pool001,,TBD
+PublicBuilding_Blackmarket_Pool002,,TBD
+PublicBuilding_Blackmarket_Pool003,,TBD
+PublicBuilding_Blackmarket_Pool004,,TBD
+PublicBuilding_Blackmarket_Pool005,,TBD
+PublicBuilding_Blackmarket_Pool006,,TBD
+PublicBuilding_Blackmarket_Pool007,,TBD
+PublicBuilding_Blackmarket_Pool008,,TBD
+PublicBuilding_Blackmarket_Pool009,,TBD
+PublicBuilding_Blackmarket_Pool010,,TBD
+PublicBuilding_Fountain_Pool001,,Mayor's Generosity
+PublicBuilding_Fountain_Pool002,,Civic Refresher
+PublicBuilding_Fountain_Pool003,,Moisture for the Masses
+PublicBuilding_Fountain_Pool004,,The Thirst Solution
+PublicBuilding_Fountain_Pool005,,Still & Flowing
+PublicBuilding_Fountain_Pool006,,Gift of the Council
+PublicBuilding_Fountain_Pool007,,Votes & Water
+PublicBuilding_Fountain_Pool008,,Market Fountain
+PublicBuilding_Fountain_Pool009,,Fountain of the Quarter
+PublicBuilding_Fountain_Pool010,,Marble Spring
+PublicBuilding_Marketplace_Pool001,,Market Square
+PublicBuilding_Marketplace_Pool002,,Market Hall
+PublicBuilding_Marketplace_Pool003,,Open Market
+PublicBuilding_Marketplace_Pool004,,Street Market
+PublicBuilding_Marketplace_Pool005,,The Stalls
+PublicBuilding_Marketplace_Pool006,,Trading Yard
+PublicBuilding_Marketplace_Pool007,,Merchant Court
+PublicBuilding_Marketplace_Pool008,,The Exchange
+PublicBuilding_Marketplace_Pool009,,Busy Market
+PublicBuilding_Marketplace_Pool010,,Humming Market
+PublicBuilding_PhysiciansOffice_Pool001,,Cough & Coffin
+PublicBuilding_PhysiciansOffice_Pool002,,The Final Check-Up
+PublicBuilding_PhysiciansOffice_Pool003,,One Foot in the Grave
+PublicBuilding_PhysiciansOffice_Pool004,,Pill & Prayer Medical
+PublicBuilding_PhysiciansOffice_Pool005,,The Last Resort Clinic
+PublicBuilding_PhysiciansOffice_Pool006,,Sawbones & Co.
+PublicBuilding_PhysiciansOffice_Pool007,,Scalpel & Scream
+PublicBuilding_PhysiciansOffice_Pool008,,Doctor Leech's Delight
+PublicBuilding_PhysiciansOffice_Pool009,,MediEvilCare
+PublicBuilding_PhysiciansOffice_Pool010,,St. Hypochondrius' Clinic
+PublicBuilding_Pillory_Pool001,,The Market of Accountability
+PublicBuilding_Pillory_Pool002,,Open for Public Ridicule
+PublicBuilding_Pillory_Pool003,,The Shame Frame
+PublicBuilding_Pillory_Pool004,,The Tribunal Post
+PublicBuilding_Pillory_Pool005,,The “Told You So” Stand
+PublicBuilding_Pillory_Pool006,,Rot & Reflect
+PublicBuilding_Pillory_Pool007,,The Social Correction Device
+PublicBuilding_Pillory_Pool008,,The Square of Bitter Lessons
+PublicBuilding_Pillory_Pool009,,The Unfortunate Spotlight
+PublicBuilding_Pillory_Pool010,,"Bread, Circuses & You"
+PublicBuilding_Prison_Pool001,,Shush & Suffer
+PublicBuilding_Prison_Pool002,,Irony Bars
+PublicBuilding_Prison_Pool003,,Muffled Scream
+PublicBuilding_Prison_Pool004,,Torturer's Delight
+PublicBuilding_Prison_Pool005,,Cat-o'-Nine-Tails
+PublicBuilding_Prison_Pool006,,"Check In, Never Check Out!"
+PublicBuilding_Prison_Pool007,,Permanent Residence
+PublicBuilding_Prison_Pool008,,The Iron Keep
+PublicBuilding_Prison_Pool009,,The Guilt's End
+PublicBuilding_Prison_Pool010,,Punishment Guaranteed Co.
+PublicBuilding_Rostrum_Pool001,,Shout Platform
+PublicBuilding_Rostrum_Pool002,,The Elevated Opinion
+PublicBuilding_Rostrum_Pool003,,Yell Here
+PublicBuilding_Rostrum_Pool004,,Talky Talk Stand
+PublicBuilding_Rostrum_Pool005,,Volume Over Substance
+PublicBuilding_Rostrum_Pool006,,Approved for Dramatic Gestures
+PublicBuilding_Rostrum_Pool007,,Raised Expectations
+PublicBuilding_Rostrum_Pool008,,The Crowd Stirrer
+PublicBuilding_Rostrum_Pool009,,Say It With Confidence
+PublicBuilding_Rostrum_Pool010,,Glory or Tomatoes
+PublicBuilding_SovereignsSeat_Pool001,,TBD
+PublicBuilding_SovereignsSeat_Pool002,,TBD
+PublicBuilding_SovereignsSeat_Pool003,,TBD
+PublicBuilding_SovereignsSeat_Pool004,,TBD
+PublicBuilding_SovereignsSeat_Pool005,,TBD
+PublicBuilding_SovereignsSeat_Pool006,,TBD
+PublicBuilding_SovereignsSeat_Pool007,,TBD
+PublicBuilding_SovereignsSeat_Pool008,,TBD
+PublicBuilding_SovereignsSeat_Pool009,,TBD
+PublicBuilding_SovereignsSeat_Pool010,,TBD
+PublicBuilding_TownHall_Pool001,,The Civic Assembly
+PublicBuilding_TownHall_Pool002,,The Council Chambers
+PublicBuilding_TownHall_Pool003,,The Court of Governance
+PublicBuilding_TownHall_Pool004,,The Tax Collector's Lair
+PublicBuilding_TownHall_Pool005,,The Chamber of Unfulfilled Promises
+PublicBuilding_TownHall_Pool006,,Mayor's Mansion of Misery
+PublicBuilding_TownHall_Pool007,,The Heart of the City
+PublicBuilding_TownHall_Pool008,,Voice of the People
+PublicBuilding_TownHall_Pool009,,Citadel of Order
+PublicBuilding_TownHall_Pool010,,Council of Chaos
+PublicBuilding_TownsGate_Pool001,,TBD
+PublicBuilding_TownsGate_Pool002,,TBD
+PublicBuilding_TownsGate_Pool003,,TBD
+PublicBuilding_TownsGate_Pool004,,TBD
+PublicBuilding_TownsGate_Pool005,,TBD
+PublicBuilding_TownsGate_Pool006,,TBD
+PublicBuilding_TownsGate_Pool007,,TBD
+PublicBuilding_TownsGate_Pool008,,TBD
+PublicBuilding_TownsGate_Pool009,,TBD
+PublicBuilding_TownsGate_Pool010,,TBD
+PublicBuilding_Well_Pool001,,Well Well Well
+PublicBuilding_Well_Pool002,,The Deep Echo
+PublicBuilding_Well_Pool003,,Community Well
+PublicBuilding_Well_Pool004,,Dig & Drink
+PublicBuilding_Well_Pool005,,The Necessary Hole
+PublicBuilding_Well_Pool006,,Pull the Rope
+PublicBuilding_Well_Pool007,,Drink at Your Own Risk
+PublicBuilding_Well_Pool008,,Vertical Lake
+PublicBuilding_Well_Pool009,,Down There Somewhere
+PublicBuilding_Well_Pool010,,Hydration Infrastructure (Manual)
+PublicBuilding_Well_Pool011,,Bring Your Own Bucket
+PublicBuilding_Well_Pool012,,The Hole Stares Back
+PublicBuilding_Well_Pool013,,The Thirst Abyss
+PublicBuilding_CannonTower_Pool001,,The Argument Settler
+PublicBuilding_CannonTower_Pool002,,Diplomatic Tower
+PublicBuilding_CannonTower_Pool003,,The Roof Inspector
+PublicBuilding_CannonTower_Pool004,,The Last Word
+PublicBuilding_CannonTower_Pool005,,The Long-Distance Complaint
+PublicBuilding_CannonTower_Pool006,,The Window Maker
+PublicBuilding_CannonTower_Pool007,,The Renovator
+PublicBuilding_CannonTower_Pool008,,The Sleeping Giant
+PublicBuilding_CannonTower_Pool009,,Old Agnes
+PublicBuilding_CannonTower_Pool010,,Tower No. 4
+PublicBuilding_CannonTower_Pool011,,Orthan's Tower
+PublicBuilding_CannonTower_Pool012,,Ramazin's Tower
+PublicBuilding_CannonTower_Pool013,,Tower of Zott
+PublicBuilding_WorkersAccommodation_Pool001,,Workers' Rest
+PublicBuilding_WorkersAccommodation_Pool002,,Cold Storeroom
+PublicBuilding_WorkersAccommodation_Pool003,,Homestead
+PublicBuilding_WorkersAccommodation_Pool004,,Workers' Peace
+PublicBuilding_WorkersAccommodation_Pool005,,The Bed of Straw
+PublicBuilding_WorkersAccommodation_Pool006,,Sleepy Abode
+PublicBuilding_WorkersAccommodation_Pool007,,Serfs' Home
+PublicBuilding_WorkersAccommodation_Pool008,,End of the Day
+PublicBuilding_WorkersAccommodation_Pool009,,Windy Hut
+PublicBuilding_WorkersAccommodation_Pool010,,Cold Cottage
+PublicBuilding_WorkersAccommodation_Pool011,,TBD
+PublicBuilding_WorkersAccommodation_Pool012,,TBD
+PublicBuilding_WorkersAccommodation_Pool013,,TBD
+PublicBuilding_WorkersAccommodation_Pool014,,TBD
+PublicBuilding_WorkersAccommodation_Pool015,,TBD
+PublicBuilding_WorkersAccommodation_Pool016,,TBD
+PublicBuilding_WorkersAccommodation_Pool017,,TBD
+PublicBuilding_WorkersAccommodation_Pool018,,TBD
+PublicBuilding_WorkersAccommodation_Pool019,,TBD
+PublicBuilding_WorkersAccommodation_Pool020,,TBD
+Residence_House_Pool001,,House and Court
+Residence_House_Pool002,,Evening Peace
+Residence_House_Pool003,,Solid Walls
+Residence_House_Pool004,,Honest Home
+Residence_House_Pool005,,Peaceful Work
+Residence_House_Pool006,,Considered Walls
+Residence_House_Pool007,,Pleasant & Prosperous
+Residence_House_Pool008,,Bourgeois Homestead
+Residence_House_Pool009,,Comfortably Habitable
+Residence_House_Pool010,,Warm Winters
+Residence_House_Pool011,,Count the Bricks
+Residence_House_Pool012,,TBD
+Residence_House_Pool013,,TBD
+Residence_House_Pool014,,TBD
+Residence_House_Pool015,,TBD
+Residence_House_Pool016,,TBD
+Residence_House_Pool017,,TBD
+Residence_House_Pool018,,TBD
+Residence_House_Pool019,,TBD
+Residence_House_Pool020,,TBD
+Residence_Villa_Pool001,,Money is Good!
+Residence_Villa_Pool002,,Riches? Yes!
+Residence_Villa_Pool003,,We're Doing Well!
+Residence_Villa_Pool004,,Lap of Luxury
+Residence_Villa_Pool005,,Extensions Included
+Residence_Villa_Pool006,,Owner's Jewellery
+Residence_Villa_Pool007,,Hill of Decadence
+Residence_Villa_Pool008,,Large Family
+Residence_Villa_Pool009,,Villa Abode
+Residence_Villa_Pool010,,Rosy Home
