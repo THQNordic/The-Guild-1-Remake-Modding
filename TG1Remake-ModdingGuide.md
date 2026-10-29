@@ -21,7 +21,7 @@ This guide is for translators with no modding experience. You need a text editor
 
 You need three things: the text template, a language code, and a place to test.
 
-**The text template.** All translatable texts live in the game's string tables, one CSV per topic (Actions, Buildings, Items, Politics, Notifications and so on, 31 tables with about 7,600 texts). Download the template package linked on this Workshop guide page. Each file has a `Key` column, the English `SourceString`, and an empty `Translation` column that you fill in.
+**The text template.** All translatable texts live in the game's string tables, one CSV per topic (Actions, Buildings, Items, Politics, Notifications and so on, 31 tables with about 7,600 texts). Download the CSV templates from the StringTables folder of this repository. Each file has a `Key` column, the English `SourceString`, and an empty `Translation` column that you fill in.
 
 **A language code.** The manifest names the language with a standard culture code, for example `it` for Italian, `nl` for Dutch, `pt-BR` for Brazilian Portuguese or `zh-Hant` for Traditional Chinese. Any code the game can resolve works. The code `ash` is reserved for internal use and is rejected. If the game already ships that language, your mod overrides it text by text.
 
@@ -37,7 +37,7 @@ Every direct subfolder of Mods is one mod. The folder name does not matter, the 
 
 ## Mod folder structure
 
-A mod is one folder with a `mod.json` manifest at its top level. Everything else is up to you.
+A mod is one folder with a `mod.json` manifest at its top level. Everything else is up to you. Refer to the example mod for more details.
 
 ```
 ItalianTranslation\
